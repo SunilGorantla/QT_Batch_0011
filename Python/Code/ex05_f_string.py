@@ -1,4 +1,4 @@
-my_name = 'Zed A. Shaw'
+my_name = 'Captain America'
 my_age = 35  # not a lie
 my_height = 74  # inches
 my_weight = 180  # lbs
