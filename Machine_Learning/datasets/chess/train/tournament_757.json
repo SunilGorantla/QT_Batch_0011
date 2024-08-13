@@ -1,0 +1,980 @@
+{
+    "name": "tournament_757",
+    "start_date": "2019-09-13",
+    "end_date": "2019-10-07",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Lai, Zhenen",
+                "black": "Sun, Chamin",
+                "date": "2019-09-13",
+                "result": 1,
+                "id": "tournament_757_1"
+            },
+            {
+                "white": "Sun, Chamin",
+                "black": "Lai, Zhenen",
+                "date": "2019-09-15",
+                "result": 0.5,
+                "id": "tournament_757_2"
+            },
+            {
+                "white": "Hu, Shoubiao",
+                "black": "Wang, Qianxun",
+                "date": "2019-09-13",
+                "result": 0,
+                "id": "tournament_757_3"
+            },
+            {
+                "white": "Wang, Qianxun",
+                "black": "Hu, Shoubiao",
+                "date": "2019-09-15",
+                "result": 1,
+                "id": "tournament_757_4"
+            },
+            {
+                "white": "Jiang, Ying",
+                "black": "Qi, Huizhi",
+                "date": "2019-09-13",
+                "result": 1,
+                "id": "tournament_757_5"
+            },
+            {
+                "white": "Qi, Huizhi",
+                "black": "Jiang, Ying",
+                "date": "2019-09-15",
+                "result": 0,
+                "id": "tournament_757_6"
+            },
+            {
+                "white": "Yang, Shaqiang",
+                "black": "Chen, Yuyu",
+                "date": "2019-09-13",
+                "result": 0.5,
+                "id": "tournament_757_7"
+            },
+            {
+                "white": "Chen, Yuyu",
+                "black": "Yang, Shaqiang",
+                "date": "2019-09-15",
+                "result": 0.5,
+                "id": "tournament_757_8"
+            },
+            {
+                "white": "Yang, Shaqiang",
+                "black": "Chen, Yuyu",
+                "date": "2019-09-15",
+                "result": 0.5,
+                "id": "tournament_757_9"
+            },
+            {
+                "white": "Xu, Yaoxiang",
+                "black": "Yang, Mengdan",
+                "date": "2019-09-13",
+                "result": 0,
+                "id": "tournament_757_10"
+            },
+            {
+                "white": "Yang, Mengdan",
+                "black": "Xu, Yaoxiang",
+                "date": "2019-09-15",
+                "result": 1,
+                "id": "tournament_757_11"
+            },
+            {
+                "white": "He, Yiyan",
+                "black": "Xu, Rongbing",
+                "date": "2019-09-13",
+                "result": 1,
+                "id": "tournament_757_12"
+            },
+            {
+                "white": "Xu, Rongbing",
+                "black": "He, Yiyan",
+                "date": "2019-09-15",
+                "result": 0,
+                "id": "tournament_757_13"
+            },
+            {
+                "white": "Feng, Xiongmin",
+                "black": "Fan, Chenni",
+                "date": "2019-09-13",
+                "result": 0.5,
+                "id": "tournament_757_14"
+            },
+            {
+                "white": "Fan, Chenni",
+                "black": "Feng, Xiongmin",
+                "date": "2019-09-15",
+                "result": 0,
+                "id": "tournament_757_15"
+            },
+            {
+                "white": "Wu, Junqing",
+                "black": "Chen, Sen",
+                "date": "2019-09-13",
+                "result": 0,
+                "id": "tournament_757_16"
+            },
+            {
+                "white": "Chen, Sen",
+                "black": "Wu, Junqing",
+                "date": "2019-09-15",
+                "result": 0.5,
+                "id": "tournament_757_17"
+            },
+            {
+                "white": "Liang, Jinzhou",
+                "black": "Cui, Junkai",
+                "date": "2019-09-13",
+                "result": 0.5,
+                "id": "tournament_757_18"
+            },
+            {
+                "white": "Cui, Junkai",
+                "black": "Liang, Jinzhou",
+                "date": "2019-09-15",
+                "result": 0.5,
+                "id": "tournament_757_19"
+            },
+            {
+                "white": "Liang, Jinzhou",
+                "black": "Cui, Junkai",
+                "date": "2019-09-15",
+                "result": 0.5,
+                "id": "tournament_757_20"
+            },
+            {
+                "white": "Zhang, Wei",
+                "black": "Jiang, Bo",
+                "date": "2019-09-13",
+                "result": 0.5,
+                "id": "tournament_757_21"
+            },
+            {
+                "white": "Jiang, Bo",
+                "black": "Zhang, Wei",
+                "date": "2019-09-15",
+                "result": 0,
+                "id": "tournament_757_22"
+            },
+            {
+                "white": "Wang, Ju",
+                "black": "Zhao, Mingjun",
+                "date": "2019-09-13",
+                "result": 1,
+                "id": "tournament_757_23"
+            },
+            {
+                "white": "Zhao, Mingjun",
+                "black": "Wang, Ju",
+                "date": "2019-09-15",
+                "result": 0,
+                "id": "tournament_757_24"
+            },
+            {
+                "white": "Chen, Yuke",
+                "black": "Chen, Chun",
+                "date": "2019-09-13",
+                "result": 1,
+                "id": "tournament_757_25"
+            },
+            {
+                "white": "Chen, Chun",
+                "black": "Chen, Yuke",
+                "date": "2019-09-15",
+                "result": 0,
+                "id": "tournament_757_26"
+            },
+            {
+                "white": "Lu, Laiqing",
+                "black": "Feng, Longmei",
+                "date": "2019-09-13",
+                "result": 1,
+                "id": "tournament_757_27"
+            },
+            {
+                "white": "Feng, Longmei",
+                "black": "Lu, Laiqing",
+                "date": "2019-09-15",
+                "result": 0,
+                "id": "tournament_757_28"
+            },
+            {
+                "white": "Zhu, Wenyan",
+                "black": "Liang, Meiqiang",
+                "date": "2019-09-13",
+                "result": 0.5,
+                "id": "tournament_757_29"
+            },
+            {
+                "white": "Liang, Meiqiang",
+                "black": "Zhu, Wenyan",
+                "date": "2019-09-15",
+                "result": 0.5,
+                "id": "tournament_757_30"
+            },
+            {
+                "white": "Zhu, Wenyan",
+                "black": "Liang, Meiqiang",
+                "date": "2019-09-15",
+                "result": 0,
+                "id": "tournament_757_31"
+            },
+            {
+                "white": "Zhong, Changyuan",
+                "black": "Li, Yicai",
+                "date": "2019-09-13",
+                "result": 0.5,
+                "id": "tournament_757_32"
+            },
+            {
+                "white": "Li, Yicai",
+                "black": "Zhong, Changyuan",
+                "date": "2019-09-15",
+                "result": 0.5,
+                "id": "tournament_757_33"
+            },
+            {
+                "white": "Zhong, Changyuan",
+                "black": "Li, Yicai",
+                "date": "2019-09-15",
+                "result": 0,
+                "id": "tournament_757_34"
+            },
+            {
+                "white": "Fan, Cunniu",
+                "black": "Lu, Yingfu",
+                "date": "2019-09-13",
+                "result": 1,
+                "id": "tournament_757_35"
+            },
+            {
+                "white": "Lu, Yingfu",
+                "black": "Fan, Cunniu",
+                "date": "2019-09-15",
+                "result": 0,
+                "id": "tournament_757_36"
+            },
+            {
+                "white": "Xue, Guan",
+                "black": "Zhang, Xu",
+                "date": "2019-09-13",
+                "result": 0.5,
+                "id": "tournament_757_37"
+            },
+            {
+                "white": "Zhang, Xu",
+                "black": "Xue, Guan",
+                "date": "2019-09-15",
+                "result": 0.5,
+                "id": "tournament_757_38"
+            },
+            {
+                "white": "Xue, Guan",
+                "black": "Zhang, Xu",
+                "date": "2019-09-15",
+                "result": 0.5,
+                "id": "tournament_757_39"
+            },
+            {
+                "white": "Xu, Baolong",
+                "black": "Xiao, Cuibing",
+                "date": "2019-09-13",
+                "result": 0,
+                "id": "tournament_757_40"
+            },
+            {
+                "white": "Xiao, Cuibing",
+                "black": "Xu, Baolong",
+                "date": "2019-09-15",
+                "result": 0.5,
+                "id": "tournament_757_41"
+            },
+            {
+                "white": "Zhang, Xingmin",
+                "black": "Liu, Kunhan",
+                "date": "2019-09-13",
+                "result": 0.5,
+                "id": "tournament_757_42"
+            },
+            {
+                "white": "Liu, Kunhan",
+                "black": "Zhang, Xingmin",
+                "date": "2019-09-15",
+                "result": 0.5,
+                "id": "tournament_757_43"
+            },
+            {
+                "white": "Zhang, Xingmin",
+                "black": "Liu, Kunhan",
+                "date": "2019-09-15",
+                "result": 1,
+                "id": "tournament_757_44"
+            },
+            {
+                "white": "Zhong, Xiaoyan",
+                "black": "Zhu, Chenyan",
+                "date": "2019-09-13",
+                "result": 0,
+                "id": "tournament_757_45"
+            },
+            {
+                "white": "Zhu, Chenyan",
+                "black": "Zhong, Xiaoyan",
+                "date": "2019-09-15",
+                "result": 1,
+                "id": "tournament_757_46"
+            },
+            {
+                "white": "Jin, Menghui",
+                "black": "Zhang, Muxing",
+                "date": "2019-09-13",
+                "result": 1,
+                "id": "tournament_757_47"
+            },
+            {
+                "white": "Zhang, Muxing",
+                "black": "Jin, Menghui",
+                "date": "2019-09-15",
+                "result": 0,
+                "id": "tournament_757_48"
+            },
+            {
+                "white": "Zheng, Jianyuan",
+                "black": "Li, Qiaozhao",
+                "date": "2019-09-13",
+                "result": 0,
+                "id": "tournament_757_49"
+            },
+            {
+                "white": "Li, Qiaozhao",
+                "black": "Zheng, Jianyuan",
+                "date": "2019-09-15",
+                "result": 1,
+                "id": "tournament_757_50"
+            },
+            {
+                "white": "Yang, Peicha",
+                "black": "Hu, Jianping",
+                "date": "2019-09-13",
+                "result": 0,
+                "id": "tournament_757_51"
+            },
+            {
+                "white": "Hu, Jianping",
+                "black": "Yang, Peicha",
+                "date": "2019-09-15",
+                "result": 1,
+                "id": "tournament_757_52"
+            },
+            {
+                "white": "Chen, Yinliang",
+                "black": "Li, Hai",
+                "date": "2019-09-13",
+                "result": 0.5,
+                "id": "tournament_757_53"
+            },
+            {
+                "white": "Li, Hai",
+                "black": "Chen, Yinliang",
+                "date": "2019-09-15",
+                "result": 1,
+                "id": "tournament_757_54"
+            },
+            {
+                "white": "Chen, Zenghui",
+                "black": "Yang, Hui",
+                "date": "2019-09-13",
+                "result": 0.5,
+                "id": "tournament_757_55"
+            },
+            {
+                "white": "Yang, Hui",
+                "black": "Chen, Zenghui",
+                "date": "2019-09-15",
+                "result": 1,
+                "id": "tournament_757_56"
+            },
+            {
+                "white": "Wang, Jianyao",
+                "black": "Zheng, Rendan",
+                "date": "2019-09-13",
+                "result": 0.5,
+                "id": "tournament_757_57"
+            },
+            {
+                "white": "Zheng, Rendan",
+                "black": "Wang, Jianyao",
+                "date": "2019-09-15",
+                "result": 0,
+                "id": "tournament_757_58"
+            },
+            {
+                "white": "Yan, Tianpeng",
+                "black": "Li, Linhua",
+                "date": "2019-09-13",
+                "result": 0.5,
+                "id": "tournament_757_59"
+            },
+            {
+                "white": "Li, Linhua",
+                "black": "Yan, Tianpeng",
+                "date": "2019-09-15",
+                "result": 1,
+                "id": "tournament_757_60"
+            },
+            {
+                "white": "Xie, Liangliang",
+                "black": "Yang, Jianxia",
+                "date": "2019-09-13",
+                "result": 1,
+                "id": "tournament_757_61"
+            },
+            {
+                "white": "Yang, Jianxia",
+                "black": "Xie, Liangliang",
+                "date": "2019-09-15",
+                "result": 0,
+                "id": "tournament_757_62"
+            },
+            {
+                "white": "Zhang, Yiyan",
+                "black": "Chen, Qing",
+                "date": "2019-09-13",
+                "result": 0.5,
+                "id": "tournament_757_63"
+            },
+            {
+                "white": "Chen, Qing",
+                "black": "Zhang, Yiyan",
+                "date": "2019-09-15",
+                "result": 0.5,
+                "id": "tournament_757_64"
+            },
+            {
+                "white": "Zhang, Yiyan",
+                "black": "Chen, Qing",
+                "date": "2019-09-15",
+                "result": 0.5,
+                "id": "tournament_757_65"
+            },
+            {
+                "white": "Zhang, Yanying",
+                "black": "Mao, Juncheng",
+                "date": "2019-09-13",
+                "result": 0.5,
+                "id": "tournament_757_66"
+            },
+            {
+                "white": "Mao, Juncheng",
+                "black": "Zhang, Yanying",
+                "date": "2019-09-15",
+                "result": 1,
+                "id": "tournament_757_67"
+            },
+            {
+                "white": "Dong, Jian",
+                "black": "Liu, Zi",
+                "date": "2019-09-13",
+                "result": 1,
+                "id": "tournament_757_68"
+            },
+            {
+                "white": "Liu, Zi",
+                "black": "Dong, Jian",
+                "date": "2019-09-15",
+                "result": 0.5,
+                "id": "tournament_757_69"
+            },
+            {
+                "white": "Deng, Zhenhua",
+                "black": "Guo, Xiaodong",
+                "date": "2019-09-13",
+                "result": 1,
+                "id": "tournament_757_70"
+            },
+            {
+                "white": "Guo, Xiaodong",
+                "black": "Deng, Zhenhua",
+                "date": "2019-09-15",
+                "result": 0,
+                "id": "tournament_757_71"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Lai, Zhenen",
+                "black": "Wang, Qianxun",
+                "date": "2019-09-17",
+                "result": 0.5,
+                "id": "tournament_757_72"
+            },
+            {
+                "white": "Wang, Qianxun",
+                "black": "Lai, Zhenen",
+                "date": "2019-09-19",
+                "result": 0,
+                "id": "tournament_757_73"
+            },
+            {
+                "white": "Jiang, Ying",
+                "black": "Chen, Yuyu",
+                "date": "2019-09-17",
+                "result": 0,
+                "id": "tournament_757_74"
+            },
+            {
+                "white": "Chen, Yuyu",
+                "black": "Jiang, Ying",
+                "date": "2019-09-19",
+                "result": 0.5,
+                "id": "tournament_757_75"
+            },
+            {
+                "white": "Yang, Mengdan",
+                "black": "He, Yiyan",
+                "date": "2019-09-17",
+                "result": 0.5,
+                "id": "tournament_757_76"
+            },
+            {
+                "white": "He, Yiyan",
+                "black": "Yang, Mengdan",
+                "date": "2019-09-19",
+                "result": 0.5,
+                "id": "tournament_757_77"
+            },
+            {
+                "white": "Yang, Mengdan",
+                "black": "He, Yiyan",
+                "date": "2019-09-19",
+                "result": 1,
+                "id": "tournament_757_78"
+            },
+            {
+                "white": "Feng, Xiongmin",
+                "black": "Chen, Sen",
+                "date": "2019-09-17",
+                "result": 0.5,
+                "id": "tournament_757_79"
+            },
+            {
+                "white": "Chen, Sen",
+                "black": "Feng, Xiongmin",
+                "date": "2019-09-19",
+                "result": 1,
+                "id": "tournament_757_80"
+            },
+            {
+                "white": "Cui, Junkai",
+                "black": "Zhang, Wei",
+                "date": "2019-09-17",
+                "result": 0,
+                "id": "tournament_757_81"
+            },
+            {
+                "white": "Zhang, Wei",
+                "black": "Cui, Junkai",
+                "date": "2019-09-19",
+                "result": 1,
+                "id": "tournament_757_82"
+            },
+            {
+                "white": "Wang, Ju",
+                "black": "Chen, Yuke",
+                "date": "2019-09-17",
+                "result": 0.5,
+                "id": "tournament_757_83"
+            },
+            {
+                "white": "Chen, Yuke",
+                "black": "Wang, Ju",
+                "date": "2019-09-19",
+                "result": 1,
+                "id": "tournament_757_84"
+            },
+            {
+                "white": "Lu, Laiqing",
+                "black": "Liang, Meiqiang",
+                "date": "2019-09-17",
+                "result": 1,
+                "id": "tournament_757_85"
+            },
+            {
+                "white": "Liang, Meiqiang",
+                "black": "Lu, Laiqing",
+                "date": "2019-09-19",
+                "result": 0,
+                "id": "tournament_757_86"
+            },
+            {
+                "white": "Li, Yicai",
+                "black": "Fan, Cunniu",
+                "date": "2019-09-17",
+                "result": 0,
+                "id": "tournament_757_87"
+            },
+            {
+                "white": "Fan, Cunniu",
+                "black": "Li, Yicai",
+                "date": "2019-09-19",
+                "result": 1,
+                "id": "tournament_757_88"
+            },
+            {
+                "white": "Zhang, Xu",
+                "black": "Xiao, Cuibing",
+                "date": "2019-09-17",
+                "result": 0,
+                "id": "tournament_757_89"
+            },
+            {
+                "white": "Xiao, Cuibing",
+                "black": "Zhang, Xu",
+                "date": "2019-09-19",
+                "result": 1,
+                "id": "tournament_757_90"
+            },
+            {
+                "white": "Zhang, Xingmin",
+                "black": "Zhu, Chenyan",
+                "date": "2019-09-17",
+                "result": 0.5,
+                "id": "tournament_757_91"
+            },
+            {
+                "white": "Zhu, Chenyan",
+                "black": "Zhang, Xingmin",
+                "date": "2019-09-19",
+                "result": 1,
+                "id": "tournament_757_92"
+            },
+            {
+                "white": "Jin, Menghui",
+                "black": "Li, Qiaozhao",
+                "date": "2019-09-17",
+                "result": 0.5,
+                "id": "tournament_757_93"
+            },
+            {
+                "white": "Li, Qiaozhao",
+                "black": "Jin, Menghui",
+                "date": "2019-09-19",
+                "result": 0,
+                "id": "tournament_757_94"
+            },
+            {
+                "white": "Hu, Jianping",
+                "black": "Li, Hai",
+                "date": "2019-09-17",
+                "result": 0,
+                "id": "tournament_757_95"
+            },
+            {
+                "white": "Li, Hai",
+                "black": "Hu, Jianping",
+                "date": "2019-09-19",
+                "result": 1,
+                "id": "tournament_757_96"
+            },
+            {
+                "white": "Yang, Hui",
+                "black": "Wang, Jianyao",
+                "date": "2019-09-17",
+                "result": 1,
+                "id": "tournament_757_97"
+            },
+            {
+                "white": "Wang, Jianyao",
+                "black": "Yang, Hui",
+                "date": "2019-09-19",
+                "result": 1,
+                "id": "tournament_757_98"
+            },
+            {
+                "white": "Yang, Hui",
+                "black": "Wang, Jianyao",
+                "date": "2019-09-19",
+                "result": 0.5,
+                "id": "tournament_757_99"
+            },
+            {
+                "white": "Li, Linhua",
+                "black": "Xie, Liangliang",
+                "date": "2019-09-17",
+                "result": 0,
+                "id": "tournament_757_100"
+            },
+            {
+                "white": "Xie, Liangliang",
+                "black": "Li, Linhua",
+                "date": "2019-09-19",
+                "result": 1,
+                "id": "tournament_757_101"
+            },
+            {
+                "white": "Chen, Qing",
+                "black": "Mao, Juncheng",
+                "date": "2019-09-17",
+                "result": 0.5,
+                "id": "tournament_757_102"
+            },
+            {
+                "white": "Mao, Juncheng",
+                "black": "Chen, Qing",
+                "date": "2019-09-19",
+                "result": 1,
+                "id": "tournament_757_103"
+            },
+            {
+                "white": "Dong, Jian",
+                "black": "Deng, Zhenhua",
+                "date": "2019-09-17",
+                "result": 0.5,
+                "id": "tournament_757_104"
+            },
+            {
+                "white": "Deng, Zhenhua",
+                "black": "Dong, Jian",
+                "date": "2019-09-19",
+                "result": 1,
+                "id": "tournament_757_105"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Lai, Zhenen",
+                "black": "Chen, Yuyu",
+                "date": "2019-09-21",
+                "result": 0,
+                "id": "tournament_757_106"
+            },
+            {
+                "white": "Chen, Yuyu",
+                "black": "Lai, Zhenen",
+                "date": "2019-09-23",
+                "result": 0.5,
+                "id": "tournament_757_107"
+            },
+            {
+                "white": "Yang, Mengdan",
+                "black": "Chen, Sen",
+                "date": "2019-09-21",
+                "result": 1,
+                "id": "tournament_757_108"
+            },
+            {
+                "white": "Chen, Sen",
+                "black": "Yang, Mengdan",
+                "date": "2019-09-23",
+                "result": 0.5,
+                "id": "tournament_757_109"
+            },
+            {
+                "white": "Zhang, Wei",
+                "black": "Chen, Yuke",
+                "date": "2019-09-21",
+                "result": 0,
+                "id": "tournament_757_110"
+            },
+            {
+                "white": "Chen, Yuke",
+                "black": "Zhang, Wei",
+                "date": "2019-09-23",
+                "result": 1,
+                "id": "tournament_757_111"
+            },
+            {
+                "white": "Lu, Laiqing",
+                "black": "Fan, Cunniu",
+                "date": "2019-09-21",
+                "result": 0,
+                "id": "tournament_757_112"
+            },
+            {
+                "white": "Fan, Cunniu",
+                "black": "Lu, Laiqing",
+                "date": "2019-09-23",
+                "result": 1,
+                "id": "tournament_757_113"
+            },
+            {
+                "white": "Xiao, Cuibing",
+                "black": "Zhu, Chenyan",
+                "date": "2019-09-21",
+                "result": 1,
+                "id": "tournament_757_114"
+            },
+            {
+                "white": "Zhu, Chenyan",
+                "black": "Xiao, Cuibing",
+                "date": "2019-09-23",
+                "result": 0.5,
+                "id": "tournament_757_115"
+            },
+            {
+                "white": "Jin, Menghui",
+                "black": "Li, Hai",
+                "date": "2019-09-21",
+                "result": 0,
+                "id": "tournament_757_116"
+            },
+            {
+                "white": "Li, Hai",
+                "black": "Jin, Menghui",
+                "date": "2019-09-23",
+                "result": 0.5,
+                "id": "tournament_757_117"
+            },
+            {
+                "white": "Wang, Jianyao",
+                "black": "Xie, Liangliang",
+                "date": "2019-09-21",
+                "result": 0.5,
+                "id": "tournament_757_118"
+            },
+            {
+                "white": "Xie, Liangliang",
+                "black": "Wang, Jianyao",
+                "date": "2019-09-23",
+                "result": 0,
+                "id": "tournament_757_119"
+            },
+            {
+                "white": "Mao, Juncheng",
+                "black": "Deng, Zhenhua",
+                "date": "2019-09-21",
+                "result": 1,
+                "id": "tournament_757_120"
+            },
+            {
+                "white": "Deng, Zhenhua",
+                "black": "Mao, Juncheng",
+                "date": "2019-09-23",
+                "result": 0.5,
+                "id": "tournament_757_121"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Chen, Yuyu",
+                "black": "Yang, Mengdan",
+                "date": "2019-09-25",
+                "result": 1,
+                "id": "tournament_757_122"
+            },
+            {
+                "white": "Yang, Mengdan",
+                "black": "Chen, Yuyu",
+                "date": "2019-09-27",
+                "result": 0.5,
+                "id": "tournament_757_123"
+            },
+            {
+                "white": "Chen, Yuke",
+                "black": "Fan, Cunniu",
+                "date": "2019-09-25",
+                "result": 0.5,
+                "id": "tournament_757_124"
+            },
+            {
+                "white": "Fan, Cunniu",
+                "black": "Chen, Yuke",
+                "date": "2019-09-27",
+                "result": 0.5,
+                "id": "tournament_757_125"
+            },
+            {
+                "white": "Chen, Yuke",
+                "black": "Fan, Cunniu",
+                "date": "2019-09-27",
+                "result": 0.5,
+                "id": "tournament_757_126"
+            },
+            {
+                "white": "Xiao, Cuibing",
+                "black": "Li, Hai",
+                "date": "2019-09-25",
+                "result": 0.5,
+                "id": "tournament_757_127"
+            },
+            {
+                "white": "Li, Hai",
+                "black": "Xiao, Cuibing",
+                "date": "2019-09-27",
+                "result": 0.5,
+                "id": "tournament_757_128"
+            },
+            {
+                "white": "Xiao, Cuibing",
+                "black": "Li, Hai",
+                "date": "2019-09-27",
+                "result": 0,
+                "id": "tournament_757_129"
+            },
+            {
+                "white": "Wang, Jianyao",
+                "black": "Mao, Juncheng",
+                "date": "2019-09-25",
+                "result": 0,
+                "id": "tournament_757_130"
+            },
+            {
+                "white": "Mao, Juncheng",
+                "black": "Wang, Jianyao",
+                "date": "2019-09-27",
+                "result": 1,
+                "id": "tournament_757_131"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Chen, Yuyu",
+                "black": "Fan, Cunniu",
+                "date": "2019-09-29",
+                "result": 0,
+                "id": "tournament_757_132"
+            },
+            {
+                "white": "Fan, Cunniu",
+                "black": "Chen, Yuyu",
+                "date": "2019-10-01",
+                "result": 0.5,
+                "id": "tournament_757_133"
+            },
+            {
+                "white": "Li, Hai",
+                "black": "Mao, Juncheng",
+                "date": "2019-09-29",
+                "result": 0.5,
+                "id": "tournament_757_134"
+            },
+            {
+                "white": "Mao, Juncheng",
+                "black": "Li, Hai",
+                "date": "2019-10-01",
+                "result": 1,
+                "id": "tournament_757_135"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Fan, Cunniu",
+                "black": "Mao, Juncheng",
+                "date": "2019-10-03",
+                "result": 0.5,
+                "id": "tournament_757_136"
+            },
+            {
+                "white": "Mao, Juncheng",
+                "black": "Fan, Cunniu",
+                "date": "2019-10-05",
+                "result": 0,
+                "id": "tournament_757_137"
+            }
+        ]
+    },
+    "tours": 6,
+    "time_control": "rapid"
+}

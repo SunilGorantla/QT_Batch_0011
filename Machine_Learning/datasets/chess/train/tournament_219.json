@@ -1,0 +1,516 @@
+{
+    "name": "tournament_219",
+    "start_date": "2015-08-18",
+    "end_date": "2015-08-28",
+    "games": {
+        "tour_1": [
+            {
+                "white": "杨于弦",
+                "black": "王永赟",
+                "date": "2015-08-18",
+                "result": 1,
+                "id": "tournament_219_1"
+            },
+            {
+                "white": "王永赟",
+                "black": "杨于弦",
+                "date": "2015-08-19",
+                "result": 0,
+                "id": "tournament_219_2"
+            },
+            {
+                "white": "杨争峰",
+                "black": "刘家坚",
+                "date": "2015-08-18",
+                "result": 1,
+                "id": "tournament_219_3"
+            },
+            {
+                "white": "刘家坚",
+                "black": "杨争峰",
+                "date": "2015-08-19",
+                "result": 0,
+                "id": "tournament_219_4"
+            },
+            {
+                "white": "毛均承",
+                "black": "刘晓鹏",
+                "date": "2015-08-18",
+                "result": 1,
+                "id": "tournament_219_5"
+            },
+            {
+                "white": "刘晓鹏",
+                "black": "毛均承",
+                "date": "2015-08-19",
+                "result": 0.5,
+                "id": "tournament_219_6"
+            },
+            {
+                "white": "萧业亮",
+                "black": "王由航",
+                "date": "2015-08-18",
+                "result": 0.5,
+                "id": "tournament_219_7"
+            },
+            {
+                "white": "王由航",
+                "black": "萧业亮",
+                "date": "2015-08-19",
+                "result": 0.5,
+                "id": "tournament_219_8"
+            },
+            {
+                "white": "萧业亮",
+                "black": "王由航",
+                "date": "2015-08-19",
+                "result": 1,
+                "id": "tournament_219_9"
+            },
+            {
+                "white": "陈迎成",
+                "black": "梁金州",
+                "date": "2015-08-18",
+                "result": 0.5,
+                "id": "tournament_219_10"
+            },
+            {
+                "white": "梁金州",
+                "black": "陈迎成",
+                "date": "2015-08-19",
+                "result": 1,
+                "id": "tournament_219_11"
+            },
+            {
+                "white": "田佳达",
+                "black": "黄凯文",
+                "date": "2015-08-18",
+                "result": 0,
+                "id": "tournament_219_12"
+            },
+            {
+                "white": "黄凯文",
+                "black": "田佳达",
+                "date": "2015-08-19",
+                "result": 1,
+                "id": "tournament_219_13"
+            },
+            {
+                "white": "杨玮林",
+                "black": "刘奇喜",
+                "date": "2015-08-18",
+                "result": 1,
+                "id": "tournament_219_14"
+            },
+            {
+                "white": "刘奇喜",
+                "black": "杨玮林",
+                "date": "2015-08-19",
+                "result": 0,
+                "id": "tournament_219_15"
+            },
+            {
+                "white": "刘瑶生",
+                "black": "吴中桐",
+                "date": "2015-08-18",
+                "result": 1,
+                "id": "tournament_219_16"
+            },
+            {
+                "white": "吴中桐",
+                "black": "刘瑶生",
+                "date": "2015-08-19",
+                "result": 0,
+                "id": "tournament_219_17"
+            },
+            {
+                "white": "段立吉",
+                "black": "陈省祥",
+                "date": "2015-08-18",
+                "result": 1,
+                "id": "tournament_219_18"
+            },
+            {
+                "white": "陈省祥",
+                "black": "段立吉",
+                "date": "2015-08-19",
+                "result": 0,
+                "id": "tournament_219_19"
+            },
+            {
+                "white": "陈凡卡",
+                "black": "张艺燕",
+                "date": "2015-08-18",
+                "result": 0.5,
+                "id": "tournament_219_20"
+            },
+            {
+                "white": "张艺燕",
+                "black": "陈凡卡",
+                "date": "2015-08-19",
+                "result": 0.5,
+                "id": "tournament_219_21"
+            },
+            {
+                "white": "陈凡卡",
+                "black": "张艺燕",
+                "date": "2015-08-19",
+                "result": 0.5,
+                "id": "tournament_219_22"
+            },
+            {
+                "white": "吕亚光",
+                "black": "彭国",
+                "date": "2015-08-18",
+                "result": 0.5,
+                "id": "tournament_219_23"
+            },
+            {
+                "white": "彭国",
+                "black": "吕亚光",
+                "date": "2015-08-19",
+                "result": 0,
+                "id": "tournament_219_24"
+            },
+            {
+                "white": "徐定耘",
+                "black": "沈启金",
+                "date": "2015-08-18",
+                "result": 1,
+                "id": "tournament_219_25"
+            },
+            {
+                "white": "沈启金",
+                "black": "徐定耘",
+                "date": "2015-08-19",
+                "result": 0.5,
+                "id": "tournament_219_26"
+            },
+            {
+                "white": "田雄",
+                "black": "黄忠明",
+                "date": "2015-08-18",
+                "result": 0,
+                "id": "tournament_219_27"
+            },
+            {
+                "white": "黄忠明",
+                "black": "田雄",
+                "date": "2015-08-19",
+                "result": 0.5,
+                "id": "tournament_219_28"
+            },
+            {
+                "white": "赵保屿",
+                "black": "章泽",
+                "date": "2015-08-18",
+                "result": 0.5,
+                "id": "tournament_219_29"
+            },
+            {
+                "white": "章泽",
+                "black": "赵保屿",
+                "date": "2015-08-19",
+                "result": 0.5,
+                "id": "tournament_219_30"
+            },
+            {
+                "white": "赵保屿",
+                "black": "章泽",
+                "date": "2015-08-19",
+                "result": 0.5,
+                "id": "tournament_219_31"
+            },
+            {
+                "white": "陆英复",
+                "black": "董海非",
+                "date": "2015-08-18",
+                "result": 0,
+                "id": "tournament_219_32"
+            },
+            {
+                "white": "董海非",
+                "black": "陆英复",
+                "date": "2015-08-19",
+                "result": 0.5,
+                "id": "tournament_219_33"
+            },
+            {
+                "white": "曹廷云",
+                "black": "孙清德",
+                "date": "2015-08-18",
+                "result": 0,
+                "id": "tournament_219_34"
+            },
+            {
+                "white": "孙清德",
+                "black": "曹廷云",
+                "date": "2015-08-19",
+                "result": 1,
+                "id": "tournament_219_35"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "杨于弦",
+                "black": "杨争峰",
+                "date": "2015-08-20",
+                "result": 1,
+                "id": "tournament_219_36"
+            },
+            {
+                "white": "杨争峰",
+                "black": "杨于弦",
+                "date": "2015-08-21",
+                "result": 1,
+                "id": "tournament_219_37"
+            },
+            {
+                "white": "杨于弦",
+                "black": "杨争峰",
+                "date": "2015-08-21",
+                "result": 0.5,
+                "id": "tournament_219_38"
+            },
+            {
+                "white": "毛均承",
+                "black": "萧业亮",
+                "date": "2015-08-20",
+                "result": 1,
+                "id": "tournament_219_39"
+            },
+            {
+                "white": "萧业亮",
+                "black": "毛均承",
+                "date": "2015-08-21",
+                "result": 0,
+                "id": "tournament_219_40"
+            },
+            {
+                "white": "梁金州",
+                "black": "黄凯文",
+                "date": "2015-08-20",
+                "result": 0,
+                "id": "tournament_219_41"
+            },
+            {
+                "white": "黄凯文",
+                "black": "梁金州",
+                "date": "2015-08-21",
+                "result": 1,
+                "id": "tournament_219_42"
+            },
+            {
+                "white": "杨玮林",
+                "black": "刘瑶生",
+                "date": "2015-08-20",
+                "result": 0,
+                "id": "tournament_219_43"
+            },
+            {
+                "white": "刘瑶生",
+                "black": "杨玮林",
+                "date": "2015-08-21",
+                "result": 1,
+                "id": "tournament_219_44"
+            },
+            {
+                "white": "段立吉",
+                "black": "张艺燕",
+                "date": "2015-08-20",
+                "result": 1,
+                "id": "tournament_219_45"
+            },
+            {
+                "white": "张艺燕",
+                "black": "段立吉",
+                "date": "2015-08-21",
+                "result": 0,
+                "id": "tournament_219_46"
+            },
+            {
+                "white": "吕亚光",
+                "black": "徐定耘",
+                "date": "2015-08-20",
+                "result": 0.5,
+                "id": "tournament_219_47"
+            },
+            {
+                "white": "徐定耘",
+                "black": "吕亚光",
+                "date": "2015-08-21",
+                "result": 1,
+                "id": "tournament_219_48"
+            },
+            {
+                "white": "黄忠明",
+                "black": "章泽",
+                "date": "2015-08-20",
+                "result": 0.5,
+                "id": "tournament_219_49"
+            },
+            {
+                "white": "章泽",
+                "black": "黄忠明",
+                "date": "2015-08-21",
+                "result": 0.5,
+                "id": "tournament_219_50"
+            },
+            {
+                "white": "黄忠明",
+                "black": "章泽",
+                "date": "2015-08-21",
+                "result": 0,
+                "id": "tournament_219_51"
+            },
+            {
+                "white": "董海非",
+                "black": "孙清德",
+                "date": "2015-08-20",
+                "result": 1,
+                "id": "tournament_219_52"
+            },
+            {
+                "white": "孙清德",
+                "black": "董海非",
+                "date": "2015-08-21",
+                "result": 1,
+                "id": "tournament_219_53"
+            },
+            {
+                "white": "董海非",
+                "black": "孙清德",
+                "date": "2015-08-21",
+                "result": 1,
+                "id": "tournament_219_54"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "杨争峰",
+                "black": "毛均承",
+                "date": "2015-08-22",
+                "result": 0.5,
+                "id": "tournament_219_55"
+            },
+            {
+                "white": "毛均承",
+                "black": "杨争峰",
+                "date": "2015-08-23",
+                "result": 1,
+                "id": "tournament_219_56"
+            },
+            {
+                "white": "黄凯文",
+                "black": "刘瑶生",
+                "date": "2015-08-22",
+                "result": 0.5,
+                "id": "tournament_219_57"
+            },
+            {
+                "white": "刘瑶生",
+                "black": "黄凯文",
+                "date": "2015-08-23",
+                "result": 1,
+                "id": "tournament_219_58"
+            },
+            {
+                "white": "段立吉",
+                "black": "徐定耘",
+                "date": "2015-08-22",
+                "result": 0.5,
+                "id": "tournament_219_59"
+            },
+            {
+                "white": "徐定耘",
+                "black": "段立吉",
+                "date": "2015-08-23",
+                "result": 0.5,
+                "id": "tournament_219_60"
+            },
+            {
+                "white": "段立吉",
+                "black": "徐定耘",
+                "date": "2015-08-23",
+                "result": 1,
+                "id": "tournament_219_61"
+            },
+            {
+                "white": "章泽",
+                "black": "董海非",
+                "date": "2015-08-22",
+                "result": 1,
+                "id": "tournament_219_62"
+            },
+            {
+                "white": "董海非",
+                "black": "章泽",
+                "date": "2015-08-23",
+                "result": 0,
+                "id": "tournament_219_63"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "毛均承",
+                "black": "刘瑶生",
+                "date": "2015-08-24",
+                "result": 0.5,
+                "id": "tournament_219_64"
+            },
+            {
+                "white": "刘瑶生",
+                "black": "毛均承",
+                "date": "2015-08-25",
+                "result": 0.5,
+                "id": "tournament_219_65"
+            },
+            {
+                "white": "毛均承",
+                "black": "刘瑶生",
+                "date": "2015-08-25",
+                "result": 1,
+                "id": "tournament_219_66"
+            },
+            {
+                "white": "段立吉",
+                "black": "章泽",
+                "date": "2015-08-24",
+                "result": 1,
+                "id": "tournament_219_67"
+            },
+            {
+                "white": "章泽",
+                "black": "段立吉",
+                "date": "2015-08-25",
+                "result": 0,
+                "id": "tournament_219_68"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "毛均承",
+                "black": "段立吉",
+                "date": "2015-08-26",
+                "result": 1,
+                "id": "tournament_219_69"
+            },
+            {
+                "white": "段立吉",
+                "black": "毛均承",
+                "date": "2015-08-27",
+                "result": 1,
+                "id": "tournament_219_70"
+            },
+            {
+                "white": "毛均承",
+                "black": "段立吉",
+                "date": "2015-08-27",
+                "result": 0.5,
+                "id": "tournament_219_71"
+            }
+        ]
+    },
+    "tours": 5,
+    "time_control": "rapid"
+}

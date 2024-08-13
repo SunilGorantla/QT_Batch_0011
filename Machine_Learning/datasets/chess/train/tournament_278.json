@@ -1,0 +1,342 @@
+{
+    "name": "tournament_278",
+    "start_date": "2016-01-31",
+    "end_date": "2016-02-09",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Yang Jun Rui",
+                "black": "Xiong Li Lan",
+                "date": "2016-01-31",
+                "result": 1,
+                "id": "tournament_278_1"
+            },
+            {
+                "white": "Hu Shan ",
+                "black": "Deng Lie ",
+                "date": "2016-01-31",
+                "result": 0.5,
+                "id": "tournament_278_2"
+            },
+            {
+                "white": "Li Lu Juan",
+                "black": "Zhang Yan ",
+                "date": "2016-01-31",
+                "result": 0,
+                "id": "tournament_278_3"
+            },
+            {
+                "white": "Yang Yin Xiang",
+                "black": "Huang Cun Hua",
+                "date": "2016-01-31",
+                "result": 0,
+                "id": "tournament_278_4"
+            },
+            {
+                "white": "Zhao Wen Mei",
+                "black": "Qian Shang Ying",
+                "date": "2016-01-31",
+                "result": 1,
+                "id": "tournament_278_5"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Xiong Li Lan",
+                "black": "Hu Shan ",
+                "date": "2016-02-01",
+                "result": 0.5,
+                "id": "tournament_278_6"
+            },
+            {
+                "white": "Yang Jun Rui",
+                "black": "Li Lu Juan",
+                "date": "2016-02-01",
+                "result": 1,
+                "id": "tournament_278_7"
+            },
+            {
+                "white": "Yang Yin Xiang",
+                "black": "Deng Lie ",
+                "date": "2016-02-01",
+                "result": 1,
+                "id": "tournament_278_8"
+            },
+            {
+                "white": "Zhao Wen Mei",
+                "black": "Zhang Yan ",
+                "date": "2016-02-01",
+                "result": 0,
+                "id": "tournament_278_9"
+            },
+            {
+                "white": "Qian Shang Ying",
+                "black": "Huang Cun Hua",
+                "date": "2016-02-01",
+                "result": 0,
+                "id": "tournament_278_10"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Li Lu Juan",
+                "black": "Xiong Li Lan",
+                "date": "2016-02-02",
+                "result": 1,
+                "id": "tournament_278_11"
+            },
+            {
+                "white": "Hu Shan ",
+                "black": "Yang Yin Xiang",
+                "date": "2016-02-02",
+                "result": 1,
+                "id": "tournament_278_12"
+            },
+            {
+                "white": "Yang Jun Rui",
+                "black": "Zhao Wen Mei",
+                "date": "2016-02-02",
+                "result": 1,
+                "id": "tournament_278_13"
+            },
+            {
+                "white": "Qian Shang Ying",
+                "black": "Deng Lie ",
+                "date": "2016-02-02",
+                "result": 0,
+                "id": "tournament_278_14"
+            },
+            {
+                "white": "Huang Cun Hua",
+                "black": "Zhang Yan ",
+                "date": "2016-02-02",
+                "result": 0,
+                "id": "tournament_278_15"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Xiong Li Lan",
+                "black": "Yang Yin Xiang",
+                "date": "2016-02-03",
+                "result": 1,
+                "id": "tournament_278_16"
+            },
+            {
+                "white": "Li Lu Juan",
+                "black": "Zhao Wen Mei",
+                "date": "2016-02-03",
+                "result": 0.5,
+                "id": "tournament_278_17"
+            },
+            {
+                "white": "Hu Shan ",
+                "black": "Qian Shang Ying",
+                "date": "2016-02-03",
+                "result": 1,
+                "id": "tournament_278_18"
+            },
+            {
+                "white": "Yang Jun Rui",
+                "black": "Huang Cun Hua",
+                "date": "2016-02-03",
+                "result": 1,
+                "id": "tournament_278_19"
+            },
+            {
+                "white": "Zhang Yan ",
+                "black": "Deng Lie ",
+                "date": "2016-02-03",
+                "result": 1,
+                "id": "tournament_278_20"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Zhao Wen Mei",
+                "black": "Xiong Li Lan",
+                "date": "2016-02-04",
+                "result": 0.5,
+                "id": "tournament_278_21"
+            },
+            {
+                "white": "Yang Yin Xiang",
+                "black": "Qian Shang Ying",
+                "date": "2016-02-04",
+                "result": 1,
+                "id": "tournament_278_22"
+            },
+            {
+                "white": "Li Lu Juan",
+                "black": "Huang Cun Hua",
+                "date": "2016-02-04",
+                "result": 0,
+                "id": "tournament_278_23"
+            },
+            {
+                "white": "Hu Shan ",
+                "black": "Zhang Yan ",
+                "date": "2016-02-04",
+                "result": 0,
+                "id": "tournament_278_24"
+            },
+            {
+                "white": "Yang Jun Rui",
+                "black": "Deng Lie ",
+                "date": "2016-02-04",
+                "result": 1,
+                "id": "tournament_278_25"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Xiong Li Lan",
+                "black": "Qian Shang Ying",
+                "date": "2016-02-05",
+                "result": 1,
+                "id": "tournament_278_26"
+            },
+            {
+                "white": "Zhao Wen Mei",
+                "black": "Huang Cun Hua",
+                "date": "2016-02-05",
+                "result": 0.5,
+                "id": "tournament_278_27"
+            },
+            {
+                "white": "Yang Yin Xiang",
+                "black": "Zhang Yan ",
+                "date": "2016-02-05",
+                "result": 0.5,
+                "id": "tournament_278_28"
+            },
+            {
+                "white": "Li Lu Juan",
+                "black": "Deng Lie ",
+                "date": "2016-02-05",
+                "result": 1,
+                "id": "tournament_278_29"
+            },
+            {
+                "white": "Yang Jun Rui",
+                "black": "Hu Shan ",
+                "date": "2016-02-05",
+                "result": 1,
+                "id": "tournament_278_30"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Huang Cun Hua",
+                "black": "Xiong Li Lan",
+                "date": "2016-02-06",
+                "result": 0.5,
+                "id": "tournament_278_31"
+            },
+            {
+                "white": "Qian Shang Ying",
+                "black": "Zhang Yan ",
+                "date": "2016-02-06",
+                "result": 0,
+                "id": "tournament_278_32"
+            },
+            {
+                "white": "Zhao Wen Mei",
+                "black": "Deng Lie ",
+                "date": "2016-02-06",
+                "result": 1,
+                "id": "tournament_278_33"
+            },
+            {
+                "white": "Yang Jun Rui",
+                "black": "Yang Yin Xiang",
+                "date": "2016-02-06",
+                "result": 1,
+                "id": "tournament_278_34"
+            },
+            {
+                "white": "Hu Shan ",
+                "black": "Li Lu Juan",
+                "date": "2016-02-06",
+                "result": 1,
+                "id": "tournament_278_35"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Xiong Li Lan",
+                "black": "Zhang Yan ",
+                "date": "2016-02-07",
+                "result": 0,
+                "id": "tournament_278_36"
+            },
+            {
+                "white": "Huang Cun Hua",
+                "black": "Deng Lie ",
+                "date": "2016-02-07",
+                "result": 0.5,
+                "id": "tournament_278_37"
+            },
+            {
+                "white": "Yang Jun Rui",
+                "black": "Qian Shang Ying",
+                "date": "2016-02-07",
+                "result": 1,
+                "id": "tournament_278_38"
+            },
+            {
+                "white": "Hu Shan ",
+                "black": "Zhao Wen Mei",
+                "date": "2016-02-07",
+                "result": 1,
+                "id": "tournament_278_39"
+            },
+            {
+                "white": "Li Lu Juan",
+                "black": "Yang Yin Xiang",
+                "date": "2016-02-07",
+                "result": 0.5,
+                "id": "tournament_278_40"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Deng Lie ",
+                "black": "Xiong Li Lan",
+                "date": "2016-02-08",
+                "result": 0,
+                "id": "tournament_278_41"
+            },
+            {
+                "white": "Yang Jun Rui",
+                "black": "Zhang Yan ",
+                "date": "2016-02-08",
+                "result": 0.5,
+                "id": "tournament_278_42"
+            },
+            {
+                "white": "Hu Shan ",
+                "black": "Huang Cun Hua",
+                "date": "2016-02-08",
+                "result": 1,
+                "id": "tournament_278_43"
+            },
+            {
+                "white": "Li Lu Juan",
+                "black": "Qian Shang Ying",
+                "date": "2016-02-08",
+                "result": 0.5,
+                "id": "tournament_278_44"
+            },
+            {
+                "white": "Yang Yin Xiang",
+                "black": "Zhao Wen Mei",
+                "date": "2016-02-08",
+                "result": 0,
+                "id": "tournament_278_45"
+            }
+        ]
+    },
+    "tours": 9,
+    "time_control": "rapid"
+}

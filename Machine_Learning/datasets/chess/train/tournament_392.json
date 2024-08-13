@@ -1,0 +1,241 @@
+{
+    "name": "tournament_392",
+    "start_date": "2016-12-28",
+    "end_date": "2017-01-13",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Huang Meng Li",
+                "black": "Wang Jian Yao",
+                "date": "2016-12-28",
+                "result": 0,
+                "id": "tournament_392_1"
+            },
+            {
+                "white": "Wang Jian Yao",
+                "black": "Huang Meng Li",
+                "date": "2016-12-30",
+                "result": 1,
+                "id": "tournament_392_2"
+            },
+            {
+                "white": "Su Yi Yi",
+                "black": "Zhang Ya Juan",
+                "date": "2016-12-28",
+                "result": 1,
+                "id": "tournament_392_3"
+            },
+            {
+                "white": "Zhang Ya Juan",
+                "black": "Su Yi Yi",
+                "date": "2016-12-30",
+                "result": 0,
+                "id": "tournament_392_4"
+            },
+            {
+                "white": "Zhao Shan ",
+                "black": "Hu Zhuan ",
+                "date": "2016-12-28",
+                "result": 0.5,
+                "id": "tournament_392_5"
+            },
+            {
+                "white": "Hu Zhuan ",
+                "black": "Zhao Shan ",
+                "date": "2016-12-30",
+                "result": 1,
+                "id": "tournament_392_6"
+            },
+            {
+                "white": "Li Yi Cai",
+                "black": "Lin Ze Xiong",
+                "date": "2016-12-28",
+                "result": 1,
+                "id": "tournament_392_7"
+            },
+            {
+                "white": "Lin Ze Xiong",
+                "black": "Li Yi Cai",
+                "date": "2016-12-30",
+                "result": 0.5,
+                "id": "tournament_392_8"
+            },
+            {
+                "white": "Zhu Chun Qi",
+                "black": "Wang Ji You",
+                "date": "2016-12-28",
+                "result": 0.5,
+                "id": "tournament_392_9"
+            },
+            {
+                "white": "Wang Ji You",
+                "black": "Zhu Chun Qi",
+                "date": "2016-12-30",
+                "result": 0.5,
+                "id": "tournament_392_10"
+            },
+            {
+                "white": "Zhu Chun Qi",
+                "black": "Wang Ji You",
+                "date": "2016-12-30",
+                "result": 1,
+                "id": "tournament_392_11"
+            },
+            {
+                "white": "Liu Jin Song",
+                "black": "Wang Jun ",
+                "date": "2016-12-28",
+                "result": 1,
+                "id": "tournament_392_12"
+            },
+            {
+                "white": "Wang Jun ",
+                "black": "Liu Jin Song",
+                "date": "2016-12-30",
+                "result": 0,
+                "id": "tournament_392_13"
+            },
+            {
+                "white": "Zhou Meng Long",
+                "black": "Lv Yi Guo",
+                "date": "2016-12-28",
+                "result": 1,
+                "id": "tournament_392_14"
+            },
+            {
+                "white": "Lv Yi Guo",
+                "black": "Zhou Meng Long",
+                "date": "2016-12-30",
+                "result": 0,
+                "id": "tournament_392_15"
+            },
+            {
+                "white": "Zhu Er Zhou",
+                "black": "Deng Guo ",
+                "date": "2016-12-28",
+                "result": 1,
+                "id": "tournament_392_16"
+            },
+            {
+                "white": "Deng Guo ",
+                "black": "Zhu Er Zhou",
+                "date": "2016-12-30",
+                "result": 0.5,
+                "id": "tournament_392_17"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Wang Jian Yao",
+                "black": "Su Yi Yi",
+                "date": "2017-01-01",
+                "result": 1,
+                "id": "tournament_392_18"
+            },
+            {
+                "white": "Su Yi Yi",
+                "black": "Wang Jian Yao",
+                "date": "2017-01-03",
+                "result": 0.5,
+                "id": "tournament_392_19"
+            },
+            {
+                "white": "Hu Zhuan ",
+                "black": "Li Yi Cai",
+                "date": "2017-01-01",
+                "result": 1,
+                "id": "tournament_392_20"
+            },
+            {
+                "white": "Li Yi Cai",
+                "black": "Hu Zhuan ",
+                "date": "2017-01-03",
+                "result": 0.5,
+                "id": "tournament_392_21"
+            },
+            {
+                "white": "Zhu Chun Qi",
+                "black": "Liu Jin Song",
+                "date": "2017-01-01",
+                "result": 0.5,
+                "id": "tournament_392_22"
+            },
+            {
+                "white": "Liu Jin Song",
+                "black": "Zhu Chun Qi",
+                "date": "2017-01-03",
+                "result": 1,
+                "id": "tournament_392_23"
+            },
+            {
+                "white": "Zhou Meng Long",
+                "black": "Zhu Er Zhou",
+                "date": "2017-01-01",
+                "result": 0,
+                "id": "tournament_392_24"
+            },
+            {
+                "white": "Zhu Er Zhou",
+                "black": "Zhou Meng Long",
+                "date": "2017-01-03",
+                "result": 0.5,
+                "id": "tournament_392_25"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Wang Jian Yao",
+                "black": "Hu Zhuan ",
+                "date": "2017-01-05",
+                "result": 1,
+                "id": "tournament_392_26"
+            },
+            {
+                "white": "Hu Zhuan ",
+                "black": "Wang Jian Yao",
+                "date": "2017-01-07",
+                "result": 1,
+                "id": "tournament_392_27"
+            },
+            {
+                "white": "Wang Jian Yao",
+                "black": "Hu Zhuan ",
+                "date": "2017-01-07",
+                "result": 1,
+                "id": "tournament_392_28"
+            },
+            {
+                "white": "Liu Jin Song",
+                "black": "Zhu Er Zhou",
+                "date": "2017-01-05",
+                "result": 0.5,
+                "id": "tournament_392_29"
+            },
+            {
+                "white": "Zhu Er Zhou",
+                "black": "Liu Jin Song",
+                "date": "2017-01-07",
+                "result": 1,
+                "id": "tournament_392_30"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Wang Jian Yao",
+                "black": "Zhu Er Zhou",
+                "date": "2017-01-09",
+                "result": 0.5,
+                "id": "tournament_392_31"
+            },
+            {
+                "white": "Zhu Er Zhou",
+                "black": "Wang Jian Yao",
+                "date": "2017-01-11",
+                "result": 0,
+                "id": "tournament_392_32"
+            }
+        ]
+    },
+    "tours": 4,
+    "time_control": "rapid"
+}

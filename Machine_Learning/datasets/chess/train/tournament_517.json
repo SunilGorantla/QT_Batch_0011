@@ -1,0 +1,219 @@
+{
+    "name": "tournament_517",
+    "start_date": "2017-12-02",
+    "end_date": "2017-12-09",
+    "games": {
+        "tour_1": [
+            {
+                "white": "吕殷文",
+                "black": "陈芝",
+                "date": "2017-12-02",
+                "result": 0,
+                "id": "tournament_517_1"
+            },
+            {
+                "white": "任苏钦",
+                "black": "金俊明",
+                "date": "2017-12-02",
+                "result": 1,
+                "id": "tournament_517_2"
+            },
+            {
+                "white": "黄千健",
+                "black": "刘驰宇",
+                "date": "2017-12-02",
+                "result": 0,
+                "id": "tournament_517_3"
+            },
+            {
+                "white": "史智",
+                "black": "陈宸云",
+                "date": "2017-12-02",
+                "result": 1,
+                "id": "tournament_517_4"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "陈芝",
+                "black": "任苏钦",
+                "date": "2017-12-03",
+                "result": 0.5,
+                "id": "tournament_517_5"
+            },
+            {
+                "white": "吕殷文",
+                "black": "黄千健",
+                "date": "2017-12-03",
+                "result": 1,
+                "id": "tournament_517_6"
+            },
+            {
+                "white": "史智",
+                "black": "金俊明",
+                "date": "2017-12-03",
+                "result": 0.5,
+                "id": "tournament_517_7"
+            },
+            {
+                "white": "陈宸云",
+                "black": "刘驰宇",
+                "date": "2017-12-03",
+                "result": 0,
+                "id": "tournament_517_8"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "黄千健",
+                "black": "陈芝",
+                "date": "2017-12-04",
+                "result": 0.5,
+                "id": "tournament_517_9"
+            },
+            {
+                "white": "任苏钦",
+                "black": "史智",
+                "date": "2017-12-04",
+                "result": 0.5,
+                "id": "tournament_517_10"
+            },
+            {
+                "white": "吕殷文",
+                "black": "陈宸云",
+                "date": "2017-12-04",
+                "result": 1,
+                "id": "tournament_517_11"
+            },
+            {
+                "white": "刘驰宇",
+                "black": "金俊明",
+                "date": "2017-12-04",
+                "result": 0.5,
+                "id": "tournament_517_12"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "陈芝",
+                "black": "史智",
+                "date": "2017-12-05",
+                "result": 1,
+                "id": "tournament_517_13"
+            },
+            {
+                "white": "黄千健",
+                "black": "陈宸云",
+                "date": "2017-12-05",
+                "result": 0,
+                "id": "tournament_517_14"
+            },
+            {
+                "white": "任苏钦",
+                "black": "刘驰宇",
+                "date": "2017-12-05",
+                "result": 0,
+                "id": "tournament_517_15"
+            },
+            {
+                "white": "吕殷文",
+                "black": "金俊明",
+                "date": "2017-12-05",
+                "result": 0.5,
+                "id": "tournament_517_16"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "陈宸云",
+                "black": "陈芝",
+                "date": "2017-12-06",
+                "result": 0,
+                "id": "tournament_517_17"
+            },
+            {
+                "white": "史智",
+                "black": "刘驰宇",
+                "date": "2017-12-06",
+                "result": 1,
+                "id": "tournament_517_18"
+            },
+            {
+                "white": "黄千健",
+                "black": "金俊明",
+                "date": "2017-12-06",
+                "result": 0,
+                "id": "tournament_517_19"
+            },
+            {
+                "white": "吕殷文",
+                "black": "任苏钦",
+                "date": "2017-12-06",
+                "result": 0.5,
+                "id": "tournament_517_20"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "陈芝",
+                "black": "刘驰宇",
+                "date": "2017-12-07",
+                "result": 1,
+                "id": "tournament_517_21"
+            },
+            {
+                "white": "陈宸云",
+                "black": "金俊明",
+                "date": "2017-12-07",
+                "result": 0.5,
+                "id": "tournament_517_22"
+            },
+            {
+                "white": "吕殷文",
+                "black": "史智",
+                "date": "2017-12-07",
+                "result": 0.5,
+                "id": "tournament_517_23"
+            },
+            {
+                "white": "任苏钦",
+                "black": "黄千健",
+                "date": "2017-12-07",
+                "result": 1,
+                "id": "tournament_517_24"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "金俊明",
+                "black": "陈芝",
+                "date": "2017-12-08",
+                "result": 0.5,
+                "id": "tournament_517_25"
+            },
+            {
+                "white": "吕殷文",
+                "black": "刘驰宇",
+                "date": "2017-12-08",
+                "result": 0,
+                "id": "tournament_517_26"
+            },
+            {
+                "white": "任苏钦",
+                "black": "陈宸云",
+                "date": "2017-12-08",
+                "result": 1,
+                "id": "tournament_517_27"
+            },
+            {
+                "white": "黄千健",
+                "black": "史智",
+                "date": "2017-12-08",
+                "result": 0,
+                "id": "tournament_517_28"
+            }
+        ]
+    },
+    "tours": 7,
+    "time_control": "classic"
+}

@@ -1,0 +1,241 @@
+{
+    "name": "tournament_435",
+    "start_date": "2017-04-08",
+    "end_date": "2017-04-24",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Zhang, Xiao",
+                "black": "Qin, Huifei",
+                "date": "2017-04-08",
+                "result": 0,
+                "id": "tournament_435_1"
+            },
+            {
+                "white": "Qin, Huifei",
+                "black": "Zhang, Xiao",
+                "date": "2017-04-10",
+                "result": 1,
+                "id": "tournament_435_2"
+            },
+            {
+                "white": "Zheng, Qiuliang",
+                "black": "Yuan, Zhenshan",
+                "date": "2017-04-08",
+                "result": 0.5,
+                "id": "tournament_435_3"
+            },
+            {
+                "white": "Yuan, Zhenshan",
+                "black": "Zheng, Qiuliang",
+                "date": "2017-04-10",
+                "result": 0.5,
+                "id": "tournament_435_4"
+            },
+            {
+                "white": "Zheng, Qiuliang",
+                "black": "Yuan, Zhenshan",
+                "date": "2017-04-10",
+                "result": 1,
+                "id": "tournament_435_5"
+            },
+            {
+                "white": "Zhou, Lian",
+                "black": "Song, Jingxiang",
+                "date": "2017-04-08",
+                "result": 0,
+                "id": "tournament_435_6"
+            },
+            {
+                "white": "Song, Jingxiang",
+                "black": "Zhou, Lian",
+                "date": "2017-04-10",
+                "result": 0.5,
+                "id": "tournament_435_7"
+            },
+            {
+                "white": "Zhou, Zebin",
+                "black": "Li, Yangyi",
+                "date": "2017-04-08",
+                "result": 1,
+                "id": "tournament_435_8"
+            },
+            {
+                "white": "Li, Yangyi",
+                "black": "Zhou, Zebin",
+                "date": "2017-04-10",
+                "result": 0.5,
+                "id": "tournament_435_9"
+            },
+            {
+                "white": "Zhou, Yingji",
+                "black": "Yang, Yinxiang",
+                "date": "2017-04-08",
+                "result": 1,
+                "id": "tournament_435_10"
+            },
+            {
+                "white": "Yang, Yinxiang",
+                "black": "Zhou, Yingji",
+                "date": "2017-04-10",
+                "result": 0,
+                "id": "tournament_435_11"
+            },
+            {
+                "white": "Cheng, Mingyun",
+                "black": "Wang, Jin",
+                "date": "2017-04-08",
+                "result": 0,
+                "id": "tournament_435_12"
+            },
+            {
+                "white": "Wang, Jin",
+                "black": "Cheng, Mingyun",
+                "date": "2017-04-10",
+                "result": 1,
+                "id": "tournament_435_13"
+            },
+            {
+                "white": "Zhao, Wenmei",
+                "black": "Li, Lujuan",
+                "date": "2017-04-08",
+                "result": 1,
+                "id": "tournament_435_14"
+            },
+            {
+                "white": "Li, Lujuan",
+                "black": "Zhao, Wenmei",
+                "date": "2017-04-10",
+                "result": 0.5,
+                "id": "tournament_435_15"
+            },
+            {
+                "white": "Hu, Shengyuan",
+                "black": "Li, Chenzhi",
+                "date": "2017-04-08",
+                "result": 1,
+                "id": "tournament_435_16"
+            },
+            {
+                "white": "Li, Chenzhi",
+                "black": "Hu, Shengyuan",
+                "date": "2017-04-10",
+                "result": 0,
+                "id": "tournament_435_17"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Qin, Huifei",
+                "black": "Zheng, Qiuliang",
+                "date": "2017-04-12",
+                "result": 0.5,
+                "id": "tournament_435_18"
+            },
+            {
+                "white": "Zheng, Qiuliang",
+                "black": "Qin, Huifei",
+                "date": "2017-04-14",
+                "result": 0.5,
+                "id": "tournament_435_19"
+            },
+            {
+                "white": "Qin, Huifei",
+                "black": "Zheng, Qiuliang",
+                "date": "2017-04-14",
+                "result": 0.5,
+                "id": "tournament_435_20"
+            },
+            {
+                "white": "Song, Jingxiang",
+                "black": "Zhou, Zebin",
+                "date": "2017-04-12",
+                "result": 1,
+                "id": "tournament_435_21"
+            },
+            {
+                "white": "Zhou, Zebin",
+                "black": "Song, Jingxiang",
+                "date": "2017-04-14",
+                "result": 0,
+                "id": "tournament_435_22"
+            },
+            {
+                "white": "Zhou, Yingji",
+                "black": "Wang, Jin",
+                "date": "2017-04-12",
+                "result": 0.5,
+                "id": "tournament_435_23"
+            },
+            {
+                "white": "Wang, Jin",
+                "black": "Zhou, Yingji",
+                "date": "2017-04-14",
+                "result": 1,
+                "id": "tournament_435_24"
+            },
+            {
+                "white": "Zhao, Wenmei",
+                "black": "Hu, Shengyuan",
+                "date": "2017-04-12",
+                "result": 1,
+                "id": "tournament_435_25"
+            },
+            {
+                "white": "Hu, Shengyuan",
+                "black": "Zhao, Wenmei",
+                "date": "2017-04-14",
+                "result": 0.5,
+                "id": "tournament_435_26"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Zheng, Qiuliang",
+                "black": "Song, Jingxiang",
+                "date": "2017-04-16",
+                "result": 0,
+                "id": "tournament_435_27"
+            },
+            {
+                "white": "Song, Jingxiang",
+                "black": "Zheng, Qiuliang",
+                "date": "2017-04-18",
+                "result": 1,
+                "id": "tournament_435_28"
+            },
+            {
+                "white": "Wang, Jin",
+                "black": "Zhao, Wenmei",
+                "date": "2017-04-16",
+                "result": 1,
+                "id": "tournament_435_29"
+            },
+            {
+                "white": "Zhao, Wenmei",
+                "black": "Wang, Jin",
+                "date": "2017-04-18",
+                "result": 0.5,
+                "id": "tournament_435_30"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Song, Jingxiang",
+                "black": "Wang, Jin",
+                "date": "2017-04-20",
+                "result": 1,
+                "id": "tournament_435_31"
+            },
+            {
+                "white": "Wang, Jin",
+                "black": "Song, Jingxiang",
+                "date": "2017-04-22",
+                "result": 0,
+                "id": "tournament_435_32"
+            }
+        ]
+    },
+    "tours": 4,
+    "time_control": "rapid"
+}

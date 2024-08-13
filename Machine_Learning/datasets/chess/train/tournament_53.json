@@ -1,0 +1,248 @@
+{
+    "name": "tournament_53",
+    "start_date": "2014-05-27",
+    "end_date": "2014-06-04",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Chen Zhangzhen",
+                "black": "Wu Nanxia",
+                "date": "2014-05-27",
+                "result": 0,
+                "id": "tournament_53_1"
+            },
+            {
+                "white": "Wu Nanxia",
+                "black": "Chen Zhangzhen",
+                "date": "2014-05-28",
+                "result": 1,
+                "id": "tournament_53_2"
+            },
+            {
+                "white": "Xu Xiaozhi",
+                "black": "He Jianzhi",
+                "date": "2014-05-27",
+                "result": 1,
+                "id": "tournament_53_3"
+            },
+            {
+                "white": "He Jianzhi",
+                "black": "Xu Xiaozhi",
+                "date": "2014-05-28",
+                "result": 0,
+                "id": "tournament_53_4"
+            },
+            {
+                "white": "Yin Lifu",
+                "black": "Yang Cheng",
+                "date": "2014-05-27",
+                "result": 1,
+                "id": "tournament_53_5"
+            },
+            {
+                "white": "Yang Cheng",
+                "black": "Yin Lifu",
+                "date": "2014-05-28",
+                "result": 0,
+                "id": "tournament_53_6"
+            },
+            {
+                "white": "Liang Jinzhou",
+                "black": "Liu Chiyu",
+                "date": "2014-05-27",
+                "result": 0,
+                "id": "tournament_53_7"
+            },
+            {
+                "white": "Liu Chiyu",
+                "black": "Liang Jinzhou",
+                "date": "2014-05-28",
+                "result": 0.5,
+                "id": "tournament_53_8"
+            },
+            {
+                "white": "Guo Hongmin",
+                "black": "Xie Huayuan",
+                "date": "2014-05-27",
+                "result": 0,
+                "id": "tournament_53_9"
+            },
+            {
+                "white": "Xie Huayuan",
+                "black": "Guo Hongmin",
+                "date": "2014-05-28",
+                "result": 0.5,
+                "id": "tournament_53_10"
+            },
+            {
+                "white": "Zhao Shan",
+                "black": "Xu Yaoxiang",
+                "date": "2014-05-27",
+                "result": 0.5,
+                "id": "tournament_53_11"
+            },
+            {
+                "white": "Xu Yaoxiang",
+                "black": "Zhao Shan",
+                "date": "2014-05-28",
+                "result": 0.5,
+                "id": "tournament_53_12"
+            },
+            {
+                "white": "Zhao Shan",
+                "black": "Xu Yaoxiang",
+                "date": "2014-05-28",
+                "result": 0,
+                "id": "tournament_53_13"
+            },
+            {
+                "white": "Huang Jianning",
+                "black": "Zheng Xuanzhen",
+                "date": "2014-05-27",
+                "result": 0,
+                "id": "tournament_53_14"
+            },
+            {
+                "white": "Zheng Xuanzhen",
+                "black": "Huang Jianning",
+                "date": "2014-05-28",
+                "result": 1,
+                "id": "tournament_53_15"
+            },
+            {
+                "white": "Yuan Yue",
+                "black": "Zheng Qiuliang",
+                "date": "2014-05-27",
+                "result": 0.5,
+                "id": "tournament_53_16"
+            },
+            {
+                "white": "Zheng Qiuliang",
+                "black": "Yuan Yue",
+                "date": "2014-05-28",
+                "result": 0.5,
+                "id": "tournament_53_17"
+            },
+            {
+                "white": "Yuan Yue",
+                "black": "Zheng Qiuliang",
+                "date": "2014-05-28",
+                "result": 1,
+                "id": "tournament_53_18"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Wu Nanxia",
+                "black": "Xu Xiaozhi",
+                "date": "2014-05-29",
+                "result": 0.5,
+                "id": "tournament_53_19"
+            },
+            {
+                "white": "Xu Xiaozhi",
+                "black": "Wu Nanxia",
+                "date": "2014-05-30",
+                "result": 1,
+                "id": "tournament_53_20"
+            },
+            {
+                "white": "Yin Lifu",
+                "black": "Liu Chiyu",
+                "date": "2014-05-29",
+                "result": 0.5,
+                "id": "tournament_53_21"
+            },
+            {
+                "white": "Liu Chiyu",
+                "black": "Yin Lifu",
+                "date": "2014-05-30",
+                "result": 0.5,
+                "id": "tournament_53_22"
+            },
+            {
+                "white": "Yin Lifu",
+                "black": "Liu Chiyu",
+                "date": "2014-05-30",
+                "result": 0.5,
+                "id": "tournament_53_23"
+            },
+            {
+                "white": "Xie Huayuan",
+                "black": "Xu Yaoxiang",
+                "date": "2014-05-29",
+                "result": 0,
+                "id": "tournament_53_24"
+            },
+            {
+                "white": "Xu Yaoxiang",
+                "black": "Xie Huayuan",
+                "date": "2014-05-30",
+                "result": 1,
+                "id": "tournament_53_25"
+            },
+            {
+                "white": "Zheng Xuanzhen",
+                "black": "Yuan Yue",
+                "date": "2014-05-29",
+                "result": 1,
+                "id": "tournament_53_26"
+            },
+            {
+                "white": "Yuan Yue",
+                "black": "Zheng Xuanzhen",
+                "date": "2014-05-30",
+                "result": 0,
+                "id": "tournament_53_27"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Xu Xiaozhi",
+                "black": "Liu Chiyu",
+                "date": "2014-05-31",
+                "result": 1,
+                "id": "tournament_53_28"
+            },
+            {
+                "white": "Liu Chiyu",
+                "black": "Xu Xiaozhi",
+                "date": "2014-06-01",
+                "result": 0.5,
+                "id": "tournament_53_29"
+            },
+            {
+                "white": "Xu Yaoxiang",
+                "black": "Zheng Xuanzhen",
+                "date": "2014-05-31",
+                "result": 0,
+                "id": "tournament_53_30"
+            },
+            {
+                "white": "Zheng Xuanzhen",
+                "black": "Xu Yaoxiang",
+                "date": "2014-06-01",
+                "result": 1,
+                "id": "tournament_53_31"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Xu Xiaozhi",
+                "black": "Zheng Xuanzhen",
+                "date": "2014-06-02",
+                "result": 0.5,
+                "id": "tournament_53_32"
+            },
+            {
+                "white": "Zheng Xuanzhen",
+                "black": "Xu Xiaozhi",
+                "date": "2014-06-03",
+                "result": 1,
+                "id": "tournament_53_33"
+            }
+        ]
+    },
+    "tours": 4,
+    "time_control": "rapid"
+}

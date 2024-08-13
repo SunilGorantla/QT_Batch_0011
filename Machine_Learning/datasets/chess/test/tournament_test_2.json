@@ -1,0 +1,329 @@
+{
+    "name": "tournament_test_2",
+    "start_date": "2020-01-20",
+    "end_date": "2020-02-09",
+    "games": {
+        "tour_1": [
+            {
+                "white": "吕亚光",
+                "black": "胡建静",
+                "date": "2020-01-20",
+                "id": "tournament_test_2_1"
+            },
+            {
+                "white": "崔军凯",
+                "black": "陈森",
+                "date": "2020-01-20",
+                "id": "tournament_test_2_2"
+            },
+            {
+                "white": "丁晨彤",
+                "black": "董海非",
+                "date": "2020-01-20",
+                "id": "tournament_test_2_3"
+            },
+            {
+                "white": "傅星菲",
+                "black": "张春",
+                "date": "2020-01-20",
+                "id": "tournament_test_2_4"
+            },
+            {
+                "white": "魏辟涛",
+                "black": "黄凯文",
+                "date": "2020-01-20",
+                "id": "tournament_test_2_5"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "陈荣顺",
+                "black": "吕亚光",
+                "date": "2020-01-22",
+                "id": "tournament_test_2_6"
+            },
+            {
+                "white": "丁晨彤",
+                "black": "胡建静",
+                "date": "2020-01-22",
+                "id": "tournament_test_2_7"
+            },
+            {
+                "white": "傅星菲",
+                "black": "陈森",
+                "date": "2020-01-22",
+                "id": "tournament_test_2_8"
+            },
+            {
+                "white": "魏辟涛",
+                "black": "董海非",
+                "date": "2020-01-22",
+                "id": "tournament_test_2_9"
+            },
+            {
+                "white": "黄凯文",
+                "black": "张春",
+                "date": "2020-01-22",
+                "id": "tournament_test_2_10"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "崔军凯",
+                "black": "陈荣顺",
+                "date": "2020-01-24",
+                "id": "tournament_test_2_11"
+            },
+            {
+                "white": "吕亚光",
+                "black": "丁晨彤",
+                "date": "2020-01-24",
+                "id": "tournament_test_2_12"
+            },
+            {
+                "white": "魏辟涛",
+                "black": "胡建静",
+                "date": "2020-01-24",
+                "id": "tournament_test_2_13"
+            },
+            {
+                "white": "黄凯文",
+                "black": "陈森",
+                "date": "2020-01-24",
+                "id": "tournament_test_2_14"
+            },
+            {
+                "white": "张春",
+                "black": "董海非",
+                "date": "2020-01-24",
+                "id": "tournament_test_2_15"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "陈荣顺",
+                "black": "丁晨彤",
+                "date": "2020-01-26",
+                "id": "tournament_test_2_16"
+            },
+            {
+                "white": "崔军凯",
+                "black": "傅星菲",
+                "date": "2020-01-26",
+                "id": "tournament_test_2_17"
+            },
+            {
+                "white": "吕亚光",
+                "black": "魏辟涛",
+                "date": "2020-01-26",
+                "id": "tournament_test_2_18"
+            },
+            {
+                "white": "张春",
+                "black": "胡建静",
+                "date": "2020-01-26",
+                "id": "tournament_test_2_19"
+            },
+            {
+                "white": "董海非",
+                "black": "陈森",
+                "date": "2020-01-26",
+                "id": "tournament_test_2_20"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "傅星菲",
+                "black": "陈荣顺",
+                "date": "2020-01-28",
+                "id": "tournament_test_2_21"
+            },
+            {
+                "white": "丁晨彤",
+                "black": "魏辟涛",
+                "date": "2020-01-28",
+                "id": "tournament_test_2_22"
+            },
+            {
+                "white": "崔军凯",
+                "black": "黄凯文",
+                "date": "2020-01-28",
+                "id": "tournament_test_2_23"
+            },
+            {
+                "white": "吕亚光",
+                "black": "张春",
+                "date": "2020-01-28",
+                "id": "tournament_test_2_24"
+            },
+            {
+                "white": "陈森",
+                "black": "胡建静",
+                "date": "2020-01-28",
+                "id": "tournament_test_2_25"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "陈荣顺",
+                "black": "魏辟涛",
+                "date": "2020-01-30",
+                "id": "tournament_test_2_26"
+            },
+            {
+                "white": "傅星菲",
+                "black": "黄凯文",
+                "date": "2020-01-30",
+                "id": "tournament_test_2_27"
+            },
+            {
+                "white": "丁晨彤",
+                "black": "张春",
+                "date": "2020-01-30",
+                "id": "tournament_test_2_28"
+            },
+            {
+                "white": "崔军凯",
+                "black": "董海非",
+                "date": "2020-01-30",
+                "id": "tournament_test_2_29"
+            },
+            {
+                "white": "吕亚光",
+                "black": "陈森",
+                "date": "2020-01-30",
+                "id": "tournament_test_2_30"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "黄凯文",
+                "black": "陈荣顺",
+                "date": "2020-02-01",
+                "id": "tournament_test_2_31"
+            },
+            {
+                "white": "魏辟涛",
+                "black": "张春",
+                "date": "2020-02-01",
+                "id": "tournament_test_2_32"
+            },
+            {
+                "white": "傅星菲",
+                "black": "董海非",
+                "date": "2020-02-01",
+                "id": "tournament_test_2_33"
+            },
+            {
+                "white": "丁晨彤",
+                "black": "陈森",
+                "date": "2020-02-01",
+                "id": "tournament_test_2_34"
+            },
+            {
+                "white": "崔军凯",
+                "black": "胡建静",
+                "date": "2020-02-01",
+                "id": "tournament_test_2_35"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "陈荣顺",
+                "black": "张春",
+                "date": "2020-02-03",
+                "id": "tournament_test_2_36"
+            },
+            {
+                "white": "黄凯文",
+                "black": "董海非",
+                "date": "2020-02-03",
+                "id": "tournament_test_2_37"
+            },
+            {
+                "white": "魏辟涛",
+                "black": "陈森",
+                "date": "2020-02-03",
+                "id": "tournament_test_2_38"
+            },
+            {
+                "white": "傅星菲",
+                "black": "胡建静",
+                "date": "2020-02-03",
+                "id": "tournament_test_2_39"
+            },
+            {
+                "white": "吕亚光",
+                "black": "崔军凯",
+                "date": "2020-02-03",
+                "id": "tournament_test_2_40"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "董海非",
+                "black": "陈荣顺",
+                "date": "2020-02-05",
+                "id": "tournament_test_2_41"
+            },
+            {
+                "white": "张春",
+                "black": "陈森",
+                "date": "2020-02-05",
+                "id": "tournament_test_2_42"
+            },
+            {
+                "white": "黄凯文",
+                "black": "胡建静",
+                "date": "2020-02-05",
+                "id": "tournament_test_2_43"
+            },
+            {
+                "white": "吕亚光",
+                "black": "傅星菲",
+                "date": "2020-02-05",
+                "id": "tournament_test_2_44"
+            },
+            {
+                "white": "崔军凯",
+                "black": "丁晨彤",
+                "date": "2020-02-05",
+                "id": "tournament_test_2_45"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "陈荣顺",
+                "black": "陈森",
+                "date": "2020-02-07",
+                "id": "tournament_test_2_46"
+            },
+            {
+                "white": "董海非",
+                "black": "胡建静",
+                "date": "2020-02-07",
+                "id": "tournament_test_2_47"
+            },
+            {
+                "white": "吕亚光",
+                "black": "黄凯文",
+                "date": "2020-02-07",
+                "id": "tournament_test_2_48"
+            },
+            {
+                "white": "崔军凯",
+                "black": "魏辟涛",
+                "date": "2020-02-07",
+                "id": "tournament_test_2_49"
+            },
+            {
+                "white": "丁晨彤",
+                "black": "傅星菲",
+                "date": "2020-02-07",
+                "id": "tournament_test_2_50"
+            }
+        ]
+    },
+    "tours": 10,
+    "time_control": "classic"
+}

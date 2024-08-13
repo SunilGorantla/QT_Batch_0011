@@ -1,0 +1,248 @@
+{
+    "name": "tournament_471",
+    "start_date": "2017-08-03",
+    "end_date": "2017-08-11",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Zhang Bing ",
+                "black": "Wang Yong Yun",
+                "date": "2017-08-03",
+                "result": 1,
+                "id": "tournament_471_1"
+            },
+            {
+                "white": "Wang Yong Yun",
+                "black": "Zhang Bing ",
+                "date": "2017-08-04",
+                "result": 0,
+                "id": "tournament_471_2"
+            },
+            {
+                "white": "Lü Ming Mei",
+                "black": "Liu Jia Jian",
+                "date": "2017-08-03",
+                "result": 1,
+                "id": "tournament_471_3"
+            },
+            {
+                "white": "Liu Jia Jian",
+                "black": "Lü Ming Mei",
+                "date": "2017-08-04",
+                "result": 0,
+                "id": "tournament_471_4"
+            },
+            {
+                "white": "Qian Bo Jue",
+                "black": "Zhou Zi Qiang",
+                "date": "2017-08-03",
+                "result": 1,
+                "id": "tournament_471_5"
+            },
+            {
+                "white": "Zhou Zi Qiang",
+                "black": "Qian Bo Jue",
+                "date": "2017-08-04",
+                "result": 0,
+                "id": "tournament_471_6"
+            },
+            {
+                "white": "Fan Jian Li",
+                "black": "Wang Dian ",
+                "date": "2017-08-03",
+                "result": 0.5,
+                "id": "tournament_471_7"
+            },
+            {
+                "white": "Wang Dian ",
+                "black": "Fan Jian Li",
+                "date": "2017-08-04",
+                "result": 0.5,
+                "id": "tournament_471_8"
+            },
+            {
+                "white": "Fan Jian Li",
+                "black": "Wang Dian ",
+                "date": "2017-08-04",
+                "result": 0.5,
+                "id": "tournament_471_9"
+            },
+            {
+                "white": "Qin Nai Tao",
+                "black": "Xiong Li Lan",
+                "date": "2017-08-03",
+                "result": 0.5,
+                "id": "tournament_471_10"
+            },
+            {
+                "white": "Xiong Li Lan",
+                "black": "Qin Nai Tao",
+                "date": "2017-08-04",
+                "result": 1,
+                "id": "tournament_471_11"
+            },
+            {
+                "white": "Li Chen Zhi",
+                "black": "Lu Xing Miao",
+                "date": "2017-08-03",
+                "result": 0.5,
+                "id": "tournament_471_12"
+            },
+            {
+                "white": "Lu Xing Miao",
+                "black": "Li Chen Zhi",
+                "date": "2017-08-04",
+                "result": 0.5,
+                "id": "tournament_471_13"
+            },
+            {
+                "white": "Li Chen Zhi",
+                "black": "Lu Xing Miao",
+                "date": "2017-08-04",
+                "result": 0.5,
+                "id": "tournament_471_14"
+            },
+            {
+                "white": "Zhou Ying Ji",
+                "black": "Wang Ji You",
+                "date": "2017-08-03",
+                "result": 1,
+                "id": "tournament_471_15"
+            },
+            {
+                "white": "Wang Ji You",
+                "black": "Zhou Ying Ji",
+                "date": "2017-08-04",
+                "result": 0.5,
+                "id": "tournament_471_16"
+            },
+            {
+                "white": "Zhang Xin Min",
+                "black": "Tan Zai ",
+                "date": "2017-08-03",
+                "result": 0,
+                "id": "tournament_471_17"
+            },
+            {
+                "white": "Tan Zai ",
+                "black": "Zhang Xin Min",
+                "date": "2017-08-04",
+                "result": 1,
+                "id": "tournament_471_18"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Zhang Bing ",
+                "black": "Lü Ming Mei",
+                "date": "2017-08-05",
+                "result": 0.5,
+                "id": "tournament_471_19"
+            },
+            {
+                "white": "Lü Ming Mei",
+                "black": "Zhang Bing ",
+                "date": "2017-08-06",
+                "result": 0,
+                "id": "tournament_471_20"
+            },
+            {
+                "white": "Qian Bo Jue",
+                "black": "Wang Dian ",
+                "date": "2017-08-05",
+                "result": 1,
+                "id": "tournament_471_21"
+            },
+            {
+                "white": "Wang Dian ",
+                "black": "Qian Bo Jue",
+                "date": "2017-08-06",
+                "result": 0,
+                "id": "tournament_471_22"
+            },
+            {
+                "white": "Xiong Li Lan",
+                "black": "Lu Xing Miao",
+                "date": "2017-08-05",
+                "result": 1,
+                "id": "tournament_471_23"
+            },
+            {
+                "white": "Lu Xing Miao",
+                "black": "Xiong Li Lan",
+                "date": "2017-08-06",
+                "result": 0,
+                "id": "tournament_471_24"
+            },
+            {
+                "white": "Zhou Ying Ji",
+                "black": "Tan Zai ",
+                "date": "2017-08-05",
+                "result": 0.5,
+                "id": "tournament_471_25"
+            },
+            {
+                "white": "Tan Zai ",
+                "black": "Zhou Ying Ji",
+                "date": "2017-08-06",
+                "result": 0,
+                "id": "tournament_471_26"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Zhang Bing ",
+                "black": "Qian Bo Jue",
+                "date": "2017-08-07",
+                "result": 0,
+                "id": "tournament_471_27"
+            },
+            {
+                "white": "Qian Bo Jue",
+                "black": "Zhang Bing ",
+                "date": "2017-08-08",
+                "result": 1,
+                "id": "tournament_471_28"
+            },
+            {
+                "white": "Xiong Li Lan",
+                "black": "Zhou Ying Ji",
+                "date": "2017-08-07",
+                "result": 0,
+                "id": "tournament_471_29"
+            },
+            {
+                "white": "Zhou Ying Ji",
+                "black": "Xiong Li Lan",
+                "date": "2017-08-08",
+                "result": 1,
+                "id": "tournament_471_30"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Qian Bo Jue",
+                "black": "Zhou Ying Ji",
+                "date": "2017-08-09",
+                "result": 0,
+                "id": "tournament_471_31"
+            },
+            {
+                "white": "Zhou Ying Ji",
+                "black": "Qian Bo Jue",
+                "date": "2017-08-10",
+                "result": 0,
+                "id": "tournament_471_32"
+            },
+            {
+                "white": "Qian Bo Jue",
+                "black": "Zhou Ying Ji",
+                "date": "2017-08-10",
+                "result": 0.5,
+                "id": "tournament_471_33"
+            }
+        ]
+    },
+    "tours": 4,
+    "time_control": "rapid"
+}

@@ -1,0 +1,219 @@
+{
+    "name": "tournament_754",
+    "start_date": "2019-09-02",
+    "end_date": "2019-09-09",
+    "games": {
+        "tour_1": [
+            {
+                "white": "刘金松",
+                "black": "刘恺清",
+                "date": "2019-09-02",
+                "result": 0,
+                "id": "tournament_754_1"
+            },
+            {
+                "white": "邓烈",
+                "black": "倪招林",
+                "date": "2019-09-02",
+                "result": 0.5,
+                "id": "tournament_754_2"
+            },
+            {
+                "white": "刘飞",
+                "black": "吕殷文",
+                "date": "2019-09-02",
+                "result": 1,
+                "id": "tournament_754_3"
+            },
+            {
+                "white": "向德婷",
+                "black": "王奕娟",
+                "date": "2019-09-02",
+                "result": 1,
+                "id": "tournament_754_4"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "刘恺清",
+                "black": "邓烈",
+                "date": "2019-09-03",
+                "result": 1,
+                "id": "tournament_754_5"
+            },
+            {
+                "white": "刘金松",
+                "black": "刘飞",
+                "date": "2019-09-03",
+                "result": 0.5,
+                "id": "tournament_754_6"
+            },
+            {
+                "white": "向德婷",
+                "black": "倪招林",
+                "date": "2019-09-03",
+                "result": 1,
+                "id": "tournament_754_7"
+            },
+            {
+                "white": "王奕娟",
+                "black": "吕殷文",
+                "date": "2019-09-03",
+                "result": 1,
+                "id": "tournament_754_8"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "刘飞",
+                "black": "刘恺清",
+                "date": "2019-09-04",
+                "result": 0.5,
+                "id": "tournament_754_9"
+            },
+            {
+                "white": "邓烈",
+                "black": "向德婷",
+                "date": "2019-09-04",
+                "result": 0,
+                "id": "tournament_754_10"
+            },
+            {
+                "white": "刘金松",
+                "black": "王奕娟",
+                "date": "2019-09-04",
+                "result": 1,
+                "id": "tournament_754_11"
+            },
+            {
+                "white": "吕殷文",
+                "black": "倪招林",
+                "date": "2019-09-04",
+                "result": 0.5,
+                "id": "tournament_754_12"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "刘恺清",
+                "black": "向德婷",
+                "date": "2019-09-05",
+                "result": 0.5,
+                "id": "tournament_754_13"
+            },
+            {
+                "white": "刘飞",
+                "black": "王奕娟",
+                "date": "2019-09-05",
+                "result": 1,
+                "id": "tournament_754_14"
+            },
+            {
+                "white": "邓烈",
+                "black": "吕殷文",
+                "date": "2019-09-05",
+                "result": 1,
+                "id": "tournament_754_15"
+            },
+            {
+                "white": "刘金松",
+                "black": "倪招林",
+                "date": "2019-09-05",
+                "result": 1,
+                "id": "tournament_754_16"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "王奕娟",
+                "black": "刘恺清",
+                "date": "2019-09-06",
+                "result": 0.5,
+                "id": "tournament_754_17"
+            },
+            {
+                "white": "向德婷",
+                "black": "吕殷文",
+                "date": "2019-09-06",
+                "result": 1,
+                "id": "tournament_754_18"
+            },
+            {
+                "white": "刘飞",
+                "black": "倪招林",
+                "date": "2019-09-06",
+                "result": 1,
+                "id": "tournament_754_19"
+            },
+            {
+                "white": "刘金松",
+                "black": "邓烈",
+                "date": "2019-09-06",
+                "result": 0.5,
+                "id": "tournament_754_20"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "刘恺清",
+                "black": "吕殷文",
+                "date": "2019-09-07",
+                "result": 1,
+                "id": "tournament_754_21"
+            },
+            {
+                "white": "王奕娟",
+                "black": "倪招林",
+                "date": "2019-09-07",
+                "result": 1,
+                "id": "tournament_754_22"
+            },
+            {
+                "white": "刘金松",
+                "black": "向德婷",
+                "date": "2019-09-07",
+                "result": 0,
+                "id": "tournament_754_23"
+            },
+            {
+                "white": "邓烈",
+                "black": "刘飞",
+                "date": "2019-09-07",
+                "result": 0,
+                "id": "tournament_754_24"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "倪招林",
+                "black": "刘恺清",
+                "date": "2019-09-08",
+                "result": 0.5,
+                "id": "tournament_754_25"
+            },
+            {
+                "white": "刘金松",
+                "black": "吕殷文",
+                "date": "2019-09-08",
+                "result": 1,
+                "id": "tournament_754_26"
+            },
+            {
+                "white": "邓烈",
+                "black": "王奕娟",
+                "date": "2019-09-08",
+                "result": 0.5,
+                "id": "tournament_754_27"
+            },
+            {
+                "white": "刘飞",
+                "black": "向德婷",
+                "date": "2019-09-08",
+                "result": 0,
+                "id": "tournament_754_28"
+            }
+        ]
+    },
+    "tours": 7,
+    "time_control": "classic"
+}

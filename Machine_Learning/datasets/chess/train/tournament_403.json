@@ -1,0 +1,249 @@
+{
+    "name": "tournament_403",
+    "start_date": "2017-01-21",
+    "end_date": "2017-02-06",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Xiao, Qiuliang",
+                "black": "Li, Jun",
+                "date": "2017-01-21",
+                "result": 1,
+                "id": "tournament_403_1"
+            },
+            {
+                "white": "Li, Jiajue",
+                "black": "Yin, Lifu",
+                "date": "2017-01-21",
+                "result": 0,
+                "id": "tournament_403_2"
+            },
+            {
+                "white": "Mao, Xinlei",
+                "black": "Yang, Yue",
+                "date": "2017-01-21",
+                "result": 1,
+                "id": "tournament_403_3"
+            },
+            {
+                "white": "Li, Hongke",
+                "black": "Wang, Jianyao",
+                "date": "2017-01-21",
+                "result": 0,
+                "id": "tournament_403_4"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Cui, Junkai",
+                "black": "Xiao, Qiuliang",
+                "date": "2017-01-23",
+                "result": 0.5,
+                "id": "tournament_403_5"
+            },
+            {
+                "white": "Mao, Xinlei",
+                "black": "Li, Jun",
+                "date": "2017-01-23",
+                "result": 1,
+                "id": "tournament_403_6"
+            },
+            {
+                "white": "Li, Hongke",
+                "black": "Yin, Lifu",
+                "date": "2017-01-23",
+                "result": 0,
+                "id": "tournament_403_7"
+            },
+            {
+                "white": "Wang, Jianyao",
+                "black": "Yang, Yue",
+                "date": "2017-01-23",
+                "result": 1,
+                "id": "tournament_403_8"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Li, Jiajue",
+                "black": "Cui, Junkai",
+                "date": "2017-01-25",
+                "result": 1,
+                "id": "tournament_403_9"
+            },
+            {
+                "white": "Xiao, Qiuliang",
+                "black": "Mao, Xinlei",
+                "date": "2017-01-25",
+                "result": 0,
+                "id": "tournament_403_10"
+            },
+            {
+                "white": "Wang, Jianyao",
+                "black": "Li, Jun",
+                "date": "2017-01-25",
+                "result": 1,
+                "id": "tournament_403_11"
+            },
+            {
+                "white": "Yang, Yue",
+                "black": "Yin, Lifu",
+                "date": "2017-01-25",
+                "result": 1,
+                "id": "tournament_403_12"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Cui, Junkai",
+                "black": "Mao, Xinlei",
+                "date": "2017-01-27",
+                "result": 0.5,
+                "id": "tournament_403_13"
+            },
+            {
+                "white": "Li, Jiajue",
+                "black": "Li, Hongke",
+                "date": "2017-01-27",
+                "result": 0,
+                "id": "tournament_403_14"
+            },
+            {
+                "white": "Xiao, Qiuliang",
+                "black": "Wang, Jianyao",
+                "date": "2017-01-27",
+                "result": 0,
+                "id": "tournament_403_15"
+            },
+            {
+                "white": "Yin, Lifu",
+                "black": "Li, Jun",
+                "date": "2017-01-27",
+                "result": 0.5,
+                "id": "tournament_403_16"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Li, Hongke",
+                "black": "Cui, Junkai",
+                "date": "2017-01-29",
+                "result": 0.5,
+                "id": "tournament_403_17"
+            },
+            {
+                "white": "Mao, Xinlei",
+                "black": "Wang, Jianyao",
+                "date": "2017-01-29",
+                "result": 0,
+                "id": "tournament_403_18"
+            },
+            {
+                "white": "Li, Jiajue",
+                "black": "Yang, Yue",
+                "date": "2017-01-29",
+                "result": 0,
+                "id": "tournament_403_19"
+            },
+            {
+                "white": "Xiao, Qiuliang",
+                "black": "Yin, Lifu",
+                "date": "2017-01-29",
+                "result": 0,
+                "id": "tournament_403_20"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Cui, Junkai",
+                "black": "Wang, Jianyao",
+                "date": "2017-01-31",
+                "result": 0,
+                "id": "tournament_403_21"
+            },
+            {
+                "white": "Li, Hongke",
+                "black": "Yang, Yue",
+                "date": "2017-01-31",
+                "result": 0,
+                "id": "tournament_403_22"
+            },
+            {
+                "white": "Mao, Xinlei",
+                "black": "Yin, Lifu",
+                "date": "2017-01-31",
+                "result": 0.5,
+                "id": "tournament_403_23"
+            },
+            {
+                "white": "Li, Jiajue",
+                "black": "Li, Jun",
+                "date": "2017-01-31",
+                "result": 0,
+                "id": "tournament_403_24"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Yang, Yue",
+                "black": "Cui, Junkai",
+                "date": "2017-02-02",
+                "result": 1,
+                "id": "tournament_403_25"
+            },
+            {
+                "white": "Wang, Jianyao",
+                "black": "Yin, Lifu",
+                "date": "2017-02-02",
+                "result": 1,
+                "id": "tournament_403_26"
+            },
+            {
+                "white": "Li, Hongke",
+                "black": "Li, Jun",
+                "date": "2017-02-02",
+                "result": 0,
+                "id": "tournament_403_27"
+            },
+            {
+                "white": "Xiao, Qiuliang",
+                "black": "Li, Jiajue",
+                "date": "2017-02-02",
+                "result": 1,
+                "id": "tournament_403_28"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Cui, Junkai",
+                "black": "Yin, Lifu",
+                "date": "2017-02-04",
+                "result": 0.5,
+                "id": "tournament_403_29"
+            },
+            {
+                "white": "Yang, Yue",
+                "black": "Li, Jun",
+                "date": "2017-02-04",
+                "result": 1,
+                "id": "tournament_403_30"
+            },
+            {
+                "white": "Xiao, Qiuliang",
+                "black": "Li, Hongke",
+                "date": "2017-02-04",
+                "result": 0.5,
+                "id": "tournament_403_31"
+            },
+            {
+                "white": "Li, Jiajue",
+                "black": "Mao, Xinlei",
+                "date": "2017-02-04",
+                "result": 0,
+                "id": "tournament_403_32"
+            }
+        ]
+    },
+    "tours": 8,
+    "time_control": "rapid"
+}

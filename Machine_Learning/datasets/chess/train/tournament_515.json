@@ -1,0 +1,379 @@
+{
+    "name": "tournament_515",
+    "start_date": "2017-11-27",
+    "end_date": "2017-12-07",
+    "games": {
+        "tour_1": [
+            {
+                "white": "赵晋耕",
+                "black": "张国飞",
+                "date": "2017-11-27",
+                "result": 0.5,
+                "id": "tournament_515_1"
+            },
+            {
+                "white": "李海",
+                "black": "叶丽波",
+                "date": "2017-11-27",
+                "result": 0,
+                "id": "tournament_515_2"
+            },
+            {
+                "white": "马建",
+                "black": "朱秀阳",
+                "date": "2017-11-27",
+                "result": 0,
+                "id": "tournament_515_3"
+            },
+            {
+                "white": "贾烨广",
+                "black": "胡游标",
+                "date": "2017-11-27",
+                "result": 0,
+                "id": "tournament_515_4"
+            },
+            {
+                "white": "朱子欣",
+                "black": "吴易顺",
+                "date": "2017-11-27",
+                "result": 0.5,
+                "id": "tournament_515_5"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "王剑妹",
+                "black": "赵晋耕",
+                "date": "2017-11-28",
+                "result": 0,
+                "id": "tournament_515_6"
+            },
+            {
+                "white": "马建",
+                "black": "张国飞",
+                "date": "2017-11-28",
+                "result": 0.5,
+                "id": "tournament_515_7"
+            },
+            {
+                "white": "贾烨广",
+                "black": "叶丽波",
+                "date": "2017-11-28",
+                "result": 0,
+                "id": "tournament_515_8"
+            },
+            {
+                "white": "朱子欣",
+                "black": "朱秀阳",
+                "date": "2017-11-28",
+                "result": 0,
+                "id": "tournament_515_9"
+            },
+            {
+                "white": "吴易顺",
+                "black": "胡游标",
+                "date": "2017-11-28",
+                "result": 0,
+                "id": "tournament_515_10"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "李海",
+                "black": "王剑妹",
+                "date": "2017-11-29",
+                "result": 0,
+                "id": "tournament_515_11"
+            },
+            {
+                "white": "赵晋耕",
+                "black": "马建",
+                "date": "2017-11-29",
+                "result": 0,
+                "id": "tournament_515_12"
+            },
+            {
+                "white": "朱子欣",
+                "black": "张国飞",
+                "date": "2017-11-29",
+                "result": 0.5,
+                "id": "tournament_515_13"
+            },
+            {
+                "white": "吴易顺",
+                "black": "叶丽波",
+                "date": "2017-11-29",
+                "result": 0.5,
+                "id": "tournament_515_14"
+            },
+            {
+                "white": "胡游标",
+                "black": "朱秀阳",
+                "date": "2017-11-29",
+                "result": 0.5,
+                "id": "tournament_515_15"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "王剑妹",
+                "black": "马建",
+                "date": "2017-11-30",
+                "result": 0,
+                "id": "tournament_515_16"
+            },
+            {
+                "white": "李海",
+                "black": "贾烨广",
+                "date": "2017-11-30",
+                "result": 0.5,
+                "id": "tournament_515_17"
+            },
+            {
+                "white": "赵晋耕",
+                "black": "朱子欣",
+                "date": "2017-11-30",
+                "result": 0.5,
+                "id": "tournament_515_18"
+            },
+            {
+                "white": "胡游标",
+                "black": "张国飞",
+                "date": "2017-11-30",
+                "result": 1,
+                "id": "tournament_515_19"
+            },
+            {
+                "white": "朱秀阳",
+                "black": "叶丽波",
+                "date": "2017-11-30",
+                "result": 1,
+                "id": "tournament_515_20"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "贾烨广",
+                "black": "王剑妹",
+                "date": "2017-12-01",
+                "result": 1,
+                "id": "tournament_515_21"
+            },
+            {
+                "white": "马建",
+                "black": "朱子欣",
+                "date": "2017-12-01",
+                "result": 1,
+                "id": "tournament_515_22"
+            },
+            {
+                "white": "李海",
+                "black": "吴易顺",
+                "date": "2017-12-01",
+                "result": 1,
+                "id": "tournament_515_23"
+            },
+            {
+                "white": "赵晋耕",
+                "black": "胡游标",
+                "date": "2017-12-01",
+                "result": 1,
+                "id": "tournament_515_24"
+            },
+            {
+                "white": "叶丽波",
+                "black": "张国飞",
+                "date": "2017-12-01",
+                "result": 1,
+                "id": "tournament_515_25"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "王剑妹",
+                "black": "朱子欣",
+                "date": "2017-12-02",
+                "result": 0.5,
+                "id": "tournament_515_26"
+            },
+            {
+                "white": "贾烨广",
+                "black": "吴易顺",
+                "date": "2017-12-02",
+                "result": 0.5,
+                "id": "tournament_515_27"
+            },
+            {
+                "white": "马建",
+                "black": "胡游标",
+                "date": "2017-12-02",
+                "result": 1,
+                "id": "tournament_515_28"
+            },
+            {
+                "white": "李海",
+                "black": "朱秀阳",
+                "date": "2017-12-02",
+                "result": 0,
+                "id": "tournament_515_29"
+            },
+            {
+                "white": "赵晋耕",
+                "black": "叶丽波",
+                "date": "2017-12-02",
+                "result": 0.5,
+                "id": "tournament_515_30"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "吴易顺",
+                "black": "王剑妹",
+                "date": "2017-12-03",
+                "result": 1,
+                "id": "tournament_515_31"
+            },
+            {
+                "white": "朱子欣",
+                "black": "胡游标",
+                "date": "2017-12-03",
+                "result": 0.5,
+                "id": "tournament_515_32"
+            },
+            {
+                "white": "贾烨广",
+                "black": "朱秀阳",
+                "date": "2017-12-03",
+                "result": 0,
+                "id": "tournament_515_33"
+            },
+            {
+                "white": "马建",
+                "black": "叶丽波",
+                "date": "2017-12-03",
+                "result": 0.5,
+                "id": "tournament_515_34"
+            },
+            {
+                "white": "李海",
+                "black": "张国飞",
+                "date": "2017-12-03",
+                "result": 0.5,
+                "id": "tournament_515_35"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "王剑妹",
+                "black": "胡游标",
+                "date": "2017-12-04",
+                "result": 0,
+                "id": "tournament_515_36"
+            },
+            {
+                "white": "吴易顺",
+                "black": "朱秀阳",
+                "date": "2017-12-04",
+                "result": 0,
+                "id": "tournament_515_37"
+            },
+            {
+                "white": "朱子欣",
+                "black": "叶丽波",
+                "date": "2017-12-04",
+                "result": 0.5,
+                "id": "tournament_515_38"
+            },
+            {
+                "white": "贾烨广",
+                "black": "张国飞",
+                "date": "2017-12-04",
+                "result": 0.5,
+                "id": "tournament_515_39"
+            },
+            {
+                "white": "赵晋耕",
+                "black": "李海",
+                "date": "2017-12-04",
+                "result": 0.5,
+                "id": "tournament_515_40"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "朱秀阳",
+                "black": "王剑妹",
+                "date": "2017-12-05",
+                "result": 1,
+                "id": "tournament_515_41"
+            },
+            {
+                "white": "胡游标",
+                "black": "叶丽波",
+                "date": "2017-12-05",
+                "result": 0,
+                "id": "tournament_515_42"
+            },
+            {
+                "white": "吴易顺",
+                "black": "张国飞",
+                "date": "2017-12-05",
+                "result": 0,
+                "id": "tournament_515_43"
+            },
+            {
+                "white": "赵晋耕",
+                "black": "贾烨广",
+                "date": "2017-12-05",
+                "result": 1,
+                "id": "tournament_515_44"
+            },
+            {
+                "white": "李海",
+                "black": "马建",
+                "date": "2017-12-05",
+                "result": 0,
+                "id": "tournament_515_45"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "王剑妹",
+                "black": "叶丽波",
+                "date": "2017-12-06",
+                "result": 1,
+                "id": "tournament_515_46"
+            },
+            {
+                "white": "朱秀阳",
+                "black": "张国飞",
+                "date": "2017-12-06",
+                "result": 1,
+                "id": "tournament_515_47"
+            },
+            {
+                "white": "赵晋耕",
+                "black": "吴易顺",
+                "date": "2017-12-06",
+                "result": 1,
+                "id": "tournament_515_48"
+            },
+            {
+                "white": "李海",
+                "black": "朱子欣",
+                "date": "2017-12-06",
+                "result": 0.5,
+                "id": "tournament_515_49"
+            },
+            {
+                "white": "马建",
+                "black": "贾烨广",
+                "date": "2017-12-06",
+                "result": 1,
+                "id": "tournament_515_50"
+            }
+        ]
+    },
+    "tours": 10,
+    "time_control": "classic"
+}

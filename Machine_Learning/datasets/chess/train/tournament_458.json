@@ -1,0 +1,379 @@
+{
+    "name": "tournament_458",
+    "start_date": "2017-06-30",
+    "end_date": "2017-07-10",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Wen Qing Rong",
+                "black": "Shen Jian Qin",
+                "date": "2017-06-30",
+                "result": 0.5,
+                "id": "tournament_458_1"
+            },
+            {
+                "white": "Yuan Yue ",
+                "black": "Li Yi Cai",
+                "date": "2017-06-30",
+                "result": 0,
+                "id": "tournament_458_2"
+            },
+            {
+                "white": "Sun Qing Yang",
+                "black": "Wang Yin Bin",
+                "date": "2017-06-30",
+                "result": 0,
+                "id": "tournament_458_3"
+            },
+            {
+                "white": "Meng Dong Ying",
+                "black": "Wu Dong Ping",
+                "date": "2017-06-30",
+                "result": 0,
+                "id": "tournament_458_4"
+            },
+            {
+                "white": "Song Jing Xiang",
+                "black": "Yang Jun Rui",
+                "date": "2017-06-30",
+                "result": 1,
+                "id": "tournament_458_5"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Zhao Shan ",
+                "black": "Wen Qing Rong",
+                "date": "2017-07-01",
+                "result": 0.5,
+                "id": "tournament_458_6"
+            },
+            {
+                "white": "Sun Qing Yang",
+                "black": "Shen Jian Qin",
+                "date": "2017-07-01",
+                "result": 0,
+                "id": "tournament_458_7"
+            },
+            {
+                "white": "Meng Dong Ying",
+                "black": "Li Yi Cai",
+                "date": "2017-07-01",
+                "result": 0,
+                "id": "tournament_458_8"
+            },
+            {
+                "white": "Song Jing Xiang",
+                "black": "Wang Yin Bin",
+                "date": "2017-07-01",
+                "result": 1,
+                "id": "tournament_458_9"
+            },
+            {
+                "white": "Yang Jun Rui",
+                "black": "Wu Dong Ping",
+                "date": "2017-07-01",
+                "result": 0.5,
+                "id": "tournament_458_10"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Yuan Yue ",
+                "black": "Zhao Shan ",
+                "date": "2017-07-02",
+                "result": 0.5,
+                "id": "tournament_458_11"
+            },
+            {
+                "white": "Wen Qing Rong",
+                "black": "Sun Qing Yang",
+                "date": "2017-07-02",
+                "result": 1,
+                "id": "tournament_458_12"
+            },
+            {
+                "white": "Song Jing Xiang",
+                "black": "Shen Jian Qin",
+                "date": "2017-07-02",
+                "result": 1,
+                "id": "tournament_458_13"
+            },
+            {
+                "white": "Yang Jun Rui",
+                "black": "Li Yi Cai",
+                "date": "2017-07-02",
+                "result": 0,
+                "id": "tournament_458_14"
+            },
+            {
+                "white": "Wu Dong Ping",
+                "black": "Wang Yin Bin",
+                "date": "2017-07-02",
+                "result": 1,
+                "id": "tournament_458_15"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Zhao Shan ",
+                "black": "Sun Qing Yang",
+                "date": "2017-07-03",
+                "result": 0.5,
+                "id": "tournament_458_16"
+            },
+            {
+                "white": "Yuan Yue ",
+                "black": "Meng Dong Ying",
+                "date": "2017-07-03",
+                "result": 1,
+                "id": "tournament_458_17"
+            },
+            {
+                "white": "Wen Qing Rong",
+                "black": "Song Jing Xiang",
+                "date": "2017-07-03",
+                "result": 0,
+                "id": "tournament_458_18"
+            },
+            {
+                "white": "Wu Dong Ping",
+                "black": "Shen Jian Qin",
+                "date": "2017-07-03",
+                "result": 1,
+                "id": "tournament_458_19"
+            },
+            {
+                "white": "Wang Yin Bin",
+                "black": "Li Yi Cai",
+                "date": "2017-07-03",
+                "result": 0,
+                "id": "tournament_458_20"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Meng Dong Ying",
+                "black": "Zhao Shan ",
+                "date": "2017-07-04",
+                "result": 0,
+                "id": "tournament_458_21"
+            },
+            {
+                "white": "Sun Qing Yang",
+                "black": "Song Jing Xiang",
+                "date": "2017-07-04",
+                "result": 0.5,
+                "id": "tournament_458_22"
+            },
+            {
+                "white": "Yuan Yue ",
+                "black": "Yang Jun Rui",
+                "date": "2017-07-04",
+                "result": 0.5,
+                "id": "tournament_458_23"
+            },
+            {
+                "white": "Wen Qing Rong",
+                "black": "Wu Dong Ping",
+                "date": "2017-07-04",
+                "result": 0,
+                "id": "tournament_458_24"
+            },
+            {
+                "white": "Li Yi Cai",
+                "black": "Shen Jian Qin",
+                "date": "2017-07-04",
+                "result": 1,
+                "id": "tournament_458_25"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Zhao Shan ",
+                "black": "Song Jing Xiang",
+                "date": "2017-07-05",
+                "result": 0,
+                "id": "tournament_458_26"
+            },
+            {
+                "white": "Meng Dong Ying",
+                "black": "Yang Jun Rui",
+                "date": "2017-07-05",
+                "result": 0,
+                "id": "tournament_458_27"
+            },
+            {
+                "white": "Sun Qing Yang",
+                "black": "Wu Dong Ping",
+                "date": "2017-07-05",
+                "result": 0,
+                "id": "tournament_458_28"
+            },
+            {
+                "white": "Yuan Yue ",
+                "black": "Wang Yin Bin",
+                "date": "2017-07-05",
+                "result": 1,
+                "id": "tournament_458_29"
+            },
+            {
+                "white": "Wen Qing Rong",
+                "black": "Li Yi Cai",
+                "date": "2017-07-05",
+                "result": 0.5,
+                "id": "tournament_458_30"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Yang Jun Rui",
+                "black": "Zhao Shan ",
+                "date": "2017-07-06",
+                "result": 0.5,
+                "id": "tournament_458_31"
+            },
+            {
+                "white": "Song Jing Xiang",
+                "black": "Wu Dong Ping",
+                "date": "2017-07-06",
+                "result": 0.5,
+                "id": "tournament_458_32"
+            },
+            {
+                "white": "Meng Dong Ying",
+                "black": "Wang Yin Bin",
+                "date": "2017-07-06",
+                "result": 0,
+                "id": "tournament_458_33"
+            },
+            {
+                "white": "Sun Qing Yang",
+                "black": "Li Yi Cai",
+                "date": "2017-07-06",
+                "result": 0.5,
+                "id": "tournament_458_34"
+            },
+            {
+                "white": "Yuan Yue ",
+                "black": "Shen Jian Qin",
+                "date": "2017-07-06",
+                "result": 0.5,
+                "id": "tournament_458_35"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Zhao Shan ",
+                "black": "Wu Dong Ping",
+                "date": "2017-07-07",
+                "result": 0,
+                "id": "tournament_458_36"
+            },
+            {
+                "white": "Yang Jun Rui",
+                "black": "Wang Yin Bin",
+                "date": "2017-07-07",
+                "result": 0.5,
+                "id": "tournament_458_37"
+            },
+            {
+                "white": "Song Jing Xiang",
+                "black": "Li Yi Cai",
+                "date": "2017-07-07",
+                "result": 0.5,
+                "id": "tournament_458_38"
+            },
+            {
+                "white": "Meng Dong Ying",
+                "black": "Shen Jian Qin",
+                "date": "2017-07-07",
+                "result": 0,
+                "id": "tournament_458_39"
+            },
+            {
+                "white": "Wen Qing Rong",
+                "black": "Yuan Yue ",
+                "date": "2017-07-07",
+                "result": 0.5,
+                "id": "tournament_458_40"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Wang Yin Bin",
+                "black": "Zhao Shan ",
+                "date": "2017-07-08",
+                "result": 0.5,
+                "id": "tournament_458_41"
+            },
+            {
+                "white": "Wu Dong Ping",
+                "black": "Li Yi Cai",
+                "date": "2017-07-08",
+                "result": 0.5,
+                "id": "tournament_458_42"
+            },
+            {
+                "white": "Yang Jun Rui",
+                "black": "Shen Jian Qin",
+                "date": "2017-07-08",
+                "result": 1,
+                "id": "tournament_458_43"
+            },
+            {
+                "white": "Wen Qing Rong",
+                "black": "Meng Dong Ying",
+                "date": "2017-07-08",
+                "result": 1,
+                "id": "tournament_458_44"
+            },
+            {
+                "white": "Yuan Yue ",
+                "black": "Sun Qing Yang",
+                "date": "2017-07-08",
+                "result": 1,
+                "id": "tournament_458_45"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "Zhao Shan ",
+                "black": "Li Yi Cai",
+                "date": "2017-07-09",
+                "result": 0,
+                "id": "tournament_458_46"
+            },
+            {
+                "white": "Wang Yin Bin",
+                "black": "Shen Jian Qin",
+                "date": "2017-07-09",
+                "result": 1,
+                "id": "tournament_458_47"
+            },
+            {
+                "white": "Wen Qing Rong",
+                "black": "Yang Jun Rui",
+                "date": "2017-07-09",
+                "result": 0.5,
+                "id": "tournament_458_48"
+            },
+            {
+                "white": "Yuan Yue ",
+                "black": "Song Jing Xiang",
+                "date": "2017-07-09",
+                "result": 0,
+                "id": "tournament_458_49"
+            },
+            {
+                "white": "Sun Qing Yang",
+                "black": "Meng Dong Ying",
+                "date": "2017-07-09",
+                "result": 1,
+                "id": "tournament_458_50"
+            }
+        ]
+    },
+    "tours": 10,
+    "time_control": "rapid"
+}

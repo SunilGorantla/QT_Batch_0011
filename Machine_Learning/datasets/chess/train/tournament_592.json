@@ -1,0 +1,219 @@
+{
+    "name": "tournament_592",
+    "start_date": "2018-06-13",
+    "end_date": "2018-06-20",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Huang Zhong Ming",
+                "black": "Dong Hai Fei",
+                "date": "2018-06-13",
+                "result": 1,
+                "id": "tournament_592_1"
+            },
+            {
+                "white": "Lai Zhen En",
+                "black": "Jiang Ying ",
+                "date": "2018-06-13",
+                "result": 1,
+                "id": "tournament_592_2"
+            },
+            {
+                "white": "Zheng Jian Yuan",
+                "black": "Zhao Geng ",
+                "date": "2018-06-13",
+                "result": 0,
+                "id": "tournament_592_3"
+            },
+            {
+                "white": "Yang Sha Qiang",
+                "black": "Huang Shu Chu",
+                "date": "2018-06-13",
+                "result": 1,
+                "id": "tournament_592_4"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Dong Hai Fei",
+                "black": "Lai Zhen En",
+                "date": "2018-06-14",
+                "result": 0.5,
+                "id": "tournament_592_5"
+            },
+            {
+                "white": "Huang Zhong Ming",
+                "black": "Zheng Jian Yuan",
+                "date": "2018-06-14",
+                "result": 1,
+                "id": "tournament_592_6"
+            },
+            {
+                "white": "Yang Sha Qiang",
+                "black": "Jiang Ying ",
+                "date": "2018-06-14",
+                "result": 1,
+                "id": "tournament_592_7"
+            },
+            {
+                "white": "Huang Shu Chu",
+                "black": "Zhao Geng ",
+                "date": "2018-06-14",
+                "result": 0,
+                "id": "tournament_592_8"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Zheng Jian Yuan",
+                "black": "Dong Hai Fei",
+                "date": "2018-06-15",
+                "result": 1,
+                "id": "tournament_592_9"
+            },
+            {
+                "white": "Lai Zhen En",
+                "black": "Yang Sha Qiang",
+                "date": "2018-06-15",
+                "result": 0,
+                "id": "tournament_592_10"
+            },
+            {
+                "white": "Huang Zhong Ming",
+                "black": "Huang Shu Chu",
+                "date": "2018-06-15",
+                "result": 1,
+                "id": "tournament_592_11"
+            },
+            {
+                "white": "Zhao Geng ",
+                "black": "Jiang Ying ",
+                "date": "2018-06-15",
+                "result": 1,
+                "id": "tournament_592_12"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Dong Hai Fei",
+                "black": "Yang Sha Qiang",
+                "date": "2018-06-16",
+                "result": 0,
+                "id": "tournament_592_13"
+            },
+            {
+                "white": "Zheng Jian Yuan",
+                "black": "Huang Shu Chu",
+                "date": "2018-06-16",
+                "result": 1,
+                "id": "tournament_592_14"
+            },
+            {
+                "white": "Lai Zhen En",
+                "black": "Zhao Geng ",
+                "date": "2018-06-16",
+                "result": 0.5,
+                "id": "tournament_592_15"
+            },
+            {
+                "white": "Huang Zhong Ming",
+                "black": "Jiang Ying ",
+                "date": "2018-06-16",
+                "result": 1,
+                "id": "tournament_592_16"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Huang Shu Chu",
+                "black": "Dong Hai Fei",
+                "date": "2018-06-17",
+                "result": 0,
+                "id": "tournament_592_17"
+            },
+            {
+                "white": "Yang Sha Qiang",
+                "black": "Zhao Geng ",
+                "date": "2018-06-17",
+                "result": 0,
+                "id": "tournament_592_18"
+            },
+            {
+                "white": "Zheng Jian Yuan",
+                "black": "Jiang Ying ",
+                "date": "2018-06-17",
+                "result": 0,
+                "id": "tournament_592_19"
+            },
+            {
+                "white": "Huang Zhong Ming",
+                "black": "Lai Zhen En",
+                "date": "2018-06-17",
+                "result": 1,
+                "id": "tournament_592_20"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Dong Hai Fei",
+                "black": "Zhao Geng ",
+                "date": "2018-06-18",
+                "result": 0,
+                "id": "tournament_592_21"
+            },
+            {
+                "white": "Huang Shu Chu",
+                "black": "Jiang Ying ",
+                "date": "2018-06-18",
+                "result": 0,
+                "id": "tournament_592_22"
+            },
+            {
+                "white": "Huang Zhong Ming",
+                "black": "Yang Sha Qiang",
+                "date": "2018-06-18",
+                "result": 0,
+                "id": "tournament_592_23"
+            },
+            {
+                "white": "Lai Zhen En",
+                "black": "Zheng Jian Yuan",
+                "date": "2018-06-18",
+                "result": 0.5,
+                "id": "tournament_592_24"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Jiang Ying ",
+                "black": "Dong Hai Fei",
+                "date": "2018-06-19",
+                "result": 1,
+                "id": "tournament_592_25"
+            },
+            {
+                "white": "Huang Zhong Ming",
+                "black": "Zhao Geng ",
+                "date": "2018-06-19",
+                "result": 0.5,
+                "id": "tournament_592_26"
+            },
+            {
+                "white": "Lai Zhen En",
+                "black": "Huang Shu Chu",
+                "date": "2018-06-19",
+                "result": 1,
+                "id": "tournament_592_27"
+            },
+            {
+                "white": "Zheng Jian Yuan",
+                "black": "Yang Sha Qiang",
+                "date": "2018-06-19",
+                "result": 0,
+                "id": "tournament_592_28"
+            }
+        ]
+    },
+    "tours": 7,
+    "time_control": "rapid"
+}

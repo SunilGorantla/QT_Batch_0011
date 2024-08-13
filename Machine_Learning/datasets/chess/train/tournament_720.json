@@ -1,0 +1,342 @@
+{
+    "name": "tournament_720",
+    "start_date": "2019-05-25",
+    "end_date": "2019-06-12",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Liu Yufu",
+                "black": "Fu Sheng",
+                "date": "2019-05-25",
+                "result": 0.5,
+                "id": "tournament_720_1"
+            },
+            {
+                "white": "Song Zeji",
+                "black": "Lin Lixiang",
+                "date": "2019-05-25",
+                "result": 0.5,
+                "id": "tournament_720_2"
+            },
+            {
+                "white": "Yan Chao",
+                "black": "Hu Shengyuan",
+                "date": "2019-05-25",
+                "result": 0.5,
+                "id": "tournament_720_3"
+            },
+            {
+                "white": "Zhang Yan",
+                "black": "Liu Xian",
+                "date": "2019-05-25",
+                "result": 0.5,
+                "id": "tournament_720_4"
+            },
+            {
+                "white": "Liu Xingmei",
+                "black": "Wang Jiu",
+                "date": "2019-05-25",
+                "result": 0.5,
+                "id": "tournament_720_5"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Fu Sheng",
+                "black": "Song Zeji",
+                "date": "2019-05-27",
+                "result": 0.5,
+                "id": "tournament_720_6"
+            },
+            {
+                "white": "Liu Yufu",
+                "black": "Yan Chao",
+                "date": "2019-05-27",
+                "result": 0,
+                "id": "tournament_720_7"
+            },
+            {
+                "white": "Zhang Yan",
+                "black": "Lin Lixiang",
+                "date": "2019-05-27",
+                "result": 0.5,
+                "id": "tournament_720_8"
+            },
+            {
+                "white": "Liu Xingmei",
+                "black": "Hu Shengyuan",
+                "date": "2019-05-27",
+                "result": 0,
+                "id": "tournament_720_9"
+            },
+            {
+                "white": "Wang Jiu",
+                "black": "Liu Xian",
+                "date": "2019-05-27",
+                "result": 1,
+                "id": "tournament_720_10"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Yan Chao",
+                "black": "Fu Sheng",
+                "date": "2019-05-29",
+                "result": 0.5,
+                "id": "tournament_720_11"
+            },
+            {
+                "white": "Song Zeji",
+                "black": "Zhang Yan",
+                "date": "2019-05-29",
+                "result": 0.5,
+                "id": "tournament_720_12"
+            },
+            {
+                "white": "Liu Yufu",
+                "black": "Liu Xingmei",
+                "date": "2019-05-29",
+                "result": 0.5,
+                "id": "tournament_720_13"
+            },
+            {
+                "white": "Wang Jiu",
+                "black": "Lin Lixiang",
+                "date": "2019-05-29",
+                "result": 0.5,
+                "id": "tournament_720_14"
+            },
+            {
+                "white": "Liu Xian",
+                "black": "Hu Shengyuan",
+                "date": "2019-05-29",
+                "result": 0,
+                "id": "tournament_720_15"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Fu Sheng",
+                "black": "Zhang Yan",
+                "date": "2019-05-31",
+                "result": 1,
+                "id": "tournament_720_16"
+            },
+            {
+                "white": "Yan Chao",
+                "black": "Liu Xingmei",
+                "date": "2019-05-31",
+                "result": 0.5,
+                "id": "tournament_720_17"
+            },
+            {
+                "white": "Song Zeji",
+                "black": "Wang Jiu",
+                "date": "2019-05-31",
+                "result": 1,
+                "id": "tournament_720_18"
+            },
+            {
+                "white": "Liu Yufu",
+                "black": "Liu Xian",
+                "date": "2019-05-31",
+                "result": 1,
+                "id": "tournament_720_19"
+            },
+            {
+                "white": "Hu Shengyuan",
+                "black": "Lin Lixiang",
+                "date": "2019-05-31",
+                "result": 0.5,
+                "id": "tournament_720_20"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Liu Xingmei",
+                "black": "Fu Sheng",
+                "date": "2019-06-02",
+                "result": 0,
+                "id": "tournament_720_21"
+            },
+            {
+                "white": "Zhang Yan",
+                "black": "Wang Jiu",
+                "date": "2019-06-02",
+                "result": 0.5,
+                "id": "tournament_720_22"
+            },
+            {
+                "white": "Yan Chao",
+                "black": "Liu Xian",
+                "date": "2019-06-02",
+                "result": 1,
+                "id": "tournament_720_23"
+            },
+            {
+                "white": "Song Zeji",
+                "black": "Hu Shengyuan",
+                "date": "2019-06-02",
+                "result": 1,
+                "id": "tournament_720_24"
+            },
+            {
+                "white": "Liu Yufu",
+                "black": "Lin Lixiang",
+                "date": "2019-06-02",
+                "result": 0.5,
+                "id": "tournament_720_25"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Fu Sheng",
+                "black": "Wang Jiu",
+                "date": "2019-06-04",
+                "result": 0.5,
+                "id": "tournament_720_26"
+            },
+            {
+                "white": "Liu Xingmei",
+                "black": "Liu Xian",
+                "date": "2019-06-04",
+                "result": 1,
+                "id": "tournament_720_27"
+            },
+            {
+                "white": "Zhang Yan",
+                "black": "Hu Shengyuan",
+                "date": "2019-06-04",
+                "result": 0,
+                "id": "tournament_720_28"
+            },
+            {
+                "white": "Yan Chao",
+                "black": "Lin Lixiang",
+                "date": "2019-06-04",
+                "result": 0.5,
+                "id": "tournament_720_29"
+            },
+            {
+                "white": "Liu Yufu",
+                "black": "Song Zeji",
+                "date": "2019-06-04",
+                "result": 0,
+                "id": "tournament_720_30"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Liu Xian",
+                "black": "Fu Sheng",
+                "date": "2019-06-06",
+                "result": 0.5,
+                "id": "tournament_720_31"
+            },
+            {
+                "white": "Wang Jiu",
+                "black": "Hu Shengyuan",
+                "date": "2019-06-06",
+                "result": 0.5,
+                "id": "tournament_720_32"
+            },
+            {
+                "white": "Liu Xingmei",
+                "black": "Lin Lixiang",
+                "date": "2019-06-06",
+                "result": 0,
+                "id": "tournament_720_33"
+            },
+            {
+                "white": "Liu Yufu",
+                "black": "Zhang Yan",
+                "date": "2019-06-06",
+                "result": 0,
+                "id": "tournament_720_34"
+            },
+            {
+                "white": "Song Zeji",
+                "black": "Yan Chao",
+                "date": "2019-06-06",
+                "result": 1,
+                "id": "tournament_720_35"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Fu Sheng",
+                "black": "Hu Shengyuan",
+                "date": "2019-06-08",
+                "result": 1,
+                "id": "tournament_720_36"
+            },
+            {
+                "white": "Liu Xian",
+                "black": "Lin Lixiang",
+                "date": "2019-06-08",
+                "result": 0,
+                "id": "tournament_720_37"
+            },
+            {
+                "white": "Liu Yufu",
+                "black": "Wang Jiu",
+                "date": "2019-06-08",
+                "result": 0.5,
+                "id": "tournament_720_38"
+            },
+            {
+                "white": "Song Zeji",
+                "black": "Liu Xingmei",
+                "date": "2019-06-08",
+                "result": 1,
+                "id": "tournament_720_39"
+            },
+            {
+                "white": "Yan Chao",
+                "black": "Zhang Yan",
+                "date": "2019-06-08",
+                "result": 0.5,
+                "id": "tournament_720_40"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Lin Lixiang",
+                "black": "Fu Sheng",
+                "date": "2019-06-10",
+                "result": 0.5,
+                "id": "tournament_720_41"
+            },
+            {
+                "white": "Liu Yufu",
+                "black": "Hu Shengyuan",
+                "date": "2019-06-10",
+                "result": 0,
+                "id": "tournament_720_42"
+            },
+            {
+                "white": "Song Zeji",
+                "black": "Liu Xian",
+                "date": "2019-06-10",
+                "result": 1,
+                "id": "tournament_720_43"
+            },
+            {
+                "white": "Yan Chao",
+                "black": "Wang Jiu",
+                "date": "2019-06-10",
+                "result": 1,
+                "id": "tournament_720_44"
+            },
+            {
+                "white": "Zhang Yan",
+                "black": "Liu Xingmei",
+                "date": "2019-06-10",
+                "result": 1,
+                "id": "tournament_720_45"
+            }
+        ]
+    },
+    "tours": 9,
+    "time_control": "classic"
+}

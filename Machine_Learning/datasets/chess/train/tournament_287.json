@@ -1,0 +1,249 @@
+{
+    "name": "tournament_287",
+    "start_date": "2016-03-08",
+    "end_date": "2016-03-24",
+    "games": {
+        "tour_1": [
+            {
+                "white": "张冰",
+                "black": "周影吉",
+                "date": "2016-03-08",
+                "result": 0.5,
+                "id": "tournament_287_1"
+            },
+            {
+                "white": "王建瑶",
+                "black": "张伟",
+                "date": "2016-03-08",
+                "result": 0.5,
+                "id": "tournament_287_2"
+            },
+            {
+                "white": "吴海芳",
+                "black": "罗兴诗",
+                "date": "2016-03-08",
+                "result": 0.5,
+                "id": "tournament_287_3"
+            },
+            {
+                "white": "李嘉爵",
+                "black": "李汶玲",
+                "date": "2016-03-08",
+                "result": 0.5,
+                "id": "tournament_287_4"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "邱辛木",
+                "black": "张冰",
+                "date": "2016-03-10",
+                "result": 1,
+                "id": "tournament_287_5"
+            },
+            {
+                "white": "吴海芳",
+                "black": "周影吉",
+                "date": "2016-03-10",
+                "result": 1,
+                "id": "tournament_287_6"
+            },
+            {
+                "white": "李嘉爵",
+                "black": "张伟",
+                "date": "2016-03-10",
+                "result": 1,
+                "id": "tournament_287_7"
+            },
+            {
+                "white": "李汶玲",
+                "black": "罗兴诗",
+                "date": "2016-03-10",
+                "result": 1,
+                "id": "tournament_287_8"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "王建瑶",
+                "black": "邱辛木",
+                "date": "2016-03-12",
+                "result": 1,
+                "id": "tournament_287_9"
+            },
+            {
+                "white": "张冰",
+                "black": "吴海芳",
+                "date": "2016-03-12",
+                "result": 0.5,
+                "id": "tournament_287_10"
+            },
+            {
+                "white": "李汶玲",
+                "black": "周影吉",
+                "date": "2016-03-12",
+                "result": 1,
+                "id": "tournament_287_11"
+            },
+            {
+                "white": "罗兴诗",
+                "black": "张伟",
+                "date": "2016-03-12",
+                "result": 0,
+                "id": "tournament_287_12"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "邱辛木",
+                "black": "吴海芳",
+                "date": "2016-03-14",
+                "result": 1,
+                "id": "tournament_287_13"
+            },
+            {
+                "white": "王建瑶",
+                "black": "李嘉爵",
+                "date": "2016-03-14",
+                "result": 1,
+                "id": "tournament_287_14"
+            },
+            {
+                "white": "张冰",
+                "black": "李汶玲",
+                "date": "2016-03-14",
+                "result": 0,
+                "id": "tournament_287_15"
+            },
+            {
+                "white": "张伟",
+                "black": "周影吉",
+                "date": "2016-03-14",
+                "result": 1,
+                "id": "tournament_287_16"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "李嘉爵",
+                "black": "邱辛木",
+                "date": "2016-03-16",
+                "result": 0.5,
+                "id": "tournament_287_17"
+            },
+            {
+                "white": "吴海芳",
+                "black": "李汶玲",
+                "date": "2016-03-16",
+                "result": 0,
+                "id": "tournament_287_18"
+            },
+            {
+                "white": "王建瑶",
+                "black": "罗兴诗",
+                "date": "2016-03-16",
+                "result": 1,
+                "id": "tournament_287_19"
+            },
+            {
+                "white": "张冰",
+                "black": "张伟",
+                "date": "2016-03-16",
+                "result": 1,
+                "id": "tournament_287_20"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "邱辛木",
+                "black": "李汶玲",
+                "date": "2016-03-18",
+                "result": 1,
+                "id": "tournament_287_21"
+            },
+            {
+                "white": "李嘉爵",
+                "black": "罗兴诗",
+                "date": "2016-03-18",
+                "result": 1,
+                "id": "tournament_287_22"
+            },
+            {
+                "white": "吴海芳",
+                "black": "张伟",
+                "date": "2016-03-18",
+                "result": 0,
+                "id": "tournament_287_23"
+            },
+            {
+                "white": "王建瑶",
+                "black": "周影吉",
+                "date": "2016-03-18",
+                "result": 0.5,
+                "id": "tournament_287_24"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "罗兴诗",
+                "black": "邱辛木",
+                "date": "2016-03-20",
+                "result": 0,
+                "id": "tournament_287_25"
+            },
+            {
+                "white": "李汶玲",
+                "black": "张伟",
+                "date": "2016-03-20",
+                "result": 1,
+                "id": "tournament_287_26"
+            },
+            {
+                "white": "李嘉爵",
+                "black": "周影吉",
+                "date": "2016-03-20",
+                "result": 1,
+                "id": "tournament_287_27"
+            },
+            {
+                "white": "张冰",
+                "black": "王建瑶",
+                "date": "2016-03-20",
+                "result": 1,
+                "id": "tournament_287_28"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "邱辛木",
+                "black": "张伟",
+                "date": "2016-03-22",
+                "result": 1,
+                "id": "tournament_287_29"
+            },
+            {
+                "white": "罗兴诗",
+                "black": "周影吉",
+                "date": "2016-03-22",
+                "result": 0,
+                "id": "tournament_287_30"
+            },
+            {
+                "white": "张冰",
+                "black": "李嘉爵",
+                "date": "2016-03-22",
+                "result": 0,
+                "id": "tournament_287_31"
+            },
+            {
+                "white": "王建瑶",
+                "black": "吴海芳",
+                "date": "2016-03-22",
+                "result": 1,
+                "id": "tournament_287_32"
+            }
+        ]
+    },
+    "tours": 8,
+    "time_control": "classic"
+}

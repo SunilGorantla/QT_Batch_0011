@@ -1,0 +1,2310 @@
+{
+    "name": "tournament_14",
+    "start_date": "2014-01-23",
+    "end_date": "2014-02-18",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Yang Yue ",
+                "black": "Wu Yong Ji",
+                "date": "2014-01-23",
+                "result": 0,
+                "id": "tournament_14_1"
+            },
+            {
+                "white": "Zhang Ye Jun",
+                "black": "Liu Yun Yu",
+                "date": "2014-01-23",
+                "result": 0,
+                "id": "tournament_14_2"
+            },
+            {
+                "white": "Bi Xiao Yue",
+                "black": "Yan Sui ",
+                "date": "2014-01-23",
+                "result": 0.5,
+                "id": "tournament_14_3"
+            },
+            {
+                "white": "Li Yuan ",
+                "black": "Liu Fei ",
+                "date": "2014-01-23",
+                "result": 0.5,
+                "id": "tournament_14_4"
+            },
+            {
+                "white": "Song Jing Xiang",
+                "black": "Huang Cun Hua",
+                "date": "2014-01-23",
+                "result": 0.5,
+                "id": "tournament_14_5"
+            },
+            {
+                "white": "Zhai Qun Gang",
+                "black": "Li Xing Bo",
+                "date": "2014-01-23",
+                "result": 0.5,
+                "id": "tournament_14_6"
+            },
+            {
+                "white": "Wang Yu Na",
+                "black": "Yang Yan Bo",
+                "date": "2014-01-23",
+                "result": 1,
+                "id": "tournament_14_7"
+            },
+            {
+                "white": "Chen Sen ",
+                "black": "Duan Zhen ",
+                "date": "2014-01-23",
+                "result": 0.5,
+                "id": "tournament_14_8"
+            },
+            {
+                "white": "Chen Zhi ",
+                "black": "Liu Jing Qiang",
+                "date": "2014-01-23",
+                "result": 1,
+                "id": "tournament_14_9"
+            },
+            {
+                "white": "Xie Wei Gong",
+                "black": "Li Xuan ",
+                "date": "2014-01-23",
+                "result": 0.5,
+                "id": "tournament_14_10"
+            },
+            {
+                "white": "Deng Lie ",
+                "black": "Shen Min Fu",
+                "date": "2014-01-23",
+                "result": 0.5,
+                "id": "tournament_14_11"
+            },
+            {
+                "white": "Cheng Zi Hua",
+                "black": "Wen Li Ling",
+                "date": "2014-01-23",
+                "result": 1,
+                "id": "tournament_14_12"
+            },
+            {
+                "white": "Wang Rui Zi",
+                "black": "Wang Ji Zhi",
+                "date": "2014-01-23",
+                "result": 1,
+                "id": "tournament_14_13"
+            },
+            {
+                "white": "Bi Lu Hui",
+                "black": "Qiu Xin Mu",
+                "date": "2014-01-23",
+                "result": 1,
+                "id": "tournament_14_14"
+            },
+            {
+                "white": "Zhu Chun Qi",
+                "black": "Zhang Xiao ",
+                "date": "2014-01-23",
+                "result": 0,
+                "id": "tournament_14_15"
+            },
+            {
+                "white": "Zhang Chun ",
+                "black": "Xu Ding Yun",
+                "date": "2014-01-23",
+                "result": 0.5,
+                "id": "tournament_14_16"
+            },
+            {
+                "white": "Tan Yao ",
+                "black": "Huang Qian Jian",
+                "date": "2014-01-23",
+                "result": 0,
+                "id": "tournament_14_17"
+            },
+            {
+                "white": "Zhou Ze Bin",
+                "black": "Zhou Zhong Lei",
+                "date": "2014-01-23",
+                "result": 1,
+                "id": "tournament_14_18"
+            },
+            {
+                "white": "Tian Yong ",
+                "black": "Hu Sheng Yuan",
+                "date": "2014-01-23",
+                "result": 1,
+                "id": "tournament_14_19"
+            },
+            {
+                "white": "Pang Jing ",
+                "black": "Tan Zai ",
+                "date": "2014-01-23",
+                "result": 0,
+                "id": "tournament_14_20"
+            },
+            {
+                "white": "Jin Meng Hui",
+                "black": "Lv Ming Mei",
+                "date": "2014-01-23",
+                "result": 1,
+                "id": "tournament_14_21"
+            },
+            {
+                "white": "Huang Guo Hua",
+                "black": "Zhou Meng Long",
+                "date": "2014-01-23",
+                "result": 1,
+                "id": "tournament_14_22"
+            },
+            {
+                "white": "Wei Si Feng",
+                "black": "Qin Hui Fei",
+                "date": "2014-01-23",
+                "result": 0.5,
+                "id": "tournament_14_23"
+            },
+            {
+                "white": "Xie Tian Ying",
+                "black": "Li Lu Juan",
+                "date": "2014-01-23",
+                "result": 0,
+                "id": "tournament_14_24"
+            },
+            {
+                "white": "Yan Chao ",
+                "black": "Huang Xian Feng",
+                "date": "2014-01-23",
+                "result": 1,
+                "id": "tournament_14_25"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Wu Yong Ji",
+                "black": "Wang Yu Na",
+                "date": "2014-01-25",
+                "result": 1,
+                "id": "tournament_14_26"
+            },
+            {
+                "white": "Liu Yun Yu",
+                "black": "Chen Zhi ",
+                "date": "2014-01-25",
+                "result": 0.5,
+                "id": "tournament_14_27"
+            },
+            {
+                "white": "Zhang Xiao ",
+                "black": "Cheng Zi Hua",
+                "date": "2014-01-25",
+                "result": 0.5,
+                "id": "tournament_14_28"
+            },
+            {
+                "white": "Huang Qian Jian",
+                "black": "Wang Rui Zi",
+                "date": "2014-01-25",
+                "result": 0.5,
+                "id": "tournament_14_29"
+            },
+            {
+                "white": "Tan Zai ",
+                "black": "Bi Lu Hui",
+                "date": "2014-01-25",
+                "result": 1,
+                "id": "tournament_14_30"
+            },
+            {
+                "white": "Li Lu Juan",
+                "black": "Zhou Ze Bin",
+                "date": "2014-01-25",
+                "result": 0,
+                "id": "tournament_14_31"
+            },
+            {
+                "white": "Yan Sui ",
+                "black": "Tian Yong ",
+                "date": "2014-01-25",
+                "result": 0,
+                "id": "tournament_14_32"
+            },
+            {
+                "white": "Liu Fei ",
+                "black": "Jin Meng Hui",
+                "date": "2014-01-25",
+                "result": 0,
+                "id": "tournament_14_33"
+            },
+            {
+                "white": "Huang Cun Hua",
+                "black": "Huang Guo Hua",
+                "date": "2014-01-25",
+                "result": 0.5,
+                "id": "tournament_14_34"
+            },
+            {
+                "white": "Li Xing Bo",
+                "black": "Gao Yu Tao",
+                "date": "2014-01-25",
+                "result": 0,
+                "id": "tournament_14_35"
+            },
+            {
+                "white": "Duan Zhen ",
+                "black": "Yan Chao ",
+                "date": "2014-01-25",
+                "result": 0,
+                "id": "tournament_14_36"
+            },
+            {
+                "white": "Li Xuan ",
+                "black": "Bi Xiao Yue",
+                "date": "2014-01-25",
+                "result": 0,
+                "id": "tournament_14_37"
+            },
+            {
+                "white": "Shen Min Fu",
+                "black": "Li Yuan ",
+                "date": "2014-01-25",
+                "result": 0.5,
+                "id": "tournament_14_38"
+            },
+            {
+                "white": "Xu Ding Yun",
+                "black": "Song Jing Xiang",
+                "date": "2014-01-25",
+                "result": 0,
+                "id": "tournament_14_39"
+            },
+            {
+                "white": "Qin Hui Fei",
+                "black": "Zhai Qun Gang",
+                "date": "2014-01-25",
+                "result": 1,
+                "id": "tournament_14_40"
+            },
+            {
+                "white": "Yang Yan Bo",
+                "black": "Chen Sen ",
+                "date": "2014-01-25",
+                "result": 1,
+                "id": "tournament_14_41"
+            },
+            {
+                "white": "Liu Jing Qiang",
+                "black": "Xie Wei Gong",
+                "date": "2014-01-25",
+                "result": 0.5,
+                "id": "tournament_14_42"
+            },
+            {
+                "white": "Wen Li Ling",
+                "black": "Deng Lie ",
+                "date": "2014-01-25",
+                "result": 0.5,
+                "id": "tournament_14_43"
+            },
+            {
+                "white": "Wang Ji Zhi",
+                "black": "Zhang Chun ",
+                "date": "2014-01-25",
+                "result": 0.5,
+                "id": "tournament_14_44"
+            },
+            {
+                "white": "Qiu Xin Mu",
+                "black": "Wei Si Feng",
+                "date": "2014-01-25",
+                "result": 0,
+                "id": "tournament_14_45"
+            },
+            {
+                "white": "Zhou Zhong Lei",
+                "black": "Yang Yue ",
+                "date": "2014-01-25",
+                "result": 1,
+                "id": "tournament_14_46"
+            },
+            {
+                "white": "Hu Sheng Yuan",
+                "black": "Zhang Ye Jun",
+                "date": "2014-01-25",
+                "result": 0.5,
+                "id": "tournament_14_47"
+            },
+            {
+                "white": "Lv Ming Mei",
+                "black": "Zhu Chun Qi",
+                "date": "2014-01-25",
+                "result": 1,
+                "id": "tournament_14_48"
+            },
+            {
+                "white": "Zhou Meng Long",
+                "black": "Tan Yao ",
+                "date": "2014-01-25",
+                "result": 1,
+                "id": "tournament_14_49"
+            },
+            {
+                "white": "Huang Xian Feng",
+                "black": "Pang Jing ",
+                "date": "2014-01-25",
+                "result": 1,
+                "id": "tournament_14_50"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Zhou Ze Bin",
+                "black": "Wu Yong Ji",
+                "date": "2014-01-27",
+                "result": 1,
+                "id": "tournament_14_51"
+            },
+            {
+                "white": "Tian Yong ",
+                "black": "Tan Zai ",
+                "date": "2014-01-27",
+                "result": 0.5,
+                "id": "tournament_14_52"
+            },
+            {
+                "white": "Jin Meng Hui",
+                "black": "Liu Yun Yu",
+                "date": "2014-01-27",
+                "result": 1,
+                "id": "tournament_14_53"
+            },
+            {
+                "white": "Gao Yu Tao",
+                "black": "Zhang Xiao ",
+                "date": "2014-01-27",
+                "result": 0.5,
+                "id": "tournament_14_54"
+            },
+            {
+                "white": "Yan Chao ",
+                "black": "Huang Qian Jian",
+                "date": "2014-01-27",
+                "result": 0,
+                "id": "tournament_14_55"
+            },
+            {
+                "white": "Chen Zhi ",
+                "black": "Qin Hui Fei",
+                "date": "2014-01-27",
+                "result": 1,
+                "id": "tournament_14_56"
+            },
+            {
+                "white": "Cheng Zi Hua",
+                "black": "Li Lu Juan",
+                "date": "2014-01-27",
+                "result": 1,
+                "id": "tournament_14_57"
+            },
+            {
+                "white": "Wang Rui Zi",
+                "black": "Huang Cun Hua",
+                "date": "2014-01-27",
+                "result": 0,
+                "id": "tournament_14_58"
+            },
+            {
+                "white": "Huang Guo Hua",
+                "black": "Shen Min Fu",
+                "date": "2014-01-27",
+                "result": 1,
+                "id": "tournament_14_59"
+            },
+            {
+                "white": "Bi Xiao Yue",
+                "black": "Yang Yan Bo",
+                "date": "2014-01-27",
+                "result": 0.5,
+                "id": "tournament_14_60"
+            },
+            {
+                "white": "Song Jing Xiang",
+                "black": "Zhou Zhong Lei",
+                "date": "2014-01-27",
+                "result": 0.5,
+                "id": "tournament_14_61"
+            },
+            {
+                "white": "Wei Si Feng",
+                "black": "Lv Ming Mei",
+                "date": "2014-01-27",
+                "result": 1,
+                "id": "tournament_14_62"
+            },
+            {
+                "white": "Wang Yu Na",
+                "black": "Zhou Meng Long",
+                "date": "2014-01-27",
+                "result": 1,
+                "id": "tournament_14_63"
+            },
+            {
+                "white": "Bi Lu Hui",
+                "black": "Huang Xian Feng",
+                "date": "2014-01-27",
+                "result": 0,
+                "id": "tournament_14_64"
+            },
+            {
+                "white": "Li Yuan ",
+                "black": "Yan Sui ",
+                "date": "2014-01-27",
+                "result": 1,
+                "id": "tournament_14_65"
+            },
+            {
+                "white": "Xie Wei Gong",
+                "black": "Liu Fei ",
+                "date": "2014-01-27",
+                "result": 0.5,
+                "id": "tournament_14_66"
+            },
+            {
+                "white": "Deng Lie ",
+                "black": "Li Xing Bo",
+                "date": "2014-01-27",
+                "result": 0,
+                "id": "tournament_14_67"
+            },
+            {
+                "white": "Zhang Chun ",
+                "black": "Duan Zhen ",
+                "date": "2014-01-27",
+                "result": 0.5,
+                "id": "tournament_14_68"
+            },
+            {
+                "white": "Xie Tian Ying",
+                "black": "Li Xuan ",
+                "date": "2014-01-27",
+                "result": 0.5,
+                "id": "tournament_14_69"
+            },
+            {
+                "white": "Zhai Qun Gang",
+                "black": "Xu Ding Yun",
+                "date": "2014-01-27",
+                "result": 0.5,
+                "id": "tournament_14_70"
+            },
+            {
+                "white": "Chen Sen ",
+                "black": "Liu Jing Qiang",
+                "date": "2014-01-27",
+                "result": 0.5,
+                "id": "tournament_14_71"
+            },
+            {
+                "white": "Zhang Ye Jun",
+                "black": "Wen Li Ling",
+                "date": "2014-01-27",
+                "result": 1,
+                "id": "tournament_14_72"
+            },
+            {
+                "white": "Yang Yue ",
+                "black": "Wang Ji Zhi",
+                "date": "2014-01-27",
+                "result": 0.5,
+                "id": "tournament_14_73"
+            },
+            {
+                "white": "Zhu Chun Qi",
+                "black": "Hu Sheng Yuan",
+                "date": "2014-01-27",
+                "result": 0.5,
+                "id": "tournament_14_74"
+            },
+            {
+                "white": "Tan Yao ",
+                "black": "Qiu Xin Mu",
+                "date": "2014-01-27",
+                "result": 1,
+                "id": "tournament_14_75"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Tan Zai ",
+                "black": "Zhou Ze Bin",
+                "date": "2014-01-29",
+                "result": 0,
+                "id": "tournament_14_76"
+            },
+            {
+                "white": "Huang Qian Jian",
+                "black": "Jin Meng Hui",
+                "date": "2014-01-29",
+                "result": 0,
+                "id": "tournament_14_77"
+            },
+            {
+                "white": "Wu Yong Ji",
+                "black": "Tian Yong ",
+                "date": "2014-01-29",
+                "result": 0.5,
+                "id": "tournament_14_78"
+            },
+            {
+                "white": "Huang Cun Hua",
+                "black": "Gao Yu Tao",
+                "date": "2014-01-29",
+                "result": 0.5,
+                "id": "tournament_14_79"
+            },
+            {
+                "white": "Zhang Xiao ",
+                "black": "Chen Zhi ",
+                "date": "2014-01-29",
+                "result": 0.5,
+                "id": "tournament_14_80"
+            },
+            {
+                "white": "Huang Xian Feng",
+                "black": "Cheng Zi Hua",
+                "date": "2014-01-29",
+                "result": 0.5,
+                "id": "tournament_14_81"
+            },
+            {
+                "white": "Liu Yun Yu",
+                "black": "Huang Guo Hua",
+                "date": "2014-01-29",
+                "result": 0.5,
+                "id": "tournament_14_82"
+            },
+            {
+                "white": "Yang Yan Bo",
+                "black": "Wei Si Feng",
+                "date": "2014-01-29",
+                "result": 0.5,
+                "id": "tournament_14_83"
+            },
+            {
+                "white": "Qin Hui Fei",
+                "black": "Yan Chao ",
+                "date": "2014-01-29",
+                "result": 0.5,
+                "id": "tournament_14_84"
+            },
+            {
+                "white": "Zhou Zhong Lei",
+                "black": "Bi Xiao Yue",
+                "date": "2014-01-29",
+                "result": 0.5,
+                "id": "tournament_14_85"
+            },
+            {
+                "white": "Li Xing Bo",
+                "black": "Song Jing Xiang",
+                "date": "2014-01-29",
+                "result": 1,
+                "id": "tournament_14_86"
+            },
+            {
+                "white": "Li Lu Juan",
+                "black": "Wang Yu Na",
+                "date": "2014-01-29",
+                "result": 0,
+                "id": "tournament_14_87"
+            },
+            {
+                "white": "Lv Ming Mei",
+                "black": "Li Yuan ",
+                "date": "2014-01-29",
+                "result": 0,
+                "id": "tournament_14_88"
+            },
+            {
+                "white": "Shen Min Fu",
+                "black": "Wang Rui Zi",
+                "date": "2014-01-29",
+                "result": 0.5,
+                "id": "tournament_14_89"
+            },
+            {
+                "white": "Zhou Meng Long",
+                "black": "Xie Wei Gong",
+                "date": "2014-01-29",
+                "result": 0.5,
+                "id": "tournament_14_90"
+            },
+            {
+                "white": "Liu Fei ",
+                "black": "Zhang Chun ",
+                "date": "2014-01-29",
+                "result": 0,
+                "id": "tournament_14_91"
+            },
+            {
+                "white": "Duan Zhen ",
+                "black": "Xie Tian Ying",
+                "date": "2014-01-29",
+                "result": 0.5,
+                "id": "tournament_14_92"
+            },
+            {
+                "white": "Li Xuan ",
+                "black": "Zhang Ye Jun",
+                "date": "2014-01-29",
+                "result": 1,
+                "id": "tournament_14_93"
+            },
+            {
+                "white": "Xu Ding Yun",
+                "black": "Bi Lu Hui",
+                "date": "2014-01-29",
+                "result": 1,
+                "id": "tournament_14_94"
+            },
+            {
+                "white": "Liu Jing Qiang",
+                "black": "Deng Lie ",
+                "date": "2014-01-29",
+                "result": 0.5,
+                "id": "tournament_14_95"
+            },
+            {
+                "white": "Wang Ji Zhi",
+                "black": "Zhai Qun Gang",
+                "date": "2014-01-29",
+                "result": 0,
+                "id": "tournament_14_96"
+            },
+            {
+                "white": "Hu Sheng Yuan",
+                "black": "Chen Sen ",
+                "date": "2014-01-29",
+                "result": 1,
+                "id": "tournament_14_97"
+            },
+            {
+                "white": "Yan Sui ",
+                "black": "Tan Yao ",
+                "date": "2014-01-29",
+                "result": 0.5,
+                "id": "tournament_14_98"
+            },
+            {
+                "white": "Wen Li Ling",
+                "black": "Pang Jing ",
+                "date": "2014-01-29",
+                "result": 1,
+                "id": "tournament_14_99"
+            },
+            {
+                "white": "Qiu Xin Mu",
+                "black": "Yang Yue ",
+                "date": "2014-01-29",
+                "result": 0.5,
+                "id": "tournament_14_100"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Zhou Ze Bin",
+                "black": "Huang Qian Jian",
+                "date": "2014-01-31",
+                "result": 0.5,
+                "id": "tournament_14_101"
+            },
+            {
+                "white": "Jin Meng Hui",
+                "black": "Tan Zai ",
+                "date": "2014-01-31",
+                "result": 1,
+                "id": "tournament_14_102"
+            },
+            {
+                "white": "Tian Yong ",
+                "black": "Zhang Xiao ",
+                "date": "2014-01-31",
+                "result": 0.5,
+                "id": "tournament_14_103"
+            },
+            {
+                "white": "Gao Yu Tao",
+                "black": "Wu Yong Ji",
+                "date": "2014-01-31",
+                "result": 0.5,
+                "id": "tournament_14_104"
+            },
+            {
+                "white": "Chen Zhi ",
+                "black": "Huang Cun Hua",
+                "date": "2014-01-31",
+                "result": 1,
+                "id": "tournament_14_105"
+            },
+            {
+                "white": "Cheng Zi Hua",
+                "black": "Li Xing Bo",
+                "date": "2014-01-31",
+                "result": 0.5,
+                "id": "tournament_14_106"
+            },
+            {
+                "white": "Huang Guo Hua",
+                "black": "Huang Xian Feng",
+                "date": "2014-01-31",
+                "result": 1,
+                "id": "tournament_14_107"
+            },
+            {
+                "white": "Wei Si Feng",
+                "black": "Liu Yun Yu",
+                "date": "2014-01-31",
+                "result": 0.5,
+                "id": "tournament_14_108"
+            },
+            {
+                "white": "Wang Yu Na",
+                "black": "Qin Hui Fei",
+                "date": "2014-01-31",
+                "result": 1,
+                "id": "tournament_14_109"
+            },
+            {
+                "white": "Li Yuan ",
+                "black": "Yang Yan Bo",
+                "date": "2014-01-31",
+                "result": 1,
+                "id": "tournament_14_110"
+            },
+            {
+                "white": "Yan Chao ",
+                "black": "Zhou Zhong Lei",
+                "date": "2014-01-31",
+                "result": 1,
+                "id": "tournament_14_111"
+            },
+            {
+                "white": "Bi Xiao Yue",
+                "black": "Xu Ding Yun",
+                "date": "2014-01-31",
+                "result": 0,
+                "id": "tournament_14_112"
+            },
+            {
+                "white": "Zhang Chun ",
+                "black": "Li Xuan ",
+                "date": "2014-01-31",
+                "result": 0.5,
+                "id": "tournament_14_113"
+            },
+            {
+                "white": "Song Jing Xiang",
+                "black": "Hu Sheng Yuan",
+                "date": "2014-01-31",
+                "result": 0.5,
+                "id": "tournament_14_114"
+            },
+            {
+                "white": "Wang Rui Zi",
+                "black": "Zhou Meng Long",
+                "date": "2014-01-31",
+                "result": 0.5,
+                "id": "tournament_14_115"
+            },
+            {
+                "white": "Xie Wei Gong",
+                "black": "Shen Min Fu",
+                "date": "2014-01-31",
+                "result": 0.5,
+                "id": "tournament_14_116"
+            },
+            {
+                "white": "Xie Tian Ying",
+                "black": "Liu Jing Qiang",
+                "date": "2014-01-31",
+                "result": 1,
+                "id": "tournament_14_117"
+            },
+            {
+                "white": "Zhai Qun Gang",
+                "black": "Duan Zhen ",
+                "date": "2014-01-31",
+                "result": 1,
+                "id": "tournament_14_118"
+            },
+            {
+                "white": "Zhang Ye Jun",
+                "black": "Li Lu Juan",
+                "date": "2014-01-31",
+                "result": 0.5,
+                "id": "tournament_14_119"
+            },
+            {
+                "white": "Deng Lie ",
+                "black": "Lv Ming Mei",
+                "date": "2014-01-31",
+                "result": 1,
+                "id": "tournament_14_120"
+            },
+            {
+                "white": "Tan Yao ",
+                "black": "Wen Li Ling",
+                "date": "2014-01-31",
+                "result": 0.5,
+                "id": "tournament_14_121"
+            },
+            {
+                "white": "Zhu Chun Qi",
+                "black": "Liu Fei ",
+                "date": "2014-01-31",
+                "result": 0,
+                "id": "tournament_14_122"
+            },
+            {
+                "white": "Bi Lu Hui",
+                "black": "Wang Ji Zhi",
+                "date": "2014-01-31",
+                "result": 1,
+                "id": "tournament_14_123"
+            },
+            {
+                "white": "Chen Sen ",
+                "black": "Yan Sui ",
+                "date": "2014-01-31",
+                "result": 1,
+                "id": "tournament_14_124"
+            },
+            {
+                "white": "Pang Jing ",
+                "black": "Qiu Xin Mu",
+                "date": "2014-01-31",
+                "result": 0.5,
+                "id": "tournament_14_125"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Wu Yong Ji",
+                "black": "Jin Meng Hui",
+                "date": "2014-02-02",
+                "result": 0.5,
+                "id": "tournament_14_126"
+            },
+            {
+                "white": "Zhang Xiao ",
+                "black": "Zhou Ze Bin",
+                "date": "2014-02-02",
+                "result": 0,
+                "id": "tournament_14_127"
+            },
+            {
+                "white": "Huang Qian Jian",
+                "black": "Chen Zhi ",
+                "date": "2014-02-02",
+                "result": 0,
+                "id": "tournament_14_128"
+            },
+            {
+                "white": "Li Xing Bo",
+                "black": "Huang Guo Hua",
+                "date": "2014-02-02",
+                "result": 0.5,
+                "id": "tournament_14_129"
+            },
+            {
+                "white": "Xu Ding Yun",
+                "black": "Wang Yu Na",
+                "date": "2014-02-02",
+                "result": 0,
+                "id": "tournament_14_130"
+            },
+            {
+                "white": "Tan Zai ",
+                "black": "Li Yuan ",
+                "date": "2014-02-02",
+                "result": 0,
+                "id": "tournament_14_131"
+            },
+            {
+                "white": "Huang Cun Hua",
+                "black": "Tian Yong ",
+                "date": "2014-02-02",
+                "result": 1,
+                "id": "tournament_14_132"
+            },
+            {
+                "white": "Huang Xian Feng",
+                "black": "Gao Yu Tao",
+                "date": "2014-02-02",
+                "result": 0.5,
+                "id": "tournament_14_133"
+            },
+            {
+                "white": "Liu Yun Yu",
+                "black": "Cheng Zi Hua",
+                "date": "2014-02-02",
+                "result": 0.5,
+                "id": "tournament_14_134"
+            },
+            {
+                "white": "Li Xuan ",
+                "black": "Wei Si Feng",
+                "date": "2014-02-02",
+                "result": 0,
+                "id": "tournament_14_135"
+            },
+            {
+                "white": "Hu Sheng Yuan",
+                "black": "Yan Chao ",
+                "date": "2014-02-02",
+                "result": 0.5,
+                "id": "tournament_14_136"
+            },
+            {
+                "white": "Qin Hui Fei",
+                "black": "Zhang Chun ",
+                "date": "2014-02-02",
+                "result": 1,
+                "id": "tournament_14_137"
+            },
+            {
+                "white": "Yang Yan Bo",
+                "black": "Xie Tian Ying",
+                "date": "2014-02-02",
+                "result": 0.5,
+                "id": "tournament_14_138"
+            },
+            {
+                "white": "Zhou Zhong Lei",
+                "black": "Zhai Qun Gang",
+                "date": "2014-02-02",
+                "result": 0.5,
+                "id": "tournament_14_139"
+            },
+            {
+                "white": "Shen Min Fu",
+                "black": "Bi Xiao Yue",
+                "date": "2014-02-02",
+                "result": 0.5,
+                "id": "tournament_14_140"
+            },
+            {
+                "white": "Zhou Meng Long",
+                "black": "Song Jing Xiang",
+                "date": "2014-02-02",
+                "result": 0.5,
+                "id": "tournament_14_141"
+            },
+            {
+                "white": "Wen Li Ling",
+                "black": "Wang Rui Zi",
+                "date": "2014-02-02",
+                "result": 0.5,
+                "id": "tournament_14_142"
+            },
+            {
+                "white": "Duan Zhen ",
+                "black": "Xie Wei Gong",
+                "date": "2014-02-02",
+                "result": 0.5,
+                "id": "tournament_14_143"
+            },
+            {
+                "white": "Liu Fei ",
+                "black": "Deng Lie ",
+                "date": "2014-02-02",
+                "result": 0.5,
+                "id": "tournament_14_144"
+            },
+            {
+                "white": "Liu Jing Qiang",
+                "black": "Zhang Ye Jun",
+                "date": "2014-02-02",
+                "result": 0.5,
+                "id": "tournament_14_145"
+            },
+            {
+                "white": "Li Lu Juan",
+                "black": "Tan Yao ",
+                "date": "2014-02-02",
+                "result": 1,
+                "id": "tournament_14_146"
+            },
+            {
+                "white": "Lv Ming Mei",
+                "black": "Bi Lu Hui",
+                "date": "2014-02-02",
+                "result": 0.5,
+                "id": "tournament_14_147"
+            },
+            {
+                "white": "Wang Ji Zhi",
+                "black": "Chen Sen ",
+                "date": "2014-02-02",
+                "result": 0,
+                "id": "tournament_14_148"
+            },
+            {
+                "white": "Qiu Xin Mu",
+                "black": "Zhu Chun Qi",
+                "date": "2014-02-02",
+                "result": 0.5,
+                "id": "tournament_14_149"
+            },
+            {
+                "white": "Yan Sui ",
+                "black": "Yang Yue ",
+                "date": "2014-02-02",
+                "result": 0.5,
+                "id": "tournament_14_150"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Jin Meng Hui",
+                "black": "Li Xing Bo",
+                "date": "2014-02-04",
+                "result": 0.5,
+                "id": "tournament_14_151"
+            },
+            {
+                "white": "Zhou Ze Bin",
+                "black": "Huang Cun Hua",
+                "date": "2014-02-04",
+                "result": 0,
+                "id": "tournament_14_152"
+            },
+            {
+                "white": "Chen Zhi ",
+                "black": "Wu Yong Ji",
+                "date": "2014-02-04",
+                "result": 1,
+                "id": "tournament_14_153"
+            },
+            {
+                "white": "Wang Yu Na",
+                "black": "Huang Qian Jian",
+                "date": "2014-02-04",
+                "result": 0.5,
+                "id": "tournament_14_154"
+            },
+            {
+                "white": "Li Yuan ",
+                "black": "Zhang Xiao ",
+                "date": "2014-02-04",
+                "result": 0,
+                "id": "tournament_14_155"
+            },
+            {
+                "white": "Huang Guo Hua",
+                "black": "Xu Ding Yun",
+                "date": "2014-02-04",
+                "result": 0,
+                "id": "tournament_14_156"
+            },
+            {
+                "white": "Wei Si Feng",
+                "black": "Huang Xian Feng",
+                "date": "2014-02-04",
+                "result": 0.5,
+                "id": "tournament_14_157"
+            },
+            {
+                "white": "Gao Yu Tao",
+                "black": "Liu Yun Yu",
+                "date": "2014-02-04",
+                "result": 0.5,
+                "id": "tournament_14_158"
+            },
+            {
+                "white": "Cheng Zi Hua",
+                "black": "Hu Sheng Yuan",
+                "date": "2014-02-04",
+                "result": 1,
+                "id": "tournament_14_159"
+            },
+            {
+                "white": "Yan Chao ",
+                "black": "Tan Zai ",
+                "date": "2014-02-04",
+                "result": 1,
+                "id": "tournament_14_160"
+            },
+            {
+                "white": "Tian Yong ",
+                "black": "Qin Hui Fei",
+                "date": "2014-02-04",
+                "result": 0.5,
+                "id": "tournament_14_161"
+            },
+            {
+                "white": "Xie Tian Ying",
+                "black": "Zhou Zhong Lei",
+                "date": "2014-02-04",
+                "result": 0,
+                "id": "tournament_14_162"
+            },
+            {
+                "white": "Zhai Qun Gang",
+                "black": "Li Xuan ",
+                "date": "2014-02-04",
+                "result": 1,
+                "id": "tournament_14_163"
+            },
+            {
+                "white": "Zhang Chun ",
+                "black": "Yang Yan Bo",
+                "date": "2014-02-04",
+                "result": 1,
+                "id": "tournament_14_164"
+            },
+            {
+                "white": "Bi Xiao Yue",
+                "black": "Zhou Meng Long",
+                "date": "2014-02-04",
+                "result": 0,
+                "id": "tournament_14_165"
+            },
+            {
+                "white": "Song Jing Xiang",
+                "black": "Shen Min Fu",
+                "date": "2014-02-04",
+                "result": 1,
+                "id": "tournament_14_166"
+            },
+            {
+                "white": "Wang Rui Zi",
+                "black": "Liu Fei ",
+                "date": "2014-02-04",
+                "result": 1,
+                "id": "tournament_14_167"
+            },
+            {
+                "white": "Xie Wei Gong",
+                "black": "Wen Li Ling",
+                "date": "2014-02-04",
+                "result": 1,
+                "id": "tournament_14_168"
+            },
+            {
+                "white": "Deng Lie ",
+                "black": "Li Lu Juan",
+                "date": "2014-02-04",
+                "result": 0.5,
+                "id": "tournament_14_169"
+            },
+            {
+                "white": "Tan Yao ",
+                "black": "Liu Jing Qiang",
+                "date": "2014-02-04",
+                "result": 0,
+                "id": "tournament_14_170"
+            },
+            {
+                "white": "Zhang Ye Jun",
+                "black": "Lv Ming Mei",
+                "date": "2014-02-04",
+                "result": 1,
+                "id": "tournament_14_171"
+            },
+            {
+                "white": "Wang Ji Zhi",
+                "black": "Yan Sui ",
+                "date": "2014-02-04",
+                "result": 0.5,
+                "id": "tournament_14_172"
+            },
+            {
+                "white": "Zhu Chun Qi",
+                "black": "Bi Lu Hui",
+                "date": "2014-02-04",
+                "result": 0.5,
+                "id": "tournament_14_173"
+            },
+            {
+                "white": "Pang Jing ",
+                "black": "Chen Sen ",
+                "date": "2014-02-04",
+                "result": 0,
+                "id": "tournament_14_174"
+            },
+            {
+                "white": "Yang Yue ",
+                "black": "Duan Zhen ",
+                "date": "2014-02-04",
+                "result": 1,
+                "id": "tournament_14_175"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Huang Cun Hua",
+                "black": "Jin Meng Hui",
+                "date": "2014-02-06",
+                "result": 0.5,
+                "id": "tournament_14_176"
+            },
+            {
+                "white": "Li Xing Bo",
+                "black": "Chen Zhi ",
+                "date": "2014-02-06",
+                "result": 0,
+                "id": "tournament_14_177"
+            },
+            {
+                "white": "Xu Ding Yun",
+                "black": "Zhou Ze Bin",
+                "date": "2014-02-06",
+                "result": 0.5,
+                "id": "tournament_14_178"
+            },
+            {
+                "white": "Zhang Xiao ",
+                "black": "Wang Yu Na",
+                "date": "2014-02-06",
+                "result": 1,
+                "id": "tournament_14_179"
+            },
+            {
+                "white": "Wu Yong Ji",
+                "black": "Li Yuan ",
+                "date": "2014-02-06",
+                "result": 1,
+                "id": "tournament_14_180"
+            },
+            {
+                "white": "Huang Qian Jian",
+                "black": "Wei Si Feng",
+                "date": "2014-02-06",
+                "result": 0,
+                "id": "tournament_14_181"
+            },
+            {
+                "white": "Qin Hui Fei",
+                "black": "Cheng Zi Hua",
+                "date": "2014-02-06",
+                "result": 1,
+                "id": "tournament_14_182"
+            },
+            {
+                "white": "Liu Yun Yu",
+                "black": "Yan Chao ",
+                "date": "2014-02-06",
+                "result": 0.5,
+                "id": "tournament_14_183"
+            },
+            {
+                "white": "Zhou Zhong Lei",
+                "black": "Huang Guo Hua",
+                "date": "2014-02-06",
+                "result": 1,
+                "id": "tournament_14_184"
+            },
+            {
+                "white": "Zhou Meng Long",
+                "black": "Gao Yu Tao",
+                "date": "2014-02-06",
+                "result": 0,
+                "id": "tournament_14_185"
+            },
+            {
+                "white": "Huang Xian Feng",
+                "black": "Zhai Qun Gang",
+                "date": "2014-02-06",
+                "result": 0,
+                "id": "tournament_14_186"
+            },
+            {
+                "white": "Li Lu Juan",
+                "black": "Tian Yong ",
+                "date": "2014-02-06",
+                "result": 0.5,
+                "id": "tournament_14_187"
+            },
+            {
+                "white": "Hu Sheng Yuan",
+                "black": "Zhang Chun ",
+                "date": "2014-02-06",
+                "result": 1,
+                "id": "tournament_14_188"
+            },
+            {
+                "white": "Liu Jing Qiang",
+                "black": "Song Jing Xiang",
+                "date": "2014-02-06",
+                "result": 0,
+                "id": "tournament_14_189"
+            },
+            {
+                "white": "Tan Zai ",
+                "black": "Wang Rui Zi",
+                "date": "2014-02-06",
+                "result": 1,
+                "id": "tournament_14_190"
+            },
+            {
+                "white": "Yang Yan Bo",
+                "black": "Xie Wei Gong",
+                "date": "2014-02-06",
+                "result": 0,
+                "id": "tournament_14_191"
+            },
+            {
+                "white": "Li Xuan ",
+                "black": "Chen Sen ",
+                "date": "2014-02-06",
+                "result": 0.5,
+                "id": "tournament_14_192"
+            },
+            {
+                "white": "Shen Min Fu",
+                "black": "Xie Tian Ying",
+                "date": "2014-02-06",
+                "result": 0.5,
+                "id": "tournament_14_193"
+            },
+            {
+                "white": "Qiu Xin Mu",
+                "black": "Deng Lie ",
+                "date": "2014-02-06",
+                "result": 0,
+                "id": "tournament_14_194"
+            },
+            {
+                "white": "Liu Fei ",
+                "black": "Zhang Ye Jun",
+                "date": "2014-02-06",
+                "result": 1,
+                "id": "tournament_14_195"
+            },
+            {
+                "white": "Wen Li Ling",
+                "black": "Yang Yue ",
+                "date": "2014-02-06",
+                "result": 0.5,
+                "id": "tournament_14_196"
+            },
+            {
+                "white": "Duan Zhen ",
+                "black": "Bi Xiao Yue",
+                "date": "2014-02-06",
+                "result": 0,
+                "id": "tournament_14_197"
+            },
+            {
+                "white": "Yan Sui ",
+                "black": "Bi Lu Hui",
+                "date": "2014-02-06",
+                "result": 1,
+                "id": "tournament_14_198"
+            },
+            {
+                "white": "Lv Ming Mei",
+                "black": "Pang Jing ",
+                "date": "2014-02-06",
+                "result": 0,
+                "id": "tournament_14_199"
+            },
+            {
+                "white": "Wang Ji Zhi",
+                "black": "Zhu Chun Qi",
+                "date": "2014-02-06",
+                "result": 1,
+                "id": "tournament_14_200"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Chen Zhi ",
+                "black": "Xu Ding Yun",
+                "date": "2014-02-08",
+                "result": 0.5,
+                "id": "tournament_14_201"
+            },
+            {
+                "white": "Jin Meng Hui",
+                "black": "Zhang Xiao ",
+                "date": "2014-02-08",
+                "result": 0.5,
+                "id": "tournament_14_202"
+            },
+            {
+                "white": "Zhou Ze Bin",
+                "black": "Qin Hui Fei",
+                "date": "2014-02-08",
+                "result": 0.5,
+                "id": "tournament_14_203"
+            },
+            {
+                "white": "Wei Si Feng",
+                "black": "Huang Cun Hua",
+                "date": "2014-02-08",
+                "result": 0.5,
+                "id": "tournament_14_204"
+            },
+            {
+                "white": "Wang Yu Na",
+                "black": "Zhou Zhong Lei",
+                "date": "2014-02-08",
+                "result": 1,
+                "id": "tournament_14_205"
+            },
+            {
+                "white": "Yan Chao ",
+                "black": "Wu Yong Ji",
+                "date": "2014-02-08",
+                "result": 1,
+                "id": "tournament_14_206"
+            },
+            {
+                "white": "Gao Yu Tao",
+                "black": "Hu Sheng Yuan",
+                "date": "2014-02-08",
+                "result": 0.5,
+                "id": "tournament_14_207"
+            },
+            {
+                "white": "Zhai Qun Gang",
+                "black": "Liu Yun Yu",
+                "date": "2014-02-08",
+                "result": 1,
+                "id": "tournament_14_208"
+            },
+            {
+                "white": "Li Yuan ",
+                "black": "Li Xing Bo",
+                "date": "2014-02-08",
+                "result": 0,
+                "id": "tournament_14_209"
+            },
+            {
+                "white": "Cheng Zi Hua",
+                "black": "Huang Qian Jian",
+                "date": "2014-02-08",
+                "result": 1,
+                "id": "tournament_14_210"
+            },
+            {
+                "white": "Song Jing Xiang",
+                "black": "Huang Xian Feng",
+                "date": "2014-02-08",
+                "result": 0,
+                "id": "tournament_14_211"
+            },
+            {
+                "white": "Xie Wei Gong",
+                "black": "Li Lu Juan",
+                "date": "2014-02-08",
+                "result": 0,
+                "id": "tournament_14_212"
+            },
+            {
+                "white": "Huang Guo Hua",
+                "black": "Tan Zai ",
+                "date": "2014-02-08",
+                "result": 1,
+                "id": "tournament_14_213"
+            },
+            {
+                "white": "Tian Yong ",
+                "black": "Zhou Meng Long",
+                "date": "2014-02-08",
+                "result": 1,
+                "id": "tournament_14_214"
+            },
+            {
+                "white": "Chen Sen ",
+                "black": "Liu Fei ",
+                "date": "2014-02-08",
+                "result": 0,
+                "id": "tournament_14_215"
+            },
+            {
+                "white": "Deng Lie ",
+                "black": "Li Xuan ",
+                "date": "2014-02-08",
+                "result": 0.5,
+                "id": "tournament_14_216"
+            },
+            {
+                "white": "Zhang Chun ",
+                "black": "Liu Jing Qiang",
+                "date": "2014-02-08",
+                "result": 0.5,
+                "id": "tournament_14_217"
+            },
+            {
+                "white": "Wang Rui Zi",
+                "black": "Yan Sui ",
+                "date": "2014-02-08",
+                "result": 1,
+                "id": "tournament_14_218"
+            },
+            {
+                "white": "Xie Tian Ying",
+                "black": "Wen Li Ling",
+                "date": "2014-02-08",
+                "result": 0.5,
+                "id": "tournament_14_219"
+            },
+            {
+                "white": "Yang Yue ",
+                "black": "Shen Min Fu",
+                "date": "2014-02-08",
+                "result": 0.5,
+                "id": "tournament_14_220"
+            },
+            {
+                "white": "Bi Xiao Yue",
+                "black": "Qiu Xin Mu",
+                "date": "2014-02-08",
+                "result": 1,
+                "id": "tournament_14_221"
+            },
+            {
+                "white": "Zhang Ye Jun",
+                "black": "Yang Yan Bo",
+                "date": "2014-02-08",
+                "result": 0.5,
+                "id": "tournament_14_222"
+            },
+            {
+                "white": "Pang Jing ",
+                "black": "Wang Ji Zhi",
+                "date": "2014-02-08",
+                "result": 0,
+                "id": "tournament_14_223"
+            },
+            {
+                "white": "Tan Yao ",
+                "black": "Lv Ming Mei",
+                "date": "2014-02-08",
+                "result": 1,
+                "id": "tournament_14_224"
+            },
+            {
+                "white": "Bi Lu Hui",
+                "black": "Duan Zhen ",
+                "date": "2014-02-08",
+                "result": 0.5,
+                "id": "tournament_14_225"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "Zhou Zhong Lei",
+                "black": "Chen Zhi ",
+                "date": "2014-02-10",
+                "result": 1,
+                "id": "tournament_14_226"
+            },
+            {
+                "white": "Xu Ding Yun",
+                "black": "Jin Meng Hui",
+                "date": "2014-02-10",
+                "result": 1,
+                "id": "tournament_14_227"
+            },
+            {
+                "white": "Li Xing Bo",
+                "black": "Zhou Ze Bin",
+                "date": "2014-02-10",
+                "result": 0,
+                "id": "tournament_14_228"
+            },
+            {
+                "white": "Zhang Xiao ",
+                "black": "Wei Si Feng",
+                "date": "2014-02-10",
+                "result": 0,
+                "id": "tournament_14_229"
+            },
+            {
+                "white": "Huang Cun Hua",
+                "black": "Wang Yu Na",
+                "date": "2014-02-10",
+                "result": 0.5,
+                "id": "tournament_14_230"
+            },
+            {
+                "white": "Li Lu Juan",
+                "black": "Yan Chao ",
+                "date": "2014-02-10",
+                "result": 0.5,
+                "id": "tournament_14_231"
+            },
+            {
+                "white": "Wu Yong Ji",
+                "black": "Zhai Qun Gang",
+                "date": "2014-02-10",
+                "result": 0.5,
+                "id": "tournament_14_232"
+            },
+            {
+                "white": "Qin Hui Fei",
+                "black": "Gao Yu Tao",
+                "date": "2014-02-10",
+                "result": 1,
+                "id": "tournament_14_233"
+            },
+            {
+                "white": "Liu Fei ",
+                "black": "Cheng Zi Hua",
+                "date": "2014-02-10",
+                "result": 0,
+                "id": "tournament_14_234"
+            },
+            {
+                "white": "Hu Sheng Yuan",
+                "black": "Huang Guo Hua",
+                "date": "2014-02-10",
+                "result": 0.5,
+                "id": "tournament_14_235"
+            },
+            {
+                "white": "Huang Xian Feng",
+                "black": "Tian Yong ",
+                "date": "2014-02-10",
+                "result": 1,
+                "id": "tournament_14_236"
+            },
+            {
+                "white": "Liu Yun Yu",
+                "black": "Li Yuan ",
+                "date": "2014-02-10",
+                "result": 1,
+                "id": "tournament_14_237"
+            },
+            {
+                "white": "Huang Qian Jian",
+                "black": "Song Jing Xiang",
+                "date": "2014-02-10",
+                "result": 0,
+                "id": "tournament_14_238"
+            },
+            {
+                "white": "Tan Zai ",
+                "black": "Xie Wei Gong",
+                "date": "2014-02-10",
+                "result": 0.5,
+                "id": "tournament_14_239"
+            },
+            {
+                "white": "Zhou Meng Long",
+                "black": "Deng Lie ",
+                "date": "2014-02-10",
+                "result": 0.5,
+                "id": "tournament_14_240"
+            },
+            {
+                "white": "Liu Jing Qiang",
+                "black": "Wang Rui Zi",
+                "date": "2014-02-10",
+                "result": 0.5,
+                "id": "tournament_14_241"
+            },
+            {
+                "white": "Wen Li Ling",
+                "black": "Bi Xiao Yue",
+                "date": "2014-02-10",
+                "result": 0,
+                "id": "tournament_14_242"
+            },
+            {
+                "white": "Shen Min Fu",
+                "black": "Chen Sen ",
+                "date": "2014-02-10",
+                "result": 1,
+                "id": "tournament_14_243"
+            },
+            {
+                "white": "Yan Sui ",
+                "black": "Zhang Chun ",
+                "date": "2014-02-10",
+                "result": 1,
+                "id": "tournament_14_244"
+            },
+            {
+                "white": "Wang Ji Zhi",
+                "black": "Xie Tian Ying",
+                "date": "2014-02-10",
+                "result": 0.5,
+                "id": "tournament_14_245"
+            },
+            {
+                "white": "Li Xuan ",
+                "black": "Yang Yue ",
+                "date": "2014-02-10",
+                "result": 1,
+                "id": "tournament_14_246"
+            },
+            {
+                "white": "Bi Lu Hui",
+                "black": "Zhang Ye Jun",
+                "date": "2014-02-10",
+                "result": 0.5,
+                "id": "tournament_14_247"
+            },
+            {
+                "white": "Lv Ming Mei",
+                "black": "Yang Yan Bo",
+                "date": "2014-02-10",
+                "result": 0.5,
+                "id": "tournament_14_248"
+            },
+            {
+                "white": "Duan Zhen ",
+                "black": "Tan Yao ",
+                "date": "2014-02-10",
+                "result": 1,
+                "id": "tournament_14_249"
+            },
+            {
+                "white": "Zhu Chun Qi",
+                "black": "Pang Jing ",
+                "date": "2014-02-10",
+                "result": 0.5,
+                "id": "tournament_14_250"
+            }
+        ],
+        "tour_11": [
+            {
+                "white": "Chen Zhi ",
+                "black": "Huang Xian Feng",
+                "date": "2014-02-12",
+                "result": 1,
+                "id": "tournament_14_251"
+            },
+            {
+                "white": "Zhou Ze Bin",
+                "black": "Hu Sheng Yuan",
+                "date": "2014-02-12",
+                "result": 0.5,
+                "id": "tournament_14_252"
+            },
+            {
+                "white": "Wei Si Feng",
+                "black": "Xu Ding Yun",
+                "date": "2014-02-12",
+                "result": 1,
+                "id": "tournament_14_253"
+            },
+            {
+                "white": "Jin Meng Hui",
+                "black": "Qin Hui Fei",
+                "date": "2014-02-12",
+                "result": 1,
+                "id": "tournament_14_254"
+            },
+            {
+                "white": "Wang Yu Na",
+                "black": "Li Xing Bo",
+                "date": "2014-02-12",
+                "result": 0.5,
+                "id": "tournament_14_255"
+            },
+            {
+                "white": "Yan Chao ",
+                "black": "Huang Cun Hua",
+                "date": "2014-02-12",
+                "result": 0,
+                "id": "tournament_14_256"
+            },
+            {
+                "white": "Zhai Qun Gang",
+                "black": "Zhang Xiao ",
+                "date": "2014-02-12",
+                "result": 0.5,
+                "id": "tournament_14_257"
+            },
+            {
+                "white": "Cheng Zi Hua",
+                "black": "Zhou Zhong Lei",
+                "date": "2014-02-12",
+                "result": 1,
+                "id": "tournament_14_258"
+            },
+            {
+                "white": "Gao Yu Tao",
+                "black": "Li Lu Juan",
+                "date": "2014-02-12",
+                "result": 1,
+                "id": "tournament_14_259"
+            },
+            {
+                "white": "Huang Guo Hua",
+                "black": "Wu Yong Ji",
+                "date": "2014-02-12",
+                "result": 1,
+                "id": "tournament_14_260"
+            },
+            {
+                "white": "Song Jing Xiang",
+                "black": "Liu Yun Yu",
+                "date": "2014-02-12",
+                "result": 0.5,
+                "id": "tournament_14_261"
+            },
+            {
+                "white": "Bi Xiao Yue",
+                "black": "Liu Fei ",
+                "date": "2014-02-12",
+                "result": 1,
+                "id": "tournament_14_262"
+            },
+            {
+                "white": "Tian Yong ",
+                "black": "Li Xuan ",
+                "date": "2014-02-12",
+                "result": 1,
+                "id": "tournament_14_263"
+            },
+            {
+                "white": "Xie Wei Gong",
+                "black": "Wang Ji Zhi",
+                "date": "2014-02-12",
+                "result": 1,
+                "id": "tournament_14_264"
+            },
+            {
+                "white": "Deng Lie ",
+                "black": "Tan Zai ",
+                "date": "2014-02-12",
+                "result": 0.5,
+                "id": "tournament_14_265"
+            },
+            {
+                "white": "Wang Rui Zi",
+                "black": "Yang Yan Bo",
+                "date": "2014-02-12",
+                "result": 1,
+                "id": "tournament_14_266"
+            },
+            {
+                "white": "Li Yuan ",
+                "black": "Zhou Meng Long",
+                "date": "2014-02-12",
+                "result": 1,
+                "id": "tournament_14_267"
+            },
+            {
+                "white": "Xie Tian Ying",
+                "black": "Yan Sui ",
+                "date": "2014-02-12",
+                "result": 0.5,
+                "id": "tournament_14_268"
+            },
+            {
+                "white": "Zhang Chun ",
+                "black": "Shen Min Fu",
+                "date": "2014-02-12",
+                "result": 0.5,
+                "id": "tournament_14_269"
+            },
+            {
+                "white": "Zhang Ye Jun",
+                "black": "Qiu Xin Mu",
+                "date": "2014-02-12",
+                "result": 0.5,
+                "id": "tournament_14_270"
+            },
+            {
+                "white": "Pang Jing ",
+                "black": "Duan Zhen ",
+                "date": "2014-02-12",
+                "result": 0.5,
+                "id": "tournament_14_271"
+            },
+            {
+                "white": "Yang Yue ",
+                "black": "Chen Sen ",
+                "date": "2014-02-12",
+                "result": 0.5,
+                "id": "tournament_14_272"
+            },
+            {
+                "white": "Zhu Chun Qi",
+                "black": "Liu Jing Qiang",
+                "date": "2014-02-12",
+                "result": 0.5,
+                "id": "tournament_14_273"
+            },
+            {
+                "white": "Bi Lu Hui",
+                "black": "Wen Li Ling",
+                "date": "2014-02-12",
+                "result": 1,
+                "id": "tournament_14_274"
+            },
+            {
+                "white": "Huang Qian Jian",
+                "black": "Lv Ming Mei",
+                "date": "2014-02-12",
+                "result": 1,
+                "id": "tournament_14_275"
+            }
+        ],
+        "tour_12": [
+            {
+                "white": "Hu Sheng Yuan",
+                "black": "Chen Zhi ",
+                "date": "2014-02-14",
+                "result": 0.5,
+                "id": "tournament_14_276"
+            },
+            {
+                "white": "Zhou Zhong Lei",
+                "black": "Wei Si Feng",
+                "date": "2014-02-14",
+                "result": 0.5,
+                "id": "tournament_14_277"
+            },
+            {
+                "white": "Huang Xian Feng",
+                "black": "Zhou Ze Bin",
+                "date": "2014-02-14",
+                "result": 1,
+                "id": "tournament_14_278"
+            },
+            {
+                "white": "Li Lu Juan",
+                "black": "Jin Meng Hui",
+                "date": "2014-02-14",
+                "result": 0,
+                "id": "tournament_14_279"
+            },
+            {
+                "white": "Huang Cun Hua",
+                "black": "Cheng Zi Hua",
+                "date": "2014-02-14",
+                "result": 1,
+                "id": "tournament_14_280"
+            },
+            {
+                "white": "Liu Yun Yu",
+                "black": "Wang Yu Na",
+                "date": "2014-02-14",
+                "result": 0.5,
+                "id": "tournament_14_281"
+            },
+            {
+                "white": "Shen Min Fu",
+                "black": "Zhai Qun Gang",
+                "date": "2014-02-14",
+                "result": 0,
+                "id": "tournament_14_282"
+            },
+            {
+                "white": "Xu Ding Yun",
+                "black": "Yan Chao ",
+                "date": "2014-02-14",
+                "result": 0,
+                "id": "tournament_14_283"
+            },
+            {
+                "white": "Liu Fei ",
+                "black": "Gao Yu Tao",
+                "date": "2014-02-14",
+                "result": 0,
+                "id": "tournament_14_284"
+            },
+            {
+                "white": "Qin Hui Fei",
+                "black": "Huang Guo Hua",
+                "date": "2014-02-14",
+                "result": 0,
+                "id": "tournament_14_285"
+            },
+            {
+                "white": "Zhang Xiao ",
+                "black": "Bi Xiao Yue",
+                "date": "2014-02-14",
+                "result": 1,
+                "id": "tournament_14_286"
+            },
+            {
+                "white": "Wu Yong Ji",
+                "black": "Song Jing Xiang",
+                "date": "2014-02-14",
+                "result": 0,
+                "id": "tournament_14_287"
+            },
+            {
+                "white": "Li Xing Bo",
+                "black": "Tian Yong ",
+                "date": "2014-02-14",
+                "result": 0,
+                "id": "tournament_14_288"
+            },
+            {
+                "white": "Yan Sui ",
+                "black": "Xie Wei Gong",
+                "date": "2014-02-14",
+                "result": 0,
+                "id": "tournament_14_289"
+            },
+            {
+                "white": "Li Xuan ",
+                "black": "Wang Rui Zi",
+                "date": "2014-02-14",
+                "result": 0.5,
+                "id": "tournament_14_290"
+            },
+            {
+                "white": "Huang Qian Jian",
+                "black": "Deng Lie ",
+                "date": "2014-02-14",
+                "result": 1,
+                "id": "tournament_14_291"
+            },
+            {
+                "white": "Liu Jing Qiang",
+                "black": "Li Yuan ",
+                "date": "2014-02-14",
+                "result": 0.5,
+                "id": "tournament_14_292"
+            },
+            {
+                "white": "Tan Zai ",
+                "black": "Xie Tian Ying",
+                "date": "2014-02-14",
+                "result": 0.5,
+                "id": "tournament_14_293"
+            },
+            {
+                "white": "Zhou Meng Long",
+                "black": "Chen Sen ",
+                "date": "2014-02-14",
+                "result": 0,
+                "id": "tournament_14_294"
+            },
+            {
+                "white": "Qiu Xin Mu",
+                "black": "Zhang Chun ",
+                "date": "2014-02-14",
+                "result": 0,
+                "id": "tournament_14_295"
+            },
+            {
+                "white": "Wen Li Ling",
+                "black": "Zhu Chun Qi",
+                "date": "2014-02-14",
+                "result": 0.5,
+                "id": "tournament_14_296"
+            },
+            {
+                "white": "Lv Ming Mei",
+                "black": "Yang Yue ",
+                "date": "2014-02-14",
+                "result": 0,
+                "id": "tournament_14_297"
+            },
+            {
+                "white": "Wang Ji Zhi",
+                "black": "Tan Yao ",
+                "date": "2014-02-14",
+                "result": 1,
+                "id": "tournament_14_298"
+            },
+            {
+                "white": "Yang Yan Bo",
+                "black": "Pang Jing ",
+                "date": "2014-02-14",
+                "result": 1,
+                "id": "tournament_14_299"
+            },
+            {
+                "white": "Duan Zhen ",
+                "black": "Zhang Ye Jun",
+                "date": "2014-02-14",
+                "result": 0.5,
+                "id": "tournament_14_300"
+            }
+        ],
+        "tour_13": [
+            {
+                "white": "Chen Zhi ",
+                "black": "Li Lu Juan",
+                "date": "2014-02-16",
+                "result": 0.5,
+                "id": "tournament_14_301"
+            },
+            {
+                "white": "Wei Si Feng",
+                "black": "Hu Sheng Yuan",
+                "date": "2014-02-16",
+                "result": 1,
+                "id": "tournament_14_302"
+            },
+            {
+                "white": "Jin Meng Hui",
+                "black": "Huang Xian Feng",
+                "date": "2014-02-16",
+                "result": 0.5,
+                "id": "tournament_14_303"
+            },
+            {
+                "white": "Zhai Qun Gang",
+                "black": "Huang Cun Hua",
+                "date": "2014-02-16",
+                "result": 0.5,
+                "id": "tournament_14_304"
+            },
+            {
+                "white": "Zhou Ze Bin",
+                "black": "Liu Yun Yu",
+                "date": "2014-02-16",
+                "result": 0.5,
+                "id": "tournament_14_305"
+            },
+            {
+                "white": "Cheng Zi Hua",
+                "black": "Xu Ding Yun",
+                "date": "2014-02-16",
+                "result": 1,
+                "id": "tournament_14_306"
+            },
+            {
+                "white": "Wang Yu Na",
+                "black": "Shen Min Fu",
+                "date": "2014-02-16",
+                "result": 1,
+                "id": "tournament_14_307"
+            },
+            {
+                "white": "Yan Chao ",
+                "black": "Zhang Xiao ",
+                "date": "2014-02-16",
+                "result": 1,
+                "id": "tournament_14_308"
+            },
+            {
+                "white": "Gao Yu Tao",
+                "black": "Zhou Zhong Lei",
+                "date": "2014-02-16",
+                "result": 0,
+                "id": "tournament_14_309"
+            },
+            {
+                "white": "Huang Guo Hua",
+                "black": "Huang Qian Jian",
+                "date": "2014-02-16",
+                "result": 1,
+                "id": "tournament_14_310"
+            },
+            {
+                "white": "Song Jing Xiang",
+                "black": "Qin Hui Fei",
+                "date": "2014-02-16",
+                "result": 0.5,
+                "id": "tournament_14_311"
+            },
+            {
+                "white": "Tian Yong ",
+                "black": "Liu Jing Qiang",
+                "date": "2014-02-16",
+                "result": 1,
+                "id": "tournament_14_312"
+            },
+            {
+                "white": "Xie Wei Gong",
+                "black": "Li Xing Bo",
+                "date": "2014-02-16",
+                "result": 0,
+                "id": "tournament_14_313"
+            },
+            {
+                "white": "Bi Xiao Yue",
+                "black": "Wu Yong Ji",
+                "date": "2014-02-16",
+                "result": 0.5,
+                "id": "tournament_14_314"
+            },
+            {
+                "white": "Wang Rui Zi",
+                "black": "Duan Zhen ",
+                "date": "2014-02-16",
+                "result": 1,
+                "id": "tournament_14_315"
+            },
+            {
+                "white": "Li Yuan ",
+                "black": "Li Xuan ",
+                "date": "2014-02-16",
+                "result": 0.5,
+                "id": "tournament_14_316"
+            },
+            {
+                "white": "Deng Lie ",
+                "black": "Wang Ji Zhi",
+                "date": "2014-02-16",
+                "result": 1,
+                "id": "tournament_14_317"
+            },
+            {
+                "white": "Xie Tian Ying",
+                "black": "Liu Fei ",
+                "date": "2014-02-16",
+                "result": 0.5,
+                "id": "tournament_14_318"
+            },
+            {
+                "white": "Chen Sen ",
+                "black": "Qiu Xin Mu",
+                "date": "2014-02-16",
+                "result": 0.5,
+                "id": "tournament_14_319"
+            },
+            {
+                "white": "Tan Yao ",
+                "black": "Tan Zai ",
+                "date": "2014-02-16",
+                "result": 0.5,
+                "id": "tournament_14_320"
+            },
+            {
+                "white": "Zhang Ye Jun",
+                "black": "Yan Sui ",
+                "date": "2014-02-16",
+                "result": 0.5,
+                "id": "tournament_14_321"
+            },
+            {
+                "white": "Zhang Chun ",
+                "black": "Yang Yue ",
+                "date": "2014-02-16",
+                "result": 1,
+                "id": "tournament_14_322"
+            },
+            {
+                "white": "Wen Li Ling",
+                "black": "Yang Yan Bo",
+                "date": "2014-02-16",
+                "result": 0,
+                "id": "tournament_14_323"
+            },
+            {
+                "white": "Pang Jing ",
+                "black": "Bi Lu Hui",
+                "date": "2014-02-16",
+                "result": 0,
+                "id": "tournament_14_324"
+            },
+            {
+                "white": "Zhou Meng Long",
+                "black": "Lv Ming Mei",
+                "date": "2014-02-16",
+                "result": 1,
+                "id": "tournament_14_325"
+            }
+        ]
+    },
+    "tours": 13,
+    "time_control": "rapid"
+}

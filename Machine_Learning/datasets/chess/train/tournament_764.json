@@ -1,0 +1,379 @@
+{
+    "name": "tournament_764",
+    "start_date": "2019-10-04",
+    "end_date": "2019-10-24",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Chen, Xueqiang",
+                "black": "Wang, Yinbin",
+                "date": "2019-10-04",
+                "result": 0,
+                "id": "tournament_764_1"
+            },
+            {
+                "white": "Lin, Zexiong",
+                "black": "Xiao, Qiuliang",
+                "date": "2019-10-04",
+                "result": 1,
+                "id": "tournament_764_2"
+            },
+            {
+                "white": "Gao, Yutao",
+                "black": "Zhong, Hongcun",
+                "date": "2019-10-04",
+                "result": 1,
+                "id": "tournament_764_3"
+            },
+            {
+                "white": "Gao, Changxia",
+                "black": "Yang, Junrui",
+                "date": "2019-10-04",
+                "result": 0,
+                "id": "tournament_764_4"
+            },
+            {
+                "white": "Wang, Xiaojuan",
+                "black": "Xu, Fuying",
+                "date": "2019-10-04",
+                "result": 0,
+                "id": "tournament_764_5"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Liang, Xiaowei",
+                "black": "Chen, Xueqiang",
+                "date": "2019-10-06",
+                "result": 1,
+                "id": "tournament_764_6"
+            },
+            {
+                "white": "Gao, Yutao",
+                "black": "Wang, Yinbin",
+                "date": "2019-10-06",
+                "result": 1,
+                "id": "tournament_764_7"
+            },
+            {
+                "white": "Gao, Changxia",
+                "black": "Xiao, Qiuliang",
+                "date": "2019-10-06",
+                "result": 0,
+                "id": "tournament_764_8"
+            },
+            {
+                "white": "Wang, Xiaojuan",
+                "black": "Zhong, Hongcun",
+                "date": "2019-10-06",
+                "result": 0,
+                "id": "tournament_764_9"
+            },
+            {
+                "white": "Xu, Fuying",
+                "black": "Yang, Junrui",
+                "date": "2019-10-06",
+                "result": 0.5,
+                "id": "tournament_764_10"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Lin, Zexiong",
+                "black": "Liang, Xiaowei",
+                "date": "2019-10-08",
+                "result": 0,
+                "id": "tournament_764_11"
+            },
+            {
+                "white": "Chen, Xueqiang",
+                "black": "Gao, Yutao",
+                "date": "2019-10-08",
+                "result": 0,
+                "id": "tournament_764_12"
+            },
+            {
+                "white": "Wang, Xiaojuan",
+                "black": "Wang, Yinbin",
+                "date": "2019-10-08",
+                "result": 0.5,
+                "id": "tournament_764_13"
+            },
+            {
+                "white": "Xu, Fuying",
+                "black": "Xiao, Qiuliang",
+                "date": "2019-10-08",
+                "result": 1,
+                "id": "tournament_764_14"
+            },
+            {
+                "white": "Yang, Junrui",
+                "black": "Zhong, Hongcun",
+                "date": "2019-10-08",
+                "result": 1,
+                "id": "tournament_764_15"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Liang, Xiaowei",
+                "black": "Gao, Yutao",
+                "date": "2019-10-10",
+                "result": 0.5,
+                "id": "tournament_764_16"
+            },
+            {
+                "white": "Lin, Zexiong",
+                "black": "Gao, Changxia",
+                "date": "2019-10-10",
+                "result": 1,
+                "id": "tournament_764_17"
+            },
+            {
+                "white": "Chen, Xueqiang",
+                "black": "Wang, Xiaojuan",
+                "date": "2019-10-10",
+                "result": 0.5,
+                "id": "tournament_764_18"
+            },
+            {
+                "white": "Yang, Junrui",
+                "black": "Wang, Yinbin",
+                "date": "2019-10-10",
+                "result": 0.5,
+                "id": "tournament_764_19"
+            },
+            {
+                "white": "Zhong, Hongcun",
+                "black": "Xiao, Qiuliang",
+                "date": "2019-10-10",
+                "result": 0.5,
+                "id": "tournament_764_20"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Gao, Changxia",
+                "black": "Liang, Xiaowei",
+                "date": "2019-10-12",
+                "result": 0,
+                "id": "tournament_764_21"
+            },
+            {
+                "white": "Gao, Yutao",
+                "black": "Wang, Xiaojuan",
+                "date": "2019-10-12",
+                "result": 1,
+                "id": "tournament_764_22"
+            },
+            {
+                "white": "Lin, Zexiong",
+                "black": "Xu, Fuying",
+                "date": "2019-10-12",
+                "result": 0.5,
+                "id": "tournament_764_23"
+            },
+            {
+                "white": "Chen, Xueqiang",
+                "black": "Yang, Junrui",
+                "date": "2019-10-12",
+                "result": 0,
+                "id": "tournament_764_24"
+            },
+            {
+                "white": "Xiao, Qiuliang",
+                "black": "Wang, Yinbin",
+                "date": "2019-10-12",
+                "result": 0,
+                "id": "tournament_764_25"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Liang, Xiaowei",
+                "black": "Wang, Xiaojuan",
+                "date": "2019-10-14",
+                "result": 1,
+                "id": "tournament_764_26"
+            },
+            {
+                "white": "Gao, Changxia",
+                "black": "Xu, Fuying",
+                "date": "2019-10-14",
+                "result": 0,
+                "id": "tournament_764_27"
+            },
+            {
+                "white": "Gao, Yutao",
+                "black": "Yang, Junrui",
+                "date": "2019-10-14",
+                "result": 1,
+                "id": "tournament_764_28"
+            },
+            {
+                "white": "Lin, Zexiong",
+                "black": "Zhong, Hongcun",
+                "date": "2019-10-14",
+                "result": 1,
+                "id": "tournament_764_29"
+            },
+            {
+                "white": "Chen, Xueqiang",
+                "black": "Xiao, Qiuliang",
+                "date": "2019-10-14",
+                "result": 0.5,
+                "id": "tournament_764_30"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Xu, Fuying",
+                "black": "Liang, Xiaowei",
+                "date": "2019-10-16",
+                "result": 0.5,
+                "id": "tournament_764_31"
+            },
+            {
+                "white": "Wang, Xiaojuan",
+                "black": "Yang, Junrui",
+                "date": "2019-10-16",
+                "result": 0,
+                "id": "tournament_764_32"
+            },
+            {
+                "white": "Gao, Changxia",
+                "black": "Zhong, Hongcun",
+                "date": "2019-10-16",
+                "result": 0.5,
+                "id": "tournament_764_33"
+            },
+            {
+                "white": "Gao, Yutao",
+                "black": "Xiao, Qiuliang",
+                "date": "2019-10-16",
+                "result": 1,
+                "id": "tournament_764_34"
+            },
+            {
+                "white": "Lin, Zexiong",
+                "black": "Wang, Yinbin",
+                "date": "2019-10-16",
+                "result": 0.5,
+                "id": "tournament_764_35"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Liang, Xiaowei",
+                "black": "Yang, Junrui",
+                "date": "2019-10-18",
+                "result": 0,
+                "id": "tournament_764_36"
+            },
+            {
+                "white": "Xu, Fuying",
+                "black": "Zhong, Hongcun",
+                "date": "2019-10-18",
+                "result": 1,
+                "id": "tournament_764_37"
+            },
+            {
+                "white": "Wang, Xiaojuan",
+                "black": "Xiao, Qiuliang",
+                "date": "2019-10-18",
+                "result": 0.5,
+                "id": "tournament_764_38"
+            },
+            {
+                "white": "Gao, Changxia",
+                "black": "Wang, Yinbin",
+                "date": "2019-10-18",
+                "result": 0,
+                "id": "tournament_764_39"
+            },
+            {
+                "white": "Chen, Xueqiang",
+                "black": "Lin, Zexiong",
+                "date": "2019-10-18",
+                "result": 0.5,
+                "id": "tournament_764_40"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Zhong, Hongcun",
+                "black": "Liang, Xiaowei",
+                "date": "2019-10-20",
+                "result": 0,
+                "id": "tournament_764_41"
+            },
+            {
+                "white": "Yang, Junrui",
+                "black": "Xiao, Qiuliang",
+                "date": "2019-10-20",
+                "result": 1,
+                "id": "tournament_764_42"
+            },
+            {
+                "white": "Xu, Fuying",
+                "black": "Wang, Yinbin",
+                "date": "2019-10-20",
+                "result": 1,
+                "id": "tournament_764_43"
+            },
+            {
+                "white": "Chen, Xueqiang",
+                "black": "Gao, Changxia",
+                "date": "2019-10-20",
+                "result": 1,
+                "id": "tournament_764_44"
+            },
+            {
+                "white": "Lin, Zexiong",
+                "black": "Gao, Yutao",
+                "date": "2019-10-20",
+                "result": 0,
+                "id": "tournament_764_45"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "Liang, Xiaowei",
+                "black": "Xiao, Qiuliang",
+                "date": "2019-10-22",
+                "result": 1,
+                "id": "tournament_764_46"
+            },
+            {
+                "white": "Zhong, Hongcun",
+                "black": "Wang, Yinbin",
+                "date": "2019-10-22",
+                "result": 0.5,
+                "id": "tournament_764_47"
+            },
+            {
+                "white": "Chen, Xueqiang",
+                "black": "Xu, Fuying",
+                "date": "2019-10-22",
+                "result": 0.5,
+                "id": "tournament_764_48"
+            },
+            {
+                "white": "Lin, Zexiong",
+                "black": "Wang, Xiaojuan",
+                "date": "2019-10-22",
+                "result": 1,
+                "id": "tournament_764_49"
+            },
+            {
+                "white": "Gao, Yutao",
+                "black": "Gao, Changxia",
+                "date": "2019-10-22",
+                "result": 1,
+                "id": "tournament_764_50"
+            }
+        ]
+    },
+    "tours": 10,
+    "time_control": "rapid"
+}

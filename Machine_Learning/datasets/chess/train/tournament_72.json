@@ -1,0 +1,283 @@
+{
+    "name": "tournament_72",
+    "start_date": "2014-07-01",
+    "end_date": "2014-07-09",
+    "games": {
+        "tour_1": [
+            {
+                "white": "熊立兰",
+                "black": "周梦龙",
+                "date": "2014-07-01",
+                "result": 0.5,
+                "id": "tournament_72_1"
+            },
+            {
+                "white": "周梦龙",
+                "black": "熊立兰",
+                "date": "2014-07-02",
+                "result": 0.5,
+                "id": "tournament_72_2"
+            },
+            {
+                "white": "熊立兰",
+                "black": "周梦龙",
+                "date": "2014-07-02",
+                "result": 0.5,
+                "id": "tournament_72_3"
+            },
+            {
+                "white": "徐晨良",
+                "black": "任苏钦",
+                "date": "2014-07-01",
+                "result": 1,
+                "id": "tournament_72_4"
+            },
+            {
+                "white": "任苏钦",
+                "black": "徐晨良",
+                "date": "2014-07-02",
+                "result": 0.5,
+                "id": "tournament_72_5"
+            },
+            {
+                "white": "薛慧梅",
+                "black": "刘飞",
+                "date": "2014-07-01",
+                "result": 0.5,
+                "id": "tournament_72_6"
+            },
+            {
+                "white": "刘飞",
+                "black": "薛慧梅",
+                "date": "2014-07-02",
+                "result": 0.5,
+                "id": "tournament_72_7"
+            },
+            {
+                "white": "薛慧梅",
+                "black": "刘飞",
+                "date": "2014-07-02",
+                "result": 0.5,
+                "id": "tournament_72_8"
+            },
+            {
+                "white": "张雅娟",
+                "black": "张伟",
+                "date": "2014-07-01",
+                "result": 1,
+                "id": "tournament_72_9"
+            },
+            {
+                "white": "张伟",
+                "black": "张雅娟",
+                "date": "2014-07-02",
+                "result": 1,
+                "id": "tournament_72_10"
+            },
+            {
+                "white": "张雅娟",
+                "black": "张伟",
+                "date": "2014-07-02",
+                "result": 0,
+                "id": "tournament_72_11"
+            },
+            {
+                "white": "王殿",
+                "black": "李依材",
+                "date": "2014-07-01",
+                "result": 1,
+                "id": "tournament_72_12"
+            },
+            {
+                "white": "李依材",
+                "black": "王殿",
+                "date": "2014-07-02",
+                "result": 0,
+                "id": "tournament_72_13"
+            },
+            {
+                "white": "史智",
+                "black": "王建瑶",
+                "date": "2014-07-01",
+                "result": 0,
+                "id": "tournament_72_14"
+            },
+            {
+                "white": "王建瑶",
+                "black": "史智",
+                "date": "2014-07-02",
+                "result": 1,
+                "id": "tournament_72_15"
+            },
+            {
+                "white": "陈春倩",
+                "black": "刘建惜",
+                "date": "2014-07-01",
+                "result": 0,
+                "id": "tournament_72_16"
+            },
+            {
+                "white": "刘建惜",
+                "black": "陈春倩",
+                "date": "2014-07-02",
+                "result": 1,
+                "id": "tournament_72_17"
+            },
+            {
+                "white": "王钰弘",
+                "black": "白卓琼",
+                "date": "2014-07-01",
+                "result": 0.5,
+                "id": "tournament_72_18"
+            },
+            {
+                "white": "白卓琼",
+                "black": "王钰弘",
+                "date": "2014-07-02",
+                "result": 0.5,
+                "id": "tournament_72_19"
+            },
+            {
+                "white": "王钰弘",
+                "black": "白卓琼",
+                "date": "2014-07-02",
+                "result": 0,
+                "id": "tournament_72_20"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "周梦龙",
+                "black": "徐晨良",
+                "date": "2014-07-03",
+                "result": 0.5,
+                "id": "tournament_72_21"
+            },
+            {
+                "white": "徐晨良",
+                "black": "周梦龙",
+                "date": "2014-07-04",
+                "result": 0.5,
+                "id": "tournament_72_22"
+            },
+            {
+                "white": "周梦龙",
+                "black": "徐晨良",
+                "date": "2014-07-04",
+                "result": 0,
+                "id": "tournament_72_23"
+            },
+            {
+                "white": "刘飞",
+                "black": "张伟",
+                "date": "2014-07-03",
+                "result": 0.5,
+                "id": "tournament_72_24"
+            },
+            {
+                "white": "张伟",
+                "black": "刘飞",
+                "date": "2014-07-04",
+                "result": 0.5,
+                "id": "tournament_72_25"
+            },
+            {
+                "white": "刘飞",
+                "black": "张伟",
+                "date": "2014-07-04",
+                "result": 0.5,
+                "id": "tournament_72_26"
+            },
+            {
+                "white": "王殿",
+                "black": "王建瑶",
+                "date": "2014-07-03",
+                "result": 0,
+                "id": "tournament_72_27"
+            },
+            {
+                "white": "王建瑶",
+                "black": "王殿",
+                "date": "2014-07-04",
+                "result": 1,
+                "id": "tournament_72_28"
+            },
+            {
+                "white": "刘建惜",
+                "black": "白卓琼",
+                "date": "2014-07-03",
+                "result": 1,
+                "id": "tournament_72_29"
+            },
+            {
+                "white": "白卓琼",
+                "black": "刘建惜",
+                "date": "2014-07-04",
+                "result": 0,
+                "id": "tournament_72_30"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "徐晨良",
+                "black": "张伟",
+                "date": "2014-07-05",
+                "result": 1,
+                "id": "tournament_72_31"
+            },
+            {
+                "white": "张伟",
+                "black": "徐晨良",
+                "date": "2014-07-06",
+                "result": 0,
+                "id": "tournament_72_32"
+            },
+            {
+                "white": "王建瑶",
+                "black": "刘建惜",
+                "date": "2014-07-05",
+                "result": 1,
+                "id": "tournament_72_33"
+            },
+            {
+                "white": "刘建惜",
+                "black": "王建瑶",
+                "date": "2014-07-06",
+                "result": 1,
+                "id": "tournament_72_34"
+            },
+            {
+                "white": "王建瑶",
+                "black": "刘建惜",
+                "date": "2014-07-06",
+                "result": 0.5,
+                "id": "tournament_72_35"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "徐晨良",
+                "black": "刘建惜",
+                "date": "2014-07-07",
+                "result": 1,
+                "id": "tournament_72_36"
+            },
+            {
+                "white": "刘建惜",
+                "black": "徐晨良",
+                "date": "2014-07-08",
+                "result": 1,
+                "id": "tournament_72_37"
+            },
+            {
+                "white": "徐晨良",
+                "black": "刘建惜",
+                "date": "2014-07-08",
+                "result": 1,
+                "id": "tournament_72_38"
+            }
+        ]
+    },
+    "tours": 4,
+    "time_control": "rapid"
+}

@@ -1,0 +1,493 @@
+{
+    "name": "tournament_484",
+    "start_date": "2017-09-02",
+    "end_date": "2017-09-24",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Gao Yu Tao",
+                "black": "Li Min Kang",
+                "date": "2017-09-02",
+                "result": 0,
+                "id": "tournament_484_1"
+            },
+            {
+                "white": "Mo Hui Jie",
+                "black": "Xing Xin ",
+                "date": "2017-09-02",
+                "result": 0,
+                "id": "tournament_484_2"
+            },
+            {
+                "white": "Luo Xing Shi",
+                "black": "Zhang Da Li",
+                "date": "2017-09-02",
+                "result": 1,
+                "id": "tournament_484_3"
+            },
+            {
+                "white": "Lin Li Gu",
+                "black": "Wang Yi Juan",
+                "date": "2017-09-02",
+                "result": 1,
+                "id": "tournament_484_4"
+            },
+            {
+                "white": "Gao Chang Xia",
+                "black": "Xie Wei Gong",
+                "date": "2017-09-02",
+                "result": 0,
+                "id": "tournament_484_5"
+            },
+            {
+                "white": "Huang Zi Hong",
+                "black": "Deng Lie ",
+                "date": "2017-09-02",
+                "result": 0.5,
+                "id": "tournament_484_6"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Li Min Kang",
+                "black": "Mo Hui Jie",
+                "date": "2017-09-04",
+                "result": 1,
+                "id": "tournament_484_7"
+            },
+            {
+                "white": "Gao Yu Tao",
+                "black": "Luo Xing Shi",
+                "date": "2017-09-04",
+                "result": 1,
+                "id": "tournament_484_8"
+            },
+            {
+                "white": "Lin Li Gu",
+                "black": "Xing Xin ",
+                "date": "2017-09-04",
+                "result": 1,
+                "id": "tournament_484_9"
+            },
+            {
+                "white": "Gao Chang Xia",
+                "black": "Zhang Da Li",
+                "date": "2017-09-04",
+                "result": 0,
+                "id": "tournament_484_10"
+            },
+            {
+                "white": "Huang Zi Hong",
+                "black": "Wang Yi Juan",
+                "date": "2017-09-04",
+                "result": 1,
+                "id": "tournament_484_11"
+            },
+            {
+                "white": "Deng Lie ",
+                "black": "Xie Wei Gong",
+                "date": "2017-09-04",
+                "result": 0.5,
+                "id": "tournament_484_12"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Luo Xing Shi",
+                "black": "Li Min Kang",
+                "date": "2017-09-06",
+                "result": 0.5,
+                "id": "tournament_484_13"
+            },
+            {
+                "white": "Mo Hui Jie",
+                "black": "Lin Li Gu",
+                "date": "2017-09-06",
+                "result": 0,
+                "id": "tournament_484_14"
+            },
+            {
+                "white": "Gao Yu Tao",
+                "black": "Gao Chang Xia",
+                "date": "2017-09-06",
+                "result": 1,
+                "id": "tournament_484_15"
+            },
+            {
+                "white": "Huang Zi Hong",
+                "black": "Xing Xin ",
+                "date": "2017-09-06",
+                "result": 0.5,
+                "id": "tournament_484_16"
+            },
+            {
+                "white": "Deng Lie ",
+                "black": "Zhang Da Li",
+                "date": "2017-09-06",
+                "result": 1,
+                "id": "tournament_484_17"
+            },
+            {
+                "white": "Xie Wei Gong",
+                "black": "Wang Yi Juan",
+                "date": "2017-09-06",
+                "result": 1,
+                "id": "tournament_484_18"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Li Min Kang",
+                "black": "Lin Li Gu",
+                "date": "2017-09-08",
+                "result": 1,
+                "id": "tournament_484_19"
+            },
+            {
+                "white": "Luo Xing Shi",
+                "black": "Gao Chang Xia",
+                "date": "2017-09-08",
+                "result": 1,
+                "id": "tournament_484_20"
+            },
+            {
+                "white": "Mo Hui Jie",
+                "black": "Huang Zi Hong",
+                "date": "2017-09-08",
+                "result": 0,
+                "id": "tournament_484_21"
+            },
+            {
+                "white": "Gao Yu Tao",
+                "black": "Deng Lie ",
+                "date": "2017-09-08",
+                "result": 0.5,
+                "id": "tournament_484_22"
+            },
+            {
+                "white": "Xie Wei Gong",
+                "black": "Xing Xin ",
+                "date": "2017-09-08",
+                "result": 1,
+                "id": "tournament_484_23"
+            },
+            {
+                "white": "Wang Yi Juan",
+                "black": "Zhang Da Li",
+                "date": "2017-09-08",
+                "result": 0.5,
+                "id": "tournament_484_24"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Gao Chang Xia",
+                "black": "Li Min Kang",
+                "date": "2017-09-10",
+                "result": 0,
+                "id": "tournament_484_25"
+            },
+            {
+                "white": "Lin Li Gu",
+                "black": "Huang Zi Hong",
+                "date": "2017-09-10",
+                "result": 1,
+                "id": "tournament_484_26"
+            },
+            {
+                "white": "Luo Xing Shi",
+                "black": "Deng Lie ",
+                "date": "2017-09-10",
+                "result": 1,
+                "id": "tournament_484_27"
+            },
+            {
+                "white": "Mo Hui Jie",
+                "black": "Xie Wei Gong",
+                "date": "2017-09-10",
+                "result": 0,
+                "id": "tournament_484_28"
+            },
+            {
+                "white": "Gao Yu Tao",
+                "black": "Wang Yi Juan",
+                "date": "2017-09-10",
+                "result": 0,
+                "id": "tournament_484_29"
+            },
+            {
+                "white": "Zhang Da Li",
+                "black": "Xing Xin ",
+                "date": "2017-09-10",
+                "result": 0,
+                "id": "tournament_484_30"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Li Min Kang",
+                "black": "Huang Zi Hong",
+                "date": "2017-09-12",
+                "result": 0.5,
+                "id": "tournament_484_31"
+            },
+            {
+                "white": "Gao Chang Xia",
+                "black": "Deng Lie ",
+                "date": "2017-09-12",
+                "result": 0,
+                "id": "tournament_484_32"
+            },
+            {
+                "white": "Lin Li Gu",
+                "black": "Xie Wei Gong",
+                "date": "2017-09-12",
+                "result": 0.5,
+                "id": "tournament_484_33"
+            },
+            {
+                "white": "Luo Xing Shi",
+                "black": "Wang Yi Juan",
+                "date": "2017-09-12",
+                "result": 0,
+                "id": "tournament_484_34"
+            },
+            {
+                "white": "Mo Hui Jie",
+                "black": "Zhang Da Li",
+                "date": "2017-09-12",
+                "result": 0,
+                "id": "tournament_484_35"
+            },
+            {
+                "white": "Gao Yu Tao",
+                "black": "Xing Xin ",
+                "date": "2017-09-12",
+                "result": 0.5,
+                "id": "tournament_484_36"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Deng Lie ",
+                "black": "Li Min Kang",
+                "date": "2017-09-14",
+                "result": 0.5,
+                "id": "tournament_484_37"
+            },
+            {
+                "white": "Huang Zi Hong",
+                "black": "Xie Wei Gong",
+                "date": "2017-09-14",
+                "result": 0,
+                "id": "tournament_484_38"
+            },
+            {
+                "white": "Gao Chang Xia",
+                "black": "Wang Yi Juan",
+                "date": "2017-09-14",
+                "result": 0,
+                "id": "tournament_484_39"
+            },
+            {
+                "white": "Lin Li Gu",
+                "black": "Zhang Da Li",
+                "date": "2017-09-14",
+                "result": 1,
+                "id": "tournament_484_40"
+            },
+            {
+                "white": "Luo Xing Shi",
+                "black": "Xing Xin ",
+                "date": "2017-09-14",
+                "result": 0.5,
+                "id": "tournament_484_41"
+            },
+            {
+                "white": "Gao Yu Tao",
+                "black": "Mo Hui Jie",
+                "date": "2017-09-14",
+                "result": 1,
+                "id": "tournament_484_42"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Li Min Kang",
+                "black": "Xie Wei Gong",
+                "date": "2017-09-16",
+                "result": 0.5,
+                "id": "tournament_484_43"
+            },
+            {
+                "white": "Deng Lie ",
+                "black": "Wang Yi Juan",
+                "date": "2017-09-16",
+                "result": 0.5,
+                "id": "tournament_484_44"
+            },
+            {
+                "white": "Huang Zi Hong",
+                "black": "Zhang Da Li",
+                "date": "2017-09-16",
+                "result": 1,
+                "id": "tournament_484_45"
+            },
+            {
+                "white": "Gao Chang Xia",
+                "black": "Xing Xin ",
+                "date": "2017-09-16",
+                "result": 0.5,
+                "id": "tournament_484_46"
+            },
+            {
+                "white": "Gao Yu Tao",
+                "black": "Lin Li Gu",
+                "date": "2017-09-16",
+                "result": 0,
+                "id": "tournament_484_47"
+            },
+            {
+                "white": "Mo Hui Jie",
+                "black": "Luo Xing Shi",
+                "date": "2017-09-16",
+                "result": 0,
+                "id": "tournament_484_48"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Wang Yi Juan",
+                "black": "Li Min Kang",
+                "date": "2017-09-18",
+                "result": 0.5,
+                "id": "tournament_484_49"
+            },
+            {
+                "white": "Xie Wei Gong",
+                "black": "Zhang Da Li",
+                "date": "2017-09-18",
+                "result": 1,
+                "id": "tournament_484_50"
+            },
+            {
+                "white": "Deng Lie ",
+                "black": "Xing Xin ",
+                "date": "2017-09-18",
+                "result": 0,
+                "id": "tournament_484_51"
+            },
+            {
+                "white": "Gao Yu Tao",
+                "black": "Huang Zi Hong",
+                "date": "2017-09-18",
+                "result": 1,
+                "id": "tournament_484_52"
+            },
+            {
+                "white": "Mo Hui Jie",
+                "black": "Gao Chang Xia",
+                "date": "2017-09-18",
+                "result": 0,
+                "id": "tournament_484_53"
+            },
+            {
+                "white": "Luo Xing Shi",
+                "black": "Lin Li Gu",
+                "date": "2017-09-18",
+                "result": 0,
+                "id": "tournament_484_54"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "Li Min Kang",
+                "black": "Zhang Da Li",
+                "date": "2017-09-20",
+                "result": 1,
+                "id": "tournament_484_55"
+            },
+            {
+                "white": "Wang Yi Juan",
+                "black": "Xing Xin ",
+                "date": "2017-09-20",
+                "result": 0,
+                "id": "tournament_484_56"
+            },
+            {
+                "white": "Gao Yu Tao",
+                "black": "Xie Wei Gong",
+                "date": "2017-09-20",
+                "result": 0,
+                "id": "tournament_484_57"
+            },
+            {
+                "white": "Mo Hui Jie",
+                "black": "Deng Lie ",
+                "date": "2017-09-20",
+                "result": 0,
+                "id": "tournament_484_58"
+            },
+            {
+                "white": "Luo Xing Shi",
+                "black": "Huang Zi Hong",
+                "date": "2017-09-20",
+                "result": 0.5,
+                "id": "tournament_484_59"
+            },
+            {
+                "white": "Lin Li Gu",
+                "black": "Gao Chang Xia",
+                "date": "2017-09-20",
+                "result": 1,
+                "id": "tournament_484_60"
+            }
+        ],
+        "tour_11": [
+            {
+                "white": "Xing Xin ",
+                "black": "Li Min Kang",
+                "date": "2017-09-22",
+                "result": 0,
+                "id": "tournament_484_61"
+            },
+            {
+                "white": "Gao Yu Tao",
+                "black": "Zhang Da Li",
+                "date": "2017-09-22",
+                "result": 1,
+                "id": "tournament_484_62"
+            },
+            {
+                "white": "Mo Hui Jie",
+                "black": "Wang Yi Juan",
+                "date": "2017-09-22",
+                "result": 0,
+                "id": "tournament_484_63"
+            },
+            {
+                "white": "Luo Xing Shi",
+                "black": "Xie Wei Gong",
+                "date": "2017-09-22",
+                "result": 0.5,
+                "id": "tournament_484_64"
+            },
+            {
+                "white": "Lin Li Gu",
+                "black": "Deng Lie ",
+                "date": "2017-09-22",
+                "result": 1,
+                "id": "tournament_484_65"
+            },
+            {
+                "white": "Gao Chang Xia",
+                "black": "Huang Zi Hong",
+                "date": "2017-09-22",
+                "result": 0,
+                "id": "tournament_484_66"
+            }
+        ]
+    },
+    "tours": 11,
+    "time_control": "rapid"
+}

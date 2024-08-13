@@ -1,0 +1,379 @@
+{
+    "name": "tournament_401",
+    "start_date": "2017-01-16",
+    "end_date": "2017-02-05",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Li, Minkang",
+                "black": "Xu, Nv",
+                "date": "2017-01-16",
+                "result": 0.5,
+                "id": "tournament_401_1"
+            },
+            {
+                "white": "Wen, Liling",
+                "black": "Tan, Yao",
+                "date": "2017-01-16",
+                "result": 1,
+                "id": "tournament_401_2"
+            },
+            {
+                "white": "Hao, Changlong",
+                "black": "Zou, Feng",
+                "date": "2017-01-16",
+                "result": 0.5,
+                "id": "tournament_401_3"
+            },
+            {
+                "white": "Yang, Junrui",
+                "black": "Wei, Ming",
+                "date": "2017-01-16",
+                "result": 1,
+                "id": "tournament_401_4"
+            },
+            {
+                "white": "Dong, Yingying",
+                "black": "Lv, Yiguo",
+                "date": "2017-01-16",
+                "result": 1,
+                "id": "tournament_401_5"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Huang, Linxuan",
+                "black": "Li, Minkang",
+                "date": "2017-01-18",
+                "result": 0.5,
+                "id": "tournament_401_6"
+            },
+            {
+                "white": "Hao, Changlong",
+                "black": "Xu, Nv",
+                "date": "2017-01-18",
+                "result": 1,
+                "id": "tournament_401_7"
+            },
+            {
+                "white": "Yang, Junrui",
+                "black": "Tan, Yao",
+                "date": "2017-01-18",
+                "result": 1,
+                "id": "tournament_401_8"
+            },
+            {
+                "white": "Dong, Yingying",
+                "black": "Zou, Feng",
+                "date": "2017-01-18",
+                "result": 0,
+                "id": "tournament_401_9"
+            },
+            {
+                "white": "Lv, Yiguo",
+                "black": "Wei, Ming",
+                "date": "2017-01-18",
+                "result": 0.5,
+                "id": "tournament_401_10"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Wen, Liling",
+                "black": "Huang, Linxuan",
+                "date": "2017-01-20",
+                "result": 1,
+                "id": "tournament_401_11"
+            },
+            {
+                "white": "Li, Minkang",
+                "black": "Hao, Changlong",
+                "date": "2017-01-20",
+                "result": 0,
+                "id": "tournament_401_12"
+            },
+            {
+                "white": "Dong, Yingying",
+                "black": "Xu, Nv",
+                "date": "2017-01-20",
+                "result": 1,
+                "id": "tournament_401_13"
+            },
+            {
+                "white": "Lv, Yiguo",
+                "black": "Tan, Yao",
+                "date": "2017-01-20",
+                "result": 0,
+                "id": "tournament_401_14"
+            },
+            {
+                "white": "Wei, Ming",
+                "black": "Zou, Feng",
+                "date": "2017-01-20",
+                "result": 0,
+                "id": "tournament_401_15"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Huang, Linxuan",
+                "black": "Hao, Changlong",
+                "date": "2017-01-22",
+                "result": 0.5,
+                "id": "tournament_401_16"
+            },
+            {
+                "white": "Wen, Liling",
+                "black": "Yang, Junrui",
+                "date": "2017-01-22",
+                "result": 0.5,
+                "id": "tournament_401_17"
+            },
+            {
+                "white": "Li, Minkang",
+                "black": "Dong, Yingying",
+                "date": "2017-01-22",
+                "result": 0,
+                "id": "tournament_401_18"
+            },
+            {
+                "white": "Wei, Ming",
+                "black": "Xu, Nv",
+                "date": "2017-01-22",
+                "result": 0.5,
+                "id": "tournament_401_19"
+            },
+            {
+                "white": "Zou, Feng",
+                "black": "Tan, Yao",
+                "date": "2017-01-22",
+                "result": 1,
+                "id": "tournament_401_20"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Yang, Junrui",
+                "black": "Huang, Linxuan",
+                "date": "2017-01-24",
+                "result": 1,
+                "id": "tournament_401_21"
+            },
+            {
+                "white": "Hao, Changlong",
+                "black": "Dong, Yingying",
+                "date": "2017-01-24",
+                "result": 0.5,
+                "id": "tournament_401_22"
+            },
+            {
+                "white": "Wen, Liling",
+                "black": "Lv, Yiguo",
+                "date": "2017-01-24",
+                "result": 1,
+                "id": "tournament_401_23"
+            },
+            {
+                "white": "Li, Minkang",
+                "black": "Wei, Ming",
+                "date": "2017-01-24",
+                "result": 0.5,
+                "id": "tournament_401_24"
+            },
+            {
+                "white": "Tan, Yao",
+                "black": "Xu, Nv",
+                "date": "2017-01-24",
+                "result": 0.5,
+                "id": "tournament_401_25"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Huang, Linxuan",
+                "black": "Dong, Yingying",
+                "date": "2017-01-26",
+                "result": 1,
+                "id": "tournament_401_26"
+            },
+            {
+                "white": "Yang, Junrui",
+                "black": "Lv, Yiguo",
+                "date": "2017-01-26",
+                "result": 1,
+                "id": "tournament_401_27"
+            },
+            {
+                "white": "Hao, Changlong",
+                "black": "Wei, Ming",
+                "date": "2017-01-26",
+                "result": 0.5,
+                "id": "tournament_401_28"
+            },
+            {
+                "white": "Wen, Liling",
+                "black": "Zou, Feng",
+                "date": "2017-01-26",
+                "result": 1,
+                "id": "tournament_401_29"
+            },
+            {
+                "white": "Li, Minkang",
+                "black": "Tan, Yao",
+                "date": "2017-01-26",
+                "result": 0,
+                "id": "tournament_401_30"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Lv, Yiguo",
+                "black": "Huang, Linxuan",
+                "date": "2017-01-28",
+                "result": 0.5,
+                "id": "tournament_401_31"
+            },
+            {
+                "white": "Dong, Yingying",
+                "black": "Wei, Ming",
+                "date": "2017-01-28",
+                "result": 1,
+                "id": "tournament_401_32"
+            },
+            {
+                "white": "Yang, Junrui",
+                "black": "Zou, Feng",
+                "date": "2017-01-28",
+                "result": 0.5,
+                "id": "tournament_401_33"
+            },
+            {
+                "white": "Hao, Changlong",
+                "black": "Tan, Yao",
+                "date": "2017-01-28",
+                "result": 1,
+                "id": "tournament_401_34"
+            },
+            {
+                "white": "Wen, Liling",
+                "black": "Xu, Nv",
+                "date": "2017-01-28",
+                "result": 1,
+                "id": "tournament_401_35"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Huang, Linxuan",
+                "black": "Wei, Ming",
+                "date": "2017-01-30",
+                "result": 0.5,
+                "id": "tournament_401_36"
+            },
+            {
+                "white": "Lv, Yiguo",
+                "black": "Zou, Feng",
+                "date": "2017-01-30",
+                "result": 0,
+                "id": "tournament_401_37"
+            },
+            {
+                "white": "Dong, Yingying",
+                "black": "Tan, Yao",
+                "date": "2017-01-30",
+                "result": 1,
+                "id": "tournament_401_38"
+            },
+            {
+                "white": "Yang, Junrui",
+                "black": "Xu, Nv",
+                "date": "2017-01-30",
+                "result": 0.5,
+                "id": "tournament_401_39"
+            },
+            {
+                "white": "Li, Minkang",
+                "black": "Wen, Liling",
+                "date": "2017-01-30",
+                "result": 0,
+                "id": "tournament_401_40"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Zou, Feng",
+                "black": "Huang, Linxuan",
+                "date": "2017-02-01",
+                "result": 1,
+                "id": "tournament_401_41"
+            },
+            {
+                "white": "Wei, Ming",
+                "black": "Tan, Yao",
+                "date": "2017-02-01",
+                "result": 0,
+                "id": "tournament_401_42"
+            },
+            {
+                "white": "Lv, Yiguo",
+                "black": "Xu, Nv",
+                "date": "2017-02-01",
+                "result": 0,
+                "id": "tournament_401_43"
+            },
+            {
+                "white": "Li, Minkang",
+                "black": "Yang, Junrui",
+                "date": "2017-02-01",
+                "result": 0.5,
+                "id": "tournament_401_44"
+            },
+            {
+                "white": "Wen, Liling",
+                "black": "Hao, Changlong",
+                "date": "2017-02-01",
+                "result": 1,
+                "id": "tournament_401_45"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "Huang, Linxuan",
+                "black": "Tan, Yao",
+                "date": "2017-02-03",
+                "result": 0.5,
+                "id": "tournament_401_46"
+            },
+            {
+                "white": "Zou, Feng",
+                "black": "Xu, Nv",
+                "date": "2017-02-03",
+                "result": 1,
+                "id": "tournament_401_47"
+            },
+            {
+                "white": "Li, Minkang",
+                "black": "Lv, Yiguo",
+                "date": "2017-02-03",
+                "result": 0.5,
+                "id": "tournament_401_48"
+            },
+            {
+                "white": "Wen, Liling",
+                "black": "Dong, Yingying",
+                "date": "2017-02-03",
+                "result": 1,
+                "id": "tournament_401_49"
+            },
+            {
+                "white": "Hao, Changlong",
+                "black": "Yang, Junrui",
+                "date": "2017-02-03",
+                "result": 0.5,
+                "id": "tournament_401_50"
+            }
+        ]
+    },
+    "tours": 10,
+    "time_control": "classic"
+}

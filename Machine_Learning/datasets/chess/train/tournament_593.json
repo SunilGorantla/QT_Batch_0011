@@ -1,0 +1,952 @@
+{
+    "name": "tournament_593",
+    "start_date": "2018-06-13",
+    "end_date": "2018-07-07",
+    "games": {
+        "tour_1": [
+            {
+                "white": "洪冬",
+                "black": "王建瑶",
+                "date": "2018-06-13",
+                "result": 0,
+                "id": "tournament_593_1"
+            },
+            {
+                "white": "王建瑶",
+                "black": "洪冬",
+                "date": "2018-06-15",
+                "result": 0.5,
+                "id": "tournament_593_2"
+            },
+            {
+                "white": "朱于",
+                "black": "吴秋",
+                "date": "2018-06-13",
+                "result": 1,
+                "id": "tournament_593_3"
+            },
+            {
+                "white": "吴秋",
+                "black": "朱于",
+                "date": "2018-06-15",
+                "result": 0.5,
+                "id": "tournament_593_4"
+            },
+            {
+                "white": "叶丽波",
+                "black": "李旻",
+                "date": "2018-06-13",
+                "result": 0,
+                "id": "tournament_593_5"
+            },
+            {
+                "white": "李旻",
+                "black": "叶丽波",
+                "date": "2018-06-15",
+                "result": 0.5,
+                "id": "tournament_593_6"
+            },
+            {
+                "white": "刘亚琪",
+                "black": "李洋宜",
+                "date": "2018-06-13",
+                "result": 0,
+                "id": "tournament_593_7"
+            },
+            {
+                "white": "李洋宜",
+                "black": "刘亚琪",
+                "date": "2018-06-15",
+                "result": 1,
+                "id": "tournament_593_8"
+            },
+            {
+                "white": "樊文安",
+                "black": "秦慧菲",
+                "date": "2018-06-13",
+                "result": 0.5,
+                "id": "tournament_593_9"
+            },
+            {
+                "white": "秦慧菲",
+                "black": "樊文安",
+                "date": "2018-06-15",
+                "result": 1,
+                "id": "tournament_593_10"
+            },
+            {
+                "white": "洪丽力",
+                "black": "袁贞山",
+                "date": "2018-06-13",
+                "result": 1,
+                "id": "tournament_593_11"
+            },
+            {
+                "white": "袁贞山",
+                "black": "洪丽力",
+                "date": "2018-06-15",
+                "result": 0,
+                "id": "tournament_593_12"
+            },
+            {
+                "white": "赵保屿",
+                "black": "赵西勇",
+                "date": "2018-06-13",
+                "result": 0,
+                "id": "tournament_593_13"
+            },
+            {
+                "white": "赵西勇",
+                "black": "赵保屿",
+                "date": "2018-06-15",
+                "result": 1,
+                "id": "tournament_593_14"
+            },
+            {
+                "white": "程靖华",
+                "black": "田雄",
+                "date": "2018-06-13",
+                "result": 0,
+                "id": "tournament_593_15"
+            },
+            {
+                "white": "田雄",
+                "black": "程靖华",
+                "date": "2018-06-15",
+                "result": 0.5,
+                "id": "tournament_593_16"
+            },
+            {
+                "white": "孙义敏",
+                "black": "姚伟霞",
+                "date": "2018-06-13",
+                "result": 1,
+                "id": "tournament_593_17"
+            },
+            {
+                "white": "姚伟霞",
+                "black": "孙义敏",
+                "date": "2018-06-15",
+                "result": 0,
+                "id": "tournament_593_18"
+            },
+            {
+                "white": "袁宪萍",
+                "black": "段立吉",
+                "date": "2018-06-13",
+                "result": 0,
+                "id": "tournament_593_19"
+            },
+            {
+                "white": "段立吉",
+                "black": "袁宪萍",
+                "date": "2018-06-15",
+                "result": 1,
+                "id": "tournament_593_20"
+            },
+            {
+                "white": "王津",
+                "black": "魏凯",
+                "date": "2018-06-13",
+                "result": 1,
+                "id": "tournament_593_21"
+            },
+            {
+                "white": "魏凯",
+                "black": "王津",
+                "date": "2018-06-15",
+                "result": 0,
+                "id": "tournament_593_22"
+            },
+            {
+                "white": "李玫烈",
+                "black": "郝华琳",
+                "date": "2018-06-13",
+                "result": 0,
+                "id": "tournament_593_23"
+            },
+            {
+                "white": "郝华琳",
+                "black": "李玫烈",
+                "date": "2018-06-15",
+                "result": 0.5,
+                "id": "tournament_593_24"
+            },
+            {
+                "white": "程名云",
+                "black": "文利玲",
+                "date": "2018-06-13",
+                "result": 0,
+                "id": "tournament_593_25"
+            },
+            {
+                "white": "文利玲",
+                "black": "程名云",
+                "date": "2018-06-15",
+                "result": 1,
+                "id": "tournament_593_26"
+            },
+            {
+                "white": "高小晨",
+                "black": "李守超",
+                "date": "2018-06-13",
+                "result": 0.5,
+                "id": "tournament_593_27"
+            },
+            {
+                "white": "李守超",
+                "black": "高小晨",
+                "date": "2018-06-15",
+                "result": 1,
+                "id": "tournament_593_28"
+            },
+            {
+                "white": "黄允虎",
+                "black": "程梓华",
+                "date": "2018-06-13",
+                "result": 0.5,
+                "id": "tournament_593_29"
+            },
+            {
+                "white": "程梓华",
+                "black": "黄允虎",
+                "date": "2018-06-15",
+                "result": 0.5,
+                "id": "tournament_593_30"
+            },
+            {
+                "white": "黄允虎",
+                "black": "程梓华",
+                "date": "2018-06-15",
+                "result": 0,
+                "id": "tournament_593_31"
+            },
+            {
+                "white": "冯雄民",
+                "black": "高长霞",
+                "date": "2018-06-13",
+                "result": 1,
+                "id": "tournament_593_32"
+            },
+            {
+                "white": "高长霞",
+                "black": "冯雄民",
+                "date": "2018-06-15",
+                "result": 0,
+                "id": "tournament_593_33"
+            },
+            {
+                "white": "徐先广",
+                "black": "秦鼐涛",
+                "date": "2018-06-13",
+                "result": 1,
+                "id": "tournament_593_34"
+            },
+            {
+                "white": "秦鼐涛",
+                "black": "徐先广",
+                "date": "2018-06-15",
+                "result": 0,
+                "id": "tournament_593_35"
+            },
+            {
+                "white": "段振",
+                "black": "孙沙",
+                "date": "2018-06-13",
+                "result": 0,
+                "id": "tournament_593_36"
+            },
+            {
+                "white": "孙沙",
+                "black": "段振",
+                "date": "2018-06-15",
+                "result": 1,
+                "id": "tournament_593_37"
+            },
+            {
+                "white": "秦智",
+                "black": "郭何迟",
+                "date": "2018-06-13",
+                "result": 1,
+                "id": "tournament_593_38"
+            },
+            {
+                "white": "郭何迟",
+                "black": "秦智",
+                "date": "2018-06-15",
+                "result": 0.5,
+                "id": "tournament_593_39"
+            },
+            {
+                "white": "宋晶香",
+                "black": "陈章珍",
+                "date": "2018-06-13",
+                "result": 0.5,
+                "id": "tournament_593_40"
+            },
+            {
+                "white": "陈章珍",
+                "black": "宋晶香",
+                "date": "2018-06-15",
+                "result": 1,
+                "id": "tournament_593_41"
+            },
+            {
+                "white": "余懿",
+                "black": "王俊",
+                "date": "2018-06-13",
+                "result": 0.5,
+                "id": "tournament_593_42"
+            },
+            {
+                "white": "王俊",
+                "black": "余懿",
+                "date": "2018-06-15",
+                "result": 1,
+                "id": "tournament_593_43"
+            },
+            {
+                "white": "袁小昆",
+                "black": "张宇",
+                "date": "2018-06-13",
+                "result": 0.5,
+                "id": "tournament_593_44"
+            },
+            {
+                "white": "张宇",
+                "black": "袁小昆",
+                "date": "2018-06-15",
+                "result": 1,
+                "id": "tournament_593_45"
+            },
+            {
+                "white": "齐慧智",
+                "black": "李秀寿",
+                "date": "2018-06-13",
+                "result": 0.5,
+                "id": "tournament_593_46"
+            },
+            {
+                "white": "李秀寿",
+                "black": "齐慧智",
+                "date": "2018-06-15",
+                "result": 0,
+                "id": "tournament_593_47"
+            },
+            {
+                "white": "王奕娟",
+                "black": "杨德祥",
+                "date": "2018-06-13",
+                "result": 0.5,
+                "id": "tournament_593_48"
+            },
+            {
+                "white": "杨德祥",
+                "black": "王奕娟",
+                "date": "2018-06-15",
+                "result": 0.5,
+                "id": "tournament_593_49"
+            },
+            {
+                "white": "王奕娟",
+                "black": "杨德祥",
+                "date": "2018-06-15",
+                "result": 0.5,
+                "id": "tournament_593_50"
+            },
+            {
+                "white": "魏振田",
+                "black": "林肖",
+                "date": "2018-06-13",
+                "result": 0,
+                "id": "tournament_593_51"
+            },
+            {
+                "white": "林肖",
+                "black": "魏振田",
+                "date": "2018-06-15",
+                "result": 1,
+                "id": "tournament_593_52"
+            },
+            {
+                "white": "张启燕",
+                "black": "陶国",
+                "date": "2018-06-13",
+                "result": 0,
+                "id": "tournament_593_53"
+            },
+            {
+                "white": "陶国",
+                "black": "张启燕",
+                "date": "2018-06-15",
+                "result": 1,
+                "id": "tournament_593_54"
+            },
+            {
+                "white": "张许",
+                "black": "钟小琰",
+                "date": "2018-06-13",
+                "result": 1,
+                "id": "tournament_593_55"
+            },
+            {
+                "white": "钟小琰",
+                "black": "张许",
+                "date": "2018-06-15",
+                "result": 0.5,
+                "id": "tournament_593_56"
+            },
+            {
+                "white": "徐浩程",
+                "black": "王建民",
+                "date": "2018-06-13",
+                "result": 1,
+                "id": "tournament_593_57"
+            },
+            {
+                "white": "王建民",
+                "black": "徐浩程",
+                "date": "2018-06-15",
+                "result": 0,
+                "id": "tournament_593_58"
+            },
+            {
+                "white": "梁继岳",
+                "black": "吴雄苍",
+                "date": "2018-06-13",
+                "result": 0,
+                "id": "tournament_593_59"
+            },
+            {
+                "white": "吴雄苍",
+                "black": "梁继岳",
+                "date": "2018-06-15",
+                "result": 1,
+                "id": "tournament_593_60"
+            },
+            {
+                "white": "周梦龙",
+                "black": "徐荣冰",
+                "date": "2018-06-13",
+                "result": 0.5,
+                "id": "tournament_593_61"
+            },
+            {
+                "white": "徐荣冰",
+                "black": "周梦龙",
+                "date": "2018-06-15",
+                "result": 1,
+                "id": "tournament_593_62"
+            },
+            {
+                "white": "李焙",
+                "black": "胡东文",
+                "date": "2018-06-13",
+                "result": 0.5,
+                "id": "tournament_593_63"
+            },
+            {
+                "white": "胡东文",
+                "black": "李焙",
+                "date": "2018-06-15",
+                "result": 1,
+                "id": "tournament_593_64"
+            },
+            {
+                "white": "张国飞",
+                "black": "李晨治",
+                "date": "2018-06-13",
+                "result": 1,
+                "id": "tournament_593_65"
+            },
+            {
+                "white": "李晨治",
+                "black": "张国飞",
+                "date": "2018-06-15",
+                "result": 0,
+                "id": "tournament_593_66"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "王建瑶",
+                "black": "朱于",
+                "date": "2018-06-17",
+                "result": 0.5,
+                "id": "tournament_593_67"
+            },
+            {
+                "white": "朱于",
+                "black": "王建瑶",
+                "date": "2018-06-19",
+                "result": 0.5,
+                "id": "tournament_593_68"
+            },
+            {
+                "white": "王建瑶",
+                "black": "朱于",
+                "date": "2018-06-19",
+                "result": 1,
+                "id": "tournament_593_69"
+            },
+            {
+                "white": "李旻",
+                "black": "李洋宜",
+                "date": "2018-06-17",
+                "result": 1,
+                "id": "tournament_593_70"
+            },
+            {
+                "white": "李洋宜",
+                "black": "李旻",
+                "date": "2018-06-19",
+                "result": 0.5,
+                "id": "tournament_593_71"
+            },
+            {
+                "white": "秦慧菲",
+                "black": "洪丽力",
+                "date": "2018-06-17",
+                "result": 0.5,
+                "id": "tournament_593_72"
+            },
+            {
+                "white": "洪丽力",
+                "black": "秦慧菲",
+                "date": "2018-06-19",
+                "result": 1,
+                "id": "tournament_593_73"
+            },
+            {
+                "white": "赵西勇",
+                "black": "田雄",
+                "date": "2018-06-17",
+                "result": 1,
+                "id": "tournament_593_74"
+            },
+            {
+                "white": "田雄",
+                "black": "赵西勇",
+                "date": "2018-06-19",
+                "result": 0.5,
+                "id": "tournament_593_75"
+            },
+            {
+                "white": "孙义敏",
+                "black": "段立吉",
+                "date": "2018-06-17",
+                "result": 0,
+                "id": "tournament_593_76"
+            },
+            {
+                "white": "段立吉",
+                "black": "孙义敏",
+                "date": "2018-06-19",
+                "result": 0.5,
+                "id": "tournament_593_77"
+            },
+            {
+                "white": "王津",
+                "black": "郝华琳",
+                "date": "2018-06-17",
+                "result": 1,
+                "id": "tournament_593_78"
+            },
+            {
+                "white": "郝华琳",
+                "black": "王津",
+                "date": "2018-06-19",
+                "result": 0.5,
+                "id": "tournament_593_79"
+            },
+            {
+                "white": "文利玲",
+                "black": "李守超",
+                "date": "2018-06-17",
+                "result": 0,
+                "id": "tournament_593_80"
+            },
+            {
+                "white": "李守超",
+                "black": "文利玲",
+                "date": "2018-06-19",
+                "result": 1,
+                "id": "tournament_593_81"
+            },
+            {
+                "white": "程梓华",
+                "black": "冯雄民",
+                "date": "2018-06-17",
+                "result": 0,
+                "id": "tournament_593_82"
+            },
+            {
+                "white": "冯雄民",
+                "black": "程梓华",
+                "date": "2018-06-19",
+                "result": 1,
+                "id": "tournament_593_83"
+            },
+            {
+                "white": "徐先广",
+                "black": "孙沙",
+                "date": "2018-06-17",
+                "result": 1,
+                "id": "tournament_593_84"
+            },
+            {
+                "white": "孙沙",
+                "black": "徐先广",
+                "date": "2018-06-19",
+                "result": 0,
+                "id": "tournament_593_85"
+            },
+            {
+                "white": "秦智",
+                "black": "陈章珍",
+                "date": "2018-06-17",
+                "result": 0.5,
+                "id": "tournament_593_86"
+            },
+            {
+                "white": "陈章珍",
+                "black": "秦智",
+                "date": "2018-06-19",
+                "result": 0.5,
+                "id": "tournament_593_87"
+            },
+            {
+                "white": "秦智",
+                "black": "陈章珍",
+                "date": "2018-06-19",
+                "result": 0,
+                "id": "tournament_593_88"
+            },
+            {
+                "white": "王俊",
+                "black": "张宇",
+                "date": "2018-06-17",
+                "result": 0,
+                "id": "tournament_593_89"
+            },
+            {
+                "white": "张宇",
+                "black": "王俊",
+                "date": "2018-06-19",
+                "result": 1,
+                "id": "tournament_593_90"
+            },
+            {
+                "white": "齐慧智",
+                "black": "杨德祥",
+                "date": "2018-06-17",
+                "result": 1,
+                "id": "tournament_593_91"
+            },
+            {
+                "white": "杨德祥",
+                "black": "齐慧智",
+                "date": "2018-06-19",
+                "result": 0,
+                "id": "tournament_593_92"
+            },
+            {
+                "white": "林肖",
+                "black": "陶国",
+                "date": "2018-06-17",
+                "result": 0,
+                "id": "tournament_593_93"
+            },
+            {
+                "white": "陶国",
+                "black": "林肖",
+                "date": "2018-06-19",
+                "result": 1,
+                "id": "tournament_593_94"
+            },
+            {
+                "white": "张许",
+                "black": "徐浩程",
+                "date": "2018-06-17",
+                "result": 0,
+                "id": "tournament_593_95"
+            },
+            {
+                "white": "徐浩程",
+                "black": "张许",
+                "date": "2018-06-19",
+                "result": 1,
+                "id": "tournament_593_96"
+            },
+            {
+                "white": "吴雄苍",
+                "black": "徐荣冰",
+                "date": "2018-06-17",
+                "result": 1,
+                "id": "tournament_593_97"
+            },
+            {
+                "white": "徐荣冰",
+                "black": "吴雄苍",
+                "date": "2018-06-19",
+                "result": 0.5,
+                "id": "tournament_593_98"
+            },
+            {
+                "white": "胡东文",
+                "black": "张国飞",
+                "date": "2018-06-17",
+                "result": 0,
+                "id": "tournament_593_99"
+            },
+            {
+                "white": "张国飞",
+                "black": "胡东文",
+                "date": "2018-06-19",
+                "result": 1,
+                "id": "tournament_593_100"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "王建瑶",
+                "black": "李旻",
+                "date": "2018-06-21",
+                "result": 0.5,
+                "id": "tournament_593_101"
+            },
+            {
+                "white": "李旻",
+                "black": "王建瑶",
+                "date": "2018-06-23",
+                "result": 0,
+                "id": "tournament_593_102"
+            },
+            {
+                "white": "洪丽力",
+                "black": "赵西勇",
+                "date": "2018-06-21",
+                "result": 0.5,
+                "id": "tournament_593_103"
+            },
+            {
+                "white": "赵西勇",
+                "black": "洪丽力",
+                "date": "2018-06-23",
+                "result": 0,
+                "id": "tournament_593_104"
+            },
+            {
+                "white": "段立吉",
+                "black": "王津",
+                "date": "2018-06-21",
+                "result": 1,
+                "id": "tournament_593_105"
+            },
+            {
+                "white": "王津",
+                "black": "段立吉",
+                "date": "2018-06-23",
+                "result": 0,
+                "id": "tournament_593_106"
+            },
+            {
+                "white": "李守超",
+                "black": "冯雄民",
+                "date": "2018-06-21",
+                "result": 0,
+                "id": "tournament_593_107"
+            },
+            {
+                "white": "冯雄民",
+                "black": "李守超",
+                "date": "2018-06-23",
+                "result": 1,
+                "id": "tournament_593_108"
+            },
+            {
+                "white": "徐先广",
+                "black": "陈章珍",
+                "date": "2018-06-21",
+                "result": 1,
+                "id": "tournament_593_109"
+            },
+            {
+                "white": "陈章珍",
+                "black": "徐先广",
+                "date": "2018-06-23",
+                "result": 0,
+                "id": "tournament_593_110"
+            },
+            {
+                "white": "张宇",
+                "black": "齐慧智",
+                "date": "2018-06-21",
+                "result": 1,
+                "id": "tournament_593_111"
+            },
+            {
+                "white": "齐慧智",
+                "black": "张宇",
+                "date": "2018-06-23",
+                "result": 0,
+                "id": "tournament_593_112"
+            },
+            {
+                "white": "陶国",
+                "black": "徐浩程",
+                "date": "2018-06-21",
+                "result": 0.5,
+                "id": "tournament_593_113"
+            },
+            {
+                "white": "徐浩程",
+                "black": "陶国",
+                "date": "2018-06-23",
+                "result": 0.5,
+                "id": "tournament_593_114"
+            },
+            {
+                "white": "陶国",
+                "black": "徐浩程",
+                "date": "2018-06-23",
+                "result": 0,
+                "id": "tournament_593_115"
+            },
+            {
+                "white": "吴雄苍",
+                "black": "张国飞",
+                "date": "2018-06-21",
+                "result": 1,
+                "id": "tournament_593_116"
+            },
+            {
+                "white": "张国飞",
+                "black": "吴雄苍",
+                "date": "2018-06-23",
+                "result": 0,
+                "id": "tournament_593_117"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "王建瑶",
+                "black": "洪丽力",
+                "date": "2018-06-25",
+                "result": 1,
+                "id": "tournament_593_118"
+            },
+            {
+                "white": "洪丽力",
+                "black": "王建瑶",
+                "date": "2018-06-27",
+                "result": 0.5,
+                "id": "tournament_593_119"
+            },
+            {
+                "white": "段立吉",
+                "black": "冯雄民",
+                "date": "2018-06-25",
+                "result": 1,
+                "id": "tournament_593_120"
+            },
+            {
+                "white": "冯雄民",
+                "black": "段立吉",
+                "date": "2018-06-27",
+                "result": 0.5,
+                "id": "tournament_593_121"
+            },
+            {
+                "white": "徐先广",
+                "black": "张宇",
+                "date": "2018-06-25",
+                "result": 0.5,
+                "id": "tournament_593_122"
+            },
+            {
+                "white": "张宇",
+                "black": "徐先广",
+                "date": "2018-06-27",
+                "result": 0,
+                "id": "tournament_593_123"
+            },
+            {
+                "white": "徐浩程",
+                "black": "吴雄苍",
+                "date": "2018-06-25",
+                "result": 0.5,
+                "id": "tournament_593_124"
+            },
+            {
+                "white": "吴雄苍",
+                "black": "徐浩程",
+                "date": "2018-06-27",
+                "result": 0.5,
+                "id": "tournament_593_125"
+            },
+            {
+                "white": "徐浩程",
+                "black": "吴雄苍",
+                "date": "2018-06-27",
+                "result": 1,
+                "id": "tournament_593_126"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "王建瑶",
+                "black": "段立吉",
+                "date": "2018-06-29",
+                "result": 0,
+                "id": "tournament_593_127"
+            },
+            {
+                "white": "段立吉",
+                "black": "王建瑶",
+                "date": "2018-07-01",
+                "result": 1,
+                "id": "tournament_593_128"
+            },
+            {
+                "white": "徐先广",
+                "black": "徐浩程",
+                "date": "2018-06-29",
+                "result": 0.5,
+                "id": "tournament_593_129"
+            },
+            {
+                "white": "徐浩程",
+                "black": "徐先广",
+                "date": "2018-07-01",
+                "result": 1,
+                "id": "tournament_593_130"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "段立吉",
+                "black": "徐浩程",
+                "date": "2018-07-03",
+                "result": 0.5,
+                "id": "tournament_593_131"
+            },
+            {
+                "white": "徐浩程",
+                "black": "段立吉",
+                "date": "2018-07-05",
+                "result": 0.5,
+                "id": "tournament_593_132"
+            },
+            {
+                "white": "段立吉",
+                "black": "徐浩程",
+                "date": "2018-07-05",
+                "result": 1,
+                "id": "tournament_593_133"
+            }
+        ]
+    },
+    "tours": 6,
+    "time_control": "classic"
+}

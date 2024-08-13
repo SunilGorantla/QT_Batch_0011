@@ -1,0 +1,147 @@
+{
+    "name": "tournament_237",
+    "start_date": "2015-10-05",
+    "end_date": "2015-10-17",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Zhang Ya Yan",
+                "black": "Zhao Jin Geng",
+                "date": "2015-10-05",
+                "result": 0,
+                "id": "tournament_237_1"
+            },
+            {
+                "white": "Xiao Cui Bing",
+                "black": "Zhu You Rong",
+                "date": "2015-10-05",
+                "result": 0.5,
+                "id": "tournament_237_2"
+            },
+            {
+                "white": "Lai Zhen En",
+                "black": "Liang Liang ",
+                "date": "2015-10-05",
+                "result": 1,
+                "id": "tournament_237_3"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Xu Ming ",
+                "black": "Zhang Ya Yan",
+                "date": "2015-10-07",
+                "result": 0.5,
+                "id": "tournament_237_4"
+            },
+            {
+                "white": "Lai Zhen En",
+                "black": "Zhao Jin Geng",
+                "date": "2015-10-07",
+                "result": 1,
+                "id": "tournament_237_5"
+            },
+            {
+                "white": "Liang Liang ",
+                "black": "Zhu You Rong",
+                "date": "2015-10-07",
+                "result": 0.5,
+                "id": "tournament_237_6"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Xiao Cui Bing",
+                "black": "Xu Ming ",
+                "date": "2015-10-09",
+                "result": 0.5,
+                "id": "tournament_237_7"
+            },
+            {
+                "white": "Zhang Ya Yan",
+                "black": "Lai Zhen En",
+                "date": "2015-10-09",
+                "result": 0,
+                "id": "tournament_237_8"
+            },
+            {
+                "white": "Zhu You Rong",
+                "black": "Zhao Jin Geng",
+                "date": "2015-10-09",
+                "result": 0.5,
+                "id": "tournament_237_9"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Xu Ming ",
+                "black": "Lai Zhen En",
+                "date": "2015-10-11",
+                "result": 0,
+                "id": "tournament_237_10"
+            },
+            {
+                "white": "Xiao Cui Bing",
+                "black": "Liang Liang ",
+                "date": "2015-10-11",
+                "result": 0.5,
+                "id": "tournament_237_11"
+            },
+            {
+                "white": "Zhang Ya Yan",
+                "black": "Zhu You Rong",
+                "date": "2015-10-11",
+                "result": 1,
+                "id": "tournament_237_12"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Liang Liang ",
+                "black": "Xu Ming ",
+                "date": "2015-10-13",
+                "result": 0.5,
+                "id": "tournament_237_13"
+            },
+            {
+                "white": "Lai Zhen En",
+                "black": "Zhu You Rong",
+                "date": "2015-10-13",
+                "result": 1,
+                "id": "tournament_237_14"
+            },
+            {
+                "white": "Xiao Cui Bing",
+                "black": "Zhao Jin Geng",
+                "date": "2015-10-13",
+                "result": 0,
+                "id": "tournament_237_15"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Xu Ming ",
+                "black": "Zhu You Rong",
+                "date": "2015-10-15",
+                "result": 0.5,
+                "id": "tournament_237_16"
+            },
+            {
+                "white": "Liang Liang ",
+                "black": "Zhao Jin Geng",
+                "date": "2015-10-15",
+                "result": 0,
+                "id": "tournament_237_17"
+            },
+            {
+                "white": "Zhang Ya Yan",
+                "black": "Xiao Cui Bing",
+                "date": "2015-10-15",
+                "result": 0.5,
+                "id": "tournament_237_18"
+            }
+        ]
+    },
+    "tours": 6,
+    "time_control": "classic"
+}

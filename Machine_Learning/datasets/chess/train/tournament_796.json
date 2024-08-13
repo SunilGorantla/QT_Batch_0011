@@ -1,0 +1,537 @@
+{
+    "name": "tournament_796",
+    "start_date": "2019-12-11",
+    "end_date": "2020-01-04",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Zhang, Wei",
+                "black": "Tian, Zhuobo",
+                "date": "2019-12-11",
+                "result": 1,
+                "id": "tournament_796_1"
+            },
+            {
+                "white": "Xu, Lingjing",
+                "black": "Gu, Jiajun",
+                "date": "2019-12-11",
+                "result": 1,
+                "id": "tournament_796_2"
+            },
+            {
+                "white": "Feng, Yanjia",
+                "black": "Shi, Yijiao",
+                "date": "2019-12-11",
+                "result": 0,
+                "id": "tournament_796_3"
+            },
+            {
+                "white": "Li, Fujie",
+                "black": "Zhang, Weirong",
+                "date": "2019-12-11",
+                "result": 0.5,
+                "id": "tournament_796_4"
+            },
+            {
+                "white": "Zhang, Jia",
+                "black": "Xu, Chenliang",
+                "date": "2019-12-11",
+                "result": 0,
+                "id": "tournament_796_5"
+            },
+            {
+                "white": "Zhu, Erzhou",
+                "black": "Cai, Wanxia",
+                "date": "2019-12-11",
+                "result": 1,
+                "id": "tournament_796_6"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Lin, Haopeng",
+                "black": "Zhang, Wei",
+                "date": "2019-12-13",
+                "result": 0,
+                "id": "tournament_796_7"
+            },
+            {
+                "white": "Feng, Yanjia",
+                "black": "Tian, Zhuobo",
+                "date": "2019-12-13",
+                "result": 0,
+                "id": "tournament_796_8"
+            },
+            {
+                "white": "Li, Fujie",
+                "black": "Gu, Jiajun",
+                "date": "2019-12-13",
+                "result": 0,
+                "id": "tournament_796_9"
+            },
+            {
+                "white": "Zhang, Jia",
+                "black": "Shi, Yijiao",
+                "date": "2019-12-13",
+                "result": 1,
+                "id": "tournament_796_10"
+            },
+            {
+                "white": "Zhu, Erzhou",
+                "black": "Zhang, Weirong",
+                "date": "2019-12-13",
+                "result": 0.5,
+                "id": "tournament_796_11"
+            },
+            {
+                "white": "Cai, Wanxia",
+                "black": "Xu, Chenliang",
+                "date": "2019-12-13",
+                "result": 0,
+                "id": "tournament_796_12"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Xu, Lingjing",
+                "black": "Lin, Haopeng",
+                "date": "2019-12-15",
+                "result": 1,
+                "id": "tournament_796_13"
+            },
+            {
+                "white": "Zhang, Wei",
+                "black": "Feng, Yanjia",
+                "date": "2019-12-15",
+                "result": 1,
+                "id": "tournament_796_14"
+            },
+            {
+                "white": "Zhang, Jia",
+                "black": "Tian, Zhuobo",
+                "date": "2019-12-15",
+                "result": 1,
+                "id": "tournament_796_15"
+            },
+            {
+                "white": "Zhu, Erzhou",
+                "black": "Gu, Jiajun",
+                "date": "2019-12-15",
+                "result": 1,
+                "id": "tournament_796_16"
+            },
+            {
+                "white": "Cai, Wanxia",
+                "black": "Shi, Yijiao",
+                "date": "2019-12-15",
+                "result": 0,
+                "id": "tournament_796_17"
+            },
+            {
+                "white": "Xu, Chenliang",
+                "black": "Zhang, Weirong",
+                "date": "2019-12-15",
+                "result": 1,
+                "id": "tournament_796_18"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Lin, Haopeng",
+                "black": "Feng, Yanjia",
+                "date": "2019-12-17",
+                "result": 0.5,
+                "id": "tournament_796_19"
+            },
+            {
+                "white": "Xu, Lingjing",
+                "black": "Li, Fujie",
+                "date": "2019-12-17",
+                "result": 1,
+                "id": "tournament_796_20"
+            },
+            {
+                "white": "Zhang, Wei",
+                "black": "Zhang, Jia",
+                "date": "2019-12-17",
+                "result": 0.5,
+                "id": "tournament_796_21"
+            },
+            {
+                "white": "Cai, Wanxia",
+                "black": "Tian, Zhuobo",
+                "date": "2019-12-17",
+                "result": 0,
+                "id": "tournament_796_22"
+            },
+            {
+                "white": "Xu, Chenliang",
+                "black": "Gu, Jiajun",
+                "date": "2019-12-17",
+                "result": 0.5,
+                "id": "tournament_796_23"
+            },
+            {
+                "white": "Zhang, Weirong",
+                "black": "Shi, Yijiao",
+                "date": "2019-12-17",
+                "result": 0.5,
+                "id": "tournament_796_24"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Li, Fujie",
+                "black": "Lin, Haopeng",
+                "date": "2019-12-19",
+                "result": 0.5,
+                "id": "tournament_796_25"
+            },
+            {
+                "white": "Feng, Yanjia",
+                "black": "Zhang, Jia",
+                "date": "2019-12-19",
+                "result": 0,
+                "id": "tournament_796_26"
+            },
+            {
+                "white": "Xu, Lingjing",
+                "black": "Zhu, Erzhou",
+                "date": "2019-12-19",
+                "result": 1,
+                "id": "tournament_796_27"
+            },
+            {
+                "white": "Zhang, Wei",
+                "black": "Cai, Wanxia",
+                "date": "2019-12-19",
+                "result": 1,
+                "id": "tournament_796_28"
+            },
+            {
+                "white": "Zhang, Weirong",
+                "black": "Tian, Zhuobo",
+                "date": "2019-12-19",
+                "result": 0.5,
+                "id": "tournament_796_29"
+            },
+            {
+                "white": "Shi, Yijiao",
+                "black": "Gu, Jiajun",
+                "date": "2019-12-19",
+                "result": 1,
+                "id": "tournament_796_30"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Lin, Haopeng",
+                "black": "Zhang, Jia",
+                "date": "2019-12-21",
+                "result": 0,
+                "id": "tournament_796_31"
+            },
+            {
+                "white": "Li, Fujie",
+                "black": "Zhu, Erzhou",
+                "date": "2019-12-21",
+                "result": 0,
+                "id": "tournament_796_32"
+            },
+            {
+                "white": "Feng, Yanjia",
+                "black": "Cai, Wanxia",
+                "date": "2019-12-21",
+                "result": 1,
+                "id": "tournament_796_33"
+            },
+            {
+                "white": "Xu, Lingjing",
+                "black": "Xu, Chenliang",
+                "date": "2019-12-21",
+                "result": 0,
+                "id": "tournament_796_34"
+            },
+            {
+                "white": "Zhang, Wei",
+                "black": "Zhang, Weirong",
+                "date": "2019-12-21",
+                "result": 1,
+                "id": "tournament_796_35"
+            },
+            {
+                "white": "Gu, Jiajun",
+                "black": "Tian, Zhuobo",
+                "date": "2019-12-21",
+                "result": 0.5,
+                "id": "tournament_796_36"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Zhu, Erzhou",
+                "black": "Lin, Haopeng",
+                "date": "2019-12-23",
+                "result": 1,
+                "id": "tournament_796_37"
+            },
+            {
+                "white": "Zhang, Jia",
+                "black": "Cai, Wanxia",
+                "date": "2019-12-23",
+                "result": 1,
+                "id": "tournament_796_38"
+            },
+            {
+                "white": "Li, Fujie",
+                "black": "Xu, Chenliang",
+                "date": "2019-12-23",
+                "result": 0,
+                "id": "tournament_796_39"
+            },
+            {
+                "white": "Feng, Yanjia",
+                "black": "Zhang, Weirong",
+                "date": "2019-12-23",
+                "result": 0,
+                "id": "tournament_796_40"
+            },
+            {
+                "white": "Xu, Lingjing",
+                "black": "Shi, Yijiao",
+                "date": "2019-12-23",
+                "result": 0.5,
+                "id": "tournament_796_41"
+            },
+            {
+                "white": "Zhang, Wei",
+                "black": "Gu, Jiajun",
+                "date": "2019-12-23",
+                "result": 1,
+                "id": "tournament_796_42"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Lin, Haopeng",
+                "black": "Cai, Wanxia",
+                "date": "2019-12-25",
+                "result": 0.5,
+                "id": "tournament_796_43"
+            },
+            {
+                "white": "Zhu, Erzhou",
+                "black": "Xu, Chenliang",
+                "date": "2019-12-25",
+                "result": 1,
+                "id": "tournament_796_44"
+            },
+            {
+                "white": "Zhang, Jia",
+                "black": "Zhang, Weirong",
+                "date": "2019-12-25",
+                "result": 1,
+                "id": "tournament_796_45"
+            },
+            {
+                "white": "Li, Fujie",
+                "black": "Shi, Yijiao",
+                "date": "2019-12-25",
+                "result": 0,
+                "id": "tournament_796_46"
+            },
+            {
+                "white": "Feng, Yanjia",
+                "black": "Gu, Jiajun",
+                "date": "2019-12-25",
+                "result": 0.5,
+                "id": "tournament_796_47"
+            },
+            {
+                "white": "Xu, Lingjing",
+                "black": "Tian, Zhuobo",
+                "date": "2019-12-25",
+                "result": 1,
+                "id": "tournament_796_48"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Xu, Chenliang",
+                "black": "Lin, Haopeng",
+                "date": "2019-12-27",
+                "result": 1,
+                "id": "tournament_796_49"
+            },
+            {
+                "white": "Cai, Wanxia",
+                "black": "Zhang, Weirong",
+                "date": "2019-12-27",
+                "result": 0,
+                "id": "tournament_796_50"
+            },
+            {
+                "white": "Zhu, Erzhou",
+                "black": "Shi, Yijiao",
+                "date": "2019-12-27",
+                "result": 1,
+                "id": "tournament_796_51"
+            },
+            {
+                "white": "Zhang, Jia",
+                "black": "Gu, Jiajun",
+                "date": "2019-12-27",
+                "result": 1,
+                "id": "tournament_796_52"
+            },
+            {
+                "white": "Li, Fujie",
+                "black": "Tian, Zhuobo",
+                "date": "2019-12-27",
+                "result": 0,
+                "id": "tournament_796_53"
+            },
+            {
+                "white": "Zhang, Wei",
+                "black": "Xu, Lingjing",
+                "date": "2019-12-27",
+                "result": 0.5,
+                "id": "tournament_796_54"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "Lin, Haopeng",
+                "black": "Zhang, Weirong",
+                "date": "2019-12-29",
+                "result": 0,
+                "id": "tournament_796_55"
+            },
+            {
+                "white": "Xu, Chenliang",
+                "black": "Shi, Yijiao",
+                "date": "2019-12-29",
+                "result": 1,
+                "id": "tournament_796_56"
+            },
+            {
+                "white": "Cai, Wanxia",
+                "black": "Gu, Jiajun",
+                "date": "2019-12-29",
+                "result": 0,
+                "id": "tournament_796_57"
+            },
+            {
+                "white": "Zhu, Erzhou",
+                "black": "Tian, Zhuobo",
+                "date": "2019-12-29",
+                "result": 1,
+                "id": "tournament_796_58"
+            },
+            {
+                "white": "Zhang, Wei",
+                "black": "Li, Fujie",
+                "date": "2019-12-29",
+                "result": 1,
+                "id": "tournament_796_59"
+            },
+            {
+                "white": "Xu, Lingjing",
+                "black": "Feng, Yanjia",
+                "date": "2019-12-29",
+                "result": 1,
+                "id": "tournament_796_60"
+            }
+        ],
+        "tour_11": [
+            {
+                "white": "Shi, Yijiao",
+                "black": "Lin, Haopeng",
+                "date": "2019-12-31",
+                "result": 1,
+                "id": "tournament_796_61"
+            },
+            {
+                "white": "Zhang, Weirong",
+                "black": "Gu, Jiajun",
+                "date": "2019-12-31",
+                "result": 1,
+                "id": "tournament_796_62"
+            },
+            {
+                "white": "Xu, Chenliang",
+                "black": "Tian, Zhuobo",
+                "date": "2019-12-31",
+                "result": 1,
+                "id": "tournament_796_63"
+            },
+            {
+                "white": "Zhang, Wei",
+                "black": "Zhu, Erzhou",
+                "date": "2019-12-31",
+                "result": 0.5,
+                "id": "tournament_796_64"
+            },
+            {
+                "white": "Xu, Lingjing",
+                "black": "Zhang, Jia",
+                "date": "2019-12-31",
+                "result": 0.5,
+                "id": "tournament_796_65"
+            },
+            {
+                "white": "Feng, Yanjia",
+                "black": "Li, Fujie",
+                "date": "2019-12-31",
+                "result": 1,
+                "id": "tournament_796_66"
+            }
+        ],
+        "tour_12": [
+            {
+                "white": "Lin, Haopeng",
+                "black": "Gu, Jiajun",
+                "date": "2020-01-02",
+                "result": 0.5,
+                "id": "tournament_796_67"
+            },
+            {
+                "white": "Shi, Yijiao",
+                "black": "Tian, Zhuobo",
+                "date": "2020-01-02",
+                "result": 1,
+                "id": "tournament_796_68"
+            },
+            {
+                "white": "Zhang, Wei",
+                "black": "Xu, Chenliang",
+                "date": "2020-01-02",
+                "result": 0.5,
+                "id": "tournament_796_69"
+            },
+            {
+                "white": "Xu, Lingjing",
+                "black": "Cai, Wanxia",
+                "date": "2020-01-02",
+                "result": 1,
+                "id": "tournament_796_70"
+            },
+            {
+                "white": "Feng, Yanjia",
+                "black": "Zhu, Erzhou",
+                "date": "2020-01-02",
+                "result": 0,
+                "id": "tournament_796_71"
+            },
+            {
+                "white": "Li, Fujie",
+                "black": "Zhang, Jia",
+                "date": "2020-01-02",
+                "result": 0,
+                "id": "tournament_796_72"
+            }
+        ]
+    },
+    "tours": 12,
+    "time_control": "rapid"
+}

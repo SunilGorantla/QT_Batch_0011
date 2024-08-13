@@ -1,0 +1,241 @@
+{
+    "name": "tournament_734",
+    "start_date": "2019-07-01",
+    "end_date": "2019-07-17",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Wei Zhentian",
+                "black": "Zhong Changyuan",
+                "date": "2019-07-01",
+                "result": 0,
+                "id": "tournament_734_1"
+            },
+            {
+                "white": "Zhong Changyuan",
+                "black": "Wei Zhentian",
+                "date": "2019-07-03",
+                "result": 1,
+                "id": "tournament_734_2"
+            },
+            {
+                "white": "Zhang Guancha",
+                "black": "Qin Huifei",
+                "date": "2019-07-01",
+                "result": 0.5,
+                "id": "tournament_734_3"
+            },
+            {
+                "white": "Qin Huifei",
+                "black": "Zhang Guancha",
+                "date": "2019-07-03",
+                "result": 0.5,
+                "id": "tournament_734_4"
+            },
+            {
+                "white": "Zhang Guancha",
+                "black": "Qin Huifei",
+                "date": "2019-07-03",
+                "result": 0.5,
+                "id": "tournament_734_5"
+            },
+            {
+                "white": "Liu Fangliang",
+                "black": "Han Changfang",
+                "date": "2019-07-01",
+                "result": 1,
+                "id": "tournament_734_6"
+            },
+            {
+                "white": "Han Changfang",
+                "black": "Liu Fangliang",
+                "date": "2019-07-03",
+                "result": 0,
+                "id": "tournament_734_7"
+            },
+            {
+                "white": "Ma Jian",
+                "black": "Jia Yeyan",
+                "date": "2019-07-01",
+                "result": 1,
+                "id": "tournament_734_8"
+            },
+            {
+                "white": "Jia Yeyan",
+                "black": "Ma Jian",
+                "date": "2019-07-03",
+                "result": 0,
+                "id": "tournament_734_9"
+            },
+            {
+                "white": "Xu Binghu",
+                "black": "Ma Haowei",
+                "date": "2019-07-01",
+                "result": 0.5,
+                "id": "tournament_734_10"
+            },
+            {
+                "white": "Ma Haowei",
+                "black": "Xu Binghu",
+                "date": "2019-07-03",
+                "result": 0.5,
+                "id": "tournament_734_11"
+            },
+            {
+                "white": "Xu Binghu",
+                "black": "Ma Haowei",
+                "date": "2019-07-03",
+                "result": 0.5,
+                "id": "tournament_734_12"
+            },
+            {
+                "white": "Fan Yuan",
+                "black": "Ji Wenfu",
+                "date": "2019-07-01",
+                "result": 1,
+                "id": "tournament_734_13"
+            },
+            {
+                "white": "Ji Wenfu",
+                "black": "Fan Yuan",
+                "date": "2019-07-03",
+                "result": 0,
+                "id": "tournament_734_14"
+            },
+            {
+                "white": "Zhou Zhonglei",
+                "black": "Duan Liji",
+                "date": "2019-07-01",
+                "result": 0,
+                "id": "tournament_734_15"
+            },
+            {
+                "white": "Duan Liji",
+                "black": "Zhou Zhonglei",
+                "date": "2019-07-03",
+                "result": 1,
+                "id": "tournament_734_16"
+            },
+            {
+                "white": "Yang Ling",
+                "black": "Chen Jining",
+                "date": "2019-07-01",
+                "result": 0.5,
+                "id": "tournament_734_17"
+            },
+            {
+                "white": "Chen Jining",
+                "black": "Yang Ling",
+                "date": "2019-07-03",
+                "result": 1,
+                "id": "tournament_734_18"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Zhong Changyuan",
+                "black": "Qin Huifei",
+                "date": "2019-07-05",
+                "result": 1,
+                "id": "tournament_734_19"
+            },
+            {
+                "white": "Qin Huifei",
+                "black": "Zhong Changyuan",
+                "date": "2019-07-07",
+                "result": 0,
+                "id": "tournament_734_20"
+            },
+            {
+                "white": "Liu Fangliang",
+                "black": "Ma Jian",
+                "date": "2019-07-05",
+                "result": 0,
+                "id": "tournament_734_21"
+            },
+            {
+                "white": "Ma Jian",
+                "black": "Liu Fangliang",
+                "date": "2019-07-07",
+                "result": 1,
+                "id": "tournament_734_22"
+            },
+            {
+                "white": "Ma Haowei",
+                "black": "Fan Yuan",
+                "date": "2019-07-05",
+                "result": 0,
+                "id": "tournament_734_23"
+            },
+            {
+                "white": "Fan Yuan",
+                "black": "Ma Haowei",
+                "date": "2019-07-07",
+                "result": 1,
+                "id": "tournament_734_24"
+            },
+            {
+                "white": "Duan Liji",
+                "black": "Chen Jining",
+                "date": "2019-07-05",
+                "result": 1,
+                "id": "tournament_734_25"
+            },
+            {
+                "white": "Chen Jining",
+                "black": "Duan Liji",
+                "date": "2019-07-07",
+                "result": 0,
+                "id": "tournament_734_26"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Zhong Changyuan",
+                "black": "Ma Jian",
+                "date": "2019-07-09",
+                "result": 0,
+                "id": "tournament_734_27"
+            },
+            {
+                "white": "Ma Jian",
+                "black": "Zhong Changyuan",
+                "date": "2019-07-11",
+                "result": 1,
+                "id": "tournament_734_28"
+            },
+            {
+                "white": "Fan Yuan",
+                "black": "Duan Liji",
+                "date": "2019-07-09",
+                "result": 0,
+                "id": "tournament_734_29"
+            },
+            {
+                "white": "Duan Liji",
+                "black": "Fan Yuan",
+                "date": "2019-07-11",
+                "result": 1,
+                "id": "tournament_734_30"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Ma Jian",
+                "black": "Duan Liji",
+                "date": "2019-07-13",
+                "result": 0.5,
+                "id": "tournament_734_31"
+            },
+            {
+                "white": "Duan Liji",
+                "black": "Ma Jian",
+                "date": "2019-07-15",
+                "result": 1,
+                "id": "tournament_734_32"
+            }
+        ]
+    },
+    "tours": 4,
+    "time_control": "rapid"
+}

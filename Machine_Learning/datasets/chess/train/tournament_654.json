@@ -1,0 +1,959 @@
+{
+    "name": "tournament_654",
+    "start_date": "2018-11-16",
+    "end_date": "2018-12-10",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Duan, Zhen",
+                "black": "Xu, Xiaozhi",
+                "date": "2018-11-16",
+                "result": 0.5,
+                "id": "tournament_654_1"
+            },
+            {
+                "white": "Xu, Xiaozhi",
+                "black": "Duan, Zhen",
+                "date": "2018-11-18",
+                "result": 1,
+                "id": "tournament_654_2"
+            },
+            {
+                "white": "Zhang, Haihang",
+                "black": "Wang, Cai",
+                "date": "2018-11-16",
+                "result": 0,
+                "id": "tournament_654_3"
+            },
+            {
+                "white": "Wang, Cai",
+                "black": "Zhang, Haihang",
+                "date": "2018-11-18",
+                "result": 1,
+                "id": "tournament_654_4"
+            },
+            {
+                "white": "Wang, Yuhong",
+                "black": "Yin, Xiao",
+                "date": "2018-11-16",
+                "result": 0,
+                "id": "tournament_654_5"
+            },
+            {
+                "white": "Yin, Xiao",
+                "black": "Wang, Yuhong",
+                "date": "2018-11-18",
+                "result": 1,
+                "id": "tournament_654_6"
+            },
+            {
+                "white": "Li, Songjiang",
+                "black": "Zou, Jiangxiang",
+                "date": "2018-11-16",
+                "result": 0,
+                "id": "tournament_654_7"
+            },
+            {
+                "white": "Zou, Jiangxiang",
+                "black": "Li, Songjiang",
+                "date": "2018-11-18",
+                "result": 0.5,
+                "id": "tournament_654_8"
+            },
+            {
+                "white": "Cao, Shaoyong",
+                "black": "Tao, Guo",
+                "date": "2018-11-16",
+                "result": 0.5,
+                "id": "tournament_654_9"
+            },
+            {
+                "white": "Tao, Guo",
+                "black": "Cao, Shaoyong",
+                "date": "2018-11-18",
+                "result": 0.5,
+                "id": "tournament_654_10"
+            },
+            {
+                "white": "Cao, Shaoyong",
+                "black": "Tao, Guo",
+                "date": "2018-11-18",
+                "result": 1,
+                "id": "tournament_654_11"
+            },
+            {
+                "white": "Chen, Xiangke",
+                "black": "Wang, Xiaochuan",
+                "date": "2018-11-16",
+                "result": 1,
+                "id": "tournament_654_12"
+            },
+            {
+                "white": "Wang, Xiaochuan",
+                "black": "Chen, Xiangke",
+                "date": "2018-11-18",
+                "result": 1,
+                "id": "tournament_654_13"
+            },
+            {
+                "white": "Chen, Xiangke",
+                "black": "Wang, Xiaochuan",
+                "date": "2018-11-18",
+                "result": 1,
+                "id": "tournament_654_14"
+            },
+            {
+                "white": "Liu, Chiyu",
+                "black": "Wei, Ming",
+                "date": "2018-11-16",
+                "result": 1,
+                "id": "tournament_654_15"
+            },
+            {
+                "white": "Wei, Ming",
+                "black": "Liu, Chiyu",
+                "date": "2018-11-18",
+                "result": 0,
+                "id": "tournament_654_16"
+            },
+            {
+                "white": "Zhu, Yu",
+                "black": "Li, Wenzi",
+                "date": "2018-11-16",
+                "result": 1,
+                "id": "tournament_654_17"
+            },
+            {
+                "white": "Li, Wenzi",
+                "black": "Zhu, Yu",
+                "date": "2018-11-18",
+                "result": 0,
+                "id": "tournament_654_18"
+            },
+            {
+                "white": "Zhao, Shi",
+                "black": "Zhong, Changyuan",
+                "date": "2018-11-16",
+                "result": 1,
+                "id": "tournament_654_19"
+            },
+            {
+                "white": "Zhong, Changyuan",
+                "black": "Zhao, Shi",
+                "date": "2018-11-18",
+                "result": 0.5,
+                "id": "tournament_654_20"
+            },
+            {
+                "white": "Zhang, Chun",
+                "black": "Yu, Ping",
+                "date": "2018-11-16",
+                "result": 1,
+                "id": "tournament_654_21"
+            },
+            {
+                "white": "Yu, Ping",
+                "black": "Zhang, Chun",
+                "date": "2018-11-18",
+                "result": 0,
+                "id": "tournament_654_22"
+            },
+            {
+                "white": "Huang, Qianjian",
+                "black": "Guo, Hongmin",
+                "date": "2018-11-16",
+                "result": 0.5,
+                "id": "tournament_654_23"
+            },
+            {
+                "white": "Guo, Hongmin",
+                "black": "Huang, Qianjian",
+                "date": "2018-11-18",
+                "result": 1,
+                "id": "tournament_654_24"
+            },
+            {
+                "white": "Li, Xiushou",
+                "black": "Wen, Yongxi",
+                "date": "2018-11-16",
+                "result": 1,
+                "id": "tournament_654_25"
+            },
+            {
+                "white": "Wen, Yongxi",
+                "black": "Li, Xiushou",
+                "date": "2018-11-18",
+                "result": 0.5,
+                "id": "tournament_654_26"
+            },
+            {
+                "white": "Chen, Pingxing",
+                "black": "Hao, Changlong",
+                "date": "2018-11-16",
+                "result": 1,
+                "id": "tournament_654_27"
+            },
+            {
+                "white": "Hao, Changlong",
+                "black": "Chen, Pingxing",
+                "date": "2018-11-18",
+                "result": 0,
+                "id": "tournament_654_28"
+            },
+            {
+                "white": "Dong, Yubo",
+                "black": "Liu, Kaiqing",
+                "date": "2018-11-16",
+                "result": 0,
+                "id": "tournament_654_29"
+            },
+            {
+                "white": "Liu, Kaiqing",
+                "black": "Dong, Yubo",
+                "date": "2018-11-18",
+                "result": 1,
+                "id": "tournament_654_30"
+            },
+            {
+                "white": "Zhang, Xinmin",
+                "black": "Xu, Jing",
+                "date": "2018-11-16",
+                "result": 0.5,
+                "id": "tournament_654_31"
+            },
+            {
+                "white": "Xu, Jing",
+                "black": "Zhang, Xinmin",
+                "date": "2018-11-18",
+                "result": 0.5,
+                "id": "tournament_654_32"
+            },
+            {
+                "white": "Zhang, Xinmin",
+                "black": "Xu, Jing",
+                "date": "2018-11-18",
+                "result": 0,
+                "id": "tournament_654_33"
+            },
+            {
+                "white": "Qin, Changming",
+                "black": "Wang, Jianming",
+                "date": "2018-11-16",
+                "result": 0.5,
+                "id": "tournament_654_34"
+            },
+            {
+                "white": "Wang, Jianming",
+                "black": "Qin, Changming",
+                "date": "2018-11-18",
+                "result": 0,
+                "id": "tournament_654_35"
+            },
+            {
+                "white": "Qiu, Xinmu",
+                "black": "Han, Wentao",
+                "date": "2018-11-16",
+                "result": 1,
+                "id": "tournament_654_36"
+            },
+            {
+                "white": "Han, Wentao",
+                "black": "Qiu, Xinmu",
+                "date": "2018-11-18",
+                "result": 0.5,
+                "id": "tournament_654_37"
+            },
+            {
+                "white": "Liang, Meiqiang",
+                "black": "Liu, Zi",
+                "date": "2018-11-16",
+                "result": 0.5,
+                "id": "tournament_654_38"
+            },
+            {
+                "white": "Liu, Zi",
+                "black": "Liang, Meiqiang",
+                "date": "2018-11-18",
+                "result": 0,
+                "id": "tournament_654_39"
+            },
+            {
+                "white": "Li, Min",
+                "black": "Jin, Yanxiao",
+                "date": "2018-11-16",
+                "result": 1,
+                "id": "tournament_654_40"
+            },
+            {
+                "white": "Jin, Yanxiao",
+                "black": "Li, Min",
+                "date": "2018-11-18",
+                "result": 0,
+                "id": "tournament_654_41"
+            },
+            {
+                "white": "Hu, Jingxin",
+                "black": "Li, Yan",
+                "date": "2018-11-16",
+                "result": 0,
+                "id": "tournament_654_42"
+            },
+            {
+                "white": "Li, Yan",
+                "black": "Hu, Jingxin",
+                "date": "2018-11-18",
+                "result": 1,
+                "id": "tournament_654_43"
+            },
+            {
+                "white": "Hu, Shan",
+                "black": "Zhao, Youhai",
+                "date": "2018-11-16",
+                "result": 1,
+                "id": "tournament_654_44"
+            },
+            {
+                "white": "Zhao, Youhai",
+                "black": "Hu, Shan",
+                "date": "2018-11-18",
+                "result": 0,
+                "id": "tournament_654_45"
+            },
+            {
+                "white": "Cheng, Momei",
+                "black": "Zhu, Guobiao",
+                "date": "2018-11-16",
+                "result": 0.5,
+                "id": "tournament_654_46"
+            },
+            {
+                "white": "Zhu, Guobiao",
+                "black": "Cheng, Momei",
+                "date": "2018-11-18",
+                "result": 1,
+                "id": "tournament_654_47"
+            },
+            {
+                "white": "Li, Jiajue",
+                "black": "Wang, Weiyin",
+                "date": "2018-11-16",
+                "result": 1,
+                "id": "tournament_654_48"
+            },
+            {
+                "white": "Wang, Weiyin",
+                "black": "Li, Jiajue",
+                "date": "2018-11-18",
+                "result": 1,
+                "id": "tournament_654_49"
+            },
+            {
+                "white": "Li, Jiajue",
+                "black": "Wang, Weiyin",
+                "date": "2018-11-18",
+                "result": 0,
+                "id": "tournament_654_50"
+            },
+            {
+                "white": "Xu, Haocheng",
+                "black": "Ma, Jian",
+                "date": "2018-11-16",
+                "result": 0,
+                "id": "tournament_654_51"
+            },
+            {
+                "white": "Ma, Jian",
+                "black": "Xu, Haocheng",
+                "date": "2018-11-18",
+                "result": 0.5,
+                "id": "tournament_654_52"
+            },
+            {
+                "white": "Chen, Qing",
+                "black": "Zhu, Wenyan",
+                "date": "2018-11-16",
+                "result": 1,
+                "id": "tournament_654_53"
+            },
+            {
+                "white": "Zhu, Wenyan",
+                "black": "Chen, Qing",
+                "date": "2018-11-18",
+                "result": 0,
+                "id": "tournament_654_54"
+            },
+            {
+                "white": "Xu, Shibo",
+                "black": "Tang, Chen",
+                "date": "2018-11-16",
+                "result": 1,
+                "id": "tournament_654_55"
+            },
+            {
+                "white": "Tang, Chen",
+                "black": "Xu, Shibo",
+                "date": "2018-11-18",
+                "result": 0.5,
+                "id": "tournament_654_56"
+            },
+            {
+                "white": "Peng, Jiehui",
+                "black": "Zhang, Weirong",
+                "date": "2018-11-16",
+                "result": 0,
+                "id": "tournament_654_57"
+            },
+            {
+                "white": "Zhang, Weirong",
+                "black": "Peng, Jiehui",
+                "date": "2018-11-18",
+                "result": 0.5,
+                "id": "tournament_654_58"
+            },
+            {
+                "white": "Zhang, Banzhi",
+                "black": "Li, Minkang",
+                "date": "2018-11-16",
+                "result": 1,
+                "id": "tournament_654_59"
+            },
+            {
+                "white": "Li, Minkang",
+                "black": "Zhang, Banzhi",
+                "date": "2018-11-18",
+                "result": 0,
+                "id": "tournament_654_60"
+            },
+            {
+                "white": "Fu, Jian",
+                "black": "Kang, Zihui",
+                "date": "2018-11-16",
+                "result": 1,
+                "id": "tournament_654_61"
+            },
+            {
+                "white": "Kang, Zihui",
+                "black": "Fu, Jian",
+                "date": "2018-11-18",
+                "result": 0.5,
+                "id": "tournament_654_62"
+            },
+            {
+                "white": "Chen, Sigang",
+                "black": "Feng, Sanli",
+                "date": "2018-11-16",
+                "result": 1,
+                "id": "tournament_654_63"
+            },
+            {
+                "white": "Feng, Sanli",
+                "black": "Chen, Sigang",
+                "date": "2018-11-18",
+                "result": 0,
+                "id": "tournament_654_64"
+            },
+            {
+                "white": "Mo, Huijie",
+                "black": "Zhou, Ziqiang",
+                "date": "2018-11-16",
+                "result": 0,
+                "id": "tournament_654_65"
+            },
+            {
+                "white": "Zhou, Ziqiang",
+                "black": "Mo, Huijie",
+                "date": "2018-11-18",
+                "result": 1,
+                "id": "tournament_654_66"
+            },
+            {
+                "white": "Guo, Xiaodong",
+                "black": "Li, Yicai",
+                "date": "2018-11-16",
+                "result": 0,
+                "id": "tournament_654_67"
+            },
+            {
+                "white": "Li, Yicai",
+                "black": "Guo, Xiaodong",
+                "date": "2018-11-18",
+                "result": 1,
+                "id": "tournament_654_68"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Xu, Xiaozhi",
+                "black": "Wang, Cai",
+                "date": "2018-11-20",
+                "result": 0.5,
+                "id": "tournament_654_69"
+            },
+            {
+                "white": "Wang, Cai",
+                "black": "Xu, Xiaozhi",
+                "date": "2018-11-22",
+                "result": 1,
+                "id": "tournament_654_70"
+            },
+            {
+                "white": "Yin, Xiao",
+                "black": "Zou, Jiangxiang",
+                "date": "2018-11-20",
+                "result": 0.5,
+                "id": "tournament_654_71"
+            },
+            {
+                "white": "Zou, Jiangxiang",
+                "black": "Yin, Xiao",
+                "date": "2018-11-22",
+                "result": 0.5,
+                "id": "tournament_654_72"
+            },
+            {
+                "white": "Yin, Xiao",
+                "black": "Zou, Jiangxiang",
+                "date": "2018-11-22",
+                "result": 0.5,
+                "id": "tournament_654_73"
+            },
+            {
+                "white": "Cao, Shaoyong",
+                "black": "Chen, Xiangke",
+                "date": "2018-11-20",
+                "result": 0.5,
+                "id": "tournament_654_74"
+            },
+            {
+                "white": "Chen, Xiangke",
+                "black": "Cao, Shaoyong",
+                "date": "2018-11-22",
+                "result": 0.5,
+                "id": "tournament_654_75"
+            },
+            {
+                "white": "Cao, Shaoyong",
+                "black": "Chen, Xiangke",
+                "date": "2018-11-22",
+                "result": 0.5,
+                "id": "tournament_654_76"
+            },
+            {
+                "white": "Liu, Chiyu",
+                "black": "Zhu, Yu",
+                "date": "2018-11-20",
+                "result": 0.5,
+                "id": "tournament_654_77"
+            },
+            {
+                "white": "Zhu, Yu",
+                "black": "Liu, Chiyu",
+                "date": "2018-11-22",
+                "result": 0.5,
+                "id": "tournament_654_78"
+            },
+            {
+                "white": "Liu, Chiyu",
+                "black": "Zhu, Yu",
+                "date": "2018-11-22",
+                "result": 0.5,
+                "id": "tournament_654_79"
+            },
+            {
+                "white": "Zhao, Shi",
+                "black": "Zhang, Chun",
+                "date": "2018-11-20",
+                "result": 0,
+                "id": "tournament_654_80"
+            },
+            {
+                "white": "Zhang, Chun",
+                "black": "Zhao, Shi",
+                "date": "2018-11-22",
+                "result": 1,
+                "id": "tournament_654_81"
+            },
+            {
+                "white": "Guo, Hongmin",
+                "black": "Li, Xiushou",
+                "date": "2018-11-20",
+                "result": 0,
+                "id": "tournament_654_82"
+            },
+            {
+                "white": "Li, Xiushou",
+                "black": "Guo, Hongmin",
+                "date": "2018-11-22",
+                "result": 0.5,
+                "id": "tournament_654_83"
+            },
+            {
+                "white": "Chen, Pingxing",
+                "black": "Liu, Kaiqing",
+                "date": "2018-11-20",
+                "result": 0,
+                "id": "tournament_654_84"
+            },
+            {
+                "white": "Liu, Kaiqing",
+                "black": "Chen, Pingxing",
+                "date": "2018-11-22",
+                "result": 1,
+                "id": "tournament_654_85"
+            },
+            {
+                "white": "Xu, Jing",
+                "black": "Qin, Changming",
+                "date": "2018-11-20",
+                "result": 0,
+                "id": "tournament_654_86"
+            },
+            {
+                "white": "Qin, Changming",
+                "black": "Xu, Jing",
+                "date": "2018-11-22",
+                "result": 1,
+                "id": "tournament_654_87"
+            },
+            {
+                "white": "Qiu, Xinmu",
+                "black": "Liang, Meiqiang",
+                "date": "2018-11-20",
+                "result": 0.5,
+                "id": "tournament_654_88"
+            },
+            {
+                "white": "Liang, Meiqiang",
+                "black": "Qiu, Xinmu",
+                "date": "2018-11-22",
+                "result": 1,
+                "id": "tournament_654_89"
+            },
+            {
+                "white": "Li, Min",
+                "black": "Li, Yan",
+                "date": "2018-11-20",
+                "result": 0,
+                "id": "tournament_654_90"
+            },
+            {
+                "white": "Li, Yan",
+                "black": "Li, Min",
+                "date": "2018-11-22",
+                "result": 1,
+                "id": "tournament_654_91"
+            },
+            {
+                "white": "Hu, Shan",
+                "black": "Zhu, Guobiao",
+                "date": "2018-11-20",
+                "result": 1,
+                "id": "tournament_654_92"
+            },
+            {
+                "white": "Zhu, Guobiao",
+                "black": "Hu, Shan",
+                "date": "2018-11-22",
+                "result": 0,
+                "id": "tournament_654_93"
+            },
+            {
+                "white": "Wang, Weiyin",
+                "black": "Ma, Jian",
+                "date": "2018-11-20",
+                "result": 0,
+                "id": "tournament_654_94"
+            },
+            {
+                "white": "Ma, Jian",
+                "black": "Wang, Weiyin",
+                "date": "2018-11-22",
+                "result": 1,
+                "id": "tournament_654_95"
+            },
+            {
+                "white": "Chen, Qing",
+                "black": "Xu, Shibo",
+                "date": "2018-11-20",
+                "result": 1,
+                "id": "tournament_654_96"
+            },
+            {
+                "white": "Xu, Shibo",
+                "black": "Chen, Qing",
+                "date": "2018-11-22",
+                "result": 0,
+                "id": "tournament_654_97"
+            },
+            {
+                "white": "Zhang, Weirong",
+                "black": "Zhang, Banzhi",
+                "date": "2018-11-20",
+                "result": 0,
+                "id": "tournament_654_98"
+            },
+            {
+                "white": "Zhang, Banzhi",
+                "black": "Zhang, Weirong",
+                "date": "2018-11-22",
+                "result": 1,
+                "id": "tournament_654_99"
+            },
+            {
+                "white": "Fu, Jian",
+                "black": "Chen, Sigang",
+                "date": "2018-11-20",
+                "result": 0,
+                "id": "tournament_654_100"
+            },
+            {
+                "white": "Chen, Sigang",
+                "black": "Fu, Jian",
+                "date": "2018-11-22",
+                "result": 1,
+                "id": "tournament_654_101"
+            },
+            {
+                "white": "Zhou, Ziqiang",
+                "black": "Li, Yicai",
+                "date": "2018-11-20",
+                "result": 0.5,
+                "id": "tournament_654_102"
+            },
+            {
+                "white": "Li, Yicai",
+                "black": "Zhou, Ziqiang",
+                "date": "2018-11-22",
+                "result": 1,
+                "id": "tournament_654_103"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Wang, Cai",
+                "black": "Zou, Jiangxiang",
+                "date": "2018-11-24",
+                "result": 0.5,
+                "id": "tournament_654_104"
+            },
+            {
+                "white": "Zou, Jiangxiang",
+                "black": "Wang, Cai",
+                "date": "2018-11-26",
+                "result": 1,
+                "id": "tournament_654_105"
+            },
+            {
+                "white": "Chen, Xiangke",
+                "black": "Zhu, Yu",
+                "date": "2018-11-24",
+                "result": 1,
+                "id": "tournament_654_106"
+            },
+            {
+                "white": "Zhu, Yu",
+                "black": "Chen, Xiangke",
+                "date": "2018-11-26",
+                "result": 0.5,
+                "id": "tournament_654_107"
+            },
+            {
+                "white": "Zhang, Chun",
+                "black": "Li, Xiushou",
+                "date": "2018-11-24",
+                "result": 1,
+                "id": "tournament_654_108"
+            },
+            {
+                "white": "Li, Xiushou",
+                "black": "Zhang, Chun",
+                "date": "2018-11-26",
+                "result": 0,
+                "id": "tournament_654_109"
+            },
+            {
+                "white": "Liu, Kaiqing",
+                "black": "Qin, Changming",
+                "date": "2018-11-24",
+                "result": 0.5,
+                "id": "tournament_654_110"
+            },
+            {
+                "white": "Qin, Changming",
+                "black": "Liu, Kaiqing",
+                "date": "2018-11-26",
+                "result": 0,
+                "id": "tournament_654_111"
+            },
+            {
+                "white": "Liang, Meiqiang",
+                "black": "Li, Yan",
+                "date": "2018-11-24",
+                "result": 0,
+                "id": "tournament_654_112"
+            },
+            {
+                "white": "Li, Yan",
+                "black": "Liang, Meiqiang",
+                "date": "2018-11-26",
+                "result": 1,
+                "id": "tournament_654_113"
+            },
+            {
+                "white": "Hu, Shan",
+                "black": "Ma, Jian",
+                "date": "2018-11-24",
+                "result": 1,
+                "id": "tournament_654_114"
+            },
+            {
+                "white": "Ma, Jian",
+                "black": "Hu, Shan",
+                "date": "2018-11-26",
+                "result": 0.5,
+                "id": "tournament_654_115"
+            },
+            {
+                "white": "Chen, Qing",
+                "black": "Zhang, Banzhi",
+                "date": "2018-11-24",
+                "result": 0,
+                "id": "tournament_654_116"
+            },
+            {
+                "white": "Zhang, Banzhi",
+                "black": "Chen, Qing",
+                "date": "2018-11-26",
+                "result": 0.5,
+                "id": "tournament_654_117"
+            },
+            {
+                "white": "Chen, Sigang",
+                "black": "Li, Yicai",
+                "date": "2018-11-24",
+                "result": 0,
+                "id": "tournament_654_118"
+            },
+            {
+                "white": "Li, Yicai",
+                "black": "Chen, Sigang",
+                "date": "2018-11-26",
+                "result": 1,
+                "id": "tournament_654_119"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Zou, Jiangxiang",
+                "black": "Chen, Xiangke",
+                "date": "2018-11-28",
+                "result": 0,
+                "id": "tournament_654_120"
+            },
+            {
+                "white": "Chen, Xiangke",
+                "black": "Zou, Jiangxiang",
+                "date": "2018-11-30",
+                "result": 1,
+                "id": "tournament_654_121"
+            },
+            {
+                "white": "Zhang, Chun",
+                "black": "Liu, Kaiqing",
+                "date": "2018-11-28",
+                "result": 0.5,
+                "id": "tournament_654_122"
+            },
+            {
+                "white": "Liu, Kaiqing",
+                "black": "Zhang, Chun",
+                "date": "2018-11-30",
+                "result": 0.5,
+                "id": "tournament_654_123"
+            },
+            {
+                "white": "Zhang, Chun",
+                "black": "Liu, Kaiqing",
+                "date": "2018-11-30",
+                "result": 1,
+                "id": "tournament_654_124"
+            },
+            {
+                "white": "Li, Yan",
+                "black": "Hu, Shan",
+                "date": "2018-11-28",
+                "result": 0,
+                "id": "tournament_654_125"
+            },
+            {
+                "white": "Hu, Shan",
+                "black": "Li, Yan",
+                "date": "2018-11-30",
+                "result": 0.5,
+                "id": "tournament_654_126"
+            },
+            {
+                "white": "Zhang, Banzhi",
+                "black": "Li, Yicai",
+                "date": "2018-11-28",
+                "result": 0.5,
+                "id": "tournament_654_127"
+            },
+            {
+                "white": "Li, Yicai",
+                "black": "Zhang, Banzhi",
+                "date": "2018-11-30",
+                "result": 0,
+                "id": "tournament_654_128"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Chen, Xiangke",
+                "black": "Zhang, Chun",
+                "date": "2018-12-02",
+                "result": 0,
+                "id": "tournament_654_129"
+            },
+            {
+                "white": "Zhang, Chun",
+                "black": "Chen, Xiangke",
+                "date": "2018-12-04",
+                "result": 1,
+                "id": "tournament_654_130"
+            },
+            {
+                "white": "Hu, Shan",
+                "black": "Zhang, Banzhi",
+                "date": "2018-12-02",
+                "result": 1,
+                "id": "tournament_654_131"
+            },
+            {
+                "white": "Zhang, Banzhi",
+                "black": "Hu, Shan",
+                "date": "2018-12-04",
+                "result": 0.5,
+                "id": "tournament_654_132"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Zhang, Chun",
+                "black": "Hu, Shan",
+                "date": "2018-12-06",
+                "result": 0.5,
+                "id": "tournament_654_133"
+            },
+            {
+                "white": "Hu, Shan",
+                "black": "Zhang, Chun",
+                "date": "2018-12-08",
+                "result": 1,
+                "id": "tournament_654_134"
+            }
+        ]
+    },
+    "tours": 6,
+    "time_control": "rapid"
+}

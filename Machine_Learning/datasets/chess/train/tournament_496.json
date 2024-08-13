@@ -1,0 +1,488 @@
+{
+    "name": "tournament_496",
+    "start_date": "2017-10-15",
+    "end_date": "2017-11-04",
+    "games": {
+        "tour_1": [
+            {
+                "white": "王小川",
+                "black": "李华鸿",
+                "date": "2017-10-15",
+                "result": 1,
+                "id": "tournament_496_1"
+            },
+            {
+                "white": "李华鸿",
+                "black": "王小川",
+                "date": "2017-10-17",
+                "result": 0.5,
+                "id": "tournament_496_2"
+            },
+            {
+                "white": "张艺燕",
+                "black": "吴昱明",
+                "date": "2017-10-15",
+                "result": 0,
+                "id": "tournament_496_3"
+            },
+            {
+                "white": "吴昱明",
+                "black": "张艺燕",
+                "date": "2017-10-17",
+                "result": 1,
+                "id": "tournament_496_4"
+            },
+            {
+                "white": "白卓琼",
+                "black": "徐康波",
+                "date": "2017-10-15",
+                "result": 0,
+                "id": "tournament_496_5"
+            },
+            {
+                "white": "徐康波",
+                "black": "白卓琼",
+                "date": "2017-10-17",
+                "result": 0.5,
+                "id": "tournament_496_6"
+            },
+            {
+                "white": "周影吉",
+                "black": "李建方",
+                "date": "2017-10-15",
+                "result": 1,
+                "id": "tournament_496_7"
+            },
+            {
+                "white": "李建方",
+                "black": "周影吉",
+                "date": "2017-10-17",
+                "result": 0,
+                "id": "tournament_496_8"
+            },
+            {
+                "white": "王驹",
+                "black": "文胜容",
+                "date": "2017-10-15",
+                "result": 0.5,
+                "id": "tournament_496_9"
+            },
+            {
+                "white": "文胜容",
+                "black": "王驹",
+                "date": "2017-10-17",
+                "result": 0.5,
+                "id": "tournament_496_10"
+            },
+            {
+                "white": "王驹",
+                "black": "文胜容",
+                "date": "2017-10-17",
+                "result": 0,
+                "id": "tournament_496_11"
+            },
+            {
+                "white": "刘先",
+                "black": "钟弘存",
+                "date": "2017-10-15",
+                "result": 1,
+                "id": "tournament_496_12"
+            },
+            {
+                "white": "钟弘存",
+                "black": "刘先",
+                "date": "2017-10-17",
+                "result": 0,
+                "id": "tournament_496_13"
+            },
+            {
+                "white": "刘晓鹏",
+                "black": "陈绪祥",
+                "date": "2017-10-15",
+                "result": 0.5,
+                "id": "tournament_496_14"
+            },
+            {
+                "white": "陈绪祥",
+                "black": "刘晓鹏",
+                "date": "2017-10-17",
+                "result": 1,
+                "id": "tournament_496_15"
+            },
+            {
+                "white": "刘雅普",
+                "black": "吕殷文",
+                "date": "2017-10-15",
+                "result": 0.5,
+                "id": "tournament_496_16"
+            },
+            {
+                "white": "吕殷文",
+                "black": "刘雅普",
+                "date": "2017-10-17",
+                "result": 0,
+                "id": "tournament_496_17"
+            },
+            {
+                "white": "沈启金",
+                "black": "张小",
+                "date": "2017-10-15",
+                "result": 0,
+                "id": "tournament_496_18"
+            },
+            {
+                "white": "张小",
+                "black": "沈启金",
+                "date": "2017-10-17",
+                "result": 1,
+                "id": "tournament_496_19"
+            },
+            {
+                "white": "张安甜",
+                "black": "陆教礼",
+                "date": "2017-10-15",
+                "result": 1,
+                "id": "tournament_496_20"
+            },
+            {
+                "white": "陆教礼",
+                "black": "张安甜",
+                "date": "2017-10-17",
+                "result": 0,
+                "id": "tournament_496_21"
+            },
+            {
+                "white": "徐冰护",
+                "black": "殷方",
+                "date": "2017-10-15",
+                "result": 0,
+                "id": "tournament_496_22"
+            },
+            {
+                "white": "殷方",
+                "black": "徐冰护",
+                "date": "2017-10-17",
+                "result": 1,
+                "id": "tournament_496_23"
+            },
+            {
+                "white": "郑秋梁",
+                "black": "孙义敏",
+                "date": "2017-10-15",
+                "result": 1,
+                "id": "tournament_496_24"
+            },
+            {
+                "white": "孙义敏",
+                "black": "郑秋梁",
+                "date": "2017-10-17",
+                "result": 0.5,
+                "id": "tournament_496_25"
+            },
+            {
+                "white": "张星民",
+                "black": "黄凯文",
+                "date": "2017-10-15",
+                "result": 0,
+                "id": "tournament_496_26"
+            },
+            {
+                "white": "黄凯文",
+                "black": "张星民",
+                "date": "2017-10-17",
+                "result": 1,
+                "id": "tournament_496_27"
+            },
+            {
+                "white": "姜德刚",
+                "black": "方东",
+                "date": "2017-10-15",
+                "result": 0.5,
+                "id": "tournament_496_28"
+            },
+            {
+                "white": "方东",
+                "black": "姜德刚",
+                "date": "2017-10-17",
+                "result": 0,
+                "id": "tournament_496_29"
+            },
+            {
+                "white": "刘驰宇",
+                "black": "杨争峰",
+                "date": "2017-10-15",
+                "result": 1,
+                "id": "tournament_496_30"
+            },
+            {
+                "white": "杨争峰",
+                "black": "刘驰宇",
+                "date": "2017-10-17",
+                "result": 1,
+                "id": "tournament_496_31"
+            },
+            {
+                "white": "刘驰宇",
+                "black": "杨争峰",
+                "date": "2017-10-17",
+                "result": 0,
+                "id": "tournament_496_32"
+            },
+            {
+                "white": "刘宇福",
+                "black": "冯三立",
+                "date": "2017-10-15",
+                "result": 1,
+                "id": "tournament_496_33"
+            },
+            {
+                "white": "冯三立",
+                "black": "刘宇福",
+                "date": "2017-10-17",
+                "result": 0.5,
+                "id": "tournament_496_34"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "王小川",
+                "black": "吴昱明",
+                "date": "2017-10-19",
+                "result": 0.5,
+                "id": "tournament_496_35"
+            },
+            {
+                "white": "吴昱明",
+                "black": "王小川",
+                "date": "2017-10-21",
+                "result": 0,
+                "id": "tournament_496_36"
+            },
+            {
+                "white": "徐康波",
+                "black": "周影吉",
+                "date": "2017-10-19",
+                "result": 0,
+                "id": "tournament_496_37"
+            },
+            {
+                "white": "周影吉",
+                "black": "徐康波",
+                "date": "2017-10-21",
+                "result": 1,
+                "id": "tournament_496_38"
+            },
+            {
+                "white": "文胜容",
+                "black": "刘先",
+                "date": "2017-10-19",
+                "result": 0.5,
+                "id": "tournament_496_39"
+            },
+            {
+                "white": "刘先",
+                "black": "文胜容",
+                "date": "2017-10-21",
+                "result": 1,
+                "id": "tournament_496_40"
+            },
+            {
+                "white": "陈绪祥",
+                "black": "刘雅普",
+                "date": "2017-10-19",
+                "result": 1,
+                "id": "tournament_496_41"
+            },
+            {
+                "white": "刘雅普",
+                "black": "陈绪祥",
+                "date": "2017-10-21",
+                "result": 0.5,
+                "id": "tournament_496_42"
+            },
+            {
+                "white": "张小",
+                "black": "张安甜",
+                "date": "2017-10-19",
+                "result": 0.5,
+                "id": "tournament_496_43"
+            },
+            {
+                "white": "张安甜",
+                "black": "张小",
+                "date": "2017-10-21",
+                "result": 1,
+                "id": "tournament_496_44"
+            },
+            {
+                "white": "殷方",
+                "black": "郑秋梁",
+                "date": "2017-10-19",
+                "result": 0.5,
+                "id": "tournament_496_45"
+            },
+            {
+                "white": "郑秋梁",
+                "black": "殷方",
+                "date": "2017-10-21",
+                "result": 0.5,
+                "id": "tournament_496_46"
+            },
+            {
+                "white": "殷方",
+                "black": "郑秋梁",
+                "date": "2017-10-21",
+                "result": 0.5,
+                "id": "tournament_496_47"
+            },
+            {
+                "white": "黄凯文",
+                "black": "姜德刚",
+                "date": "2017-10-19",
+                "result": 1,
+                "id": "tournament_496_48"
+            },
+            {
+                "white": "姜德刚",
+                "black": "黄凯文",
+                "date": "2017-10-21",
+                "result": 0,
+                "id": "tournament_496_49"
+            },
+            {
+                "white": "杨争峰",
+                "black": "刘宇福",
+                "date": "2017-10-19",
+                "result": 1,
+                "id": "tournament_496_50"
+            },
+            {
+                "white": "刘宇福",
+                "black": "杨争峰",
+                "date": "2017-10-21",
+                "result": 0.5,
+                "id": "tournament_496_51"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "王小川",
+                "black": "周影吉",
+                "date": "2017-10-23",
+                "result": 0.5,
+                "id": "tournament_496_52"
+            },
+            {
+                "white": "周影吉",
+                "black": "王小川",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_496_53"
+            },
+            {
+                "white": "王小川",
+                "black": "周影吉",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_496_54"
+            },
+            {
+                "white": "刘先",
+                "black": "陈绪祥",
+                "date": "2017-10-23",
+                "result": 1,
+                "id": "tournament_496_55"
+            },
+            {
+                "white": "陈绪祥",
+                "black": "刘先",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_496_56"
+            },
+            {
+                "white": "张安甜",
+                "black": "郑秋梁",
+                "date": "2017-10-23",
+                "result": 0,
+                "id": "tournament_496_57"
+            },
+            {
+                "white": "郑秋梁",
+                "black": "张安甜",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_496_58"
+            },
+            {
+                "white": "黄凯文",
+                "black": "杨争峰",
+                "date": "2017-10-23",
+                "result": 1,
+                "id": "tournament_496_59"
+            },
+            {
+                "white": "杨争峰",
+                "black": "黄凯文",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_496_60"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "周影吉",
+                "black": "刘先",
+                "date": "2017-10-27",
+                "result": 0.5,
+                "id": "tournament_496_61"
+            },
+            {
+                "white": "刘先",
+                "black": "周影吉",
+                "date": "2017-10-29",
+                "result": 0.5,
+                "id": "tournament_496_62"
+            },
+            {
+                "white": "周影吉",
+                "black": "刘先",
+                "date": "2017-10-29",
+                "result": 0,
+                "id": "tournament_496_63"
+            },
+            {
+                "white": "郑秋梁",
+                "black": "黄凯文",
+                "date": "2017-10-27",
+                "result": 0,
+                "id": "tournament_496_64"
+            },
+            {
+                "white": "黄凯文",
+                "black": "郑秋梁",
+                "date": "2017-10-29",
+                "result": 1,
+                "id": "tournament_496_65"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "刘先",
+                "black": "黄凯文",
+                "date": "2017-10-31",
+                "result": 0.5,
+                "id": "tournament_496_66"
+            },
+            {
+                "white": "黄凯文",
+                "black": "刘先",
+                "date": "2017-11-02",
+                "result": 1,
+                "id": "tournament_496_67"
+            }
+        ]
+    },
+    "tours": 5,
+    "time_control": "rapid"
+}

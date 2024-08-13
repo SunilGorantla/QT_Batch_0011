@@ -1,0 +1,537 @@
+{
+    "name": "tournament_427",
+    "start_date": "2017-03-23",
+    "end_date": "2017-04-16",
+    "games": {
+        "tour_1": [
+            {
+                "white": "孙胜阳",
+                "black": "赵穗榕",
+                "date": "2017-03-23",
+                "result": 0,
+                "id": "tournament_427_1"
+            },
+            {
+                "white": "陈章珍",
+                "black": "梁淑君",
+                "date": "2017-03-23",
+                "result": 0.5,
+                "id": "tournament_427_2"
+            },
+            {
+                "white": "许太珊",
+                "black": "叶霸盛",
+                "date": "2017-03-23",
+                "result": 0,
+                "id": "tournament_427_3"
+            },
+            {
+                "white": "李秀寿",
+                "black": "张关义",
+                "date": "2017-03-23",
+                "result": 0.5,
+                "id": "tournament_427_4"
+            },
+            {
+                "white": "王吟彬",
+                "black": "蒋逸",
+                "date": "2017-03-23",
+                "result": 1,
+                "id": "tournament_427_5"
+            },
+            {
+                "white": "谢庆麟",
+                "black": "彭捷慧",
+                "date": "2017-03-23",
+                "result": 0,
+                "id": "tournament_427_6"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "高长霞",
+                "black": "孙胜阳",
+                "date": "2017-03-25",
+                "result": 0.5,
+                "id": "tournament_427_7"
+            },
+            {
+                "white": "许太珊",
+                "black": "赵穗榕",
+                "date": "2017-03-25",
+                "result": 0,
+                "id": "tournament_427_8"
+            },
+            {
+                "white": "李秀寿",
+                "black": "梁淑君",
+                "date": "2017-03-25",
+                "result": 0,
+                "id": "tournament_427_9"
+            },
+            {
+                "white": "王吟彬",
+                "black": "叶霸盛",
+                "date": "2017-03-25",
+                "result": 0,
+                "id": "tournament_427_10"
+            },
+            {
+                "white": "谢庆麟",
+                "black": "张关义",
+                "date": "2017-03-25",
+                "result": 0,
+                "id": "tournament_427_11"
+            },
+            {
+                "white": "彭捷慧",
+                "black": "蒋逸",
+                "date": "2017-03-25",
+                "result": 1,
+                "id": "tournament_427_12"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "陈章珍",
+                "black": "高长霞",
+                "date": "2017-03-27",
+                "result": 1,
+                "id": "tournament_427_13"
+            },
+            {
+                "white": "孙胜阳",
+                "black": "许太珊",
+                "date": "2017-03-27",
+                "result": 0.5,
+                "id": "tournament_427_14"
+            },
+            {
+                "white": "王吟彬",
+                "black": "赵穗榕",
+                "date": "2017-03-27",
+                "result": 0.5,
+                "id": "tournament_427_15"
+            },
+            {
+                "white": "谢庆麟",
+                "black": "梁淑君",
+                "date": "2017-03-27",
+                "result": 0,
+                "id": "tournament_427_16"
+            },
+            {
+                "white": "彭捷慧",
+                "black": "叶霸盛",
+                "date": "2017-03-27",
+                "result": 0,
+                "id": "tournament_427_17"
+            },
+            {
+                "white": "蒋逸",
+                "black": "张关义",
+                "date": "2017-03-27",
+                "result": 0,
+                "id": "tournament_427_18"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "高长霞",
+                "black": "许太珊",
+                "date": "2017-03-29",
+                "result": 0,
+                "id": "tournament_427_19"
+            },
+            {
+                "white": "陈章珍",
+                "black": "李秀寿",
+                "date": "2017-03-29",
+                "result": 0,
+                "id": "tournament_427_20"
+            },
+            {
+                "white": "孙胜阳",
+                "black": "王吟彬",
+                "date": "2017-03-29",
+                "result": 0,
+                "id": "tournament_427_21"
+            },
+            {
+                "white": "彭捷慧",
+                "black": "赵穗榕",
+                "date": "2017-03-29",
+                "result": 0,
+                "id": "tournament_427_22"
+            },
+            {
+                "white": "蒋逸",
+                "black": "梁淑君",
+                "date": "2017-03-29",
+                "result": 0,
+                "id": "tournament_427_23"
+            },
+            {
+                "white": "张关义",
+                "black": "叶霸盛",
+                "date": "2017-03-29",
+                "result": 0.5,
+                "id": "tournament_427_24"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "李秀寿",
+                "black": "高长霞",
+                "date": "2017-03-31",
+                "result": 1,
+                "id": "tournament_427_25"
+            },
+            {
+                "white": "许太珊",
+                "black": "王吟彬",
+                "date": "2017-03-31",
+                "result": 1,
+                "id": "tournament_427_26"
+            },
+            {
+                "white": "陈章珍",
+                "black": "谢庆麟",
+                "date": "2017-03-31",
+                "result": 1,
+                "id": "tournament_427_27"
+            },
+            {
+                "white": "孙胜阳",
+                "black": "彭捷慧",
+                "date": "2017-03-31",
+                "result": 0.5,
+                "id": "tournament_427_28"
+            },
+            {
+                "white": "张关义",
+                "black": "赵穗榕",
+                "date": "2017-03-31",
+                "result": 0,
+                "id": "tournament_427_29"
+            },
+            {
+                "white": "叶霸盛",
+                "black": "梁淑君",
+                "date": "2017-03-31",
+                "result": 1,
+                "id": "tournament_427_30"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "高长霞",
+                "black": "王吟彬",
+                "date": "2017-04-02",
+                "result": 0,
+                "id": "tournament_427_31"
+            },
+            {
+                "white": "李秀寿",
+                "black": "谢庆麟",
+                "date": "2017-04-02",
+                "result": 1,
+                "id": "tournament_427_32"
+            },
+            {
+                "white": "许太珊",
+                "black": "彭捷慧",
+                "date": "2017-04-02",
+                "result": 1,
+                "id": "tournament_427_33"
+            },
+            {
+                "white": "陈章珍",
+                "black": "蒋逸",
+                "date": "2017-04-02",
+                "result": 1,
+                "id": "tournament_427_34"
+            },
+            {
+                "white": "孙胜阳",
+                "black": "张关义",
+                "date": "2017-04-02",
+                "result": 0,
+                "id": "tournament_427_35"
+            },
+            {
+                "white": "梁淑君",
+                "black": "赵穗榕",
+                "date": "2017-04-02",
+                "result": 0.5,
+                "id": "tournament_427_36"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "谢庆麟",
+                "black": "高长霞",
+                "date": "2017-04-04",
+                "result": 0.5,
+                "id": "tournament_427_37"
+            },
+            {
+                "white": "王吟彬",
+                "black": "彭捷慧",
+                "date": "2017-04-04",
+                "result": 1,
+                "id": "tournament_427_38"
+            },
+            {
+                "white": "李秀寿",
+                "black": "蒋逸",
+                "date": "2017-04-04",
+                "result": 1,
+                "id": "tournament_427_39"
+            },
+            {
+                "white": "许太珊",
+                "black": "张关义",
+                "date": "2017-04-04",
+                "result": 0.5,
+                "id": "tournament_427_40"
+            },
+            {
+                "white": "陈章珍",
+                "black": "叶霸盛",
+                "date": "2017-04-04",
+                "result": 0,
+                "id": "tournament_427_41"
+            },
+            {
+                "white": "孙胜阳",
+                "black": "梁淑君",
+                "date": "2017-04-04",
+                "result": 0,
+                "id": "tournament_427_42"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "高长霞",
+                "black": "彭捷慧",
+                "date": "2017-04-06",
+                "result": 0,
+                "id": "tournament_427_43"
+            },
+            {
+                "white": "谢庆麟",
+                "black": "蒋逸",
+                "date": "2017-04-06",
+                "result": 0,
+                "id": "tournament_427_44"
+            },
+            {
+                "white": "王吟彬",
+                "black": "张关义",
+                "date": "2017-04-06",
+                "result": 0.5,
+                "id": "tournament_427_45"
+            },
+            {
+                "white": "李秀寿",
+                "black": "叶霸盛",
+                "date": "2017-04-06",
+                "result": 0,
+                "id": "tournament_427_46"
+            },
+            {
+                "white": "许太珊",
+                "black": "梁淑君",
+                "date": "2017-04-06",
+                "result": 0.5,
+                "id": "tournament_427_47"
+            },
+            {
+                "white": "陈章珍",
+                "black": "赵穗榕",
+                "date": "2017-04-06",
+                "result": 0,
+                "id": "tournament_427_48"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "蒋逸",
+                "black": "高长霞",
+                "date": "2017-04-08",
+                "result": 1,
+                "id": "tournament_427_49"
+            },
+            {
+                "white": "彭捷慧",
+                "black": "张关义",
+                "date": "2017-04-08",
+                "result": 0,
+                "id": "tournament_427_50"
+            },
+            {
+                "white": "谢庆麟",
+                "black": "叶霸盛",
+                "date": "2017-04-08",
+                "result": 0,
+                "id": "tournament_427_51"
+            },
+            {
+                "white": "王吟彬",
+                "black": "梁淑君",
+                "date": "2017-04-08",
+                "result": 0,
+                "id": "tournament_427_52"
+            },
+            {
+                "white": "李秀寿",
+                "black": "赵穗榕",
+                "date": "2017-04-08",
+                "result": 0,
+                "id": "tournament_427_53"
+            },
+            {
+                "white": "孙胜阳",
+                "black": "陈章珍",
+                "date": "2017-04-08",
+                "result": 0.5,
+                "id": "tournament_427_54"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "高长霞",
+                "black": "张关义",
+                "date": "2017-04-10",
+                "result": 0,
+                "id": "tournament_427_55"
+            },
+            {
+                "white": "蒋逸",
+                "black": "叶霸盛",
+                "date": "2017-04-10",
+                "result": 0,
+                "id": "tournament_427_56"
+            },
+            {
+                "white": "彭捷慧",
+                "black": "梁淑君",
+                "date": "2017-04-10",
+                "result": 0,
+                "id": "tournament_427_57"
+            },
+            {
+                "white": "谢庆麟",
+                "black": "赵穗榕",
+                "date": "2017-04-10",
+                "result": 0,
+                "id": "tournament_427_58"
+            },
+            {
+                "white": "孙胜阳",
+                "black": "李秀寿",
+                "date": "2017-04-10",
+                "result": 0.5,
+                "id": "tournament_427_59"
+            },
+            {
+                "white": "陈章珍",
+                "black": "许太珊",
+                "date": "2017-04-10",
+                "result": 0.5,
+                "id": "tournament_427_60"
+            }
+        ],
+        "tour_11": [
+            {
+                "white": "叶霸盛",
+                "black": "高长霞",
+                "date": "2017-04-12",
+                "result": 1,
+                "id": "tournament_427_61"
+            },
+            {
+                "white": "张关义",
+                "black": "梁淑君",
+                "date": "2017-04-12",
+                "result": 0.5,
+                "id": "tournament_427_62"
+            },
+            {
+                "white": "蒋逸",
+                "black": "赵穗榕",
+                "date": "2017-04-12",
+                "result": 0,
+                "id": "tournament_427_63"
+            },
+            {
+                "white": "孙胜阳",
+                "black": "谢庆麟",
+                "date": "2017-04-12",
+                "result": 1,
+                "id": "tournament_427_64"
+            },
+            {
+                "white": "陈章珍",
+                "black": "王吟彬",
+                "date": "2017-04-12",
+                "result": 0.5,
+                "id": "tournament_427_65"
+            },
+            {
+                "white": "许太珊",
+                "black": "李秀寿",
+                "date": "2017-04-12",
+                "result": 1,
+                "id": "tournament_427_66"
+            }
+        ],
+        "tour_12": [
+            {
+                "white": "高长霞",
+                "black": "梁淑君",
+                "date": "2017-04-14",
+                "result": 0,
+                "id": "tournament_427_67"
+            },
+            {
+                "white": "叶霸盛",
+                "black": "赵穗榕",
+                "date": "2017-04-14",
+                "result": 1,
+                "id": "tournament_427_68"
+            },
+            {
+                "white": "孙胜阳",
+                "black": "蒋逸",
+                "date": "2017-04-14",
+                "result": 1,
+                "id": "tournament_427_69"
+            },
+            {
+                "white": "陈章珍",
+                "black": "彭捷慧",
+                "date": "2017-04-14",
+                "result": 1,
+                "id": "tournament_427_70"
+            },
+            {
+                "white": "许太珊",
+                "black": "谢庆麟",
+                "date": "2017-04-14",
+                "result": 1,
+                "id": "tournament_427_71"
+            },
+            {
+                "white": "李秀寿",
+                "black": "王吟彬",
+                "date": "2017-04-14",
+                "result": 1,
+                "id": "tournament_427_72"
+            }
+        ]
+    },
+    "tours": 12,
+    "time_control": "rapid"
+}

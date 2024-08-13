@@ -1,0 +1,342 @@
+{
+    "name": "tournament_562",
+    "start_date": "2018-04-06",
+    "end_date": "2018-04-24",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Li Xuan ",
+                "black": "Li Wen Zi",
+                "date": "2018-04-06",
+                "result": 1,
+                "id": "tournament_562_1"
+            },
+            {
+                "white": "Wen Li Ling",
+                "black": "Tan Yao ",
+                "date": "2018-04-06",
+                "result": 0.5,
+                "id": "tournament_562_2"
+            },
+            {
+                "white": "Liu Jin Song",
+                "black": "Yang Yan Bo",
+                "date": "2018-04-06",
+                "result": 0.5,
+                "id": "tournament_562_3"
+            },
+            {
+                "white": "Xing Qi Ping",
+                "black": "Wang Jia Juan",
+                "date": "2018-04-06",
+                "result": 0,
+                "id": "tournament_562_4"
+            },
+            {
+                "white": "Li Shou Chao",
+                "black": "Lu Xing Miao",
+                "date": "2018-04-06",
+                "result": 0.5,
+                "id": "tournament_562_5"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Li Wen Zi",
+                "black": "Wen Li Ling",
+                "date": "2018-04-08",
+                "result": 0.5,
+                "id": "tournament_562_6"
+            },
+            {
+                "white": "Li Xuan ",
+                "black": "Liu Jin Song",
+                "date": "2018-04-08",
+                "result": 1,
+                "id": "tournament_562_7"
+            },
+            {
+                "white": "Xing Qi Ping",
+                "black": "Tan Yao ",
+                "date": "2018-04-08",
+                "result": 1,
+                "id": "tournament_562_8"
+            },
+            {
+                "white": "Li Shou Chao",
+                "black": "Yang Yan Bo",
+                "date": "2018-04-08",
+                "result": 0,
+                "id": "tournament_562_9"
+            },
+            {
+                "white": "Lu Xing Miao",
+                "black": "Wang Jia Juan",
+                "date": "2018-04-08",
+                "result": 0.5,
+                "id": "tournament_562_10"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Liu Jin Song",
+                "black": "Li Wen Zi",
+                "date": "2018-04-10",
+                "result": 0,
+                "id": "tournament_562_11"
+            },
+            {
+                "white": "Wen Li Ling",
+                "black": "Xing Qi Ping",
+                "date": "2018-04-10",
+                "result": 0,
+                "id": "tournament_562_12"
+            },
+            {
+                "white": "Li Xuan ",
+                "black": "Li Shou Chao",
+                "date": "2018-04-10",
+                "result": 1,
+                "id": "tournament_562_13"
+            },
+            {
+                "white": "Lu Xing Miao",
+                "black": "Tan Yao ",
+                "date": "2018-04-10",
+                "result": 0.5,
+                "id": "tournament_562_14"
+            },
+            {
+                "white": "Wang Jia Juan",
+                "black": "Yang Yan Bo",
+                "date": "2018-04-10",
+                "result": 1,
+                "id": "tournament_562_15"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Li Wen Zi",
+                "black": "Xing Qi Ping",
+                "date": "2018-04-12",
+                "result": 0,
+                "id": "tournament_562_16"
+            },
+            {
+                "white": "Liu Jin Song",
+                "black": "Li Shou Chao",
+                "date": "2018-04-12",
+                "result": 0.5,
+                "id": "tournament_562_17"
+            },
+            {
+                "white": "Wen Li Ling",
+                "black": "Lu Xing Miao",
+                "date": "2018-04-12",
+                "result": 0,
+                "id": "tournament_562_18"
+            },
+            {
+                "white": "Li Xuan ",
+                "black": "Wang Jia Juan",
+                "date": "2018-04-12",
+                "result": 0,
+                "id": "tournament_562_19"
+            },
+            {
+                "white": "Yang Yan Bo",
+                "black": "Tan Yao ",
+                "date": "2018-04-12",
+                "result": 0,
+                "id": "tournament_562_20"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Li Shou Chao",
+                "black": "Li Wen Zi",
+                "date": "2018-04-14",
+                "result": 1,
+                "id": "tournament_562_21"
+            },
+            {
+                "white": "Xing Qi Ping",
+                "black": "Lu Xing Miao",
+                "date": "2018-04-14",
+                "result": 1,
+                "id": "tournament_562_22"
+            },
+            {
+                "white": "Liu Jin Song",
+                "black": "Wang Jia Juan",
+                "date": "2018-04-14",
+                "result": 0,
+                "id": "tournament_562_23"
+            },
+            {
+                "white": "Wen Li Ling",
+                "black": "Yang Yan Bo",
+                "date": "2018-04-14",
+                "result": 0.5,
+                "id": "tournament_562_24"
+            },
+            {
+                "white": "Li Xuan ",
+                "black": "Tan Yao ",
+                "date": "2018-04-14",
+                "result": 1,
+                "id": "tournament_562_25"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Li Wen Zi",
+                "black": "Lu Xing Miao",
+                "date": "2018-04-16",
+                "result": 0,
+                "id": "tournament_562_26"
+            },
+            {
+                "white": "Li Shou Chao",
+                "black": "Wang Jia Juan",
+                "date": "2018-04-16",
+                "result": 0,
+                "id": "tournament_562_27"
+            },
+            {
+                "white": "Xing Qi Ping",
+                "black": "Yang Yan Bo",
+                "date": "2018-04-16",
+                "result": 1,
+                "id": "tournament_562_28"
+            },
+            {
+                "white": "Liu Jin Song",
+                "black": "Tan Yao ",
+                "date": "2018-04-16",
+                "result": 0,
+                "id": "tournament_562_29"
+            },
+            {
+                "white": "Li Xuan ",
+                "black": "Wen Li Ling",
+                "date": "2018-04-16",
+                "result": 1,
+                "id": "tournament_562_30"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Wang Jia Juan",
+                "black": "Li Wen Zi",
+                "date": "2018-04-18",
+                "result": 1,
+                "id": "tournament_562_31"
+            },
+            {
+                "white": "Lu Xing Miao",
+                "black": "Yang Yan Bo",
+                "date": "2018-04-18",
+                "result": 1,
+                "id": "tournament_562_32"
+            },
+            {
+                "white": "Li Shou Chao",
+                "black": "Tan Yao ",
+                "date": "2018-04-18",
+                "result": 0.5,
+                "id": "tournament_562_33"
+            },
+            {
+                "white": "Li Xuan ",
+                "black": "Xing Qi Ping",
+                "date": "2018-04-18",
+                "result": 1,
+                "id": "tournament_562_34"
+            },
+            {
+                "white": "Wen Li Ling",
+                "black": "Liu Jin Song",
+                "date": "2018-04-18",
+                "result": 0.5,
+                "id": "tournament_562_35"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Li Wen Zi",
+                "black": "Yang Yan Bo",
+                "date": "2018-04-20",
+                "result": 0,
+                "id": "tournament_562_36"
+            },
+            {
+                "white": "Wang Jia Juan",
+                "black": "Tan Yao ",
+                "date": "2018-04-20",
+                "result": 1,
+                "id": "tournament_562_37"
+            },
+            {
+                "white": "Li Xuan ",
+                "black": "Lu Xing Miao",
+                "date": "2018-04-20",
+                "result": 1,
+                "id": "tournament_562_38"
+            },
+            {
+                "white": "Wen Li Ling",
+                "black": "Li Shou Chao",
+                "date": "2018-04-20",
+                "result": 0.5,
+                "id": "tournament_562_39"
+            },
+            {
+                "white": "Liu Jin Song",
+                "black": "Xing Qi Ping",
+                "date": "2018-04-20",
+                "result": 0,
+                "id": "tournament_562_40"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Tan Yao ",
+                "black": "Li Wen Zi",
+                "date": "2018-04-22",
+                "result": 1,
+                "id": "tournament_562_41"
+            },
+            {
+                "white": "Li Xuan ",
+                "black": "Yang Yan Bo",
+                "date": "2018-04-22",
+                "result": 1,
+                "id": "tournament_562_42"
+            },
+            {
+                "white": "Wen Li Ling",
+                "black": "Wang Jia Juan",
+                "date": "2018-04-22",
+                "result": 0,
+                "id": "tournament_562_43"
+            },
+            {
+                "white": "Liu Jin Song",
+                "black": "Lu Xing Miao",
+                "date": "2018-04-22",
+                "result": 0,
+                "id": "tournament_562_44"
+            },
+            {
+                "white": "Xing Qi Ping",
+                "black": "Li Shou Chao",
+                "date": "2018-04-22",
+                "result": 1,
+                "id": "tournament_562_45"
+            }
+        ]
+    },
+    "tours": 9,
+    "time_control": "rapid"
+}

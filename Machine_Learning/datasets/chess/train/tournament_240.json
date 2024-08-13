@@ -1,0 +1,921 @@
+{
+    "name": "tournament_240",
+    "start_date": "2015-10-21",
+    "end_date": "2015-11-06",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Liang, Jiyue",
+                "black": "Wang, Youhang",
+                "date": "2015-10-21",
+                "result": 1,
+                "id": "tournament_240_1"
+            },
+            {
+                "white": "Yuan, Xiaokun",
+                "black": "Liu, Jingqiang",
+                "date": "2015-10-21",
+                "result": 0,
+                "id": "tournament_240_2"
+            },
+            {
+                "white": "Xu, Gui",
+                "black": "Zhang, Yejun",
+                "date": "2015-10-21",
+                "result": 1,
+                "id": "tournament_240_3"
+            },
+            {
+                "white": "Zhang, Weirong",
+                "black": "Zhang, Banzhi",
+                "date": "2015-10-21",
+                "result": 0,
+                "id": "tournament_240_4"
+            },
+            {
+                "white": "Zhang, Zhiqiong",
+                "black": "Chen, Xuxiang",
+                "date": "2015-10-21",
+                "result": 0.5,
+                "id": "tournament_240_5"
+            },
+            {
+                "white": "Zhang, Chun",
+                "black": "Yang, Cheng",
+                "date": "2015-10-21",
+                "result": 1,
+                "id": "tournament_240_6"
+            },
+            {
+                "white": "Yang, Zhengfeng",
+                "black": "Tan, Zhuojia",
+                "date": "2015-10-21",
+                "result": 1,
+                "id": "tournament_240_7"
+            },
+            {
+                "white": "Li, Yangyi",
+                "black": "Chen, Kang",
+                "date": "2015-10-21",
+                "result": 1,
+                "id": "tournament_240_8"
+            },
+            {
+                "white": "Yang, Ling",
+                "black": "Liang, Liang",
+                "date": "2015-10-21",
+                "result": 0.5,
+                "id": "tournament_240_9"
+            },
+            {
+                "white": "Chen, Jining",
+                "black": "Feng, Baizhen",
+                "date": "2015-10-21",
+                "result": 0.5,
+                "id": "tournament_240_10"
+            },
+            {
+                "white": "Ma, Jinwen",
+                "black": "Zhang, Xiaorong",
+                "date": "2015-10-21",
+                "result": 0,
+                "id": "tournament_240_11"
+            },
+            {
+                "white": "Wang, Yabao",
+                "black": "Wu, Qiu",
+                "date": "2015-10-21",
+                "result": 0.5,
+                "id": "tournament_240_12"
+            },
+            {
+                "white": "Yu, Xiao",
+                "black": "Chen, Yi",
+                "date": "2015-10-21",
+                "result": 0.5,
+                "id": "tournament_240_13"
+            },
+            {
+                "white": "Kang, Zihui",
+                "black": "Zhang, Dali",
+                "date": "2015-10-21",
+                "result": 0.5,
+                "id": "tournament_240_14"
+            },
+            {
+                "white": "Wu, Yuming",
+                "black": "Xu, Lingjing",
+                "date": "2015-10-21",
+                "result": 1,
+                "id": "tournament_240_15"
+            },
+            {
+                "white": "Yang, Hui",
+                "black": "Yu, Yuqi",
+                "date": "2015-10-21",
+                "result": 1,
+                "id": "tournament_240_16"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Liu, Jingqiang",
+                "black": "Liang, Jiyue",
+                "date": "2015-10-23",
+                "result": 0.5,
+                "id": "tournament_240_17"
+            },
+            {
+                "white": "Zhang, Banzhi",
+                "black": "Xu, Gui",
+                "date": "2015-10-23",
+                "result": 0.5,
+                "id": "tournament_240_18"
+            },
+            {
+                "white": "Zhang, Xiaorong",
+                "black": "Zhang, Chun",
+                "date": "2015-10-23",
+                "result": 0.5,
+                "id": "tournament_240_19"
+            },
+            {
+                "white": "Chen, Xuxiang",
+                "black": "Yang, Zhengfeng",
+                "date": "2015-10-23",
+                "result": 1,
+                "id": "tournament_240_20"
+            },
+            {
+                "white": "Liang, Liang",
+                "black": "Li, Yangyi",
+                "date": "2015-10-23",
+                "result": 1,
+                "id": "tournament_240_21"
+            },
+            {
+                "white": "Feng, Baizhen",
+                "black": "Wu, Yuming",
+                "date": "2015-10-23",
+                "result": 1,
+                "id": "tournament_240_22"
+            },
+            {
+                "white": "Wu, Qiu",
+                "black": "Yang, Hui",
+                "date": "2015-10-23",
+                "result": 0,
+                "id": "tournament_240_23"
+            },
+            {
+                "white": "Chen, Yi",
+                "black": "Zhang, Zhiqiong",
+                "date": "2015-10-23",
+                "result": 0.5,
+                "id": "tournament_240_24"
+            },
+            {
+                "white": "Zhang, Dali",
+                "black": "Yang, Ling",
+                "date": "2015-10-23",
+                "result": 0.5,
+                "id": "tournament_240_25"
+            },
+            {
+                "white": "Wang, Youhang",
+                "black": "Chen, Jining",
+                "date": "2015-10-23",
+                "result": 0.5,
+                "id": "tournament_240_26"
+            },
+            {
+                "white": "Zhang, Yejun",
+                "black": "Wang, Yabao",
+                "date": "2015-10-23",
+                "result": 1,
+                "id": "tournament_240_27"
+            },
+            {
+                "white": "Yang, Cheng",
+                "black": "Yu, Xiao",
+                "date": "2015-10-23",
+                "result": 0,
+                "id": "tournament_240_28"
+            },
+            {
+                "white": "Tan, Zhuojia",
+                "black": "Kang, Zihui",
+                "date": "2015-10-23",
+                "result": 0,
+                "id": "tournament_240_29"
+            },
+            {
+                "white": "Chen, Kang",
+                "black": "Yuan, Xiaokun",
+                "date": "2015-10-23",
+                "result": 0,
+                "id": "tournament_240_30"
+            },
+            {
+                "white": "Yu, Yuqi",
+                "black": "Ma, Jinwen",
+                "date": "2015-10-23",
+                "result": 0.5,
+                "id": "tournament_240_31"
+            },
+            {
+                "white": "Xu, Lingjing",
+                "black": "Zhang, Weirong",
+                "date": "2015-10-23",
+                "result": 0.5,
+                "id": "tournament_240_32"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Yang, Hui",
+                "black": "Liu, Jingqiang",
+                "date": "2015-10-25",
+                "result": 0.5,
+                "id": "tournament_240_33"
+            },
+            {
+                "white": "Liang, Jiyue",
+                "black": "Zhang, Banzhi",
+                "date": "2015-10-25",
+                "result": 0,
+                "id": "tournament_240_34"
+            },
+            {
+                "white": "Xu, Gui",
+                "black": "Zhang, Xiaorong",
+                "date": "2015-10-25",
+                "result": 1,
+                "id": "tournament_240_35"
+            },
+            {
+                "white": "Zhang, Chun",
+                "black": "Chen, Xuxiang",
+                "date": "2015-10-25",
+                "result": 0,
+                "id": "tournament_240_36"
+            },
+            {
+                "white": "Yu, Xiao",
+                "black": "Liang, Liang",
+                "date": "2015-10-25",
+                "result": 1,
+                "id": "tournament_240_37"
+            },
+            {
+                "white": "Kang, Zihui",
+                "black": "Feng, Baizhen",
+                "date": "2015-10-25",
+                "result": 1,
+                "id": "tournament_240_38"
+            },
+            {
+                "white": "Yang, Zhengfeng",
+                "black": "Chen, Yi",
+                "date": "2015-10-25",
+                "result": 1,
+                "id": "tournament_240_39"
+            },
+            {
+                "white": "Li, Yangyi",
+                "black": "Zhang, Dali",
+                "date": "2015-10-25",
+                "result": 0.5,
+                "id": "tournament_240_40"
+            },
+            {
+                "white": "Wu, Yuming",
+                "black": "Zhang, Yejun",
+                "date": "2015-10-25",
+                "result": 1,
+                "id": "tournament_240_41"
+            },
+            {
+                "white": "Zhang, Zhiqiong",
+                "black": "Wu, Qiu",
+                "date": "2015-10-25",
+                "result": 1,
+                "id": "tournament_240_42"
+            },
+            {
+                "white": "Yang, Ling",
+                "black": "Wang, Youhang",
+                "date": "2015-10-25",
+                "result": 1,
+                "id": "tournament_240_43"
+            },
+            {
+                "white": "Chen, Jining",
+                "black": "Xu, Lingjing",
+                "date": "2015-10-25",
+                "result": 1,
+                "id": "tournament_240_44"
+            },
+            {
+                "white": "Yuan, Xiaokun",
+                "black": "Yu, Yuqi",
+                "date": "2015-10-25",
+                "result": 0.5,
+                "id": "tournament_240_45"
+            },
+            {
+                "white": "Wang, Yabao",
+                "black": "Yang, Cheng",
+                "date": "2015-10-25",
+                "result": 0.5,
+                "id": "tournament_240_46"
+            },
+            {
+                "white": "Zhang, Weirong",
+                "black": "Tan, Zhuojia",
+                "date": "2015-10-25",
+                "result": 0.5,
+                "id": "tournament_240_47"
+            },
+            {
+                "white": "Ma, Jinwen",
+                "black": "Chen, Kang",
+                "date": "2015-10-25",
+                "result": 1,
+                "id": "tournament_240_48"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Zhang, Banzhi",
+                "black": "Yang, Hui",
+                "date": "2015-10-27",
+                "result": 1,
+                "id": "tournament_240_49"
+            },
+            {
+                "white": "Chen, Xuxiang",
+                "black": "Xu, Gui",
+                "date": "2015-10-27",
+                "result": 1,
+                "id": "tournament_240_50"
+            },
+            {
+                "white": "Liu, Jingqiang",
+                "black": "Yu, Xiao",
+                "date": "2015-10-27",
+                "result": 0,
+                "id": "tournament_240_51"
+            },
+            {
+                "white": "Zhang, Xiaorong",
+                "black": "Kang, Zihui",
+                "date": "2015-10-27",
+                "result": 0.5,
+                "id": "tournament_240_52"
+            },
+            {
+                "white": "Liang, Liang",
+                "black": "Yang, Zhengfeng",
+                "date": "2015-10-27",
+                "result": 0,
+                "id": "tournament_240_53"
+            },
+            {
+                "white": "Zhang, Dali",
+                "black": "Wu, Yuming",
+                "date": "2015-10-27",
+                "result": 0,
+                "id": "tournament_240_54"
+            },
+            {
+                "white": "Feng, Baizhen",
+                "black": "Zhang, Zhiqiong",
+                "date": "2015-10-27",
+                "result": 0,
+                "id": "tournament_240_55"
+            },
+            {
+                "white": "Chen, Yi",
+                "black": "Yang, Ling",
+                "date": "2015-10-27",
+                "result": 0.5,
+                "id": "tournament_240_56"
+            },
+            {
+                "white": "Zhang, Yejun",
+                "black": "Chen, Jining",
+                "date": "2015-10-27",
+                "result": 1,
+                "id": "tournament_240_57"
+            },
+            {
+                "white": "Yu, Yuqi",
+                "black": "Liang, Jiyue",
+                "date": "2015-10-27",
+                "result": 0.5,
+                "id": "tournament_240_58"
+            },
+            {
+                "white": "Wu, Qiu",
+                "black": "Zhang, Chun",
+                "date": "2015-10-27",
+                "result": 0.5,
+                "id": "tournament_240_59"
+            },
+            {
+                "white": "Wang, Youhang",
+                "black": "Li, Yangyi",
+                "date": "2015-10-27",
+                "result": 0,
+                "id": "tournament_240_60"
+            },
+            {
+                "white": "Xu, Lingjing",
+                "black": "Yuan, Xiaokun",
+                "date": "2015-10-27",
+                "result": 0.5,
+                "id": "tournament_240_61"
+            },
+            {
+                "white": "Yang, Cheng",
+                "black": "Ma, Jinwen",
+                "date": "2015-10-27",
+                "result": 0.5,
+                "id": "tournament_240_62"
+            },
+            {
+                "white": "Chen, Kang",
+                "black": "Zhang, Weirong",
+                "date": "2015-10-27",
+                "result": 0,
+                "id": "tournament_240_63"
+            },
+            {
+                "white": "Tan, Zhuojia",
+                "black": "Wang, Yabao",
+                "date": "2015-10-27",
+                "result": 1,
+                "id": "tournament_240_64"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Yu, Xiao",
+                "black": "Zhang, Banzhi",
+                "date": "2015-10-29",
+                "result": 0,
+                "id": "tournament_240_65"
+            },
+            {
+                "white": "Kang, Zihui",
+                "black": "Chen, Xuxiang",
+                "date": "2015-10-29",
+                "result": 0,
+                "id": "tournament_240_66"
+            },
+            {
+                "white": "Yang, Zhengfeng",
+                "black": "Liu, Jingqiang",
+                "date": "2015-10-29",
+                "result": 1,
+                "id": "tournament_240_67"
+            },
+            {
+                "white": "Wu, Yuming",
+                "black": "Zhang, Xiaorong",
+                "date": "2015-10-29",
+                "result": 1,
+                "id": "tournament_240_68"
+            },
+            {
+                "white": "Zhang, Zhiqiong",
+                "black": "Zhang, Yejun",
+                "date": "2015-10-29",
+                "result": 0.5,
+                "id": "tournament_240_69"
+            },
+            {
+                "white": "Yang, Hui",
+                "black": "Liang, Liang",
+                "date": "2015-10-29",
+                "result": 0.5,
+                "id": "tournament_240_70"
+            },
+            {
+                "white": "Xu, Gui",
+                "black": "Feng, Baizhen",
+                "date": "2015-10-29",
+                "result": 0.5,
+                "id": "tournament_240_71"
+            },
+            {
+                "white": "Yang, Ling",
+                "black": "Yu, Yuqi",
+                "date": "2015-10-29",
+                "result": 0.5,
+                "id": "tournament_240_72"
+            },
+            {
+                "white": "Li, Yangyi",
+                "black": "Chen, Yi",
+                "date": "2015-10-29",
+                "result": 0.5,
+                "id": "tournament_240_73"
+            },
+            {
+                "white": "Chen, Jining",
+                "black": "Zhang, Dali",
+                "date": "2015-10-29",
+                "result": 0.5,
+                "id": "tournament_240_74"
+            },
+            {
+                "white": "Liang, Jiyue",
+                "black": "Tan, Zhuojia",
+                "date": "2015-10-29",
+                "result": 1,
+                "id": "tournament_240_75"
+            },
+            {
+                "white": "Zhang, Chun",
+                "black": "Xu, Lingjing",
+                "date": "2015-10-29",
+                "result": 1,
+                "id": "tournament_240_76"
+            },
+            {
+                "white": "Yuan, Xiaokun",
+                "black": "Wu, Qiu",
+                "date": "2015-10-29",
+                "result": 0.5,
+                "id": "tournament_240_77"
+            },
+            {
+                "white": "Wang, Yabao",
+                "black": "Chen, Kang",
+                "date": "2015-10-29",
+                "result": 1,
+                "id": "tournament_240_78"
+            },
+            {
+                "white": "Ma, Jinwen",
+                "black": "Wang, Youhang",
+                "date": "2015-10-29",
+                "result": 1,
+                "id": "tournament_240_79"
+            },
+            {
+                "white": "Zhang, Weirong",
+                "black": "Yang, Cheng",
+                "date": "2015-10-29",
+                "result": 0.5,
+                "id": "tournament_240_80"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Zhang, Banzhi",
+                "black": "Yang, Zhengfeng",
+                "date": "2015-10-31",
+                "result": 1,
+                "id": "tournament_240_81"
+            },
+            {
+                "white": "Chen, Xuxiang",
+                "black": "Wu, Yuming",
+                "date": "2015-10-31",
+                "result": 1,
+                "id": "tournament_240_82"
+            },
+            {
+                "white": "Zhang, Yejun",
+                "black": "Yu, Xiao",
+                "date": "2015-10-31",
+                "result": 1,
+                "id": "tournament_240_83"
+            },
+            {
+                "white": "Liu, Jingqiang",
+                "black": "Zhang, Zhiqiong",
+                "date": "2015-10-31",
+                "result": 0,
+                "id": "tournament_240_84"
+            },
+            {
+                "white": "Liang, Liang",
+                "black": "Kang, Zihui",
+                "date": "2015-10-31",
+                "result": 0,
+                "id": "tournament_240_85"
+            },
+            {
+                "white": "Zhang, Xiaorong",
+                "black": "Yang, Hui",
+                "date": "2015-10-31",
+                "result": 0,
+                "id": "tournament_240_86"
+            },
+            {
+                "white": "Zhang, Dali",
+                "black": "Xu, Gui",
+                "date": "2015-10-31",
+                "result": 0,
+                "id": "tournament_240_87"
+            },
+            {
+                "white": "Feng, Baizhen",
+                "black": "Yang, Ling",
+                "date": "2015-10-31",
+                "result": 0.5,
+                "id": "tournament_240_88"
+            },
+            {
+                "white": "Yu, Yuqi",
+                "black": "Li, Yangyi",
+                "date": "2015-10-31",
+                "result": 1,
+                "id": "tournament_240_89"
+            },
+            {
+                "white": "Chen, Yi",
+                "black": "Liang, Jiyue",
+                "date": "2015-10-31",
+                "result": 1,
+                "id": "tournament_240_90"
+            },
+            {
+                "white": "Tan, Zhuojia",
+                "black": "Zhang, Chun",
+                "date": "2015-10-31",
+                "result": 0.5,
+                "id": "tournament_240_91"
+            },
+            {
+                "white": "Wu, Qiu",
+                "black": "Ma, Jinwen",
+                "date": "2015-10-31",
+                "result": 0.5,
+                "id": "tournament_240_92"
+            },
+            {
+                "white": "Xu, Lingjing",
+                "black": "Wang, Yabao",
+                "date": "2015-10-31",
+                "result": 0.5,
+                "id": "tournament_240_93"
+            },
+            {
+                "white": "Wang, Youhang",
+                "black": "Zhang, Weirong",
+                "date": "2015-10-31",
+                "result": 0.5,
+                "id": "tournament_240_94"
+            },
+            {
+                "white": "Yang, Cheng",
+                "black": "Yuan, Xiaokun",
+                "date": "2015-10-31",
+                "result": 1,
+                "id": "tournament_240_95"
+            },
+            {
+                "white": "Chen, Kang",
+                "black": "Chen, Jining",
+                "date": "2015-10-31",
+                "result": 0,
+                "id": "tournament_240_96"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Zhang, Zhiqiong",
+                "black": "Zhang, Banzhi",
+                "date": "2015-11-02",
+                "result": 0,
+                "id": "tournament_240_97"
+            },
+            {
+                "white": "Yang, Hui",
+                "black": "Chen, Xuxiang",
+                "date": "2015-11-02",
+                "result": 0,
+                "id": "tournament_240_98"
+            },
+            {
+                "white": "Yang, Zhengfeng",
+                "black": "Zhang, Yejun",
+                "date": "2015-11-02",
+                "result": 0,
+                "id": "tournament_240_99"
+            },
+            {
+                "white": "Wu, Yuming",
+                "black": "Chen, Yi",
+                "date": "2015-11-02",
+                "result": 1,
+                "id": "tournament_240_100"
+            },
+            {
+                "white": "Kang, Zihui",
+                "black": "Yu, Yuqi",
+                "date": "2015-11-02",
+                "result": 1,
+                "id": "tournament_240_101"
+            },
+            {
+                "white": "Xu, Gui",
+                "black": "Yang, Cheng",
+                "date": "2015-11-02",
+                "result": 1,
+                "id": "tournament_240_102"
+            },
+            {
+                "white": "Yu, Xiao",
+                "black": "Feng, Baizhen",
+                "date": "2015-11-02",
+                "result": 1,
+                "id": "tournament_240_103"
+            },
+            {
+                "white": "Yang, Ling",
+                "black": "Liu, Jingqiang",
+                "date": "2015-11-02",
+                "result": 1,
+                "id": "tournament_240_104"
+            },
+            {
+                "white": "Zhang, Chun",
+                "black": "Liang, Liang",
+                "date": "2015-11-02",
+                "result": 0,
+                "id": "tournament_240_105"
+            },
+            {
+                "white": "Ma, Jinwen",
+                "black": "Zhang, Dali",
+                "date": "2015-11-02",
+                "result": 0.5,
+                "id": "tournament_240_106"
+            },
+            {
+                "white": "Chen, Jining",
+                "black": "Zhang, Xiaorong",
+                "date": "2015-11-02",
+                "result": 0.5,
+                "id": "tournament_240_107"
+            },
+            {
+                "white": "Zhang, Weirong",
+                "black": "Wu, Qiu",
+                "date": "2015-11-02",
+                "result": 0.5,
+                "id": "tournament_240_108"
+            },
+            {
+                "white": "Wang, Yabao",
+                "black": "Wang, Youhang",
+                "date": "2015-11-02",
+                "result": 0.5,
+                "id": "tournament_240_109"
+            },
+            {
+                "white": "Yuan, Xiaokun",
+                "black": "Tan, Zhuojia",
+                "date": "2015-11-02",
+                "result": 0,
+                "id": "tournament_240_110"
+            },
+            {
+                "white": "Li, Yangyi",
+                "black": "Xu, Lingjing",
+                "date": "2015-11-02",
+                "result": 0,
+                "id": "tournament_240_111"
+            },
+            {
+                "white": "Liang, Jiyue",
+                "black": "Chen, Kang",
+                "date": "2015-11-02",
+                "result": 1,
+                "id": "tournament_240_112"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Zhang, Banzhi",
+                "black": "Wu, Yuming",
+                "date": "2015-11-04",
+                "result": 0.5,
+                "id": "tournament_240_113"
+            },
+            {
+                "white": "Chen, Xuxiang",
+                "black": "Yu, Xiao",
+                "date": "2015-11-04",
+                "result": 1,
+                "id": "tournament_240_114"
+            },
+            {
+                "white": "Zhang, Yejun",
+                "black": "Kang, Zihui",
+                "date": "2015-11-04",
+                "result": 1,
+                "id": "tournament_240_115"
+            },
+            {
+                "white": "Chen, Yi",
+                "black": "Xu, Gui",
+                "date": "2015-11-04",
+                "result": 0,
+                "id": "tournament_240_116"
+            },
+            {
+                "white": "Yu, Yuqi",
+                "black": "Zhang, Zhiqiong",
+                "date": "2015-11-04",
+                "result": 0,
+                "id": "tournament_240_117"
+            },
+            {
+                "white": "Tan, Zhuojia",
+                "black": "Yang, Ling",
+                "date": "2015-11-04",
+                "result": 1,
+                "id": "tournament_240_118"
+            },
+            {
+                "white": "Feng, Baizhen",
+                "black": "Yang, Zhengfeng",
+                "date": "2015-11-04",
+                "result": 0,
+                "id": "tournament_240_119"
+            },
+            {
+                "white": "Yang, Cheng",
+                "black": "Yang, Hui",
+                "date": "2015-11-04",
+                "result": 0,
+                "id": "tournament_240_120"
+            },
+            {
+                "white": "Liang, Liang",
+                "black": "Ma, Jinwen",
+                "date": "2015-11-04",
+                "result": 1,
+                "id": "tournament_240_121"
+            },
+            {
+                "white": "Wu, Qiu",
+                "black": "Chen, Jining",
+                "date": "2015-11-04",
+                "result": 0.5,
+                "id": "tournament_240_122"
+            },
+            {
+                "white": "Zhang, Dali",
+                "black": "Yuan, Xiaokun",
+                "date": "2015-11-04",
+                "result": 1,
+                "id": "tournament_240_123"
+            },
+            {
+                "white": "Wang, Youhang",
+                "black": "Zhang, Chun",
+                "date": "2015-11-04",
+                "result": 0.5,
+                "id": "tournament_240_124"
+            },
+            {
+                "white": "Chen, Kang",
+                "black": "Liu, Jingqiang",
+                "date": "2015-11-04",
+                "result": 0,
+                "id": "tournament_240_125"
+            },
+            {
+                "white": "Li, Yangyi",
+                "black": "Wang, Yabao",
+                "date": "2015-11-04",
+                "result": 0.5,
+                "id": "tournament_240_126"
+            },
+            {
+                "white": "Xu, Lingjing",
+                "black": "Liang, Jiyue",
+                "date": "2015-11-04",
+                "result": 0,
+                "id": "tournament_240_127"
+            },
+            {
+                "white": "Zhang, Xiaorong",
+                "black": "Zhang, Weirong",
+                "date": "2015-11-04",
+                "result": 1,
+                "id": "tournament_240_128"
+            }
+        ]
+    },
+    "tours": 8,
+    "time_control": "rapid"
+}

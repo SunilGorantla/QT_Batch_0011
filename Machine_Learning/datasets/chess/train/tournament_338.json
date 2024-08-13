@@ -1,0 +1,1629 @@
+{
+    "name": "tournament_338",
+    "start_date": "2016-07-24",
+    "end_date": "2016-08-17",
+    "games": {
+        "tour_1": [
+            {
+                "white": "邢琦萍",
+                "black": "梁扬",
+                "date": "2016-07-24",
+                "result": 1,
+                "id": "tournament_338_1"
+            },
+            {
+                "white": "吕明梅",
+                "black": "周霞兰",
+                "date": "2016-07-24",
+                "result": 0,
+                "id": "tournament_338_2"
+            },
+            {
+                "white": "杨跃",
+                "black": "徐静",
+                "date": "2016-07-24",
+                "result": 0.5,
+                "id": "tournament_338_3"
+            },
+            {
+                "white": "王吟彬",
+                "black": "张冰",
+                "date": "2016-07-24",
+                "result": 1,
+                "id": "tournament_338_4"
+            },
+            {
+                "white": "傅建",
+                "black": "李文子",
+                "date": "2016-07-24",
+                "result": 1,
+                "id": "tournament_338_5"
+            },
+            {
+                "white": "金志",
+                "black": "谢华远",
+                "date": "2016-07-24",
+                "result": 1,
+                "id": "tournament_338_6"
+            },
+            {
+                "white": "王积芝",
+                "black": "张言",
+                "date": "2016-07-24",
+                "result": 0,
+                "id": "tournament_338_7"
+            },
+            {
+                "white": "周泽斌",
+                "black": "王小川",
+                "date": "2016-07-24",
+                "result": 0.5,
+                "id": "tournament_338_8"
+            },
+            {
+                "white": "李守超",
+                "black": "胡善",
+                "date": "2016-07-24",
+                "result": 0,
+                "id": "tournament_338_9"
+            },
+            {
+                "white": "洪冬",
+                "black": "王由航",
+                "date": "2016-07-24",
+                "result": 1,
+                "id": "tournament_338_10"
+            },
+            {
+                "white": "陈迎成",
+                "black": "颜朝",
+                "date": "2016-07-24",
+                "result": 0,
+                "id": "tournament_338_11"
+            },
+            {
+                "white": "洪丽力",
+                "black": "李焙",
+                "date": "2016-07-24",
+                "result": 0.5,
+                "id": "tournament_338_12"
+            },
+            {
+                "white": "彭静",
+                "black": "方东",
+                "date": "2016-07-24",
+                "result": 1,
+                "id": "tournament_338_13"
+            },
+            {
+                "white": "朱辰燕",
+                "black": "杨钰",
+                "date": "2016-07-24",
+                "result": 1,
+                "id": "tournament_338_14"
+            },
+            {
+                "white": "邹成硕",
+                "black": "邱辛木",
+                "date": "2016-07-24",
+                "result": 1,
+                "id": "tournament_338_15"
+            },
+            {
+                "white": "贺思沛",
+                "black": "杨灵",
+                "date": "2016-07-24",
+                "result": 0,
+                "id": "tournament_338_16"
+            },
+            {
+                "white": "李甫杰",
+                "black": "谢亮良",
+                "date": "2016-07-24",
+                "result": 0,
+                "id": "tournament_338_17"
+            },
+            {
+                "white": "林康俊",
+                "black": "吴中桐",
+                "date": "2016-07-24",
+                "result": 1,
+                "id": "tournament_338_18"
+            },
+            {
+                "white": "陈森",
+                "black": "阎随",
+                "date": "2016-07-24",
+                "result": 1,
+                "id": "tournament_338_19"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "周霞兰",
+                "black": "邢琦萍",
+                "date": "2016-07-26",
+                "result": 0.5,
+                "id": "tournament_338_20"
+            },
+            {
+                "white": "张言",
+                "black": "王吟彬",
+                "date": "2016-07-26",
+                "result": 1,
+                "id": "tournament_338_21"
+            },
+            {
+                "white": "胡善",
+                "black": "傅建",
+                "date": "2016-07-26",
+                "result": 1,
+                "id": "tournament_338_22"
+            },
+            {
+                "white": "颜朝",
+                "black": "金志",
+                "date": "2016-07-26",
+                "result": 1,
+                "id": "tournament_338_23"
+            },
+            {
+                "white": "杨灵",
+                "black": "洪冬",
+                "date": "2016-07-26",
+                "result": 0.5,
+                "id": "tournament_338_24"
+            },
+            {
+                "white": "谢亮良",
+                "black": "彭静",
+                "date": "2016-07-26",
+                "result": 1,
+                "id": "tournament_338_25"
+            },
+            {
+                "white": "徐静",
+                "black": "朱辰燕",
+                "date": "2016-07-26",
+                "result": 0,
+                "id": "tournament_338_26"
+            },
+            {
+                "white": "王小川",
+                "black": "邹成硕",
+                "date": "2016-07-26",
+                "result": 1,
+                "id": "tournament_338_27"
+            },
+            {
+                "white": "李焙",
+                "black": "林康俊",
+                "date": "2016-07-26",
+                "result": 1,
+                "id": "tournament_338_28"
+            },
+            {
+                "white": "梁扬",
+                "black": "陈森",
+                "date": "2016-07-26",
+                "result": 0.5,
+                "id": "tournament_338_29"
+            },
+            {
+                "white": "张冰",
+                "black": "蔡悦汶",
+                "date": "2016-07-26",
+                "result": 1,
+                "id": "tournament_338_30"
+            },
+            {
+                "white": "李文子",
+                "black": "杨跃",
+                "date": "2016-07-26",
+                "result": 0,
+                "id": "tournament_338_31"
+            },
+            {
+                "white": "谢华远",
+                "black": "周泽斌",
+                "date": "2016-07-26",
+                "result": 0.5,
+                "id": "tournament_338_32"
+            },
+            {
+                "white": "王由航",
+                "black": "洪丽力",
+                "date": "2016-07-26",
+                "result": 0.5,
+                "id": "tournament_338_33"
+            },
+            {
+                "white": "方东",
+                "black": "吕明梅",
+                "date": "2016-07-26",
+                "result": 1,
+                "id": "tournament_338_34"
+            },
+            {
+                "white": "杨钰",
+                "black": "王积芝",
+                "date": "2016-07-26",
+                "result": 0.5,
+                "id": "tournament_338_35"
+            },
+            {
+                "white": "邱辛木",
+                "black": "李守超",
+                "date": "2016-07-26",
+                "result": 0,
+                "id": "tournament_338_36"
+            },
+            {
+                "white": "阎随",
+                "black": "贺思沛",
+                "date": "2016-07-26",
+                "result": 1,
+                "id": "tournament_338_37"
+            },
+            {
+                "white": "吴中桐",
+                "black": "李甫杰",
+                "date": "2016-07-26",
+                "result": 0,
+                "id": "tournament_338_38"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "朱辰燕",
+                "black": "张言",
+                "date": "2016-07-28",
+                "result": 0.5,
+                "id": "tournament_338_39"
+            },
+            {
+                "white": "邢琦萍",
+                "black": "胡善",
+                "date": "2016-07-28",
+                "result": 0.5,
+                "id": "tournament_338_40"
+            },
+            {
+                "white": "洪冬",
+                "black": "颜朝",
+                "date": "2016-07-28",
+                "result": 0,
+                "id": "tournament_338_41"
+            },
+            {
+                "white": "陈森",
+                "black": "谢亮良",
+                "date": "2016-07-28",
+                "result": 1,
+                "id": "tournament_338_42"
+            },
+            {
+                "white": "杨跃",
+                "black": "周霞兰",
+                "date": "2016-07-28",
+                "result": 1,
+                "id": "tournament_338_43"
+            },
+            {
+                "white": "王吟彬",
+                "black": "杨灵",
+                "date": "2016-07-28",
+                "result": 0,
+                "id": "tournament_338_44"
+            },
+            {
+                "white": "傅建",
+                "black": "王小川",
+                "date": "2016-07-28",
+                "result": 0,
+                "id": "tournament_338_45"
+            },
+            {
+                "white": "金志",
+                "black": "李焙",
+                "date": "2016-07-28",
+                "result": 0,
+                "id": "tournament_338_46"
+            },
+            {
+                "white": "彭静",
+                "black": "张冰",
+                "date": "2016-07-28",
+                "result": 1,
+                "id": "tournament_338_47"
+            },
+            {
+                "white": "邹成硕",
+                "black": "方东",
+                "date": "2016-07-28",
+                "result": 1,
+                "id": "tournament_338_48"
+            },
+            {
+                "white": "林康俊",
+                "black": "阎随",
+                "date": "2016-07-28",
+                "result": 0.5,
+                "id": "tournament_338_49"
+            },
+            {
+                "white": "蔡悦汶",
+                "black": "徐静",
+                "date": "2016-07-28",
+                "result": 0.5,
+                "id": "tournament_338_50"
+            },
+            {
+                "white": "周泽斌",
+                "black": "梁扬",
+                "date": "2016-07-28",
+                "result": 1,
+                "id": "tournament_338_51"
+            },
+            {
+                "white": "洪丽力",
+                "black": "谢华远",
+                "date": "2016-07-28",
+                "result": 0.5,
+                "id": "tournament_338_52"
+            },
+            {
+                "white": "李守超",
+                "black": "王由航",
+                "date": "2016-07-28",
+                "result": 1,
+                "id": "tournament_338_53"
+            },
+            {
+                "white": "陈迎成",
+                "black": "杨钰",
+                "date": "2016-07-28",
+                "result": 0.5,
+                "id": "tournament_338_54"
+            },
+            {
+                "white": "李甫杰",
+                "black": "李文子",
+                "date": "2016-07-28",
+                "result": 1,
+                "id": "tournament_338_55"
+            },
+            {
+                "white": "王积芝",
+                "black": "邱辛木",
+                "date": "2016-07-28",
+                "result": 0.5,
+                "id": "tournament_338_56"
+            },
+            {
+                "white": "吕明梅",
+                "black": "吴中桐",
+                "date": "2016-07-28",
+                "result": 0.5,
+                "id": "tournament_338_57"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "颜朝",
+                "black": "朱辰燕",
+                "date": "2016-07-30",
+                "result": 0.5,
+                "id": "tournament_338_58"
+            },
+            {
+                "white": "张言",
+                "black": "陈森",
+                "date": "2016-07-30",
+                "result": 1,
+                "id": "tournament_338_59"
+            },
+            {
+                "white": "胡善",
+                "black": "杨跃",
+                "date": "2016-07-30",
+                "result": 1,
+                "id": "tournament_338_60"
+            },
+            {
+                "white": "杨灵",
+                "black": "邢琦萍",
+                "date": "2016-07-30",
+                "result": 0.5,
+                "id": "tournament_338_61"
+            },
+            {
+                "white": "王小川",
+                "black": "彭静",
+                "date": "2016-07-30",
+                "result": 0.5,
+                "id": "tournament_338_62"
+            },
+            {
+                "white": "李焙",
+                "black": "邹成硕",
+                "date": "2016-07-30",
+                "result": 1,
+                "id": "tournament_338_63"
+            },
+            {
+                "white": "谢亮良",
+                "black": "周泽斌",
+                "date": "2016-07-30",
+                "result": 1,
+                "id": "tournament_338_64"
+            },
+            {
+                "white": "周霞兰",
+                "black": "李守超",
+                "date": "2016-07-30",
+                "result": 1,
+                "id": "tournament_338_65"
+            },
+            {
+                "white": "阎随",
+                "black": "李甫杰",
+                "date": "2016-07-30",
+                "result": 1,
+                "id": "tournament_338_66"
+            },
+            {
+                "white": "张冰",
+                "black": "洪冬",
+                "date": "2016-07-30",
+                "result": 0.5,
+                "id": "tournament_338_67"
+            },
+            {
+                "white": "方东",
+                "black": "林康俊",
+                "date": "2016-07-30",
+                "result": 0,
+                "id": "tournament_338_68"
+            },
+            {
+                "white": "谢华远",
+                "black": "蔡悦汶",
+                "date": "2016-07-30",
+                "result": 0,
+                "id": "tournament_338_69"
+            },
+            {
+                "white": "徐静",
+                "black": "洪丽力",
+                "date": "2016-07-30",
+                "result": 1,
+                "id": "tournament_338_70"
+            },
+            {
+                "white": "梁扬",
+                "black": "陈迎成",
+                "date": "2016-07-30",
+                "result": 1,
+                "id": "tournament_338_71"
+            },
+            {
+                "white": "杨钰",
+                "black": "王吟彬",
+                "date": "2016-07-30",
+                "result": 0,
+                "id": "tournament_338_72"
+            },
+            {
+                "white": "王由航",
+                "black": "傅建",
+                "date": "2016-07-30",
+                "result": 0,
+                "id": "tournament_338_73"
+            },
+            {
+                "white": "邱辛木",
+                "black": "金志",
+                "date": "2016-07-30",
+                "result": 0,
+                "id": "tournament_338_74"
+            },
+            {
+                "white": "李文子",
+                "black": "吕明梅",
+                "date": "2016-07-30",
+                "result": 1,
+                "id": "tournament_338_75"
+            },
+            {
+                "white": "吴中桐",
+                "black": "贺思沛",
+                "date": "2016-07-30",
+                "result": 0,
+                "id": "tournament_338_76"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "陈森",
+                "black": "颜朝",
+                "date": "2016-08-01",
+                "result": 1,
+                "id": "tournament_338_77"
+            },
+            {
+                "white": "杨跃",
+                "black": "张言",
+                "date": "2016-08-01",
+                "result": 0,
+                "id": "tournament_338_78"
+            },
+            {
+                "white": "朱辰燕",
+                "black": "胡善",
+                "date": "2016-08-01",
+                "result": 0.5,
+                "id": "tournament_338_79"
+            },
+            {
+                "white": "邢琦萍",
+                "black": "李焙",
+                "date": "2016-08-01",
+                "result": 0.5,
+                "id": "tournament_338_80"
+            },
+            {
+                "white": "彭静",
+                "black": "杨灵",
+                "date": "2016-08-01",
+                "result": 1,
+                "id": "tournament_338_81"
+            },
+            {
+                "white": "林康俊",
+                "black": "王小川",
+                "date": "2016-08-01",
+                "result": 0.5,
+                "id": "tournament_338_82"
+            },
+            {
+                "white": "蔡悦汶",
+                "black": "谢亮良",
+                "date": "2016-08-01",
+                "result": 0,
+                "id": "tournament_338_83"
+            },
+            {
+                "white": "邹成硕",
+                "black": "周霞兰",
+                "date": "2016-08-01",
+                "result": 0.5,
+                "id": "tournament_338_84"
+            },
+            {
+                "white": "周泽斌",
+                "black": "阎随",
+                "date": "2016-08-01",
+                "result": 0.5,
+                "id": "tournament_338_85"
+            },
+            {
+                "white": "李守超",
+                "black": "徐静",
+                "date": "2016-08-01",
+                "result": 1,
+                "id": "tournament_338_86"
+            },
+            {
+                "white": "李甫杰",
+                "black": "张冰",
+                "date": "2016-08-01",
+                "result": 0,
+                "id": "tournament_338_87"
+            },
+            {
+                "white": "洪冬",
+                "black": "梁扬",
+                "date": "2016-08-01",
+                "result": 0.5,
+                "id": "tournament_338_88"
+            },
+            {
+                "white": "王吟彬",
+                "black": "方东",
+                "date": "2016-08-01",
+                "result": 0.5,
+                "id": "tournament_338_89"
+            },
+            {
+                "white": "傅建",
+                "black": "谢华远",
+                "date": "2016-08-01",
+                "result": 1,
+                "id": "tournament_338_90"
+            },
+            {
+                "white": "金志",
+                "black": "杨钰",
+                "date": "2016-08-01",
+                "result": 1,
+                "id": "tournament_338_91"
+            },
+            {
+                "white": "王积芝",
+                "black": "李文子",
+                "date": "2016-08-01",
+                "result": 0.5,
+                "id": "tournament_338_92"
+            },
+            {
+                "white": "贺思沛",
+                "black": "王由航",
+                "date": "2016-08-01",
+                "result": 0.5,
+                "id": "tournament_338_93"
+            },
+            {
+                "white": "吕明梅",
+                "black": "邱辛木",
+                "date": "2016-08-01",
+                "result": 0,
+                "id": "tournament_338_94"
+            },
+            {
+                "white": "陈迎成",
+                "black": "吴中桐",
+                "date": "2016-08-01",
+                "result": 1,
+                "id": "tournament_338_95"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "张言",
+                "black": "彭静",
+                "date": "2016-08-03",
+                "result": 1,
+                "id": "tournament_338_96"
+            },
+            {
+                "white": "胡善",
+                "black": "陈森",
+                "date": "2016-08-03",
+                "result": 0.5,
+                "id": "tournament_338_97"
+            },
+            {
+                "white": "李焙",
+                "black": "朱辰燕",
+                "date": "2016-08-03",
+                "result": 0.5,
+                "id": "tournament_338_98"
+            },
+            {
+                "white": "谢亮良",
+                "black": "邢琦萍",
+                "date": "2016-08-03",
+                "result": 1,
+                "id": "tournament_338_99"
+            },
+            {
+                "white": "颜朝",
+                "black": "林康俊",
+                "date": "2016-08-03",
+                "result": 1,
+                "id": "tournament_338_100"
+            },
+            {
+                "white": "王小川",
+                "black": "李守超",
+                "date": "2016-08-03",
+                "result": 1,
+                "id": "tournament_338_101"
+            },
+            {
+                "white": "杨灵",
+                "black": "傅建",
+                "date": "2016-08-03",
+                "result": 0,
+                "id": "tournament_338_102"
+            },
+            {
+                "white": "周霞兰",
+                "black": "金志",
+                "date": "2016-08-03",
+                "result": 1,
+                "id": "tournament_338_103"
+            },
+            {
+                "white": "阎随",
+                "black": "杨跃",
+                "date": "2016-08-03",
+                "result": 0.5,
+                "id": "tournament_338_104"
+            },
+            {
+                "white": "梁扬",
+                "black": "蔡悦汶",
+                "date": "2016-08-03",
+                "result": 0.5,
+                "id": "tournament_338_105"
+            },
+            {
+                "white": "张冰",
+                "black": "邹成硕",
+                "date": "2016-08-03",
+                "result": 0,
+                "id": "tournament_338_106"
+            },
+            {
+                "white": "徐静",
+                "black": "周泽斌",
+                "date": "2016-08-03",
+                "result": 1,
+                "id": "tournament_338_107"
+            },
+            {
+                "white": "方东",
+                "black": "洪冬",
+                "date": "2016-08-03",
+                "result": 0,
+                "id": "tournament_338_108"
+            },
+            {
+                "white": "李文子",
+                "black": "王吟彬",
+                "date": "2016-08-03",
+                "result": 0,
+                "id": "tournament_338_109"
+            },
+            {
+                "white": "谢华远",
+                "black": "王积芝",
+                "date": "2016-08-03",
+                "result": 1,
+                "id": "tournament_338_110"
+            },
+            {
+                "white": "邱辛木",
+                "black": "贺思沛",
+                "date": "2016-08-03",
+                "result": 1,
+                "id": "tournament_338_111"
+            },
+            {
+                "white": "王由航",
+                "black": "陈迎成",
+                "date": "2016-08-03",
+                "result": 0,
+                "id": "tournament_338_112"
+            },
+            {
+                "white": "吴中桐",
+                "black": "洪丽力",
+                "date": "2016-08-03",
+                "result": 0,
+                "id": "tournament_338_113"
+            },
+            {
+                "white": "杨钰",
+                "black": "李甫杰",
+                "date": "2016-08-03",
+                "result": 0.5,
+                "id": "tournament_338_114"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "傅建",
+                "black": "张言",
+                "date": "2016-08-05",
+                "result": 0,
+                "id": "tournament_338_115"
+            },
+            {
+                "white": "朱辰燕",
+                "black": "谢亮良",
+                "date": "2016-08-05",
+                "result": 0.5,
+                "id": "tournament_338_116"
+            },
+            {
+                "white": "彭静",
+                "black": "胡善",
+                "date": "2016-08-05",
+                "result": 0.5,
+                "id": "tournament_338_117"
+            },
+            {
+                "white": "陈森",
+                "black": "李焙",
+                "date": "2016-08-05",
+                "result": 0.5,
+                "id": "tournament_338_118"
+            },
+            {
+                "white": "邹成硕",
+                "black": "颜朝",
+                "date": "2016-08-05",
+                "result": 0.5,
+                "id": "tournament_338_119"
+            },
+            {
+                "white": "洪冬",
+                "black": "王小川",
+                "date": "2016-08-05",
+                "result": 0.5,
+                "id": "tournament_338_120"
+            },
+            {
+                "white": "王吟彬",
+                "black": "周霞兰",
+                "date": "2016-08-05",
+                "result": 0,
+                "id": "tournament_338_121"
+            },
+            {
+                "white": "洪丽力",
+                "black": "阎随",
+                "date": "2016-08-05",
+                "result": 1,
+                "id": "tournament_338_122"
+            },
+            {
+                "white": "陈迎成",
+                "black": "杨灵",
+                "date": "2016-08-05",
+                "result": 0,
+                "id": "tournament_338_123"
+            },
+            {
+                "white": "邢琦萍",
+                "black": "徐静",
+                "date": "2016-08-05",
+                "result": 1,
+                "id": "tournament_338_124"
+            },
+            {
+                "white": "林康俊",
+                "black": "张冰",
+                "date": "2016-08-05",
+                "result": 0,
+                "id": "tournament_338_125"
+            },
+            {
+                "white": "李守超",
+                "black": "梁扬",
+                "date": "2016-08-05",
+                "result": 1,
+                "id": "tournament_338_126"
+            },
+            {
+                "white": "金志",
+                "black": "方东",
+                "date": "2016-08-05",
+                "result": 1,
+                "id": "tournament_338_127"
+            },
+            {
+                "white": "杨跃",
+                "black": "邱辛木",
+                "date": "2016-08-05",
+                "result": 1,
+                "id": "tournament_338_128"
+            },
+            {
+                "white": "蔡悦汶",
+                "black": "李文子",
+                "date": "2016-08-05",
+                "result": 1,
+                "id": "tournament_338_129"
+            },
+            {
+                "white": "周泽斌",
+                "black": "杨钰",
+                "date": "2016-08-05",
+                "result": 1,
+                "id": "tournament_338_130"
+            },
+            {
+                "white": "吕明梅",
+                "black": "谢华远",
+                "date": "2016-08-05",
+                "result": 0.5,
+                "id": "tournament_338_131"
+            },
+            {
+                "white": "王积芝",
+                "black": "吴中桐",
+                "date": "2016-08-05",
+                "result": 0.5,
+                "id": "tournament_338_132"
+            },
+            {
+                "white": "李甫杰",
+                "black": "王由航",
+                "date": "2016-08-05",
+                "result": 0.5,
+                "id": "tournament_338_133"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "张言",
+                "black": "洪丽力",
+                "date": "2016-08-07",
+                "result": 1,
+                "id": "tournament_338_134"
+            },
+            {
+                "white": "谢亮良",
+                "black": "傅建",
+                "date": "2016-08-07",
+                "result": 1,
+                "id": "tournament_338_135"
+            },
+            {
+                "white": "胡善",
+                "black": "邹成硕",
+                "date": "2016-08-07",
+                "result": 1,
+                "id": "tournament_338_136"
+            },
+            {
+                "white": "李焙",
+                "black": "彭静",
+                "date": "2016-08-07",
+                "result": 1,
+                "id": "tournament_338_137"
+            },
+            {
+                "white": "颜朝",
+                "black": "邢琦萍",
+                "date": "2016-08-07",
+                "result": 1,
+                "id": "tournament_338_138"
+            },
+            {
+                "white": "王小川",
+                "black": "朱辰燕",
+                "date": "2016-08-07",
+                "result": 0.5,
+                "id": "tournament_338_139"
+            },
+            {
+                "white": "周霞兰",
+                "black": "陈森",
+                "date": "2016-08-07",
+                "result": 0.5,
+                "id": "tournament_338_140"
+            },
+            {
+                "white": "阎随",
+                "black": "洪冬",
+                "date": "2016-08-07",
+                "result": 1,
+                "id": "tournament_338_141"
+            },
+            {
+                "white": "杨灵",
+                "black": "李守超",
+                "date": "2016-08-07",
+                "result": 0.5,
+                "id": "tournament_338_142"
+            },
+            {
+                "white": "张冰",
+                "black": "金志",
+                "date": "2016-08-07",
+                "result": 0.5,
+                "id": "tournament_338_143"
+            },
+            {
+                "white": "梁扬",
+                "black": "杨跃",
+                "date": "2016-08-07",
+                "result": 0,
+                "id": "tournament_338_144"
+            },
+            {
+                "white": "邱辛木",
+                "black": "蔡悦汶",
+                "date": "2016-08-07",
+                "result": 0.5,
+                "id": "tournament_338_145"
+            },
+            {
+                "white": "徐静",
+                "black": "王吟彬",
+                "date": "2016-08-07",
+                "result": 1,
+                "id": "tournament_338_146"
+            },
+            {
+                "white": "谢华远",
+                "black": "陈迎成",
+                "date": "2016-08-07",
+                "result": 0.5,
+                "id": "tournament_338_147"
+            },
+            {
+                "white": "王由航",
+                "black": "吕明梅",
+                "date": "2016-08-07",
+                "result": 0.5,
+                "id": "tournament_338_148"
+            },
+            {
+                "white": "吴中桐",
+                "black": "周泽斌",
+                "date": "2016-08-07",
+                "result": 0,
+                "id": "tournament_338_149"
+            },
+            {
+                "white": "方东",
+                "black": "李甫杰",
+                "date": "2016-08-07",
+                "result": 1,
+                "id": "tournament_338_150"
+            },
+            {
+                "white": "杨钰",
+                "black": "林康俊",
+                "date": "2016-08-07",
+                "result": 0,
+                "id": "tournament_338_151"
+            },
+            {
+                "white": "李文子",
+                "black": "贺思沛",
+                "date": "2016-08-07",
+                "result": 1,
+                "id": "tournament_338_152"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "李守超",
+                "black": "张言",
+                "date": "2016-08-09",
+                "result": 0,
+                "id": "tournament_338_153"
+            },
+            {
+                "white": "杨跃",
+                "black": "谢亮良",
+                "date": "2016-08-09",
+                "result": 0,
+                "id": "tournament_338_154"
+            },
+            {
+                "white": "洪丽力",
+                "black": "胡善",
+                "date": "2016-08-09",
+                "result": 0.5,
+                "id": "tournament_338_155"
+            },
+            {
+                "white": "蔡悦汶",
+                "black": "李焙",
+                "date": "2016-08-09",
+                "result": 0,
+                "id": "tournament_338_156"
+            },
+            {
+                "white": "周泽斌",
+                "black": "颜朝",
+                "date": "2016-08-09",
+                "result": 0.5,
+                "id": "tournament_338_157"
+            },
+            {
+                "white": "陈森",
+                "black": "王小川",
+                "date": "2016-08-09",
+                "result": 0.5,
+                "id": "tournament_338_158"
+            },
+            {
+                "white": "朱辰燕",
+                "black": "周霞兰",
+                "date": "2016-08-09",
+                "result": 1,
+                "id": "tournament_338_159"
+            },
+            {
+                "white": "金志",
+                "black": "杨灵",
+                "date": "2016-08-09",
+                "result": 1,
+                "id": "tournament_338_160"
+            },
+            {
+                "white": "傅建",
+                "black": "阎随",
+                "date": "2016-08-09",
+                "result": 0,
+                "id": "tournament_338_161"
+            },
+            {
+                "white": "彭静",
+                "black": "徐静",
+                "date": "2016-08-09",
+                "result": 1,
+                "id": "tournament_338_162"
+            },
+            {
+                "white": "邹成硕",
+                "black": "谢华远",
+                "date": "2016-08-09",
+                "result": 1,
+                "id": "tournament_338_163"
+            },
+            {
+                "white": "洪冬",
+                "black": "邱辛木",
+                "date": "2016-08-09",
+                "result": 1,
+                "id": "tournament_338_164"
+            },
+            {
+                "white": "邢琦萍",
+                "black": "张冰",
+                "date": "2016-08-09",
+                "result": 0.5,
+                "id": "tournament_338_165"
+            },
+            {
+                "white": "陈迎成",
+                "black": "方东",
+                "date": "2016-08-09",
+                "result": 0.5,
+                "id": "tournament_338_166"
+            },
+            {
+                "white": "李甫杰",
+                "black": "梁扬",
+                "date": "2016-08-09",
+                "result": 0,
+                "id": "tournament_338_167"
+            },
+            {
+                "white": "林康俊",
+                "black": "李文子",
+                "date": "2016-08-09",
+                "result": 1,
+                "id": "tournament_338_168"
+            },
+            {
+                "white": "吴中桐",
+                "black": "杨钰",
+                "date": "2016-08-09",
+                "result": 0,
+                "id": "tournament_338_169"
+            },
+            {
+                "white": "贺思沛",
+                "black": "王吟彬",
+                "date": "2016-08-09",
+                "result": 0,
+                "id": "tournament_338_170"
+            },
+            {
+                "white": "吕明梅",
+                "black": "王积芝",
+                "date": "2016-08-09",
+                "result": 0.5,
+                "id": "tournament_338_171"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "张言",
+                "black": "金志",
+                "date": "2016-08-11",
+                "result": 0.5,
+                "id": "tournament_338_172"
+            },
+            {
+                "white": "谢亮良",
+                "black": "洪丽力",
+                "date": "2016-08-11",
+                "result": 0.5,
+                "id": "tournament_338_173"
+            },
+            {
+                "white": "李焙",
+                "black": "杨跃",
+                "date": "2016-08-11",
+                "result": 1,
+                "id": "tournament_338_174"
+            },
+            {
+                "white": "胡善",
+                "black": "周泽斌",
+                "date": "2016-08-11",
+                "result": 1,
+                "id": "tournament_338_175"
+            },
+            {
+                "white": "颜朝",
+                "black": "彭静",
+                "date": "2016-08-11",
+                "result": 0,
+                "id": "tournament_338_176"
+            },
+            {
+                "white": "王小川",
+                "black": "蔡悦汶",
+                "date": "2016-08-11",
+                "result": 1,
+                "id": "tournament_338_177"
+            },
+            {
+                "white": "阎随",
+                "black": "朱辰燕",
+                "date": "2016-08-11",
+                "result": 0.5,
+                "id": "tournament_338_178"
+            },
+            {
+                "white": "周霞兰",
+                "black": "洪冬",
+                "date": "2016-08-11",
+                "result": 0.5,
+                "id": "tournament_338_179"
+            },
+            {
+                "white": "杨灵",
+                "black": "陈森",
+                "date": "2016-08-11",
+                "result": 0.5,
+                "id": "tournament_338_180"
+            },
+            {
+                "white": "徐静",
+                "black": "邹成硕",
+                "date": "2016-08-11",
+                "result": 1,
+                "id": "tournament_338_181"
+            },
+            {
+                "white": "梁扬",
+                "black": "林康俊",
+                "date": "2016-08-11",
+                "result": 1,
+                "id": "tournament_338_182"
+            },
+            {
+                "white": "张冰",
+                "black": "李守超",
+                "date": "2016-08-11",
+                "result": 0,
+                "id": "tournament_338_183"
+            },
+            {
+                "white": "邱辛木",
+                "black": "邢琦萍",
+                "date": "2016-08-11",
+                "result": 0,
+                "id": "tournament_338_184"
+            },
+            {
+                "white": "李文子",
+                "black": "陈迎成",
+                "date": "2016-08-11",
+                "result": 0,
+                "id": "tournament_338_185"
+            },
+            {
+                "white": "方东",
+                "black": "王积芝",
+                "date": "2016-08-11",
+                "result": 0.5,
+                "id": "tournament_338_186"
+            },
+            {
+                "white": "杨钰",
+                "black": "吕明梅",
+                "date": "2016-08-11",
+                "result": 1,
+                "id": "tournament_338_187"
+            },
+            {
+                "white": "谢华远",
+                "black": "贺思沛",
+                "date": "2016-08-11",
+                "result": 1,
+                "id": "tournament_338_188"
+            },
+            {
+                "white": "王由航",
+                "black": "王吟彬",
+                "date": "2016-08-11",
+                "result": 0,
+                "id": "tournament_338_189"
+            },
+            {
+                "white": "吴中桐",
+                "black": "傅建",
+                "date": "2016-08-11",
+                "result": 0.5,
+                "id": "tournament_338_190"
+            }
+        ],
+        "tour_11": [
+            {
+                "white": "洪冬",
+                "black": "张言",
+                "date": "2016-08-13",
+                "result": 0,
+                "id": "tournament_338_191"
+            },
+            {
+                "white": "金志",
+                "black": "谢亮良",
+                "date": "2016-08-13",
+                "result": 0,
+                "id": "tournament_338_192"
+            },
+            {
+                "white": "李守超",
+                "black": "李焙",
+                "date": "2016-08-13",
+                "result": 0,
+                "id": "tournament_338_193"
+            },
+            {
+                "white": "陈迎成",
+                "black": "胡善",
+                "date": "2016-08-13",
+                "result": 0,
+                "id": "tournament_338_194"
+            },
+            {
+                "white": "洪丽力",
+                "black": "王小川",
+                "date": "2016-08-13",
+                "result": 0.5,
+                "id": "tournament_338_195"
+            },
+            {
+                "white": "王吟彬",
+                "black": "颜朝",
+                "date": "2016-08-13",
+                "result": 0.5,
+                "id": "tournament_338_196"
+            },
+            {
+                "white": "朱辰燕",
+                "black": "杨灵",
+                "date": "2016-08-13",
+                "result": 1,
+                "id": "tournament_338_197"
+            },
+            {
+                "white": "彭静",
+                "black": "周霞兰",
+                "date": "2016-08-13",
+                "result": 1,
+                "id": "tournament_338_198"
+            },
+            {
+                "white": "陈森",
+                "black": "徐静",
+                "date": "2016-08-13",
+                "result": 1,
+                "id": "tournament_338_199"
+            },
+            {
+                "white": "邢琦萍",
+                "black": "阎随",
+                "date": "2016-08-13",
+                "result": 1,
+                "id": "tournament_338_200"
+            },
+            {
+                "white": "杨跃",
+                "black": "张冰",
+                "date": "2016-08-13",
+                "result": 1,
+                "id": "tournament_338_201"
+            },
+            {
+                "white": "李甫杰",
+                "black": "邱辛木",
+                "date": "2016-08-13",
+                "result": 0,
+                "id": "tournament_338_202"
+            },
+            {
+                "white": "周泽斌",
+                "black": "方东",
+                "date": "2016-08-13",
+                "result": 1,
+                "id": "tournament_338_203"
+            },
+            {
+                "white": "王积芝",
+                "black": "梁扬",
+                "date": "2016-08-13",
+                "result": 0,
+                "id": "tournament_338_204"
+            },
+            {
+                "white": "吴中桐",
+                "black": "李文子",
+                "date": "2016-08-13",
+                "result": 0.5,
+                "id": "tournament_338_205"
+            },
+            {
+                "white": "林康俊",
+                "black": "吕明梅",
+                "date": "2016-08-13",
+                "result": 1,
+                "id": "tournament_338_206"
+            },
+            {
+                "white": "邹成硕",
+                "black": "蔡悦汶",
+                "date": "2016-08-13",
+                "result": 0.5,
+                "id": "tournament_338_207"
+            },
+            {
+                "white": "贺思沛",
+                "black": "杨钰",
+                "date": "2016-08-13",
+                "result": 0,
+                "id": "tournament_338_208"
+            },
+            {
+                "white": "王由航",
+                "black": "谢华远",
+                "date": "2016-08-13",
+                "result": 0,
+                "id": "tournament_338_209"
+            }
+        ],
+        "tour_12": [
+            {
+                "white": "张言",
+                "black": "邢琦萍",
+                "date": "2016-08-15",
+                "result": 1,
+                "id": "tournament_338_210"
+            },
+            {
+                "white": "谢亮良",
+                "black": "王吟彬",
+                "date": "2016-08-15",
+                "result": 1,
+                "id": "tournament_338_211"
+            },
+            {
+                "white": "李焙",
+                "black": "周泽斌",
+                "date": "2016-08-15",
+                "result": 1,
+                "id": "tournament_338_212"
+            },
+            {
+                "white": "胡善",
+                "black": "金志",
+                "date": "2016-08-15",
+                "result": 1,
+                "id": "tournament_338_213"
+            },
+            {
+                "white": "王小川",
+                "black": "杨跃",
+                "date": "2016-08-15",
+                "result": 0.5,
+                "id": "tournament_338_214"
+            },
+            {
+                "white": "梁扬",
+                "black": "朱辰燕",
+                "date": "2016-08-15",
+                "result": 0.5,
+                "id": "tournament_338_215"
+            },
+            {
+                "white": "颜朝",
+                "black": "洪丽力",
+                "date": "2016-08-15",
+                "result": 1,
+                "id": "tournament_338_216"
+            },
+            {
+                "white": "谢华远",
+                "black": "陈森",
+                "date": "2016-08-15",
+                "result": 0,
+                "id": "tournament_338_217"
+            },
+            {
+                "white": "阎随",
+                "black": "彭静",
+                "date": "2016-08-15",
+                "result": 0,
+                "id": "tournament_338_218"
+            },
+            {
+                "white": "周霞兰",
+                "black": "林康俊",
+                "date": "2016-08-15",
+                "result": 1,
+                "id": "tournament_338_219"
+            },
+            {
+                "white": "徐静",
+                "black": "洪冬",
+                "date": "2016-08-15",
+                "result": 0.5,
+                "id": "tournament_338_220"
+            },
+            {
+                "white": "杨钰",
+                "black": "李守超",
+                "date": "2016-08-15",
+                "result": 0,
+                "id": "tournament_338_221"
+            },
+            {
+                "white": "张冰",
+                "black": "陈迎成",
+                "date": "2016-08-15",
+                "result": 0.5,
+                "id": "tournament_338_222"
+            },
+            {
+                "white": "吴中桐",
+                "black": "邹成硕",
+                "date": "2016-08-15",
+                "result": 0,
+                "id": "tournament_338_223"
+            },
+            {
+                "white": "傅建",
+                "black": "李甫杰",
+                "date": "2016-08-15",
+                "result": 1,
+                "id": "tournament_338_224"
+            },
+            {
+                "white": "王由航",
+                "black": "蔡悦汶",
+                "date": "2016-08-15",
+                "result": 0,
+                "id": "tournament_338_225"
+            },
+            {
+                "white": "李文子",
+                "black": "方东",
+                "date": "2016-08-15",
+                "result": 0.5,
+                "id": "tournament_338_226"
+            },
+            {
+                "white": "杨灵",
+                "black": "吕明梅",
+                "date": "2016-08-15",
+                "result": 1,
+                "id": "tournament_338_227"
+            },
+            {
+                "white": "贺思沛",
+                "black": "王积芝",
+                "date": "2016-08-15",
+                "result": 0,
+                "id": "tournament_338_228"
+            }
+        ]
+    },
+    "tours": 12,
+    "time_control": "rapid"
+}

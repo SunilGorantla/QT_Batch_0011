@@ -1,0 +1,219 @@
+{
+    "name": "tournament_116",
+    "start_date": "2014-10-07",
+    "end_date": "2014-10-14",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Chen, Sigang",
+                "black": "Zhong, Hongcun",
+                "date": "2014-10-07",
+                "result": 1,
+                "id": "tournament_116_1"
+            },
+            {
+                "white": "Hao, Changlong",
+                "black": "Zheng, Qiuliang",
+                "date": "2014-10-07",
+                "result": 0,
+                "id": "tournament_116_2"
+            },
+            {
+                "white": "Zhang, Weirong",
+                "black": "Wen, Yongxi",
+                "date": "2014-10-07",
+                "result": 1,
+                "id": "tournament_116_3"
+            },
+            {
+                "white": "Liu, Kaiqing",
+                "black": "Mo, Huijie",
+                "date": "2014-10-07",
+                "result": 1,
+                "id": "tournament_116_4"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Zhong, Hongcun",
+                "black": "Hao, Changlong",
+                "date": "2014-10-08",
+                "result": 0.5,
+                "id": "tournament_116_5"
+            },
+            {
+                "white": "Chen, Sigang",
+                "black": "Zhang, Weirong",
+                "date": "2014-10-08",
+                "result": 1,
+                "id": "tournament_116_6"
+            },
+            {
+                "white": "Liu, Kaiqing",
+                "black": "Zheng, Qiuliang",
+                "date": "2014-10-08",
+                "result": 1,
+                "id": "tournament_116_7"
+            },
+            {
+                "white": "Mo, Huijie",
+                "black": "Wen, Yongxi",
+                "date": "2014-10-08",
+                "result": 1,
+                "id": "tournament_116_8"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Zhang, Weirong",
+                "black": "Zhong, Hongcun",
+                "date": "2014-10-09",
+                "result": 0.5,
+                "id": "tournament_116_9"
+            },
+            {
+                "white": "Hao, Changlong",
+                "black": "Liu, Kaiqing",
+                "date": "2014-10-09",
+                "result": 0,
+                "id": "tournament_116_10"
+            },
+            {
+                "white": "Chen, Sigang",
+                "black": "Mo, Huijie",
+                "date": "2014-10-09",
+                "result": 1,
+                "id": "tournament_116_11"
+            },
+            {
+                "white": "Wen, Yongxi",
+                "black": "Zheng, Qiuliang",
+                "date": "2014-10-09",
+                "result": 0.5,
+                "id": "tournament_116_12"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Zhong, Hongcun",
+                "black": "Liu, Kaiqing",
+                "date": "2014-10-10",
+                "result": 0,
+                "id": "tournament_116_13"
+            },
+            {
+                "white": "Zhang, Weirong",
+                "black": "Mo, Huijie",
+                "date": "2014-10-10",
+                "result": 1,
+                "id": "tournament_116_14"
+            },
+            {
+                "white": "Hao, Changlong",
+                "black": "Wen, Yongxi",
+                "date": "2014-10-10",
+                "result": 0,
+                "id": "tournament_116_15"
+            },
+            {
+                "white": "Chen, Sigang",
+                "black": "Zheng, Qiuliang",
+                "date": "2014-10-10",
+                "result": 0.5,
+                "id": "tournament_116_16"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Mo, Huijie",
+                "black": "Zhong, Hongcun",
+                "date": "2014-10-11",
+                "result": 1,
+                "id": "tournament_116_17"
+            },
+            {
+                "white": "Liu, Kaiqing",
+                "black": "Wen, Yongxi",
+                "date": "2014-10-11",
+                "result": 1,
+                "id": "tournament_116_18"
+            },
+            {
+                "white": "Zhang, Weirong",
+                "black": "Zheng, Qiuliang",
+                "date": "2014-10-11",
+                "result": 0.5,
+                "id": "tournament_116_19"
+            },
+            {
+                "white": "Chen, Sigang",
+                "black": "Hao, Changlong",
+                "date": "2014-10-11",
+                "result": 1,
+                "id": "tournament_116_20"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Zhong, Hongcun",
+                "black": "Wen, Yongxi",
+                "date": "2014-10-12",
+                "result": 1,
+                "id": "tournament_116_21"
+            },
+            {
+                "white": "Mo, Huijie",
+                "black": "Zheng, Qiuliang",
+                "date": "2014-10-12",
+                "result": 1,
+                "id": "tournament_116_22"
+            },
+            {
+                "white": "Chen, Sigang",
+                "black": "Liu, Kaiqing",
+                "date": "2014-10-12",
+                "result": 0.5,
+                "id": "tournament_116_23"
+            },
+            {
+                "white": "Hao, Changlong",
+                "black": "Zhang, Weirong",
+                "date": "2014-10-12",
+                "result": 0,
+                "id": "tournament_116_24"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Zheng, Qiuliang",
+                "black": "Zhong, Hongcun",
+                "date": "2014-10-13",
+                "result": 0.5,
+                "id": "tournament_116_25"
+            },
+            {
+                "white": "Chen, Sigang",
+                "black": "Wen, Yongxi",
+                "date": "2014-10-13",
+                "result": 1,
+                "id": "tournament_116_26"
+            },
+            {
+                "white": "Hao, Changlong",
+                "black": "Mo, Huijie",
+                "date": "2014-10-13",
+                "result": 0,
+                "id": "tournament_116_27"
+            },
+            {
+                "white": "Zhang, Weirong",
+                "black": "Liu, Kaiqing",
+                "date": "2014-10-13",
+                "result": 0,
+                "id": "tournament_116_28"
+            }
+        ]
+    },
+    "tours": 7,
+    "time_control": "rapid"
+}

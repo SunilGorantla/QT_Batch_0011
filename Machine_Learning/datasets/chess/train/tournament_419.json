@@ -1,0 +1,147 @@
+{
+    "name": "tournament_419",
+    "start_date": "2017-03-01",
+    "end_date": "2017-03-13",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Wei Sifeng",
+                "black": "Zhang Jia",
+                "date": "2017-03-01",
+                "result": 1,
+                "id": "tournament_419_1"
+            },
+            {
+                "white": "Meng Dongying",
+                "black": "Luo Xingshi",
+                "date": "2017-03-01",
+                "result": 0.5,
+                "id": "tournament_419_2"
+            },
+            {
+                "white": "Chen Si",
+                "black": "Xiong Lilan",
+                "date": "2017-03-01",
+                "result": 0,
+                "id": "tournament_419_3"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Liu Yaqi",
+                "black": "Wei Sifeng",
+                "date": "2017-03-03",
+                "result": 0.5,
+                "id": "tournament_419_4"
+            },
+            {
+                "white": "Chen Si",
+                "black": "Zhang Jia",
+                "date": "2017-03-03",
+                "result": 1,
+                "id": "tournament_419_5"
+            },
+            {
+                "white": "Xiong Lilan",
+                "black": "Luo Xingshi",
+                "date": "2017-03-03",
+                "result": 1,
+                "id": "tournament_419_6"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Meng Dongying",
+                "black": "Liu Yaqi",
+                "date": "2017-03-05",
+                "result": 0.5,
+                "id": "tournament_419_7"
+            },
+            {
+                "white": "Wei Sifeng",
+                "black": "Chen Si",
+                "date": "2017-03-05",
+                "result": 1,
+                "id": "tournament_419_8"
+            },
+            {
+                "white": "Luo Xingshi",
+                "black": "Zhang Jia",
+                "date": "2017-03-05",
+                "result": 0.5,
+                "id": "tournament_419_9"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Liu Yaqi",
+                "black": "Chen Si",
+                "date": "2017-03-07",
+                "result": 1,
+                "id": "tournament_419_10"
+            },
+            {
+                "white": "Meng Dongying",
+                "black": "Xiong Lilan",
+                "date": "2017-03-07",
+                "result": 0,
+                "id": "tournament_419_11"
+            },
+            {
+                "white": "Wei Sifeng",
+                "black": "Luo Xingshi",
+                "date": "2017-03-07",
+                "result": 1,
+                "id": "tournament_419_12"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Xiong Lilan",
+                "black": "Liu Yaqi",
+                "date": "2017-03-09",
+                "result": 1,
+                "id": "tournament_419_13"
+            },
+            {
+                "white": "Chen Si",
+                "black": "Luo Xingshi",
+                "date": "2017-03-09",
+                "result": 0.5,
+                "id": "tournament_419_14"
+            },
+            {
+                "white": "Meng Dongying",
+                "black": "Zhang Jia",
+                "date": "2017-03-09",
+                "result": 0,
+                "id": "tournament_419_15"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Liu Yaqi",
+                "black": "Luo Xingshi",
+                "date": "2017-03-11",
+                "result": 0,
+                "id": "tournament_419_16"
+            },
+            {
+                "white": "Xiong Lilan",
+                "black": "Zhang Jia",
+                "date": "2017-03-11",
+                "result": 1,
+                "id": "tournament_419_17"
+            },
+            {
+                "white": "Wei Sifeng",
+                "black": "Meng Dongying",
+                "date": "2017-03-11",
+                "result": 1,
+                "id": "tournament_419_18"
+            }
+        ]
+    },
+    "tours": 6,
+    "time_control": "rapid"
+}

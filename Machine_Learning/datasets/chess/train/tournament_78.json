@@ -1,0 +1,379 @@
+{
+    "name": "tournament_78",
+    "start_date": "2014-07-10",
+    "end_date": "2014-07-20",
+    "games": {
+        "tour_1": [
+            {
+                "white": "姜颖",
+                "black": "李旻",
+                "date": "2014-07-10",
+                "result": 0,
+                "id": "tournament_78_1"
+            },
+            {
+                "white": "余冬春",
+                "black": "钟树岭",
+                "date": "2014-07-10",
+                "result": 0.5,
+                "id": "tournament_78_2"
+            },
+            {
+                "white": "金心峰",
+                "black": "宋帅辉",
+                "date": "2014-07-10",
+                "result": 1,
+                "id": "tournament_78_3"
+            },
+            {
+                "white": "胡守标",
+                "black": "侯娜薇",
+                "date": "2014-07-10",
+                "result": 0.5,
+                "id": "tournament_78_4"
+            },
+            {
+                "white": "林肖",
+                "black": "刘坤瀚",
+                "date": "2014-07-10",
+                "result": 0.5,
+                "id": "tournament_78_5"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "黄方伟",
+                "black": "姜颖",
+                "date": "2014-07-11",
+                "result": 0.5,
+                "id": "tournament_78_6"
+            },
+            {
+                "white": "金心峰",
+                "black": "李旻",
+                "date": "2014-07-11",
+                "result": 0,
+                "id": "tournament_78_7"
+            },
+            {
+                "white": "胡守标",
+                "black": "钟树岭",
+                "date": "2014-07-11",
+                "result": 0.5,
+                "id": "tournament_78_8"
+            },
+            {
+                "white": "林肖",
+                "black": "宋帅辉",
+                "date": "2014-07-11",
+                "result": 0.5,
+                "id": "tournament_78_9"
+            },
+            {
+                "white": "刘坤瀚",
+                "black": "侯娜薇",
+                "date": "2014-07-11",
+                "result": 0,
+                "id": "tournament_78_10"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "余冬春",
+                "black": "黄方伟",
+                "date": "2014-07-12",
+                "result": 0.5,
+                "id": "tournament_78_11"
+            },
+            {
+                "white": "姜颖",
+                "black": "金心峰",
+                "date": "2014-07-12",
+                "result": 0,
+                "id": "tournament_78_12"
+            },
+            {
+                "white": "林肖",
+                "black": "李旻",
+                "date": "2014-07-12",
+                "result": 0,
+                "id": "tournament_78_13"
+            },
+            {
+                "white": "刘坤瀚",
+                "black": "钟树岭",
+                "date": "2014-07-12",
+                "result": 0,
+                "id": "tournament_78_14"
+            },
+            {
+                "white": "侯娜薇",
+                "black": "宋帅辉",
+                "date": "2014-07-12",
+                "result": 1,
+                "id": "tournament_78_15"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "黄方伟",
+                "black": "金心峰",
+                "date": "2014-07-13",
+                "result": 0.5,
+                "id": "tournament_78_16"
+            },
+            {
+                "white": "余冬春",
+                "black": "胡守标",
+                "date": "2014-07-13",
+                "result": 0.5,
+                "id": "tournament_78_17"
+            },
+            {
+                "white": "姜颖",
+                "black": "林肖",
+                "date": "2014-07-13",
+                "result": 0.5,
+                "id": "tournament_78_18"
+            },
+            {
+                "white": "侯娜薇",
+                "black": "李旻",
+                "date": "2014-07-13",
+                "result": 0.5,
+                "id": "tournament_78_19"
+            },
+            {
+                "white": "宋帅辉",
+                "black": "钟树岭",
+                "date": "2014-07-13",
+                "result": 0.5,
+                "id": "tournament_78_20"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "胡守标",
+                "black": "黄方伟",
+                "date": "2014-07-14",
+                "result": 1,
+                "id": "tournament_78_21"
+            },
+            {
+                "white": "金心峰",
+                "black": "林肖",
+                "date": "2014-07-14",
+                "result": 0.5,
+                "id": "tournament_78_22"
+            },
+            {
+                "white": "余冬春",
+                "black": "刘坤瀚",
+                "date": "2014-07-14",
+                "result": 1,
+                "id": "tournament_78_23"
+            },
+            {
+                "white": "姜颖",
+                "black": "侯娜薇",
+                "date": "2014-07-14",
+                "result": 0,
+                "id": "tournament_78_24"
+            },
+            {
+                "white": "钟树岭",
+                "black": "李旻",
+                "date": "2014-07-14",
+                "result": 0,
+                "id": "tournament_78_25"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "黄方伟",
+                "black": "林肖",
+                "date": "2014-07-15",
+                "result": 1,
+                "id": "tournament_78_26"
+            },
+            {
+                "white": "胡守标",
+                "black": "刘坤瀚",
+                "date": "2014-07-15",
+                "result": 0.5,
+                "id": "tournament_78_27"
+            },
+            {
+                "white": "金心峰",
+                "black": "侯娜薇",
+                "date": "2014-07-15",
+                "result": 0.5,
+                "id": "tournament_78_28"
+            },
+            {
+                "white": "余冬春",
+                "black": "宋帅辉",
+                "date": "2014-07-15",
+                "result": 0,
+                "id": "tournament_78_29"
+            },
+            {
+                "white": "姜颖",
+                "black": "钟树岭",
+                "date": "2014-07-15",
+                "result": 0.5,
+                "id": "tournament_78_30"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "刘坤瀚",
+                "black": "黄方伟",
+                "date": "2014-07-16",
+                "result": 1,
+                "id": "tournament_78_31"
+            },
+            {
+                "white": "林肖",
+                "black": "侯娜薇",
+                "date": "2014-07-16",
+                "result": 0,
+                "id": "tournament_78_32"
+            },
+            {
+                "white": "胡守标",
+                "black": "宋帅辉",
+                "date": "2014-07-16",
+                "result": 1,
+                "id": "tournament_78_33"
+            },
+            {
+                "white": "金心峰",
+                "black": "钟树岭",
+                "date": "2014-07-16",
+                "result": 0.5,
+                "id": "tournament_78_34"
+            },
+            {
+                "white": "余冬春",
+                "black": "李旻",
+                "date": "2014-07-16",
+                "result": 0.5,
+                "id": "tournament_78_35"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "黄方伟",
+                "black": "侯娜薇",
+                "date": "2014-07-17",
+                "result": 0,
+                "id": "tournament_78_36"
+            },
+            {
+                "white": "刘坤瀚",
+                "black": "宋帅辉",
+                "date": "2014-07-17",
+                "result": 0.5,
+                "id": "tournament_78_37"
+            },
+            {
+                "white": "林肖",
+                "black": "钟树岭",
+                "date": "2014-07-17",
+                "result": 0.5,
+                "id": "tournament_78_38"
+            },
+            {
+                "white": "胡守标",
+                "black": "李旻",
+                "date": "2014-07-17",
+                "result": 0,
+                "id": "tournament_78_39"
+            },
+            {
+                "white": "姜颖",
+                "black": "余冬春",
+                "date": "2014-07-17",
+                "result": 1,
+                "id": "tournament_78_40"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "宋帅辉",
+                "black": "黄方伟",
+                "date": "2014-07-18",
+                "result": 0.5,
+                "id": "tournament_78_41"
+            },
+            {
+                "white": "侯娜薇",
+                "black": "钟树岭",
+                "date": "2014-07-18",
+                "result": 0,
+                "id": "tournament_78_42"
+            },
+            {
+                "white": "刘坤瀚",
+                "black": "李旻",
+                "date": "2014-07-18",
+                "result": 0.5,
+                "id": "tournament_78_43"
+            },
+            {
+                "white": "姜颖",
+                "black": "胡守标",
+                "date": "2014-07-18",
+                "result": 0.5,
+                "id": "tournament_78_44"
+            },
+            {
+                "white": "余冬春",
+                "black": "金心峰",
+                "date": "2014-07-18",
+                "result": 0.5,
+                "id": "tournament_78_45"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "黄方伟",
+                "black": "钟树岭",
+                "date": "2014-07-19",
+                "result": 1,
+                "id": "tournament_78_46"
+            },
+            {
+                "white": "宋帅辉",
+                "black": "李旻",
+                "date": "2014-07-19",
+                "result": 0,
+                "id": "tournament_78_47"
+            },
+            {
+                "white": "姜颖",
+                "black": "刘坤瀚",
+                "date": "2014-07-19",
+                "result": 1,
+                "id": "tournament_78_48"
+            },
+            {
+                "white": "余冬春",
+                "black": "林肖",
+                "date": "2014-07-19",
+                "result": 0.5,
+                "id": "tournament_78_49"
+            },
+            {
+                "white": "金心峰",
+                "black": "胡守标",
+                "date": "2014-07-19",
+                "result": 0.5,
+                "id": "tournament_78_50"
+            }
+        ]
+    },
+    "tours": 10,
+    "time_control": "classic"
+}

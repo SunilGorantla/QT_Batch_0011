@@ -1,0 +1,537 @@
+{
+    "name": "tournament_38",
+    "start_date": "2014-04-23",
+    "end_date": "2014-05-17",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Li Wenling",
+                "black": "Li Songjiang",
+                "date": "2014-04-23",
+                "result": 0,
+                "id": "tournament_38_1"
+            },
+            {
+                "white": "Wu Fujun",
+                "black": "Chen Xiangke",
+                "date": "2014-04-23",
+                "result": 1,
+                "id": "tournament_38_2"
+            },
+            {
+                "white": "Zhao Shi",
+                "black": "Zhang Xu",
+                "date": "2014-04-23",
+                "result": 0.5,
+                "id": "tournament_38_3"
+            },
+            {
+                "white": "Feng Xiongmin",
+                "black": "Yang Weilin",
+                "date": "2014-04-23",
+                "result": 0.5,
+                "id": "tournament_38_4"
+            },
+            {
+                "white": "Cheng Momei",
+                "black": "Feng Baizhen",
+                "date": "2014-04-23",
+                "result": 1,
+                "id": "tournament_38_5"
+            },
+            {
+                "white": "Gu Jiajun",
+                "black": "Wu Qiu",
+                "date": "2014-04-23",
+                "result": 1,
+                "id": "tournament_38_6"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Yuan Xiaokun",
+                "black": "Li Wenling",
+                "date": "2014-04-25",
+                "result": 0,
+                "id": "tournament_38_7"
+            },
+            {
+                "white": "Zhao Shi",
+                "black": "Li Songjiang",
+                "date": "2014-04-25",
+                "result": 1,
+                "id": "tournament_38_8"
+            },
+            {
+                "white": "Feng Xiongmin",
+                "black": "Chen Xiangke",
+                "date": "2014-04-25",
+                "result": 1,
+                "id": "tournament_38_9"
+            },
+            {
+                "white": "Cheng Momei",
+                "black": "Zhang Xu",
+                "date": "2014-04-25",
+                "result": 1,
+                "id": "tournament_38_10"
+            },
+            {
+                "white": "Gu Jiajun",
+                "black": "Yang Weilin",
+                "date": "2014-04-25",
+                "result": 0.5,
+                "id": "tournament_38_11"
+            },
+            {
+                "white": "Wu Qiu",
+                "black": "Feng Baizhen",
+                "date": "2014-04-25",
+                "result": 0,
+                "id": "tournament_38_12"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Wu Fujun",
+                "black": "Yuan Xiaokun",
+                "date": "2014-04-27",
+                "result": 1,
+                "id": "tournament_38_13"
+            },
+            {
+                "white": "Li Wenling",
+                "black": "Zhao Shi",
+                "date": "2014-04-27",
+                "result": 0,
+                "id": "tournament_38_14"
+            },
+            {
+                "white": "Cheng Momei",
+                "black": "Li Songjiang",
+                "date": "2014-04-27",
+                "result": 1,
+                "id": "tournament_38_15"
+            },
+            {
+                "white": "Gu Jiajun",
+                "black": "Chen Xiangke",
+                "date": "2014-04-27",
+                "result": 1,
+                "id": "tournament_38_16"
+            },
+            {
+                "white": "Wu Qiu",
+                "black": "Zhang Xu",
+                "date": "2014-04-27",
+                "result": 0,
+                "id": "tournament_38_17"
+            },
+            {
+                "white": "Feng Baizhen",
+                "black": "Yang Weilin",
+                "date": "2014-04-27",
+                "result": 0.5,
+                "id": "tournament_38_18"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Yuan Xiaokun",
+                "black": "Zhao Shi",
+                "date": "2014-04-29",
+                "result": 0,
+                "id": "tournament_38_19"
+            },
+            {
+                "white": "Wu Fujun",
+                "black": "Feng Xiongmin",
+                "date": "2014-04-29",
+                "result": 1,
+                "id": "tournament_38_20"
+            },
+            {
+                "white": "Li Wenling",
+                "black": "Cheng Momei",
+                "date": "2014-04-29",
+                "result": 0,
+                "id": "tournament_38_21"
+            },
+            {
+                "white": "Wu Qiu",
+                "black": "Li Songjiang",
+                "date": "2014-04-29",
+                "result": 1,
+                "id": "tournament_38_22"
+            },
+            {
+                "white": "Feng Baizhen",
+                "black": "Chen Xiangke",
+                "date": "2014-04-29",
+                "result": 0.5,
+                "id": "tournament_38_23"
+            },
+            {
+                "white": "Yang Weilin",
+                "black": "Zhang Xu",
+                "date": "2014-04-29",
+                "result": 1,
+                "id": "tournament_38_24"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Feng Xiongmin",
+                "black": "Yuan Xiaokun",
+                "date": "2014-05-01",
+                "result": 1,
+                "id": "tournament_38_25"
+            },
+            {
+                "white": "Zhao Shi",
+                "black": "Cheng Momei",
+                "date": "2014-05-01",
+                "result": 0.5,
+                "id": "tournament_38_26"
+            },
+            {
+                "white": "Wu Fujun",
+                "black": "Gu Jiajun",
+                "date": "2014-05-01",
+                "result": 0.5,
+                "id": "tournament_38_27"
+            },
+            {
+                "white": "Li Wenling",
+                "black": "Wu Qiu",
+                "date": "2014-05-01",
+                "result": 0,
+                "id": "tournament_38_28"
+            },
+            {
+                "white": "Yang Weilin",
+                "black": "Li Songjiang",
+                "date": "2014-05-01",
+                "result": 1,
+                "id": "tournament_38_29"
+            },
+            {
+                "white": "Zhang Xu",
+                "black": "Chen Xiangke",
+                "date": "2014-05-01",
+                "result": 0,
+                "id": "tournament_38_30"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Yuan Xiaokun",
+                "black": "Cheng Momei",
+                "date": "2014-05-03",
+                "result": 0.5,
+                "id": "tournament_38_31"
+            },
+            {
+                "white": "Feng Xiongmin",
+                "black": "Gu Jiajun",
+                "date": "2014-05-03",
+                "result": 0.5,
+                "id": "tournament_38_32"
+            },
+            {
+                "white": "Zhao Shi",
+                "black": "Wu Qiu",
+                "date": "2014-05-03",
+                "result": 1,
+                "id": "tournament_38_33"
+            },
+            {
+                "white": "Wu Fujun",
+                "black": "Feng Baizhen",
+                "date": "2014-05-03",
+                "result": 1,
+                "id": "tournament_38_34"
+            },
+            {
+                "white": "Li Wenling",
+                "black": "Yang Weilin",
+                "date": "2014-05-03",
+                "result": 0.5,
+                "id": "tournament_38_35"
+            },
+            {
+                "white": "Chen Xiangke",
+                "black": "Li Songjiang",
+                "date": "2014-05-03",
+                "result": 1,
+                "id": "tournament_38_36"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Gu Jiajun",
+                "black": "Yuan Xiaokun",
+                "date": "2014-05-05",
+                "result": 1,
+                "id": "tournament_38_37"
+            },
+            {
+                "white": "Cheng Momei",
+                "black": "Wu Qiu",
+                "date": "2014-05-05",
+                "result": 0,
+                "id": "tournament_38_38"
+            },
+            {
+                "white": "Feng Xiongmin",
+                "black": "Feng Baizhen",
+                "date": "2014-05-05",
+                "result": 1,
+                "id": "tournament_38_39"
+            },
+            {
+                "white": "Zhao Shi",
+                "black": "Yang Weilin",
+                "date": "2014-05-05",
+                "result": 0,
+                "id": "tournament_38_40"
+            },
+            {
+                "white": "Wu Fujun",
+                "black": "Zhang Xu",
+                "date": "2014-05-05",
+                "result": 1,
+                "id": "tournament_38_41"
+            },
+            {
+                "white": "Li Wenling",
+                "black": "Chen Xiangke",
+                "date": "2014-05-05",
+                "result": 1,
+                "id": "tournament_38_42"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Yuan Xiaokun",
+                "black": "Wu Qiu",
+                "date": "2014-05-07",
+                "result": 0.5,
+                "id": "tournament_38_43"
+            },
+            {
+                "white": "Gu Jiajun",
+                "black": "Feng Baizhen",
+                "date": "2014-05-07",
+                "result": 1,
+                "id": "tournament_38_44"
+            },
+            {
+                "white": "Cheng Momei",
+                "black": "Yang Weilin",
+                "date": "2014-05-07",
+                "result": 0,
+                "id": "tournament_38_45"
+            },
+            {
+                "white": "Feng Xiongmin",
+                "black": "Zhang Xu",
+                "date": "2014-05-07",
+                "result": 1,
+                "id": "tournament_38_46"
+            },
+            {
+                "white": "Zhao Shi",
+                "black": "Chen Xiangke",
+                "date": "2014-05-07",
+                "result": 0,
+                "id": "tournament_38_47"
+            },
+            {
+                "white": "Wu Fujun",
+                "black": "Li Songjiang",
+                "date": "2014-05-07",
+                "result": 0.5,
+                "id": "tournament_38_48"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Feng Baizhen",
+                "black": "Yuan Xiaokun",
+                "date": "2014-05-09",
+                "result": 1,
+                "id": "tournament_38_49"
+            },
+            {
+                "white": "Wu Qiu",
+                "black": "Yang Weilin",
+                "date": "2014-05-09",
+                "result": 0,
+                "id": "tournament_38_50"
+            },
+            {
+                "white": "Gu Jiajun",
+                "black": "Zhang Xu",
+                "date": "2014-05-09",
+                "result": 0.5,
+                "id": "tournament_38_51"
+            },
+            {
+                "white": "Cheng Momei",
+                "black": "Chen Xiangke",
+                "date": "2014-05-09",
+                "result": 0,
+                "id": "tournament_38_52"
+            },
+            {
+                "white": "Feng Xiongmin",
+                "black": "Li Songjiang",
+                "date": "2014-05-09",
+                "result": 1,
+                "id": "tournament_38_53"
+            },
+            {
+                "white": "Li Wenling",
+                "black": "Wu Fujun",
+                "date": "2014-05-09",
+                "result": 0.5,
+                "id": "tournament_38_54"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "Yuan Xiaokun",
+                "black": "Yang Weilin",
+                "date": "2014-05-11",
+                "result": 0,
+                "id": "tournament_38_55"
+            },
+            {
+                "white": "Feng Baizhen",
+                "black": "Zhang Xu",
+                "date": "2014-05-11",
+                "result": 0.5,
+                "id": "tournament_38_56"
+            },
+            {
+                "white": "Wu Qiu",
+                "black": "Chen Xiangke",
+                "date": "2014-05-11",
+                "result": 0.5,
+                "id": "tournament_38_57"
+            },
+            {
+                "white": "Gu Jiajun",
+                "black": "Li Songjiang",
+                "date": "2014-05-11",
+                "result": 1,
+                "id": "tournament_38_58"
+            },
+            {
+                "white": "Li Wenling",
+                "black": "Feng Xiongmin",
+                "date": "2014-05-11",
+                "result": 0,
+                "id": "tournament_38_59"
+            },
+            {
+                "white": "Wu Fujun",
+                "black": "Zhao Shi",
+                "date": "2014-05-11",
+                "result": 0.5,
+                "id": "tournament_38_60"
+            }
+        ],
+        "tour_11": [
+            {
+                "white": "Zhang Xu",
+                "black": "Yuan Xiaokun",
+                "date": "2014-05-13",
+                "result": 1,
+                "id": "tournament_38_61"
+            },
+            {
+                "white": "Yang Weilin",
+                "black": "Chen Xiangke",
+                "date": "2014-05-13",
+                "result": 0.5,
+                "id": "tournament_38_62"
+            },
+            {
+                "white": "Feng Baizhen",
+                "black": "Li Songjiang",
+                "date": "2014-05-13",
+                "result": 1,
+                "id": "tournament_38_63"
+            },
+            {
+                "white": "Li Wenling",
+                "black": "Gu Jiajun",
+                "date": "2014-05-13",
+                "result": 0,
+                "id": "tournament_38_64"
+            },
+            {
+                "white": "Wu Fujun",
+                "black": "Cheng Momei",
+                "date": "2014-05-13",
+                "result": 1,
+                "id": "tournament_38_65"
+            },
+            {
+                "white": "Zhao Shi",
+                "black": "Feng Xiongmin",
+                "date": "2014-05-13",
+                "result": 1,
+                "id": "tournament_38_66"
+            }
+        ],
+        "tour_12": [
+            {
+                "white": "Yuan Xiaokun",
+                "black": "Chen Xiangke",
+                "date": "2014-05-15",
+                "result": 0,
+                "id": "tournament_38_67"
+            },
+            {
+                "white": "Zhang Xu",
+                "black": "Li Songjiang",
+                "date": "2014-05-15",
+                "result": 0.5,
+                "id": "tournament_38_68"
+            },
+            {
+                "white": "Li Wenling",
+                "black": "Feng Baizhen",
+                "date": "2014-05-15",
+                "result": 0,
+                "id": "tournament_38_69"
+            },
+            {
+                "white": "Wu Fujun",
+                "black": "Wu Qiu",
+                "date": "2014-05-15",
+                "result": 0.5,
+                "id": "tournament_38_70"
+            },
+            {
+                "white": "Zhao Shi",
+                "black": "Gu Jiajun",
+                "date": "2014-05-15",
+                "result": 0.5,
+                "id": "tournament_38_71"
+            },
+            {
+                "white": "Feng Xiongmin",
+                "black": "Cheng Momei",
+                "date": "2014-05-15",
+                "result": 1,
+                "id": "tournament_38_72"
+            }
+        ]
+    },
+    "tours": 12,
+    "time_control": "rapid"
+}

@@ -1,0 +1,379 @@
+{
+    "name": "tournament_768",
+    "start_date": "2019-10-08",
+    "end_date": "2019-10-18",
+    "games": {
+        "tour_1": [
+            {
+                "white": "刘敬强",
+                "black": "范元",
+                "date": "2019-10-08",
+                "result": 0,
+                "id": "tournament_768_1"
+            },
+            {
+                "white": "王小莹",
+                "black": "周连",
+                "date": "2019-10-08",
+                "result": 0.5,
+                "id": "tournament_768_2"
+            },
+            {
+                "white": "黄兴",
+                "black": "李洋宜",
+                "date": "2019-10-08",
+                "result": 0.5,
+                "id": "tournament_768_3"
+            },
+            {
+                "white": "金艳晓",
+                "black": "黄润军",
+                "date": "2019-10-08",
+                "result": 0,
+                "id": "tournament_768_4"
+            },
+            {
+                "white": "林丽祥",
+                "black": "庞静",
+                "date": "2019-10-08",
+                "result": 1,
+                "id": "tournament_768_5"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "张大丽",
+                "black": "刘敬强",
+                "date": "2019-10-09",
+                "result": 1,
+                "id": "tournament_768_6"
+            },
+            {
+                "white": "黄兴",
+                "black": "范元",
+                "date": "2019-10-09",
+                "result": 0.5,
+                "id": "tournament_768_7"
+            },
+            {
+                "white": "金艳晓",
+                "black": "周连",
+                "date": "2019-10-09",
+                "result": 0,
+                "id": "tournament_768_8"
+            },
+            {
+                "white": "林丽祥",
+                "black": "李洋宜",
+                "date": "2019-10-09",
+                "result": 0.5,
+                "id": "tournament_768_9"
+            },
+            {
+                "white": "庞静",
+                "black": "黄润军",
+                "date": "2019-10-09",
+                "result": 0.5,
+                "id": "tournament_768_10"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "王小莹",
+                "black": "张大丽",
+                "date": "2019-10-10",
+                "result": 1,
+                "id": "tournament_768_11"
+            },
+            {
+                "white": "刘敬强",
+                "black": "黄兴",
+                "date": "2019-10-10",
+                "result": 0,
+                "id": "tournament_768_12"
+            },
+            {
+                "white": "林丽祥",
+                "black": "范元",
+                "date": "2019-10-10",
+                "result": 0,
+                "id": "tournament_768_13"
+            },
+            {
+                "white": "庞静",
+                "black": "周连",
+                "date": "2019-10-10",
+                "result": 0,
+                "id": "tournament_768_14"
+            },
+            {
+                "white": "黄润军",
+                "black": "李洋宜",
+                "date": "2019-10-10",
+                "result": 0.5,
+                "id": "tournament_768_15"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "张大丽",
+                "black": "黄兴",
+                "date": "2019-10-11",
+                "result": 0,
+                "id": "tournament_768_16"
+            },
+            {
+                "white": "王小莹",
+                "black": "金艳晓",
+                "date": "2019-10-11",
+                "result": 1,
+                "id": "tournament_768_17"
+            },
+            {
+                "white": "刘敬强",
+                "black": "林丽祥",
+                "date": "2019-10-11",
+                "result": 0,
+                "id": "tournament_768_18"
+            },
+            {
+                "white": "黄润军",
+                "black": "范元",
+                "date": "2019-10-11",
+                "result": 0,
+                "id": "tournament_768_19"
+            },
+            {
+                "white": "李洋宜",
+                "black": "周连",
+                "date": "2019-10-11",
+                "result": 0.5,
+                "id": "tournament_768_20"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "金艳晓",
+                "black": "张大丽",
+                "date": "2019-10-12",
+                "result": 0.5,
+                "id": "tournament_768_21"
+            },
+            {
+                "white": "黄兴",
+                "black": "林丽祥",
+                "date": "2019-10-12",
+                "result": 0,
+                "id": "tournament_768_22"
+            },
+            {
+                "white": "王小莹",
+                "black": "庞静",
+                "date": "2019-10-12",
+                "result": 1,
+                "id": "tournament_768_23"
+            },
+            {
+                "white": "刘敬强",
+                "black": "黄润军",
+                "date": "2019-10-12",
+                "result": 0,
+                "id": "tournament_768_24"
+            },
+            {
+                "white": "周连",
+                "black": "范元",
+                "date": "2019-10-12",
+                "result": 0,
+                "id": "tournament_768_25"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "张大丽",
+                "black": "林丽祥",
+                "date": "2019-10-13",
+                "result": 0,
+                "id": "tournament_768_26"
+            },
+            {
+                "white": "金艳晓",
+                "black": "庞静",
+                "date": "2019-10-13",
+                "result": 0.5,
+                "id": "tournament_768_27"
+            },
+            {
+                "white": "黄兴",
+                "black": "黄润军",
+                "date": "2019-10-13",
+                "result": 0,
+                "id": "tournament_768_28"
+            },
+            {
+                "white": "王小莹",
+                "black": "李洋宜",
+                "date": "2019-10-13",
+                "result": 0.5,
+                "id": "tournament_768_29"
+            },
+            {
+                "white": "刘敬强",
+                "black": "周连",
+                "date": "2019-10-13",
+                "result": 0,
+                "id": "tournament_768_30"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "庞静",
+                "black": "张大丽",
+                "date": "2019-10-14",
+                "result": 0.5,
+                "id": "tournament_768_31"
+            },
+            {
+                "white": "林丽祥",
+                "black": "黄润军",
+                "date": "2019-10-14",
+                "result": 1,
+                "id": "tournament_768_32"
+            },
+            {
+                "white": "金艳晓",
+                "black": "李洋宜",
+                "date": "2019-10-14",
+                "result": 0,
+                "id": "tournament_768_33"
+            },
+            {
+                "white": "黄兴",
+                "black": "周连",
+                "date": "2019-10-14",
+                "result": 0,
+                "id": "tournament_768_34"
+            },
+            {
+                "white": "王小莹",
+                "black": "范元",
+                "date": "2019-10-14",
+                "result": 0,
+                "id": "tournament_768_35"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "张大丽",
+                "black": "黄润军",
+                "date": "2019-10-15",
+                "result": 0,
+                "id": "tournament_768_36"
+            },
+            {
+                "white": "庞静",
+                "black": "李洋宜",
+                "date": "2019-10-15",
+                "result": 0.5,
+                "id": "tournament_768_37"
+            },
+            {
+                "white": "林丽祥",
+                "black": "周连",
+                "date": "2019-10-15",
+                "result": 0.5,
+                "id": "tournament_768_38"
+            },
+            {
+                "white": "金艳晓",
+                "black": "范元",
+                "date": "2019-10-15",
+                "result": 0,
+                "id": "tournament_768_39"
+            },
+            {
+                "white": "刘敬强",
+                "black": "王小莹",
+                "date": "2019-10-15",
+                "result": 0,
+                "id": "tournament_768_40"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "李洋宜",
+                "black": "张大丽",
+                "date": "2019-10-16",
+                "result": 0.5,
+                "id": "tournament_768_41"
+            },
+            {
+                "white": "黄润军",
+                "black": "周连",
+                "date": "2019-10-16",
+                "result": 0.5,
+                "id": "tournament_768_42"
+            },
+            {
+                "white": "庞静",
+                "black": "范元",
+                "date": "2019-10-16",
+                "result": 0,
+                "id": "tournament_768_43"
+            },
+            {
+                "white": "刘敬强",
+                "black": "金艳晓",
+                "date": "2019-10-16",
+                "result": 0.5,
+                "id": "tournament_768_44"
+            },
+            {
+                "white": "王小莹",
+                "black": "黄兴",
+                "date": "2019-10-16",
+                "result": 0.5,
+                "id": "tournament_768_45"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "张大丽",
+                "black": "周连",
+                "date": "2019-10-17",
+                "result": 0,
+                "id": "tournament_768_46"
+            },
+            {
+                "white": "李洋宜",
+                "black": "范元",
+                "date": "2019-10-17",
+                "result": 0,
+                "id": "tournament_768_47"
+            },
+            {
+                "white": "刘敬强",
+                "black": "庞静",
+                "date": "2019-10-17",
+                "result": 0.5,
+                "id": "tournament_768_48"
+            },
+            {
+                "white": "王小莹",
+                "black": "林丽祥",
+                "date": "2019-10-17",
+                "result": 0.5,
+                "id": "tournament_768_49"
+            },
+            {
+                "white": "黄兴",
+                "black": "金艳晓",
+                "date": "2019-10-17",
+                "result": 1,
+                "id": "tournament_768_50"
+            }
+        ]
+    },
+    "tours": 10,
+    "time_control": "rapid"
+}

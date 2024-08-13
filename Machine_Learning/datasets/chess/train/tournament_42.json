@@ -1,0 +1,493 @@
+{
+    "name": "tournament_42",
+    "start_date": "2014-04-30",
+    "end_date": "2014-05-22",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Wei, Ming",
+                "black": "Liu, Fei",
+                "date": "2014-04-30",
+                "result": 1,
+                "id": "tournament_42_1"
+            },
+            {
+                "white": "Xu, Jing",
+                "black": "Wei, Zhentian",
+                "date": "2014-04-30",
+                "result": 0.5,
+                "id": "tournament_42_2"
+            },
+            {
+                "white": "Shao, Hongcong",
+                "black": "Xu, Kangbo",
+                "date": "2014-04-30",
+                "result": 0,
+                "id": "tournament_42_3"
+            },
+            {
+                "white": "Zhao, Wenmei",
+                "black": "Hu, Jingxin",
+                "date": "2014-04-30",
+                "result": 0,
+                "id": "tournament_42_4"
+            },
+            {
+                "white": "Wu, Yongji",
+                "black": "Wang, Xiaochuan",
+                "date": "2014-04-30",
+                "result": 1,
+                "id": "tournament_42_5"
+            },
+            {
+                "white": "Fan, Jianli",
+                "black": "Xu, Chunyao",
+                "date": "2014-04-30",
+                "result": 1,
+                "id": "tournament_42_6"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Liu, Fei",
+                "black": "Xu, Jing",
+                "date": "2014-05-02",
+                "result": 0,
+                "id": "tournament_42_7"
+            },
+            {
+                "white": "Wei, Ming",
+                "black": "Shao, Hongcong",
+                "date": "2014-05-02",
+                "result": 0.5,
+                "id": "tournament_42_8"
+            },
+            {
+                "white": "Zhao, Wenmei",
+                "black": "Wei, Zhentian",
+                "date": "2014-05-02",
+                "result": 0.5,
+                "id": "tournament_42_9"
+            },
+            {
+                "white": "Wu, Yongji",
+                "black": "Xu, Kangbo",
+                "date": "2014-05-02",
+                "result": 1,
+                "id": "tournament_42_10"
+            },
+            {
+                "white": "Fan, Jianli",
+                "black": "Hu, Jingxin",
+                "date": "2014-05-02",
+                "result": 1,
+                "id": "tournament_42_11"
+            },
+            {
+                "white": "Xu, Chunyao",
+                "black": "Wang, Xiaochuan",
+                "date": "2014-05-02",
+                "result": 0,
+                "id": "tournament_42_12"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Shao, Hongcong",
+                "black": "Liu, Fei",
+                "date": "2014-05-04",
+                "result": 1,
+                "id": "tournament_42_13"
+            },
+            {
+                "white": "Xu, Jing",
+                "black": "Zhao, Wenmei",
+                "date": "2014-05-04",
+                "result": 0.5,
+                "id": "tournament_42_14"
+            },
+            {
+                "white": "Wei, Ming",
+                "black": "Wu, Yongji",
+                "date": "2014-05-04",
+                "result": 1,
+                "id": "tournament_42_15"
+            },
+            {
+                "white": "Fan, Jianli",
+                "black": "Wei, Zhentian",
+                "date": "2014-05-04",
+                "result": 1,
+                "id": "tournament_42_16"
+            },
+            {
+                "white": "Xu, Chunyao",
+                "black": "Xu, Kangbo",
+                "date": "2014-05-04",
+                "result": 0,
+                "id": "tournament_42_17"
+            },
+            {
+                "white": "Wang, Xiaochuan",
+                "black": "Hu, Jingxin",
+                "date": "2014-05-04",
+                "result": 0.5,
+                "id": "tournament_42_18"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Liu, Fei",
+                "black": "Zhao, Wenmei",
+                "date": "2014-05-06",
+                "result": 1,
+                "id": "tournament_42_19"
+            },
+            {
+                "white": "Shao, Hongcong",
+                "black": "Wu, Yongji",
+                "date": "2014-05-06",
+                "result": 0,
+                "id": "tournament_42_20"
+            },
+            {
+                "white": "Xu, Jing",
+                "black": "Fan, Jianli",
+                "date": "2014-05-06",
+                "result": 1,
+                "id": "tournament_42_21"
+            },
+            {
+                "white": "Wei, Ming",
+                "black": "Xu, Chunyao",
+                "date": "2014-05-06",
+                "result": 0.5,
+                "id": "tournament_42_22"
+            },
+            {
+                "white": "Wang, Xiaochuan",
+                "black": "Wei, Zhentian",
+                "date": "2014-05-06",
+                "result": 1,
+                "id": "tournament_42_23"
+            },
+            {
+                "white": "Hu, Jingxin",
+                "black": "Xu, Kangbo",
+                "date": "2014-05-06",
+                "result": 0.5,
+                "id": "tournament_42_24"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Wu, Yongji",
+                "black": "Liu, Fei",
+                "date": "2014-05-08",
+                "result": 1,
+                "id": "tournament_42_25"
+            },
+            {
+                "white": "Zhao, Wenmei",
+                "black": "Fan, Jianli",
+                "date": "2014-05-08",
+                "result": 0.5,
+                "id": "tournament_42_26"
+            },
+            {
+                "white": "Shao, Hongcong",
+                "black": "Xu, Chunyao",
+                "date": "2014-05-08",
+                "result": 0.5,
+                "id": "tournament_42_27"
+            },
+            {
+                "white": "Xu, Jing",
+                "black": "Wang, Xiaochuan",
+                "date": "2014-05-08",
+                "result": 1,
+                "id": "tournament_42_28"
+            },
+            {
+                "white": "Wei, Ming",
+                "black": "Hu, Jingxin",
+                "date": "2014-05-08",
+                "result": 0,
+                "id": "tournament_42_29"
+            },
+            {
+                "white": "Xu, Kangbo",
+                "black": "Wei, Zhentian",
+                "date": "2014-05-08",
+                "result": 0.5,
+                "id": "tournament_42_30"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Liu, Fei",
+                "black": "Fan, Jianli",
+                "date": "2014-05-10",
+                "result": 0,
+                "id": "tournament_42_31"
+            },
+            {
+                "white": "Wu, Yongji",
+                "black": "Xu, Chunyao",
+                "date": "2014-05-10",
+                "result": 1,
+                "id": "tournament_42_32"
+            },
+            {
+                "white": "Zhao, Wenmei",
+                "black": "Wang, Xiaochuan",
+                "date": "2014-05-10",
+                "result": 0,
+                "id": "tournament_42_33"
+            },
+            {
+                "white": "Shao, Hongcong",
+                "black": "Hu, Jingxin",
+                "date": "2014-05-10",
+                "result": 0,
+                "id": "tournament_42_34"
+            },
+            {
+                "white": "Xu, Jing",
+                "black": "Xu, Kangbo",
+                "date": "2014-05-10",
+                "result": 1,
+                "id": "tournament_42_35"
+            },
+            {
+                "white": "Wei, Ming",
+                "black": "Wei, Zhentian",
+                "date": "2014-05-10",
+                "result": 1,
+                "id": "tournament_42_36"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Xu, Chunyao",
+                "black": "Liu, Fei",
+                "date": "2014-05-12",
+                "result": 0.5,
+                "id": "tournament_42_37"
+            },
+            {
+                "white": "Fan, Jianli",
+                "black": "Wang, Xiaochuan",
+                "date": "2014-05-12",
+                "result": 0.5,
+                "id": "tournament_42_38"
+            },
+            {
+                "white": "Wu, Yongji",
+                "black": "Hu, Jingxin",
+                "date": "2014-05-12",
+                "result": 1,
+                "id": "tournament_42_39"
+            },
+            {
+                "white": "Zhao, Wenmei",
+                "black": "Xu, Kangbo",
+                "date": "2014-05-12",
+                "result": 0,
+                "id": "tournament_42_40"
+            },
+            {
+                "white": "Shao, Hongcong",
+                "black": "Wei, Zhentian",
+                "date": "2014-05-12",
+                "result": 0.5,
+                "id": "tournament_42_41"
+            },
+            {
+                "white": "Wei, Ming",
+                "black": "Xu, Jing",
+                "date": "2014-05-12",
+                "result": 0,
+                "id": "tournament_42_42"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Liu, Fei",
+                "black": "Wang, Xiaochuan",
+                "date": "2014-05-14",
+                "result": 0,
+                "id": "tournament_42_43"
+            },
+            {
+                "white": "Xu, Chunyao",
+                "black": "Hu, Jingxin",
+                "date": "2014-05-14",
+                "result": 0,
+                "id": "tournament_42_44"
+            },
+            {
+                "white": "Fan, Jianli",
+                "black": "Xu, Kangbo",
+                "date": "2014-05-14",
+                "result": 1,
+                "id": "tournament_42_45"
+            },
+            {
+                "white": "Wu, Yongji",
+                "black": "Wei, Zhentian",
+                "date": "2014-05-14",
+                "result": 1,
+                "id": "tournament_42_46"
+            },
+            {
+                "white": "Wei, Ming",
+                "black": "Zhao, Wenmei",
+                "date": "2014-05-14",
+                "result": 1,
+                "id": "tournament_42_47"
+            },
+            {
+                "white": "Xu, Jing",
+                "black": "Shao, Hongcong",
+                "date": "2014-05-14",
+                "result": 1,
+                "id": "tournament_42_48"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Hu, Jingxin",
+                "black": "Liu, Fei",
+                "date": "2014-05-16",
+                "result": 1,
+                "id": "tournament_42_49"
+            },
+            {
+                "white": "Wang, Xiaochuan",
+                "black": "Xu, Kangbo",
+                "date": "2014-05-16",
+                "result": 0.5,
+                "id": "tournament_42_50"
+            },
+            {
+                "white": "Xu, Chunyao",
+                "black": "Wei, Zhentian",
+                "date": "2014-05-16",
+                "result": 0,
+                "id": "tournament_42_51"
+            },
+            {
+                "white": "Wei, Ming",
+                "black": "Fan, Jianli",
+                "date": "2014-05-16",
+                "result": 0.5,
+                "id": "tournament_42_52"
+            },
+            {
+                "white": "Xu, Jing",
+                "black": "Wu, Yongji",
+                "date": "2014-05-16",
+                "result": 0.5,
+                "id": "tournament_42_53"
+            },
+            {
+                "white": "Shao, Hongcong",
+                "black": "Zhao, Wenmei",
+                "date": "2014-05-16",
+                "result": 1,
+                "id": "tournament_42_54"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "Liu, Fei",
+                "black": "Xu, Kangbo",
+                "date": "2014-05-18",
+                "result": 0,
+                "id": "tournament_42_55"
+            },
+            {
+                "white": "Hu, Jingxin",
+                "black": "Wei, Zhentian",
+                "date": "2014-05-18",
+                "result": 1,
+                "id": "tournament_42_56"
+            },
+            {
+                "white": "Wei, Ming",
+                "black": "Wang, Xiaochuan",
+                "date": "2014-05-18",
+                "result": 0.5,
+                "id": "tournament_42_57"
+            },
+            {
+                "white": "Xu, Jing",
+                "black": "Xu, Chunyao",
+                "date": "2014-05-18",
+                "result": 1,
+                "id": "tournament_42_58"
+            },
+            {
+                "white": "Shao, Hongcong",
+                "black": "Fan, Jianli",
+                "date": "2014-05-18",
+                "result": 0.5,
+                "id": "tournament_42_59"
+            },
+            {
+                "white": "Zhao, Wenmei",
+                "black": "Wu, Yongji",
+                "date": "2014-05-18",
+                "result": 0,
+                "id": "tournament_42_60"
+            }
+        ],
+        "tour_11": [
+            {
+                "white": "Wei, Zhentian",
+                "black": "Liu, Fei",
+                "date": "2014-05-20",
+                "result": 0.5,
+                "id": "tournament_42_61"
+            },
+            {
+                "white": "Wei, Ming",
+                "black": "Xu, Kangbo",
+                "date": "2014-05-20",
+                "result": 1,
+                "id": "tournament_42_62"
+            },
+            {
+                "white": "Xu, Jing",
+                "black": "Hu, Jingxin",
+                "date": "2014-05-20",
+                "result": 0.5,
+                "id": "tournament_42_63"
+            },
+            {
+                "white": "Shao, Hongcong",
+                "black": "Wang, Xiaochuan",
+                "date": "2014-05-20",
+                "result": 0.5,
+                "id": "tournament_42_64"
+            },
+            {
+                "white": "Zhao, Wenmei",
+                "black": "Xu, Chunyao",
+                "date": "2014-05-20",
+                "result": 0.5,
+                "id": "tournament_42_65"
+            },
+            {
+                "white": "Wu, Yongji",
+                "black": "Fan, Jianli",
+                "date": "2014-05-20",
+                "result": 0.5,
+                "id": "tournament_42_66"
+            }
+        ]
+    },
+    "tours": 11,
+    "time_control": "classic"
+}

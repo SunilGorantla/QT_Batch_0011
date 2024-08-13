@@ -1,0 +1,329 @@
+{
+    "name": "tournament_test_6",
+    "start_date": "2020-01-20",
+    "end_date": "2020-02-09",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Lü Yinwen",
+                "black": "Bi Xiaoyue",
+                "date": "2020-01-20",
+                "id": "tournament_test_6_1"
+            },
+            {
+                "white": "Li Qingmei",
+                "black": "Xu Ming",
+                "date": "2020-01-20",
+                "id": "tournament_test_6_2"
+            },
+            {
+                "white": "Chen Yuke",
+                "black": "Liu Sukai",
+                "date": "2020-01-20",
+                "id": "tournament_test_6_3"
+            },
+            {
+                "white": "Fan Cunniu",
+                "black": "Lai Zhenen",
+                "date": "2020-01-20",
+                "id": "tournament_test_6_4"
+            },
+            {
+                "white": "Li Zhizheng",
+                "black": "Zhu Xiuyang",
+                "date": "2020-01-20",
+                "id": "tournament_test_6_5"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Zhao Jingeng",
+                "black": "Lü Yinwen",
+                "date": "2020-01-22",
+                "id": "tournament_test_6_6"
+            },
+            {
+                "white": "Chen Yuke",
+                "black": "Bi Xiaoyue",
+                "date": "2020-01-22",
+                "id": "tournament_test_6_7"
+            },
+            {
+                "white": "Fan Cunniu",
+                "black": "Xu Ming",
+                "date": "2020-01-22",
+                "id": "tournament_test_6_8"
+            },
+            {
+                "white": "Li Zhizheng",
+                "black": "Liu Sukai",
+                "date": "2020-01-22",
+                "id": "tournament_test_6_9"
+            },
+            {
+                "white": "Zhu Xiuyang",
+                "black": "Lai Zhenen",
+                "date": "2020-01-22",
+                "id": "tournament_test_6_10"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Li Qingmei",
+                "black": "Zhao Jingeng",
+                "date": "2020-01-24",
+                "id": "tournament_test_6_11"
+            },
+            {
+                "white": "Lü Yinwen",
+                "black": "Chen Yuke",
+                "date": "2020-01-24",
+                "id": "tournament_test_6_12"
+            },
+            {
+                "white": "Li Zhizheng",
+                "black": "Bi Xiaoyue",
+                "date": "2020-01-24",
+                "id": "tournament_test_6_13"
+            },
+            {
+                "white": "Zhu Xiuyang",
+                "black": "Xu Ming",
+                "date": "2020-01-24",
+                "id": "tournament_test_6_14"
+            },
+            {
+                "white": "Lai Zhenen",
+                "black": "Liu Sukai",
+                "date": "2020-01-24",
+                "id": "tournament_test_6_15"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Zhao Jingeng",
+                "black": "Chen Yuke",
+                "date": "2020-01-26",
+                "id": "tournament_test_6_16"
+            },
+            {
+                "white": "Li Qingmei",
+                "black": "Fan Cunniu",
+                "date": "2020-01-26",
+                "id": "tournament_test_6_17"
+            },
+            {
+                "white": "Lü Yinwen",
+                "black": "Li Zhizheng",
+                "date": "2020-01-26",
+                "id": "tournament_test_6_18"
+            },
+            {
+                "white": "Lai Zhenen",
+                "black": "Bi Xiaoyue",
+                "date": "2020-01-26",
+                "id": "tournament_test_6_19"
+            },
+            {
+                "white": "Liu Sukai",
+                "black": "Xu Ming",
+                "date": "2020-01-26",
+                "id": "tournament_test_6_20"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Fan Cunniu",
+                "black": "Zhao Jingeng",
+                "date": "2020-01-28",
+                "id": "tournament_test_6_21"
+            },
+            {
+                "white": "Chen Yuke",
+                "black": "Li Zhizheng",
+                "date": "2020-01-28",
+                "id": "tournament_test_6_22"
+            },
+            {
+                "white": "Li Qingmei",
+                "black": "Zhu Xiuyang",
+                "date": "2020-01-28",
+                "id": "tournament_test_6_23"
+            },
+            {
+                "white": "Lü Yinwen",
+                "black": "Lai Zhenen",
+                "date": "2020-01-28",
+                "id": "tournament_test_6_24"
+            },
+            {
+                "white": "Xu Ming",
+                "black": "Bi Xiaoyue",
+                "date": "2020-01-28",
+                "id": "tournament_test_6_25"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Zhao Jingeng",
+                "black": "Li Zhizheng",
+                "date": "2020-01-30",
+                "id": "tournament_test_6_26"
+            },
+            {
+                "white": "Fan Cunniu",
+                "black": "Zhu Xiuyang",
+                "date": "2020-01-30",
+                "id": "tournament_test_6_27"
+            },
+            {
+                "white": "Chen Yuke",
+                "black": "Lai Zhenen",
+                "date": "2020-01-30",
+                "id": "tournament_test_6_28"
+            },
+            {
+                "white": "Li Qingmei",
+                "black": "Liu Sukai",
+                "date": "2020-01-30",
+                "id": "tournament_test_6_29"
+            },
+            {
+                "white": "Lü Yinwen",
+                "black": "Xu Ming",
+                "date": "2020-01-30",
+                "id": "tournament_test_6_30"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Zhu Xiuyang",
+                "black": "Zhao Jingeng",
+                "date": "2020-02-01",
+                "id": "tournament_test_6_31"
+            },
+            {
+                "white": "Li Zhizheng",
+                "black": "Lai Zhenen",
+                "date": "2020-02-01",
+                "id": "tournament_test_6_32"
+            },
+            {
+                "white": "Fan Cunniu",
+                "black": "Liu Sukai",
+                "date": "2020-02-01",
+                "id": "tournament_test_6_33"
+            },
+            {
+                "white": "Chen Yuke",
+                "black": "Xu Ming",
+                "date": "2020-02-01",
+                "id": "tournament_test_6_34"
+            },
+            {
+                "white": "Li Qingmei",
+                "black": "Bi Xiaoyue",
+                "date": "2020-02-01",
+                "id": "tournament_test_6_35"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Zhao Jingeng",
+                "black": "Lai Zhenen",
+                "date": "2020-02-03",
+                "id": "tournament_test_6_36"
+            },
+            {
+                "white": "Zhu Xiuyang",
+                "black": "Liu Sukai",
+                "date": "2020-02-03",
+                "id": "tournament_test_6_37"
+            },
+            {
+                "white": "Li Zhizheng",
+                "black": "Xu Ming",
+                "date": "2020-02-03",
+                "id": "tournament_test_6_38"
+            },
+            {
+                "white": "Fan Cunniu",
+                "black": "Bi Xiaoyue",
+                "date": "2020-02-03",
+                "id": "tournament_test_6_39"
+            },
+            {
+                "white": "Lü Yinwen",
+                "black": "Li Qingmei",
+                "date": "2020-02-03",
+                "id": "tournament_test_6_40"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Liu Sukai",
+                "black": "Zhao Jingeng",
+                "date": "2020-02-05",
+                "id": "tournament_test_6_41"
+            },
+            {
+                "white": "Lai Zhenen",
+                "black": "Xu Ming",
+                "date": "2020-02-05",
+                "id": "tournament_test_6_42"
+            },
+            {
+                "white": "Zhu Xiuyang",
+                "black": "Bi Xiaoyue",
+                "date": "2020-02-05",
+                "id": "tournament_test_6_43"
+            },
+            {
+                "white": "Lü Yinwen",
+                "black": "Fan Cunniu",
+                "date": "2020-02-05",
+                "id": "tournament_test_6_44"
+            },
+            {
+                "white": "Li Qingmei",
+                "black": "Chen Yuke",
+                "date": "2020-02-05",
+                "id": "tournament_test_6_45"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "Zhao Jingeng",
+                "black": "Xu Ming",
+                "date": "2020-02-07",
+                "id": "tournament_test_6_46"
+            },
+            {
+                "white": "Liu Sukai",
+                "black": "Bi Xiaoyue",
+                "date": "2020-02-07",
+                "id": "tournament_test_6_47"
+            },
+            {
+                "white": "Lü Yinwen",
+                "black": "Zhu Xiuyang",
+                "date": "2020-02-07",
+                "id": "tournament_test_6_48"
+            },
+            {
+                "white": "Li Qingmei",
+                "black": "Li Zhizheng",
+                "date": "2020-02-07",
+                "id": "tournament_test_6_49"
+            },
+            {
+                "white": "Chen Yuke",
+                "black": "Fan Cunniu",
+                "date": "2020-02-07",
+                "id": "tournament_test_6_50"
+            }
+        ]
+    },
+    "tours": 10,
+    "time_control": "rapid"
+}

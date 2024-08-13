@@ -1,0 +1,342 @@
+{
+    "name": "tournament_722",
+    "start_date": "2019-05-30",
+    "end_date": "2019-06-17",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Feng Erchun",
+                "black": "Zhang Qiyan",
+                "date": "2019-05-30",
+                "result": 1,
+                "id": "tournament_722_1"
+            },
+            {
+                "white": "Qin Zhi",
+                "black": "Pang Ronggang",
+                "date": "2019-05-30",
+                "result": 0.5,
+                "id": "tournament_722_2"
+            },
+            {
+                "white": "Liu Jiajian",
+                "black": "Wang Weiyin",
+                "date": "2019-05-30",
+                "result": 0.5,
+                "id": "tournament_722_3"
+            },
+            {
+                "white": "Li Yuan",
+                "black": "Liu Yunyu",
+                "date": "2019-05-30",
+                "result": 1,
+                "id": "tournament_722_4"
+            },
+            {
+                "white": "Wang Ruizi",
+                "black": "Huang Xing",
+                "date": "2019-05-30",
+                "result": 0,
+                "id": "tournament_722_5"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Zhang Qiyan",
+                "black": "Qin Zhi",
+                "date": "2019-06-01",
+                "result": 1,
+                "id": "tournament_722_6"
+            },
+            {
+                "white": "Feng Erchun",
+                "black": "Liu Jiajian",
+                "date": "2019-06-01",
+                "result": 1,
+                "id": "tournament_722_7"
+            },
+            {
+                "white": "Li Yuan",
+                "black": "Pang Ronggang",
+                "date": "2019-06-01",
+                "result": 0.5,
+                "id": "tournament_722_8"
+            },
+            {
+                "white": "Wang Ruizi",
+                "black": "Wang Weiyin",
+                "date": "2019-06-01",
+                "result": 1,
+                "id": "tournament_722_9"
+            },
+            {
+                "white": "Huang Xing",
+                "black": "Liu Yunyu",
+                "date": "2019-06-01",
+                "result": 1,
+                "id": "tournament_722_10"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Liu Jiajian",
+                "black": "Zhang Qiyan",
+                "date": "2019-06-03",
+                "result": 0,
+                "id": "tournament_722_11"
+            },
+            {
+                "white": "Qin Zhi",
+                "black": "Li Yuan",
+                "date": "2019-06-03",
+                "result": 0,
+                "id": "tournament_722_12"
+            },
+            {
+                "white": "Feng Erchun",
+                "black": "Wang Ruizi",
+                "date": "2019-06-03",
+                "result": 0,
+                "id": "tournament_722_13"
+            },
+            {
+                "white": "Huang Xing",
+                "black": "Pang Ronggang",
+                "date": "2019-06-03",
+                "result": 0,
+                "id": "tournament_722_14"
+            },
+            {
+                "white": "Liu Yunyu",
+                "black": "Wang Weiyin",
+                "date": "2019-06-03",
+                "result": 0,
+                "id": "tournament_722_15"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Zhang Qiyan",
+                "black": "Li Yuan",
+                "date": "2019-06-05",
+                "result": 1,
+                "id": "tournament_722_16"
+            },
+            {
+                "white": "Liu Jiajian",
+                "black": "Wang Ruizi",
+                "date": "2019-06-05",
+                "result": 0,
+                "id": "tournament_722_17"
+            },
+            {
+                "white": "Qin Zhi",
+                "black": "Huang Xing",
+                "date": "2019-06-05",
+                "result": 0.5,
+                "id": "tournament_722_18"
+            },
+            {
+                "white": "Feng Erchun",
+                "black": "Liu Yunyu",
+                "date": "2019-06-05",
+                "result": 1,
+                "id": "tournament_722_19"
+            },
+            {
+                "white": "Wang Weiyin",
+                "black": "Pang Ronggang",
+                "date": "2019-06-05",
+                "result": 0.5,
+                "id": "tournament_722_20"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Wang Ruizi",
+                "black": "Zhang Qiyan",
+                "date": "2019-06-07",
+                "result": 0,
+                "id": "tournament_722_21"
+            },
+            {
+                "white": "Li Yuan",
+                "black": "Huang Xing",
+                "date": "2019-06-07",
+                "result": 0.5,
+                "id": "tournament_722_22"
+            },
+            {
+                "white": "Liu Jiajian",
+                "black": "Liu Yunyu",
+                "date": "2019-06-07",
+                "result": 0.5,
+                "id": "tournament_722_23"
+            },
+            {
+                "white": "Qin Zhi",
+                "black": "Wang Weiyin",
+                "date": "2019-06-07",
+                "result": 0.5,
+                "id": "tournament_722_24"
+            },
+            {
+                "white": "Feng Erchun",
+                "black": "Pang Ronggang",
+                "date": "2019-06-07",
+                "result": 0.5,
+                "id": "tournament_722_25"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Zhang Qiyan",
+                "black": "Huang Xing",
+                "date": "2019-06-09",
+                "result": 0.5,
+                "id": "tournament_722_26"
+            },
+            {
+                "white": "Wang Ruizi",
+                "black": "Liu Yunyu",
+                "date": "2019-06-09",
+                "result": 1,
+                "id": "tournament_722_27"
+            },
+            {
+                "white": "Li Yuan",
+                "black": "Wang Weiyin",
+                "date": "2019-06-09",
+                "result": 1,
+                "id": "tournament_722_28"
+            },
+            {
+                "white": "Liu Jiajian",
+                "black": "Pang Ronggang",
+                "date": "2019-06-09",
+                "result": 0.5,
+                "id": "tournament_722_29"
+            },
+            {
+                "white": "Feng Erchun",
+                "black": "Qin Zhi",
+                "date": "2019-06-09",
+                "result": 1,
+                "id": "tournament_722_30"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Liu Yunyu",
+                "black": "Zhang Qiyan",
+                "date": "2019-06-11",
+                "result": 1,
+                "id": "tournament_722_31"
+            },
+            {
+                "white": "Huang Xing",
+                "black": "Wang Weiyin",
+                "date": "2019-06-11",
+                "result": 0.5,
+                "id": "tournament_722_32"
+            },
+            {
+                "white": "Wang Ruizi",
+                "black": "Pang Ronggang",
+                "date": "2019-06-11",
+                "result": 0.5,
+                "id": "tournament_722_33"
+            },
+            {
+                "white": "Feng Erchun",
+                "black": "Li Yuan",
+                "date": "2019-06-11",
+                "result": 0.5,
+                "id": "tournament_722_34"
+            },
+            {
+                "white": "Qin Zhi",
+                "black": "Liu Jiajian",
+                "date": "2019-06-11",
+                "result": 1,
+                "id": "tournament_722_35"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Zhang Qiyan",
+                "black": "Wang Weiyin",
+                "date": "2019-06-13",
+                "result": 1,
+                "id": "tournament_722_36"
+            },
+            {
+                "white": "Liu Yunyu",
+                "black": "Pang Ronggang",
+                "date": "2019-06-13",
+                "result": 0.5,
+                "id": "tournament_722_37"
+            },
+            {
+                "white": "Feng Erchun",
+                "black": "Huang Xing",
+                "date": "2019-06-13",
+                "result": 0.5,
+                "id": "tournament_722_38"
+            },
+            {
+                "white": "Qin Zhi",
+                "black": "Wang Ruizi",
+                "date": "2019-06-13",
+                "result": 0,
+                "id": "tournament_722_39"
+            },
+            {
+                "white": "Liu Jiajian",
+                "black": "Li Yuan",
+                "date": "2019-06-13",
+                "result": 0,
+                "id": "tournament_722_40"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Pang Ronggang",
+                "black": "Zhang Qiyan",
+                "date": "2019-06-15",
+                "result": 0,
+                "id": "tournament_722_41"
+            },
+            {
+                "white": "Feng Erchun",
+                "black": "Wang Weiyin",
+                "date": "2019-06-15",
+                "result": 0,
+                "id": "tournament_722_42"
+            },
+            {
+                "white": "Qin Zhi",
+                "black": "Liu Yunyu",
+                "date": "2019-06-15",
+                "result": 0,
+                "id": "tournament_722_43"
+            },
+            {
+                "white": "Liu Jiajian",
+                "black": "Huang Xing",
+                "date": "2019-06-15",
+                "result": 0,
+                "id": "tournament_722_44"
+            },
+            {
+                "white": "Li Yuan",
+                "black": "Wang Ruizi",
+                "date": "2019-06-15",
+                "result": 0.5,
+                "id": "tournament_722_45"
+            }
+        ]
+    },
+    "tours": 9,
+    "time_control": "classic"
+}

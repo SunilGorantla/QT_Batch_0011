@@ -1,0 +1,147 @@
+{
+    "name": "tournament_771",
+    "start_date": "2019-10-13",
+    "end_date": "2019-10-19",
+    "games": {
+        "tour_1": [
+            {
+                "white": "宋晶香",
+                "black": "邓烈",
+                "date": "2019-10-13",
+                "result": 1,
+                "id": "tournament_771_1"
+            },
+            {
+                "white": "金俊明",
+                "black": "马朝风",
+                "date": "2019-10-13",
+                "result": 0.5,
+                "id": "tournament_771_2"
+            },
+            {
+                "white": "倪招林",
+                "black": "吕徽倩",
+                "date": "2019-10-13",
+                "result": 0.5,
+                "id": "tournament_771_3"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "孟大运",
+                "black": "宋晶香",
+                "date": "2019-10-14",
+                "result": 0,
+                "id": "tournament_771_4"
+            },
+            {
+                "white": "倪招林",
+                "black": "邓烈",
+                "date": "2019-10-14",
+                "result": 0.5,
+                "id": "tournament_771_5"
+            },
+            {
+                "white": "吕徽倩",
+                "black": "马朝风",
+                "date": "2019-10-14",
+                "result": 1,
+                "id": "tournament_771_6"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "金俊明",
+                "black": "孟大运",
+                "date": "2019-10-15",
+                "result": 1,
+                "id": "tournament_771_7"
+            },
+            {
+                "white": "宋晶香",
+                "black": "倪招林",
+                "date": "2019-10-15",
+                "result": 1,
+                "id": "tournament_771_8"
+            },
+            {
+                "white": "马朝风",
+                "black": "邓烈",
+                "date": "2019-10-15",
+                "result": 0,
+                "id": "tournament_771_9"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "孟大运",
+                "black": "倪招林",
+                "date": "2019-10-16",
+                "result": 0.5,
+                "id": "tournament_771_10"
+            },
+            {
+                "white": "金俊明",
+                "black": "吕徽倩",
+                "date": "2019-10-16",
+                "result": 0,
+                "id": "tournament_771_11"
+            },
+            {
+                "white": "宋晶香",
+                "black": "马朝风",
+                "date": "2019-10-16",
+                "result": 1,
+                "id": "tournament_771_12"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "吕徽倩",
+                "black": "孟大运",
+                "date": "2019-10-17",
+                "result": 0.5,
+                "id": "tournament_771_13"
+            },
+            {
+                "white": "倪招林",
+                "black": "马朝风",
+                "date": "2019-10-17",
+                "result": 0.5,
+                "id": "tournament_771_14"
+            },
+            {
+                "white": "金俊明",
+                "black": "邓烈",
+                "date": "2019-10-17",
+                "result": 0.5,
+                "id": "tournament_771_15"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "孟大运",
+                "black": "马朝风",
+                "date": "2019-10-18",
+                "result": 0,
+                "id": "tournament_771_16"
+            },
+            {
+                "white": "吕徽倩",
+                "black": "邓烈",
+                "date": "2019-10-18",
+                "result": 1,
+                "id": "tournament_771_17"
+            },
+            {
+                "white": "宋晶香",
+                "black": "金俊明",
+                "date": "2019-10-18",
+                "result": 1,
+                "id": "tournament_771_18"
+            }
+        ]
+    },
+    "tours": 6,
+    "time_control": "rapid"
+}

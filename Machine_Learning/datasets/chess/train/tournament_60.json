@@ -1,0 +1,219 @@
+{
+    "name": "tournament_60",
+    "start_date": "2014-06-10",
+    "end_date": "2014-06-17",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Zhu Yu ",
+                "black": "Wei Xing ",
+                "date": "2014-06-10",
+                "result": 1,
+                "id": "tournament_60_1"
+            },
+            {
+                "white": "Liu Qi Xi",
+                "black": "Liu Kun Han",
+                "date": "2014-06-10",
+                "result": 0.5,
+                "id": "tournament_60_2"
+            },
+            {
+                "white": "Zhang Ze ",
+                "black": "Chen Xue Qiang",
+                "date": "2014-06-10",
+                "result": 0,
+                "id": "tournament_60_3"
+            },
+            {
+                "white": "Zheng Qiu Liang",
+                "black": "Cheng Mo Mei",
+                "date": "2014-06-10",
+                "result": 0.5,
+                "id": "tournament_60_4"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Wei Xing ",
+                "black": "Liu Qi Xi",
+                "date": "2014-06-11",
+                "result": 0,
+                "id": "tournament_60_5"
+            },
+            {
+                "white": "Zhu Yu ",
+                "black": "Zhang Ze ",
+                "date": "2014-06-11",
+                "result": 1,
+                "id": "tournament_60_6"
+            },
+            {
+                "white": "Zheng Qiu Liang",
+                "black": "Liu Kun Han",
+                "date": "2014-06-11",
+                "result": 0.5,
+                "id": "tournament_60_7"
+            },
+            {
+                "white": "Cheng Mo Mei",
+                "black": "Chen Xue Qiang",
+                "date": "2014-06-11",
+                "result": 0,
+                "id": "tournament_60_8"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Zhang Ze ",
+                "black": "Wei Xing ",
+                "date": "2014-06-12",
+                "result": 1,
+                "id": "tournament_60_9"
+            },
+            {
+                "white": "Liu Qi Xi",
+                "black": "Zheng Qiu Liang",
+                "date": "2014-06-12",
+                "result": 1,
+                "id": "tournament_60_10"
+            },
+            {
+                "white": "Zhu Yu ",
+                "black": "Cheng Mo Mei",
+                "date": "2014-06-12",
+                "result": 1,
+                "id": "tournament_60_11"
+            },
+            {
+                "white": "Chen Xue Qiang",
+                "black": "Liu Kun Han",
+                "date": "2014-06-12",
+                "result": 1,
+                "id": "tournament_60_12"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Wei Xing ",
+                "black": "Zheng Qiu Liang",
+                "date": "2014-06-13",
+                "result": 0,
+                "id": "tournament_60_13"
+            },
+            {
+                "white": "Zhang Ze ",
+                "black": "Cheng Mo Mei",
+                "date": "2014-06-13",
+                "result": 1,
+                "id": "tournament_60_14"
+            },
+            {
+                "white": "Liu Qi Xi",
+                "black": "Chen Xue Qiang",
+                "date": "2014-06-13",
+                "result": 0.5,
+                "id": "tournament_60_15"
+            },
+            {
+                "white": "Zhu Yu ",
+                "black": "Liu Kun Han",
+                "date": "2014-06-13",
+                "result": 0.5,
+                "id": "tournament_60_16"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Cheng Mo Mei",
+                "black": "Wei Xing ",
+                "date": "2014-06-14",
+                "result": 0.5,
+                "id": "tournament_60_17"
+            },
+            {
+                "white": "Zheng Qiu Liang",
+                "black": "Chen Xue Qiang",
+                "date": "2014-06-14",
+                "result": 0,
+                "id": "tournament_60_18"
+            },
+            {
+                "white": "Zhang Ze ",
+                "black": "Liu Kun Han",
+                "date": "2014-06-14",
+                "result": 0.5,
+                "id": "tournament_60_19"
+            },
+            {
+                "white": "Zhu Yu ",
+                "black": "Liu Qi Xi",
+                "date": "2014-06-14",
+                "result": 0.5,
+                "id": "tournament_60_20"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Wei Xing ",
+                "black": "Chen Xue Qiang",
+                "date": "2014-06-15",
+                "result": 0,
+                "id": "tournament_60_21"
+            },
+            {
+                "white": "Cheng Mo Mei",
+                "black": "Liu Kun Han",
+                "date": "2014-06-15",
+                "result": 0,
+                "id": "tournament_60_22"
+            },
+            {
+                "white": "Zhu Yu ",
+                "black": "Zheng Qiu Liang",
+                "date": "2014-06-15",
+                "result": 1,
+                "id": "tournament_60_23"
+            },
+            {
+                "white": "Liu Qi Xi",
+                "black": "Zhang Ze ",
+                "date": "2014-06-15",
+                "result": 0.5,
+                "id": "tournament_60_24"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Liu Kun Han",
+                "black": "Wei Xing ",
+                "date": "2014-06-16",
+                "result": 0.5,
+                "id": "tournament_60_25"
+            },
+            {
+                "white": "Zhu Yu ",
+                "black": "Chen Xue Qiang",
+                "date": "2014-06-16",
+                "result": 1,
+                "id": "tournament_60_26"
+            },
+            {
+                "white": "Liu Qi Xi",
+                "black": "Cheng Mo Mei",
+                "date": "2014-06-16",
+                "result": 0.5,
+                "id": "tournament_60_27"
+            },
+            {
+                "white": "Zhang Ze ",
+                "black": "Zheng Qiu Liang",
+                "date": "2014-06-16",
+                "result": 1,
+                "id": "tournament_60_28"
+            }
+        ]
+    },
+    "tours": 7,
+    "time_control": "rapid"
+}

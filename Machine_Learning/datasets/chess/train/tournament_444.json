@@ -1,0 +1,219 @@
+{
+    "name": "tournament_444",
+    "start_date": "2017-05-05",
+    "end_date": "2017-05-19",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Kang, Zihui",
+                "black": "Wang, Jiajuan",
+                "date": "2017-05-05",
+                "result": 0,
+                "id": "tournament_444_1"
+            },
+            {
+                "white": "Zheng, Yanfeng",
+                "black": "Hu, Jingxin",
+                "date": "2017-05-05",
+                "result": 0,
+                "id": "tournament_444_2"
+            },
+            {
+                "white": "Yuan, Zhenshan",
+                "black": "Zhang, Youqiang",
+                "date": "2017-05-05",
+                "result": 0.5,
+                "id": "tournament_444_3"
+            },
+            {
+                "white": "Liu, Jianxi",
+                "black": "Liu, Gaichuan",
+                "date": "2017-05-05",
+                "result": 1,
+                "id": "tournament_444_4"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Wang, Jiajuan",
+                "black": "Zheng, Yanfeng",
+                "date": "2017-05-07",
+                "result": 1,
+                "id": "tournament_444_5"
+            },
+            {
+                "white": "Kang, Zihui",
+                "black": "Yuan, Zhenshan",
+                "date": "2017-05-07",
+                "result": 0,
+                "id": "tournament_444_6"
+            },
+            {
+                "white": "Liu, Jianxi",
+                "black": "Hu, Jingxin",
+                "date": "2017-05-07",
+                "result": 1,
+                "id": "tournament_444_7"
+            },
+            {
+                "white": "Liu, Gaichuan",
+                "black": "Zhang, Youqiang",
+                "date": "2017-05-07",
+                "result": 0,
+                "id": "tournament_444_8"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Yuan, Zhenshan",
+                "black": "Wang, Jiajuan",
+                "date": "2017-05-09",
+                "result": 0.5,
+                "id": "tournament_444_9"
+            },
+            {
+                "white": "Zheng, Yanfeng",
+                "black": "Liu, Jianxi",
+                "date": "2017-05-09",
+                "result": 0,
+                "id": "tournament_444_10"
+            },
+            {
+                "white": "Kang, Zihui",
+                "black": "Liu, Gaichuan",
+                "date": "2017-05-09",
+                "result": 0.5,
+                "id": "tournament_444_11"
+            },
+            {
+                "white": "Zhang, Youqiang",
+                "black": "Hu, Jingxin",
+                "date": "2017-05-09",
+                "result": 1,
+                "id": "tournament_444_12"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Wang, Jiajuan",
+                "black": "Liu, Jianxi",
+                "date": "2017-05-11",
+                "result": 1,
+                "id": "tournament_444_13"
+            },
+            {
+                "white": "Yuan, Zhenshan",
+                "black": "Liu, Gaichuan",
+                "date": "2017-05-11",
+                "result": 1,
+                "id": "tournament_444_14"
+            },
+            {
+                "white": "Zheng, Yanfeng",
+                "black": "Zhang, Youqiang",
+                "date": "2017-05-11",
+                "result": 0.5,
+                "id": "tournament_444_15"
+            },
+            {
+                "white": "Kang, Zihui",
+                "black": "Hu, Jingxin",
+                "date": "2017-05-11",
+                "result": 0,
+                "id": "tournament_444_16"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Liu, Gaichuan",
+                "black": "Wang, Jiajuan",
+                "date": "2017-05-13",
+                "result": 0,
+                "id": "tournament_444_17"
+            },
+            {
+                "white": "Liu, Jianxi",
+                "black": "Zhang, Youqiang",
+                "date": "2017-05-13",
+                "result": 1,
+                "id": "tournament_444_18"
+            },
+            {
+                "white": "Yuan, Zhenshan",
+                "black": "Hu, Jingxin",
+                "date": "2017-05-13",
+                "result": 1,
+                "id": "tournament_444_19"
+            },
+            {
+                "white": "Kang, Zihui",
+                "black": "Zheng, Yanfeng",
+                "date": "2017-05-13",
+                "result": 1,
+                "id": "tournament_444_20"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Wang, Jiajuan",
+                "black": "Zhang, Youqiang",
+                "date": "2017-05-15",
+                "result": 0.5,
+                "id": "tournament_444_21"
+            },
+            {
+                "white": "Liu, Gaichuan",
+                "black": "Hu, Jingxin",
+                "date": "2017-05-15",
+                "result": 0.5,
+                "id": "tournament_444_22"
+            },
+            {
+                "white": "Kang, Zihui",
+                "black": "Liu, Jianxi",
+                "date": "2017-05-15",
+                "result": 0,
+                "id": "tournament_444_23"
+            },
+            {
+                "white": "Zheng, Yanfeng",
+                "black": "Yuan, Zhenshan",
+                "date": "2017-05-15",
+                "result": 0,
+                "id": "tournament_444_24"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Hu, Jingxin",
+                "black": "Wang, Jiajuan",
+                "date": "2017-05-17",
+                "result": 0,
+                "id": "tournament_444_25"
+            },
+            {
+                "white": "Kang, Zihui",
+                "black": "Zhang, Youqiang",
+                "date": "2017-05-17",
+                "result": 0,
+                "id": "tournament_444_26"
+            },
+            {
+                "white": "Zheng, Yanfeng",
+                "black": "Liu, Gaichuan",
+                "date": "2017-05-17",
+                "result": 0,
+                "id": "tournament_444_27"
+            },
+            {
+                "white": "Yuan, Zhenshan",
+                "black": "Liu, Jianxi",
+                "date": "2017-05-17",
+                "result": 0.5,
+                "id": "tournament_444_28"
+            }
+        ]
+    },
+    "tours": 7,
+    "time_control": "rapid"
+}

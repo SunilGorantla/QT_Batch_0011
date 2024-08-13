@@ -1,0 +1,493 @@
+{
+    "name": "tournament_480",
+    "start_date": "2017-08-25",
+    "end_date": "2017-09-05",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Wu, Haifang",
+                "black": "Song, Zeji",
+                "date": "2017-08-25",
+                "result": 0,
+                "id": "tournament_480_1"
+            },
+            {
+                "white": "Zhao, Baoyu",
+                "black": "Gao, Xiaochen",
+                "date": "2017-08-25",
+                "result": 0,
+                "id": "tournament_480_2"
+            },
+            {
+                "white": "Liu, Jianxi",
+                "black": "Su, Yiyi",
+                "date": "2017-08-25",
+                "result": 0.5,
+                "id": "tournament_480_3"
+            },
+            {
+                "white": "Hu, Jianjing",
+                "black": "Wang, Jun",
+                "date": "2017-08-25",
+                "result": 0.5,
+                "id": "tournament_480_4"
+            },
+            {
+                "white": "Fan, Wenan",
+                "black": "Wang, Xuanyan",
+                "date": "2017-08-25",
+                "result": 0.5,
+                "id": "tournament_480_5"
+            },
+            {
+                "white": "Shi, Yufa",
+                "black": "Yang, Suping",
+                "date": "2017-08-25",
+                "result": 1,
+                "id": "tournament_480_6"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Song, Zeji",
+                "black": "Zhao, Baoyu",
+                "date": "2017-08-26",
+                "result": 1,
+                "id": "tournament_480_7"
+            },
+            {
+                "white": "Wu, Haifang",
+                "black": "Liu, Jianxi",
+                "date": "2017-08-26",
+                "result": 0,
+                "id": "tournament_480_8"
+            },
+            {
+                "white": "Hu, Jianjing",
+                "black": "Gao, Xiaochen",
+                "date": "2017-08-26",
+                "result": 0.5,
+                "id": "tournament_480_9"
+            },
+            {
+                "white": "Fan, Wenan",
+                "black": "Su, Yiyi",
+                "date": "2017-08-26",
+                "result": 1,
+                "id": "tournament_480_10"
+            },
+            {
+                "white": "Shi, Yufa",
+                "black": "Wang, Jun",
+                "date": "2017-08-26",
+                "result": 1,
+                "id": "tournament_480_11"
+            },
+            {
+                "white": "Yang, Suping",
+                "black": "Wang, Xuanyan",
+                "date": "2017-08-26",
+                "result": 1,
+                "id": "tournament_480_12"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Liu, Jianxi",
+                "black": "Song, Zeji",
+                "date": "2017-08-27",
+                "result": 0.5,
+                "id": "tournament_480_13"
+            },
+            {
+                "white": "Zhao, Baoyu",
+                "black": "Hu, Jianjing",
+                "date": "2017-08-27",
+                "result": 0,
+                "id": "tournament_480_14"
+            },
+            {
+                "white": "Wu, Haifang",
+                "black": "Fan, Wenan",
+                "date": "2017-08-27",
+                "result": 0,
+                "id": "tournament_480_15"
+            },
+            {
+                "white": "Shi, Yufa",
+                "black": "Gao, Xiaochen",
+                "date": "2017-08-27",
+                "result": 0,
+                "id": "tournament_480_16"
+            },
+            {
+                "white": "Yang, Suping",
+                "black": "Su, Yiyi",
+                "date": "2017-08-27",
+                "result": 0,
+                "id": "tournament_480_17"
+            },
+            {
+                "white": "Wang, Xuanyan",
+                "black": "Wang, Jun",
+                "date": "2017-08-27",
+                "result": 0,
+                "id": "tournament_480_18"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Song, Zeji",
+                "black": "Hu, Jianjing",
+                "date": "2017-08-28",
+                "result": 1,
+                "id": "tournament_480_19"
+            },
+            {
+                "white": "Liu, Jianxi",
+                "black": "Fan, Wenan",
+                "date": "2017-08-28",
+                "result": 0.5,
+                "id": "tournament_480_20"
+            },
+            {
+                "white": "Zhao, Baoyu",
+                "black": "Shi, Yufa",
+                "date": "2017-08-28",
+                "result": 0,
+                "id": "tournament_480_21"
+            },
+            {
+                "white": "Wu, Haifang",
+                "black": "Yang, Suping",
+                "date": "2017-08-28",
+                "result": 0,
+                "id": "tournament_480_22"
+            },
+            {
+                "white": "Wang, Xuanyan",
+                "black": "Gao, Xiaochen",
+                "date": "2017-08-28",
+                "result": 0.5,
+                "id": "tournament_480_23"
+            },
+            {
+                "white": "Wang, Jun",
+                "black": "Su, Yiyi",
+                "date": "2017-08-28",
+                "result": 0,
+                "id": "tournament_480_24"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Fan, Wenan",
+                "black": "Song, Zeji",
+                "date": "2017-08-29",
+                "result": 0,
+                "id": "tournament_480_25"
+            },
+            {
+                "white": "Hu, Jianjing",
+                "black": "Shi, Yufa",
+                "date": "2017-08-29",
+                "result": 0.5,
+                "id": "tournament_480_26"
+            },
+            {
+                "white": "Liu, Jianxi",
+                "black": "Yang, Suping",
+                "date": "2017-08-29",
+                "result": 1,
+                "id": "tournament_480_27"
+            },
+            {
+                "white": "Zhao, Baoyu",
+                "black": "Wang, Xuanyan",
+                "date": "2017-08-29",
+                "result": 1,
+                "id": "tournament_480_28"
+            },
+            {
+                "white": "Wu, Haifang",
+                "black": "Wang, Jun",
+                "date": "2017-08-29",
+                "result": 0.5,
+                "id": "tournament_480_29"
+            },
+            {
+                "white": "Su, Yiyi",
+                "black": "Gao, Xiaochen",
+                "date": "2017-08-29",
+                "result": 0,
+                "id": "tournament_480_30"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Song, Zeji",
+                "black": "Shi, Yufa",
+                "date": "2017-08-30",
+                "result": 1,
+                "id": "tournament_480_31"
+            },
+            {
+                "white": "Fan, Wenan",
+                "black": "Yang, Suping",
+                "date": "2017-08-30",
+                "result": 1,
+                "id": "tournament_480_32"
+            },
+            {
+                "white": "Hu, Jianjing",
+                "black": "Wang, Xuanyan",
+                "date": "2017-08-30",
+                "result": 1,
+                "id": "tournament_480_33"
+            },
+            {
+                "white": "Liu, Jianxi",
+                "black": "Wang, Jun",
+                "date": "2017-08-30",
+                "result": 1,
+                "id": "tournament_480_34"
+            },
+            {
+                "white": "Zhao, Baoyu",
+                "black": "Su, Yiyi",
+                "date": "2017-08-30",
+                "result": 0,
+                "id": "tournament_480_35"
+            },
+            {
+                "white": "Wu, Haifang",
+                "black": "Gao, Xiaochen",
+                "date": "2017-08-30",
+                "result": 0,
+                "id": "tournament_480_36"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Yang, Suping",
+                "black": "Song, Zeji",
+                "date": "2017-08-31",
+                "result": 0,
+                "id": "tournament_480_37"
+            },
+            {
+                "white": "Shi, Yufa",
+                "black": "Wang, Xuanyan",
+                "date": "2017-08-31",
+                "result": 1,
+                "id": "tournament_480_38"
+            },
+            {
+                "white": "Fan, Wenan",
+                "black": "Wang, Jun",
+                "date": "2017-08-31",
+                "result": 1,
+                "id": "tournament_480_39"
+            },
+            {
+                "white": "Hu, Jianjing",
+                "black": "Su, Yiyi",
+                "date": "2017-08-31",
+                "result": 0.5,
+                "id": "tournament_480_40"
+            },
+            {
+                "white": "Liu, Jianxi",
+                "black": "Gao, Xiaochen",
+                "date": "2017-08-31",
+                "result": 1,
+                "id": "tournament_480_41"
+            },
+            {
+                "white": "Wu, Haifang",
+                "black": "Zhao, Baoyu",
+                "date": "2017-08-31",
+                "result": 0,
+                "id": "tournament_480_42"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Song, Zeji",
+                "black": "Wang, Xuanyan",
+                "date": "2017-09-01",
+                "result": 1,
+                "id": "tournament_480_43"
+            },
+            {
+                "white": "Yang, Suping",
+                "black": "Wang, Jun",
+                "date": "2017-09-01",
+                "result": 0,
+                "id": "tournament_480_44"
+            },
+            {
+                "white": "Shi, Yufa",
+                "black": "Su, Yiyi",
+                "date": "2017-09-01",
+                "result": 0,
+                "id": "tournament_480_45"
+            },
+            {
+                "white": "Fan, Wenan",
+                "black": "Gao, Xiaochen",
+                "date": "2017-09-01",
+                "result": 1,
+                "id": "tournament_480_46"
+            },
+            {
+                "white": "Wu, Haifang",
+                "black": "Hu, Jianjing",
+                "date": "2017-09-01",
+                "result": 0,
+                "id": "tournament_480_47"
+            },
+            {
+                "white": "Zhao, Baoyu",
+                "black": "Liu, Jianxi",
+                "date": "2017-09-01",
+                "result": 0,
+                "id": "tournament_480_48"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Wang, Jun",
+                "black": "Song, Zeji",
+                "date": "2017-09-02",
+                "result": 0,
+                "id": "tournament_480_49"
+            },
+            {
+                "white": "Wang, Xuanyan",
+                "black": "Su, Yiyi",
+                "date": "2017-09-02",
+                "result": 0,
+                "id": "tournament_480_50"
+            },
+            {
+                "white": "Yang, Suping",
+                "black": "Gao, Xiaochen",
+                "date": "2017-09-02",
+                "result": 0,
+                "id": "tournament_480_51"
+            },
+            {
+                "white": "Wu, Haifang",
+                "black": "Shi, Yufa",
+                "date": "2017-09-02",
+                "result": 0,
+                "id": "tournament_480_52"
+            },
+            {
+                "white": "Zhao, Baoyu",
+                "black": "Fan, Wenan",
+                "date": "2017-09-02",
+                "result": 0,
+                "id": "tournament_480_53"
+            },
+            {
+                "white": "Liu, Jianxi",
+                "black": "Hu, Jianjing",
+                "date": "2017-09-02",
+                "result": 1,
+                "id": "tournament_480_54"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "Song, Zeji",
+                "black": "Su, Yiyi",
+                "date": "2017-09-03",
+                "result": 1,
+                "id": "tournament_480_55"
+            },
+            {
+                "white": "Wang, Jun",
+                "black": "Gao, Xiaochen",
+                "date": "2017-09-03",
+                "result": 1,
+                "id": "tournament_480_56"
+            },
+            {
+                "white": "Wu, Haifang",
+                "black": "Wang, Xuanyan",
+                "date": "2017-09-03",
+                "result": 0,
+                "id": "tournament_480_57"
+            },
+            {
+                "white": "Zhao, Baoyu",
+                "black": "Yang, Suping",
+                "date": "2017-09-03",
+                "result": 0.5,
+                "id": "tournament_480_58"
+            },
+            {
+                "white": "Liu, Jianxi",
+                "black": "Shi, Yufa",
+                "date": "2017-09-03",
+                "result": 1,
+                "id": "tournament_480_59"
+            },
+            {
+                "white": "Hu, Jianjing",
+                "black": "Fan, Wenan",
+                "date": "2017-09-03",
+                "result": 1,
+                "id": "tournament_480_60"
+            }
+        ],
+        "tour_11": [
+            {
+                "white": "Gao, Xiaochen",
+                "black": "Song, Zeji",
+                "date": "2017-09-04",
+                "result": 0,
+                "id": "tournament_480_61"
+            },
+            {
+                "white": "Wu, Haifang",
+                "black": "Su, Yiyi",
+                "date": "2017-09-04",
+                "result": 0.5,
+                "id": "tournament_480_62"
+            },
+            {
+                "white": "Zhao, Baoyu",
+                "black": "Wang, Jun",
+                "date": "2017-09-04",
+                "result": 0,
+                "id": "tournament_480_63"
+            },
+            {
+                "white": "Liu, Jianxi",
+                "black": "Wang, Xuanyan",
+                "date": "2017-09-04",
+                "result": 1,
+                "id": "tournament_480_64"
+            },
+            {
+                "white": "Hu, Jianjing",
+                "black": "Yang, Suping",
+                "date": "2017-09-04",
+                "result": 1,
+                "id": "tournament_480_65"
+            },
+            {
+                "white": "Fan, Wenan",
+                "black": "Shi, Yufa",
+                "date": "2017-09-04",
+                "result": 1,
+                "id": "tournament_480_66"
+            }
+        ]
+    },
+    "tours": 11,
+    "time_control": "rapid"
+}

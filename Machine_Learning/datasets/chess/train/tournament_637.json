@@ -1,0 +1,537 @@
+{
+    "name": "tournament_637",
+    "start_date": "2018-10-08",
+    "end_date": "2018-10-20",
+    "games": {
+        "tour_1": [
+            {
+                "white": "袁贞山",
+                "black": "钱伯珏",
+                "date": "2018-10-08",
+                "result": 0,
+                "id": "tournament_637_1"
+            },
+            {
+                "white": "周连",
+                "black": "孙立红",
+                "date": "2018-10-08",
+                "result": 1,
+                "id": "tournament_637_2"
+            },
+            {
+                "white": "姚伟霞",
+                "black": "张炎",
+                "date": "2018-10-08",
+                "result": 0,
+                "id": "tournament_637_3"
+            },
+            {
+                "white": "冯柏贞",
+                "black": "顾加军",
+                "date": "2018-10-08",
+                "result": 0,
+                "id": "tournament_637_4"
+            },
+            {
+                "white": "何建芝",
+                "black": "陈玉柯",
+                "date": "2018-10-08",
+                "result": 0,
+                "id": "tournament_637_5"
+            },
+            {
+                "white": "王小川",
+                "black": "蔡悦汶",
+                "date": "2018-10-08",
+                "result": 1,
+                "id": "tournament_637_6"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "吴春飞",
+                "black": "袁贞山",
+                "date": "2018-10-09",
+                "result": 1,
+                "id": "tournament_637_7"
+            },
+            {
+                "white": "姚伟霞",
+                "black": "钱伯珏",
+                "date": "2018-10-09",
+                "result": 0,
+                "id": "tournament_637_8"
+            },
+            {
+                "white": "冯柏贞",
+                "black": "孙立红",
+                "date": "2018-10-09",
+                "result": 0,
+                "id": "tournament_637_9"
+            },
+            {
+                "white": "何建芝",
+                "black": "张炎",
+                "date": "2018-10-09",
+                "result": 0,
+                "id": "tournament_637_10"
+            },
+            {
+                "white": "王小川",
+                "black": "顾加军",
+                "date": "2018-10-09",
+                "result": 1,
+                "id": "tournament_637_11"
+            },
+            {
+                "white": "蔡悦汶",
+                "black": "陈玉柯",
+                "date": "2018-10-09",
+                "result": 0,
+                "id": "tournament_637_12"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "周连",
+                "black": "吴春飞",
+                "date": "2018-10-10",
+                "result": 0,
+                "id": "tournament_637_13"
+            },
+            {
+                "white": "袁贞山",
+                "black": "姚伟霞",
+                "date": "2018-10-10",
+                "result": 0.5,
+                "id": "tournament_637_14"
+            },
+            {
+                "white": "何建芝",
+                "black": "钱伯珏",
+                "date": "2018-10-10",
+                "result": 0,
+                "id": "tournament_637_15"
+            },
+            {
+                "white": "王小川",
+                "black": "孙立红",
+                "date": "2018-10-10",
+                "result": 1,
+                "id": "tournament_637_16"
+            },
+            {
+                "white": "蔡悦汶",
+                "black": "张炎",
+                "date": "2018-10-10",
+                "result": 0.5,
+                "id": "tournament_637_17"
+            },
+            {
+                "white": "陈玉柯",
+                "black": "顾加军",
+                "date": "2018-10-10",
+                "result": 1,
+                "id": "tournament_637_18"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "吴春飞",
+                "black": "姚伟霞",
+                "date": "2018-10-11",
+                "result": 1,
+                "id": "tournament_637_19"
+            },
+            {
+                "white": "周连",
+                "black": "冯柏贞",
+                "date": "2018-10-11",
+                "result": 1,
+                "id": "tournament_637_20"
+            },
+            {
+                "white": "袁贞山",
+                "black": "何建芝",
+                "date": "2018-10-11",
+                "result": 1,
+                "id": "tournament_637_21"
+            },
+            {
+                "white": "蔡悦汶",
+                "black": "钱伯珏",
+                "date": "2018-10-11",
+                "result": 0,
+                "id": "tournament_637_22"
+            },
+            {
+                "white": "陈玉柯",
+                "black": "孙立红",
+                "date": "2018-10-11",
+                "result": 1,
+                "id": "tournament_637_23"
+            },
+            {
+                "white": "顾加军",
+                "black": "张炎",
+                "date": "2018-10-11",
+                "result": 1,
+                "id": "tournament_637_24"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "冯柏贞",
+                "black": "吴春飞",
+                "date": "2018-10-12",
+                "result": 0,
+                "id": "tournament_637_25"
+            },
+            {
+                "white": "姚伟霞",
+                "black": "何建芝",
+                "date": "2018-10-12",
+                "result": 1,
+                "id": "tournament_637_26"
+            },
+            {
+                "white": "周连",
+                "black": "王小川",
+                "date": "2018-10-12",
+                "result": 0.5,
+                "id": "tournament_637_27"
+            },
+            {
+                "white": "袁贞山",
+                "black": "蔡悦汶",
+                "date": "2018-10-12",
+                "result": 0,
+                "id": "tournament_637_28"
+            },
+            {
+                "white": "顾加军",
+                "black": "钱伯珏",
+                "date": "2018-10-12",
+                "result": 0,
+                "id": "tournament_637_29"
+            },
+            {
+                "white": "张炎",
+                "black": "孙立红",
+                "date": "2018-10-12",
+                "result": 1,
+                "id": "tournament_637_30"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "吴春飞",
+                "black": "何建芝",
+                "date": "2018-10-13",
+                "result": 1,
+                "id": "tournament_637_31"
+            },
+            {
+                "white": "冯柏贞",
+                "black": "王小川",
+                "date": "2018-10-13",
+                "result": 0.5,
+                "id": "tournament_637_32"
+            },
+            {
+                "white": "姚伟霞",
+                "black": "蔡悦汶",
+                "date": "2018-10-13",
+                "result": 0.5,
+                "id": "tournament_637_33"
+            },
+            {
+                "white": "周连",
+                "black": "陈玉柯",
+                "date": "2018-10-13",
+                "result": 0,
+                "id": "tournament_637_34"
+            },
+            {
+                "white": "袁贞山",
+                "black": "顾加军",
+                "date": "2018-10-13",
+                "result": 0.5,
+                "id": "tournament_637_35"
+            },
+            {
+                "white": "孙立红",
+                "black": "钱伯珏",
+                "date": "2018-10-13",
+                "result": 0,
+                "id": "tournament_637_36"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "王小川",
+                "black": "吴春飞",
+                "date": "2018-10-14",
+                "result": 0,
+                "id": "tournament_637_37"
+            },
+            {
+                "white": "何建芝",
+                "black": "蔡悦汶",
+                "date": "2018-10-14",
+                "result": 1,
+                "id": "tournament_637_38"
+            },
+            {
+                "white": "冯柏贞",
+                "black": "陈玉柯",
+                "date": "2018-10-14",
+                "result": 0,
+                "id": "tournament_637_39"
+            },
+            {
+                "white": "姚伟霞",
+                "black": "顾加军",
+                "date": "2018-10-14",
+                "result": 0.5,
+                "id": "tournament_637_40"
+            },
+            {
+                "white": "周连",
+                "black": "张炎",
+                "date": "2018-10-14",
+                "result": 0,
+                "id": "tournament_637_41"
+            },
+            {
+                "white": "袁贞山",
+                "black": "孙立红",
+                "date": "2018-10-14",
+                "result": 0.5,
+                "id": "tournament_637_42"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "吴春飞",
+                "black": "蔡悦汶",
+                "date": "2018-10-15",
+                "result": 1,
+                "id": "tournament_637_43"
+            },
+            {
+                "white": "王小川",
+                "black": "陈玉柯",
+                "date": "2018-10-15",
+                "result": 0.5,
+                "id": "tournament_637_44"
+            },
+            {
+                "white": "何建芝",
+                "black": "顾加军",
+                "date": "2018-10-15",
+                "result": 0.5,
+                "id": "tournament_637_45"
+            },
+            {
+                "white": "冯柏贞",
+                "black": "张炎",
+                "date": "2018-10-15",
+                "result": 0.5,
+                "id": "tournament_637_46"
+            },
+            {
+                "white": "姚伟霞",
+                "black": "孙立红",
+                "date": "2018-10-15",
+                "result": 0.5,
+                "id": "tournament_637_47"
+            },
+            {
+                "white": "周连",
+                "black": "钱伯珏",
+                "date": "2018-10-15",
+                "result": 0,
+                "id": "tournament_637_48"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "陈玉柯",
+                "black": "吴春飞",
+                "date": "2018-10-16",
+                "result": 0.5,
+                "id": "tournament_637_49"
+            },
+            {
+                "white": "蔡悦汶",
+                "black": "顾加军",
+                "date": "2018-10-16",
+                "result": 0.5,
+                "id": "tournament_637_50"
+            },
+            {
+                "white": "王小川",
+                "black": "张炎",
+                "date": "2018-10-16",
+                "result": 1,
+                "id": "tournament_637_51"
+            },
+            {
+                "white": "何建芝",
+                "black": "孙立红",
+                "date": "2018-10-16",
+                "result": 0.5,
+                "id": "tournament_637_52"
+            },
+            {
+                "white": "冯柏贞",
+                "black": "钱伯珏",
+                "date": "2018-10-16",
+                "result": 0,
+                "id": "tournament_637_53"
+            },
+            {
+                "white": "袁贞山",
+                "black": "周连",
+                "date": "2018-10-16",
+                "result": 1,
+                "id": "tournament_637_54"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "吴春飞",
+                "black": "顾加军",
+                "date": "2018-10-17",
+                "result": 1,
+                "id": "tournament_637_55"
+            },
+            {
+                "white": "陈玉柯",
+                "black": "张炎",
+                "date": "2018-10-17",
+                "result": 1,
+                "id": "tournament_637_56"
+            },
+            {
+                "white": "蔡悦汶",
+                "black": "孙立红",
+                "date": "2018-10-17",
+                "result": 0.5,
+                "id": "tournament_637_57"
+            },
+            {
+                "white": "王小川",
+                "black": "钱伯珏",
+                "date": "2018-10-17",
+                "result": 0,
+                "id": "tournament_637_58"
+            },
+            {
+                "white": "袁贞山",
+                "black": "冯柏贞",
+                "date": "2018-10-17",
+                "result": 1,
+                "id": "tournament_637_59"
+            },
+            {
+                "white": "周连",
+                "black": "姚伟霞",
+                "date": "2018-10-17",
+                "result": 0.5,
+                "id": "tournament_637_60"
+            }
+        ],
+        "tour_11": [
+            {
+                "white": "张炎",
+                "black": "吴春飞",
+                "date": "2018-10-18",
+                "result": 0,
+                "id": "tournament_637_61"
+            },
+            {
+                "white": "顾加军",
+                "black": "孙立红",
+                "date": "2018-10-18",
+                "result": 0.5,
+                "id": "tournament_637_62"
+            },
+            {
+                "white": "陈玉柯",
+                "black": "钱伯珏",
+                "date": "2018-10-18",
+                "result": 0.5,
+                "id": "tournament_637_63"
+            },
+            {
+                "white": "袁贞山",
+                "black": "王小川",
+                "date": "2018-10-18",
+                "result": 0,
+                "id": "tournament_637_64"
+            },
+            {
+                "white": "周连",
+                "black": "何建芝",
+                "date": "2018-10-18",
+                "result": 1,
+                "id": "tournament_637_65"
+            },
+            {
+                "white": "姚伟霞",
+                "black": "冯柏贞",
+                "date": "2018-10-18",
+                "result": 1,
+                "id": "tournament_637_66"
+            }
+        ],
+        "tour_12": [
+            {
+                "white": "吴春飞",
+                "black": "孙立红",
+                "date": "2018-10-19",
+                "result": 1,
+                "id": "tournament_637_67"
+            },
+            {
+                "white": "张炎",
+                "black": "钱伯珏",
+                "date": "2018-10-19",
+                "result": 0,
+                "id": "tournament_637_68"
+            },
+            {
+                "white": "袁贞山",
+                "black": "陈玉柯",
+                "date": "2018-10-19",
+                "result": 0,
+                "id": "tournament_637_69"
+            },
+            {
+                "white": "周连",
+                "black": "蔡悦汶",
+                "date": "2018-10-19",
+                "result": 0,
+                "id": "tournament_637_70"
+            },
+            {
+                "white": "姚伟霞",
+                "black": "王小川",
+                "date": "2018-10-19",
+                "result": 0.5,
+                "id": "tournament_637_71"
+            },
+            {
+                "white": "冯柏贞",
+                "black": "何建芝",
+                "date": "2018-10-19",
+                "result": 0,
+                "id": "tournament_637_72"
+            }
+        ]
+    },
+    "tours": 12,
+    "time_control": "rapid"
+}

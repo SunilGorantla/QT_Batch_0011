@@ -1,0 +1,502 @@
+{
+    "name": "tournament_84",
+    "start_date": "2014-07-27",
+    "end_date": "2014-08-16",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Xing, Qiping",
+                "black": "Zhao, Suirong",
+                "date": "2014-07-27",
+                "result": 1,
+                "id": "tournament_84_1"
+            },
+            {
+                "white": "Zhao, Suirong",
+                "black": "Xing, Qiping",
+                "date": "2014-07-29",
+                "result": 0.5,
+                "id": "tournament_84_2"
+            },
+            {
+                "white": "Zhou, Yingji",
+                "black": "Wang, Cai",
+                "date": "2014-07-27",
+                "result": 0.5,
+                "id": "tournament_84_3"
+            },
+            {
+                "white": "Wang, Cai",
+                "black": "Zhou, Yingji",
+                "date": "2014-07-29",
+                "result": 0.5,
+                "id": "tournament_84_4"
+            },
+            {
+                "white": "Zhou, Yingji",
+                "black": "Wang, Cai",
+                "date": "2014-07-29",
+                "result": 0.5,
+                "id": "tournament_84_5"
+            },
+            {
+                "white": "Tan, Zai",
+                "black": "Xu, Taishan",
+                "date": "2014-07-27",
+                "result": 1,
+                "id": "tournament_84_6"
+            },
+            {
+                "white": "Xu, Taishan",
+                "black": "Tan, Zai",
+                "date": "2014-07-29",
+                "result": 0,
+                "id": "tournament_84_7"
+            },
+            {
+                "white": "Liu, Jinsong",
+                "black": "Qian, Shangying",
+                "date": "2014-07-27",
+                "result": 1,
+                "id": "tournament_84_8"
+            },
+            {
+                "white": "Qian, Shangying",
+                "black": "Liu, Jinsong",
+                "date": "2014-07-29",
+                "result": 0,
+                "id": "tournament_84_9"
+            },
+            {
+                "white": "Huang, Linxuan",
+                "black": "Qin, Naitao",
+                "date": "2014-07-27",
+                "result": 0,
+                "id": "tournament_84_10"
+            },
+            {
+                "white": "Qin, Naitao",
+                "black": "Huang, Linxuan",
+                "date": "2014-07-29",
+                "result": 1,
+                "id": "tournament_84_11"
+            },
+            {
+                "white": "Huang, Minxiang",
+                "black": "Jiang, Yi",
+                "date": "2014-07-27",
+                "result": 1,
+                "id": "tournament_84_12"
+            },
+            {
+                "white": "Jiang, Yi",
+                "black": "Huang, Minxiang",
+                "date": "2014-07-29",
+                "result": 0,
+                "id": "tournament_84_13"
+            },
+            {
+                "white": "Bi, Xiaoyue",
+                "black": "Guo, Hongmin",
+                "date": "2014-07-27",
+                "result": 1,
+                "id": "tournament_84_14"
+            },
+            {
+                "white": "Guo, Hongmin",
+                "black": "Bi, Xiaoyue",
+                "date": "2014-07-29",
+                "result": 0,
+                "id": "tournament_84_15"
+            },
+            {
+                "white": "Wen, Liling",
+                "black": "Luo, Xingshi",
+                "date": "2014-07-27",
+                "result": 0,
+                "id": "tournament_84_16"
+            },
+            {
+                "white": "Luo, Xingshi",
+                "black": "Wen, Liling",
+                "date": "2014-07-29",
+                "result": 0.5,
+                "id": "tournament_84_17"
+            },
+            {
+                "white": "Li, Hai",
+                "black": "Wen, Qingrong",
+                "date": "2014-07-27",
+                "result": 0.5,
+                "id": "tournament_84_18"
+            },
+            {
+                "white": "Wen, Qingrong",
+                "black": "Li, Hai",
+                "date": "2014-07-29",
+                "result": 0.5,
+                "id": "tournament_84_19"
+            },
+            {
+                "white": "Li, Hai",
+                "black": "Wen, Qingrong",
+                "date": "2014-07-29",
+                "result": 0,
+                "id": "tournament_84_20"
+            },
+            {
+                "white": "Xu, Kangbo",
+                "black": "Zheng, Liuge",
+                "date": "2014-07-27",
+                "result": 0,
+                "id": "tournament_84_21"
+            },
+            {
+                "white": "Zheng, Liuge",
+                "black": "Xu, Kangbo",
+                "date": "2014-07-29",
+                "result": 1,
+                "id": "tournament_84_22"
+            },
+            {
+                "white": "Li, Lujuan",
+                "black": "Wang, Jian",
+                "date": "2014-07-27",
+                "result": 1,
+                "id": "tournament_84_23"
+            },
+            {
+                "white": "Wang, Jian",
+                "black": "Li, Lujuan",
+                "date": "2014-07-29",
+                "result": 0,
+                "id": "tournament_84_24"
+            },
+            {
+                "white": "Zheng, Rendan",
+                "black": "Wang, Yinbin",
+                "date": "2014-07-27",
+                "result": 0,
+                "id": "tournament_84_25"
+            },
+            {
+                "white": "Wang, Yinbin",
+                "black": "Zheng, Rendan",
+                "date": "2014-07-29",
+                "result": 1,
+                "id": "tournament_84_26"
+            },
+            {
+                "white": "Zhang, Muli",
+                "black": "Wang, Jin",
+                "date": "2014-07-27",
+                "result": 0.5,
+                "id": "tournament_84_27"
+            },
+            {
+                "white": "Wang, Jin",
+                "black": "Zhang, Muli",
+                "date": "2014-07-29",
+                "result": 1,
+                "id": "tournament_84_28"
+            },
+            {
+                "white": "Liang, Jinzhou",
+                "black": "Qian, Bojue",
+                "date": "2014-07-27",
+                "result": 0,
+                "id": "tournament_84_29"
+            },
+            {
+                "white": "Qian, Bojue",
+                "black": "Liang, Jinzhou",
+                "date": "2014-07-29",
+                "result": 1,
+                "id": "tournament_84_30"
+            },
+            {
+                "white": "Liu, Jingqiang",
+                "black": "Chen, Si",
+                "date": "2014-07-27",
+                "result": 0.5,
+                "id": "tournament_84_31"
+            },
+            {
+                "white": "Chen, Si",
+                "black": "Liu, Jingqiang",
+                "date": "2014-07-29",
+                "result": 0,
+                "id": "tournament_84_32"
+            },
+            {
+                "white": "Zhang, Yejun",
+                "black": "Liu, Liming",
+                "date": "2014-07-27",
+                "result": 0.5,
+                "id": "tournament_84_33"
+            },
+            {
+                "white": "Liu, Liming",
+                "black": "Zhang, Yejun",
+                "date": "2014-07-29",
+                "result": 1,
+                "id": "tournament_84_34"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Xing, Qiping",
+                "black": "Wang, Cai",
+                "date": "2014-07-31",
+                "result": 0.5,
+                "id": "tournament_84_35"
+            },
+            {
+                "white": "Wang, Cai",
+                "black": "Xing, Qiping",
+                "date": "2014-08-02",
+                "result": 0.5,
+                "id": "tournament_84_36"
+            },
+            {
+                "white": "Xing, Qiping",
+                "black": "Wang, Cai",
+                "date": "2014-08-02",
+                "result": 0.5,
+                "id": "tournament_84_37"
+            },
+            {
+                "white": "Tan, Zai",
+                "black": "Liu, Jinsong",
+                "date": "2014-07-31",
+                "result": 0.5,
+                "id": "tournament_84_38"
+            },
+            {
+                "white": "Liu, Jinsong",
+                "black": "Tan, Zai",
+                "date": "2014-08-02",
+                "result": 1,
+                "id": "tournament_84_39"
+            },
+            {
+                "white": "Qin, Naitao",
+                "black": "Huang, Minxiang",
+                "date": "2014-07-31",
+                "result": 1,
+                "id": "tournament_84_40"
+            },
+            {
+                "white": "Huang, Minxiang",
+                "black": "Qin, Naitao",
+                "date": "2014-08-02",
+                "result": 0,
+                "id": "tournament_84_41"
+            },
+            {
+                "white": "Bi, Xiaoyue",
+                "black": "Luo, Xingshi",
+                "date": "2014-07-31",
+                "result": 0,
+                "id": "tournament_84_42"
+            },
+            {
+                "white": "Luo, Xingshi",
+                "black": "Bi, Xiaoyue",
+                "date": "2014-08-02",
+                "result": 1,
+                "id": "tournament_84_43"
+            },
+            {
+                "white": "Wen, Qingrong",
+                "black": "Zheng, Liuge",
+                "date": "2014-07-31",
+                "result": 0.5,
+                "id": "tournament_84_44"
+            },
+            {
+                "white": "Zheng, Liuge",
+                "black": "Wen, Qingrong",
+                "date": "2014-08-02",
+                "result": 0.5,
+                "id": "tournament_84_45"
+            },
+            {
+                "white": "Wen, Qingrong",
+                "black": "Zheng, Liuge",
+                "date": "2014-08-02",
+                "result": 0.5,
+                "id": "tournament_84_46"
+            },
+            {
+                "white": "Li, Lujuan",
+                "black": "Wang, Yinbin",
+                "date": "2014-07-31",
+                "result": 0.5,
+                "id": "tournament_84_47"
+            },
+            {
+                "white": "Wang, Yinbin",
+                "black": "Li, Lujuan",
+                "date": "2014-08-02",
+                "result": 0.5,
+                "id": "tournament_84_48"
+            },
+            {
+                "white": "Li, Lujuan",
+                "black": "Wang, Yinbin",
+                "date": "2014-08-02",
+                "result": 0.5,
+                "id": "tournament_84_49"
+            },
+            {
+                "white": "Wang, Jin",
+                "black": "Qian, Bojue",
+                "date": "2014-07-31",
+                "result": 0.5,
+                "id": "tournament_84_50"
+            },
+            {
+                "white": "Qian, Bojue",
+                "black": "Wang, Jin",
+                "date": "2014-08-02",
+                "result": 0.5,
+                "id": "tournament_84_51"
+            },
+            {
+                "white": "Wang, Jin",
+                "black": "Qian, Bojue",
+                "date": "2014-08-02",
+                "result": 0.5,
+                "id": "tournament_84_52"
+            },
+            {
+                "white": "Liu, Jingqiang",
+                "black": "Liu, Liming",
+                "date": "2014-07-31",
+                "result": 0.5,
+                "id": "tournament_84_53"
+            },
+            {
+                "white": "Liu, Liming",
+                "black": "Liu, Jingqiang",
+                "date": "2014-08-02",
+                "result": 0,
+                "id": "tournament_84_54"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Wang, Cai",
+                "black": "Liu, Jinsong",
+                "date": "2014-08-04",
+                "result": 0.5,
+                "id": "tournament_84_55"
+            },
+            {
+                "white": "Liu, Jinsong",
+                "black": "Wang, Cai",
+                "date": "2014-08-06",
+                "result": 0,
+                "id": "tournament_84_56"
+            },
+            {
+                "white": "Qin, Naitao",
+                "black": "Luo, Xingshi",
+                "date": "2014-08-04",
+                "result": 1,
+                "id": "tournament_84_57"
+            },
+            {
+                "white": "Luo, Xingshi",
+                "black": "Qin, Naitao",
+                "date": "2014-08-06",
+                "result": 0,
+                "id": "tournament_84_58"
+            },
+            {
+                "white": "Zheng, Liuge",
+                "black": "Wang, Yinbin",
+                "date": "2014-08-04",
+                "result": 0.5,
+                "id": "tournament_84_59"
+            },
+            {
+                "white": "Wang, Yinbin",
+                "black": "Zheng, Liuge",
+                "date": "2014-08-06",
+                "result": 0.5,
+                "id": "tournament_84_60"
+            },
+            {
+                "white": "Zheng, Liuge",
+                "black": "Wang, Yinbin",
+                "date": "2014-08-06",
+                "result": 1,
+                "id": "tournament_84_61"
+            },
+            {
+                "white": "Qian, Bojue",
+                "black": "Liu, Jingqiang",
+                "date": "2014-08-04",
+                "result": 1,
+                "id": "tournament_84_62"
+            },
+            {
+                "white": "Liu, Jingqiang",
+                "black": "Qian, Bojue",
+                "date": "2014-08-06",
+                "result": 0,
+                "id": "tournament_84_63"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Wang, Cai",
+                "black": "Qin, Naitao",
+                "date": "2014-08-08",
+                "result": 0,
+                "id": "tournament_84_64"
+            },
+            {
+                "white": "Qin, Naitao",
+                "black": "Wang, Cai",
+                "date": "2014-08-10",
+                "result": 1,
+                "id": "tournament_84_65"
+            },
+            {
+                "white": "Zheng, Liuge",
+                "black": "Qian, Bojue",
+                "date": "2014-08-08",
+                "result": 0,
+                "id": "tournament_84_66"
+            },
+            {
+                "white": "Qian, Bojue",
+                "black": "Zheng, Liuge",
+                "date": "2014-08-10",
+                "result": 1,
+                "id": "tournament_84_67"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Qin, Naitao",
+                "black": "Qian, Bojue",
+                "date": "2014-08-12",
+                "result": 0,
+                "id": "tournament_84_68"
+            },
+            {
+                "white": "Qian, Bojue",
+                "black": "Qin, Naitao",
+                "date": "2014-08-14",
+                "result": 0.5,
+                "id": "tournament_84_69"
+            }
+        ]
+    },
+    "tours": 5,
+    "time_control": "rapid"
+}

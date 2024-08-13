@@ -1,0 +1,379 @@
+{
+    "name": "tournament_504",
+    "start_date": "2017-10-31",
+    "end_date": "2017-11-10",
+    "games": {
+        "tour_1": [
+            {
+                "white": "李正洁",
+                "black": "赵保屿",
+                "date": "2017-10-31",
+                "result": 1,
+                "id": "tournament_504_1"
+            },
+            {
+                "white": "杨钰",
+                "black": "杨玮林",
+                "date": "2017-10-31",
+                "result": 0.5,
+                "id": "tournament_504_2"
+            },
+            {
+                "white": "朱于",
+                "black": "李玫烈",
+                "date": "2017-10-31",
+                "result": 0.5,
+                "id": "tournament_504_3"
+            },
+            {
+                "white": "邱辛木",
+                "black": "王吟彬",
+                "date": "2017-10-31",
+                "result": 1,
+                "id": "tournament_504_4"
+            },
+            {
+                "white": "王雪",
+                "black": "蔡悦汶",
+                "date": "2017-10-31",
+                "result": 0,
+                "id": "tournament_504_5"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "蔡玉雪",
+                "black": "李正洁",
+                "date": "2017-11-01",
+                "result": 0,
+                "id": "tournament_504_6"
+            },
+            {
+                "white": "朱于",
+                "black": "赵保屿",
+                "date": "2017-11-01",
+                "result": 1,
+                "id": "tournament_504_7"
+            },
+            {
+                "white": "邱辛木",
+                "black": "杨玮林",
+                "date": "2017-11-01",
+                "result": 1,
+                "id": "tournament_504_8"
+            },
+            {
+                "white": "王雪",
+                "black": "李玫烈",
+                "date": "2017-11-01",
+                "result": 0.5,
+                "id": "tournament_504_9"
+            },
+            {
+                "white": "蔡悦汶",
+                "black": "王吟彬",
+                "date": "2017-11-01",
+                "result": 1,
+                "id": "tournament_504_10"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "杨钰",
+                "black": "蔡玉雪",
+                "date": "2017-11-02",
+                "result": 1,
+                "id": "tournament_504_11"
+            },
+            {
+                "white": "李正洁",
+                "black": "朱于",
+                "date": "2017-11-02",
+                "result": 1,
+                "id": "tournament_504_12"
+            },
+            {
+                "white": "王雪",
+                "black": "赵保屿",
+                "date": "2017-11-02",
+                "result": 0.5,
+                "id": "tournament_504_13"
+            },
+            {
+                "white": "蔡悦汶",
+                "black": "杨玮林",
+                "date": "2017-11-02",
+                "result": 0.5,
+                "id": "tournament_504_14"
+            },
+            {
+                "white": "王吟彬",
+                "black": "李玫烈",
+                "date": "2017-11-02",
+                "result": 0,
+                "id": "tournament_504_15"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "蔡玉雪",
+                "black": "朱于",
+                "date": "2017-11-03",
+                "result": 0.5,
+                "id": "tournament_504_16"
+            },
+            {
+                "white": "杨钰",
+                "black": "邱辛木",
+                "date": "2017-11-03",
+                "result": 0.5,
+                "id": "tournament_504_17"
+            },
+            {
+                "white": "李正洁",
+                "black": "王雪",
+                "date": "2017-11-03",
+                "result": 1,
+                "id": "tournament_504_18"
+            },
+            {
+                "white": "王吟彬",
+                "black": "赵保屿",
+                "date": "2017-11-03",
+                "result": 0.5,
+                "id": "tournament_504_19"
+            },
+            {
+                "white": "李玫烈",
+                "black": "杨玮林",
+                "date": "2017-11-03",
+                "result": 1,
+                "id": "tournament_504_20"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "邱辛木",
+                "black": "蔡玉雪",
+                "date": "2017-11-04",
+                "result": 0.5,
+                "id": "tournament_504_21"
+            },
+            {
+                "white": "朱于",
+                "black": "王雪",
+                "date": "2017-11-04",
+                "result": 1,
+                "id": "tournament_504_22"
+            },
+            {
+                "white": "杨钰",
+                "black": "蔡悦汶",
+                "date": "2017-11-04",
+                "result": 1,
+                "id": "tournament_504_23"
+            },
+            {
+                "white": "李正洁",
+                "black": "王吟彬",
+                "date": "2017-11-04",
+                "result": 1,
+                "id": "tournament_504_24"
+            },
+            {
+                "white": "杨玮林",
+                "black": "赵保屿",
+                "date": "2017-11-04",
+                "result": 1,
+                "id": "tournament_504_25"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "蔡玉雪",
+                "black": "王雪",
+                "date": "2017-11-05",
+                "result": 0.5,
+                "id": "tournament_504_26"
+            },
+            {
+                "white": "邱辛木",
+                "black": "蔡悦汶",
+                "date": "2017-11-05",
+                "result": 1,
+                "id": "tournament_504_27"
+            },
+            {
+                "white": "朱于",
+                "black": "王吟彬",
+                "date": "2017-11-05",
+                "result": 1,
+                "id": "tournament_504_28"
+            },
+            {
+                "white": "杨钰",
+                "black": "李玫烈",
+                "date": "2017-11-05",
+                "result": 0.5,
+                "id": "tournament_504_29"
+            },
+            {
+                "white": "李正洁",
+                "black": "杨玮林",
+                "date": "2017-11-05",
+                "result": 0.5,
+                "id": "tournament_504_30"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "蔡悦汶",
+                "black": "蔡玉雪",
+                "date": "2017-11-06",
+                "result": 0.5,
+                "id": "tournament_504_31"
+            },
+            {
+                "white": "王雪",
+                "black": "王吟彬",
+                "date": "2017-11-06",
+                "result": 1,
+                "id": "tournament_504_32"
+            },
+            {
+                "white": "邱辛木",
+                "black": "李玫烈",
+                "date": "2017-11-06",
+                "result": 1,
+                "id": "tournament_504_33"
+            },
+            {
+                "white": "朱于",
+                "black": "杨玮林",
+                "date": "2017-11-06",
+                "result": 1,
+                "id": "tournament_504_34"
+            },
+            {
+                "white": "杨钰",
+                "black": "赵保屿",
+                "date": "2017-11-06",
+                "result": 1,
+                "id": "tournament_504_35"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "蔡玉雪",
+                "black": "王吟彬",
+                "date": "2017-11-07",
+                "result": 0.5,
+                "id": "tournament_504_36"
+            },
+            {
+                "white": "蔡悦汶",
+                "black": "李玫烈",
+                "date": "2017-11-07",
+                "result": 1,
+                "id": "tournament_504_37"
+            },
+            {
+                "white": "王雪",
+                "black": "杨玮林",
+                "date": "2017-11-07",
+                "result": 0.5,
+                "id": "tournament_504_38"
+            },
+            {
+                "white": "邱辛木",
+                "black": "赵保屿",
+                "date": "2017-11-07",
+                "result": 1,
+                "id": "tournament_504_39"
+            },
+            {
+                "white": "李正洁",
+                "black": "杨钰",
+                "date": "2017-11-07",
+                "result": 0.5,
+                "id": "tournament_504_40"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "李玫烈",
+                "black": "蔡玉雪",
+                "date": "2017-11-08",
+                "result": 0,
+                "id": "tournament_504_41"
+            },
+            {
+                "white": "王吟彬",
+                "black": "杨玮林",
+                "date": "2017-11-08",
+                "result": 0,
+                "id": "tournament_504_42"
+            },
+            {
+                "white": "蔡悦汶",
+                "black": "赵保屿",
+                "date": "2017-11-08",
+                "result": 1,
+                "id": "tournament_504_43"
+            },
+            {
+                "white": "李正洁",
+                "black": "邱辛木",
+                "date": "2017-11-08",
+                "result": 0.5,
+                "id": "tournament_504_44"
+            },
+            {
+                "white": "杨钰",
+                "black": "朱于",
+                "date": "2017-11-08",
+                "result": 0,
+                "id": "tournament_504_45"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "蔡玉雪",
+                "black": "杨玮林",
+                "date": "2017-11-09",
+                "result": 1,
+                "id": "tournament_504_46"
+            },
+            {
+                "white": "李玫烈",
+                "black": "赵保屿",
+                "date": "2017-11-09",
+                "result": 1,
+                "id": "tournament_504_47"
+            },
+            {
+                "white": "李正洁",
+                "black": "蔡悦汶",
+                "date": "2017-11-09",
+                "result": 1,
+                "id": "tournament_504_48"
+            },
+            {
+                "white": "杨钰",
+                "black": "王雪",
+                "date": "2017-11-09",
+                "result": 1,
+                "id": "tournament_504_49"
+            },
+            {
+                "white": "朱于",
+                "black": "邱辛木",
+                "date": "2017-11-09",
+                "result": 1,
+                "id": "tournament_504_50"
+            }
+        ]
+    },
+    "tours": 10,
+    "time_control": "classic"
+}

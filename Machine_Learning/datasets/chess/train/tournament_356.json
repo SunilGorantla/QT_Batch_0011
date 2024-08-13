@@ -1,0 +1,249 @@
+{
+    "name": "tournament_356",
+    "start_date": "2016-09-19",
+    "end_date": "2016-10-05",
+    "games": {
+        "tour_1": [
+            {
+                "white": "陈吉凝",
+                "black": "季文怀",
+                "date": "2016-09-19",
+                "result": 0.5,
+                "id": "tournament_356_1"
+            },
+            {
+                "white": "傅生",
+                "black": "赵保屿",
+                "date": "2016-09-19",
+                "result": 1,
+                "id": "tournament_356_2"
+            },
+            {
+                "white": "高小晨",
+                "black": "蔡悦汶",
+                "date": "2016-09-19",
+                "result": 1,
+                "id": "tournament_356_3"
+            },
+            {
+                "white": "贺思沛",
+                "black": "刘金松",
+                "date": "2016-09-19",
+                "result": 0,
+                "id": "tournament_356_4"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "黄梦莉",
+                "black": "陈吉凝",
+                "date": "2016-09-21",
+                "result": 1,
+                "id": "tournament_356_5"
+            },
+            {
+                "white": "高小晨",
+                "black": "季文怀",
+                "date": "2016-09-21",
+                "result": 1,
+                "id": "tournament_356_6"
+            },
+            {
+                "white": "贺思沛",
+                "black": "赵保屿",
+                "date": "2016-09-21",
+                "result": 0,
+                "id": "tournament_356_7"
+            },
+            {
+                "white": "刘金松",
+                "black": "蔡悦汶",
+                "date": "2016-09-21",
+                "result": 1,
+                "id": "tournament_356_8"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "傅生",
+                "black": "黄梦莉",
+                "date": "2016-09-23",
+                "result": 1,
+                "id": "tournament_356_9"
+            },
+            {
+                "white": "陈吉凝",
+                "black": "高小晨",
+                "date": "2016-09-23",
+                "result": 0,
+                "id": "tournament_356_10"
+            },
+            {
+                "white": "刘金松",
+                "black": "季文怀",
+                "date": "2016-09-23",
+                "result": 0,
+                "id": "tournament_356_11"
+            },
+            {
+                "white": "蔡悦汶",
+                "black": "赵保屿",
+                "date": "2016-09-23",
+                "result": 0,
+                "id": "tournament_356_12"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "黄梦莉",
+                "black": "高小晨",
+                "date": "2016-09-25",
+                "result": 0,
+                "id": "tournament_356_13"
+            },
+            {
+                "white": "傅生",
+                "black": "贺思沛",
+                "date": "2016-09-25",
+                "result": 1,
+                "id": "tournament_356_14"
+            },
+            {
+                "white": "陈吉凝",
+                "black": "刘金松",
+                "date": "2016-09-25",
+                "result": 0.5,
+                "id": "tournament_356_15"
+            },
+            {
+                "white": "赵保屿",
+                "black": "季文怀",
+                "date": "2016-09-25",
+                "result": 0,
+                "id": "tournament_356_16"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "贺思沛",
+                "black": "黄梦莉",
+                "date": "2016-09-27",
+                "result": 0,
+                "id": "tournament_356_17"
+            },
+            {
+                "white": "高小晨",
+                "black": "刘金松",
+                "date": "2016-09-27",
+                "result": 1,
+                "id": "tournament_356_18"
+            },
+            {
+                "white": "傅生",
+                "black": "蔡悦汶",
+                "date": "2016-09-27",
+                "result": 1,
+                "id": "tournament_356_19"
+            },
+            {
+                "white": "陈吉凝",
+                "black": "赵保屿",
+                "date": "2016-09-27",
+                "result": 1,
+                "id": "tournament_356_20"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "黄梦莉",
+                "black": "刘金松",
+                "date": "2016-09-29",
+                "result": 1,
+                "id": "tournament_356_21"
+            },
+            {
+                "white": "贺思沛",
+                "black": "蔡悦汶",
+                "date": "2016-09-29",
+                "result": 0,
+                "id": "tournament_356_22"
+            },
+            {
+                "white": "高小晨",
+                "black": "赵保屿",
+                "date": "2016-09-29",
+                "result": 1,
+                "id": "tournament_356_23"
+            },
+            {
+                "white": "傅生",
+                "black": "季文怀",
+                "date": "2016-09-29",
+                "result": 1,
+                "id": "tournament_356_24"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "蔡悦汶",
+                "black": "黄梦莉",
+                "date": "2016-10-01",
+                "result": 0,
+                "id": "tournament_356_25"
+            },
+            {
+                "white": "刘金松",
+                "black": "赵保屿",
+                "date": "2016-10-01",
+                "result": 1,
+                "id": "tournament_356_26"
+            },
+            {
+                "white": "贺思沛",
+                "black": "季文怀",
+                "date": "2016-10-01",
+                "result": 0,
+                "id": "tournament_356_27"
+            },
+            {
+                "white": "陈吉凝",
+                "black": "傅生",
+                "date": "2016-10-01",
+                "result": 0,
+                "id": "tournament_356_28"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "黄梦莉",
+                "black": "赵保屿",
+                "date": "2016-10-03",
+                "result": 0.5,
+                "id": "tournament_356_29"
+            },
+            {
+                "white": "蔡悦汶",
+                "black": "季文怀",
+                "date": "2016-10-03",
+                "result": 0.5,
+                "id": "tournament_356_30"
+            },
+            {
+                "white": "陈吉凝",
+                "black": "贺思沛",
+                "date": "2016-10-03",
+                "result": 1,
+                "id": "tournament_356_31"
+            },
+            {
+                "white": "傅生",
+                "black": "高小晨",
+                "date": "2016-10-03",
+                "result": 1,
+                "id": "tournament_356_32"
+            }
+        ]
+    },
+    "tours": 8,
+    "time_control": "rapid"
+}

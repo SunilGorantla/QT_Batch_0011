@@ -1,0 +1,249 @@
+{
+    "name": "tournament_56",
+    "start_date": "2014-06-03",
+    "end_date": "2014-06-11",
+    "games": {
+        "tour_1": [
+            {
+                "white": "陈森",
+                "black": "袁贞山",
+                "date": "2014-06-03",
+                "result": 0.5,
+                "id": "tournament_56_1"
+            },
+            {
+                "white": "史稳云",
+                "black": "周紫强",
+                "date": "2014-06-03",
+                "result": 1,
+                "id": "tournament_56_2"
+            },
+            {
+                "white": "胡转",
+                "black": "黄献峰",
+                "date": "2014-06-03",
+                "result": 0,
+                "id": "tournament_56_3"
+            },
+            {
+                "white": "钟长远",
+                "black": "刘金松",
+                "date": "2014-06-03",
+                "result": 0.5,
+                "id": "tournament_56_4"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "李圆",
+                "black": "陈森",
+                "date": "2014-06-04",
+                "result": 0.5,
+                "id": "tournament_56_5"
+            },
+            {
+                "white": "胡转",
+                "black": "袁贞山",
+                "date": "2014-06-04",
+                "result": 1,
+                "id": "tournament_56_6"
+            },
+            {
+                "white": "钟长远",
+                "black": "周紫强",
+                "date": "2014-06-04",
+                "result": 1,
+                "id": "tournament_56_7"
+            },
+            {
+                "white": "刘金松",
+                "black": "黄献峰",
+                "date": "2014-06-04",
+                "result": 1,
+                "id": "tournament_56_8"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "史稳云",
+                "black": "李圆",
+                "date": "2014-06-05",
+                "result": 1,
+                "id": "tournament_56_9"
+            },
+            {
+                "white": "陈森",
+                "black": "胡转",
+                "date": "2014-06-05",
+                "result": 0.5,
+                "id": "tournament_56_10"
+            },
+            {
+                "white": "刘金松",
+                "black": "袁贞山",
+                "date": "2014-06-05",
+                "result": 1,
+                "id": "tournament_56_11"
+            },
+            {
+                "white": "黄献峰",
+                "black": "周紫强",
+                "date": "2014-06-05",
+                "result": 1,
+                "id": "tournament_56_12"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "李圆",
+                "black": "胡转",
+                "date": "2014-06-06",
+                "result": 0.5,
+                "id": "tournament_56_13"
+            },
+            {
+                "white": "史稳云",
+                "black": "钟长远",
+                "date": "2014-06-06",
+                "result": 1,
+                "id": "tournament_56_14"
+            },
+            {
+                "white": "陈森",
+                "black": "刘金松",
+                "date": "2014-06-06",
+                "result": 0,
+                "id": "tournament_56_15"
+            },
+            {
+                "white": "周紫强",
+                "black": "袁贞山",
+                "date": "2014-06-06",
+                "result": 1,
+                "id": "tournament_56_16"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "钟长远",
+                "black": "李圆",
+                "date": "2014-06-07",
+                "result": 1,
+                "id": "tournament_56_17"
+            },
+            {
+                "white": "胡转",
+                "black": "刘金松",
+                "date": "2014-06-07",
+                "result": 1,
+                "id": "tournament_56_18"
+            },
+            {
+                "white": "史稳云",
+                "black": "黄献峰",
+                "date": "2014-06-07",
+                "result": 0,
+                "id": "tournament_56_19"
+            },
+            {
+                "white": "陈森",
+                "black": "周紫强",
+                "date": "2014-06-07",
+                "result": 0.5,
+                "id": "tournament_56_20"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "李圆",
+                "black": "刘金松",
+                "date": "2014-06-08",
+                "result": 0,
+                "id": "tournament_56_21"
+            },
+            {
+                "white": "钟长远",
+                "black": "黄献峰",
+                "date": "2014-06-08",
+                "result": 0,
+                "id": "tournament_56_22"
+            },
+            {
+                "white": "胡转",
+                "black": "周紫强",
+                "date": "2014-06-08",
+                "result": 0.5,
+                "id": "tournament_56_23"
+            },
+            {
+                "white": "史稳云",
+                "black": "袁贞山",
+                "date": "2014-06-08",
+                "result": 1,
+                "id": "tournament_56_24"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "黄献峰",
+                "black": "李圆",
+                "date": "2014-06-09",
+                "result": 0.5,
+                "id": "tournament_56_25"
+            },
+            {
+                "white": "刘金松",
+                "black": "周紫强",
+                "date": "2014-06-09",
+                "result": 1,
+                "id": "tournament_56_26"
+            },
+            {
+                "white": "钟长远",
+                "black": "袁贞山",
+                "date": "2014-06-09",
+                "result": 0.5,
+                "id": "tournament_56_27"
+            },
+            {
+                "white": "陈森",
+                "black": "史稳云",
+                "date": "2014-06-09",
+                "result": 0.5,
+                "id": "tournament_56_28"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "李圆",
+                "black": "周紫强",
+                "date": "2014-06-10",
+                "result": 0.5,
+                "id": "tournament_56_29"
+            },
+            {
+                "white": "黄献峰",
+                "black": "袁贞山",
+                "date": "2014-06-10",
+                "result": 1,
+                "id": "tournament_56_30"
+            },
+            {
+                "white": "陈森",
+                "black": "钟长远",
+                "date": "2014-06-10",
+                "result": 0.5,
+                "id": "tournament_56_31"
+            },
+            {
+                "white": "史稳云",
+                "black": "胡转",
+                "date": "2014-06-10",
+                "result": 0.5,
+                "id": "tournament_56_32"
+            }
+        ]
+    },
+    "tours": 8,
+    "time_control": "rapid"
+}

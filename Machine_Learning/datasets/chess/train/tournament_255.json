@@ -1,0 +1,147 @@
+{
+    "name": "tournament_255",
+    "start_date": "2015-12-04",
+    "end_date": "2015-12-16",
+    "games": {
+        "tour_1": [
+            {
+                "white": "吴中桐",
+                "black": "邹江祥",
+                "date": "2015-12-04",
+                "result": 0,
+                "id": "tournament_255_1"
+            },
+            {
+                "white": "徐荣冰",
+                "black": "黄兴",
+                "date": "2015-12-04",
+                "result": 0,
+                "id": "tournament_255_2"
+            },
+            {
+                "white": "张燕",
+                "black": "邹成硕",
+                "date": "2015-12-04",
+                "result": 0.5,
+                "id": "tournament_255_3"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "胡碧卫",
+                "black": "吴中桐",
+                "date": "2015-12-06",
+                "result": 1,
+                "id": "tournament_255_4"
+            },
+            {
+                "white": "张燕",
+                "black": "邹江祥",
+                "date": "2015-12-06",
+                "result": 0.5,
+                "id": "tournament_255_5"
+            },
+            {
+                "white": "邹成硕",
+                "black": "黄兴",
+                "date": "2015-12-06",
+                "result": 0,
+                "id": "tournament_255_6"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "徐荣冰",
+                "black": "胡碧卫",
+                "date": "2015-12-08",
+                "result": 0.5,
+                "id": "tournament_255_7"
+            },
+            {
+                "white": "吴中桐",
+                "black": "张燕",
+                "date": "2015-12-08",
+                "result": 0,
+                "id": "tournament_255_8"
+            },
+            {
+                "white": "黄兴",
+                "black": "邹江祥",
+                "date": "2015-12-08",
+                "result": 1,
+                "id": "tournament_255_9"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "胡碧卫",
+                "black": "张燕",
+                "date": "2015-12-10",
+                "result": 0.5,
+                "id": "tournament_255_10"
+            },
+            {
+                "white": "徐荣冰",
+                "black": "邹成硕",
+                "date": "2015-12-10",
+                "result": 0.5,
+                "id": "tournament_255_11"
+            },
+            {
+                "white": "吴中桐",
+                "black": "黄兴",
+                "date": "2015-12-10",
+                "result": 0,
+                "id": "tournament_255_12"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "邹成硕",
+                "black": "胡碧卫",
+                "date": "2015-12-12",
+                "result": 0.5,
+                "id": "tournament_255_13"
+            },
+            {
+                "white": "张燕",
+                "black": "黄兴",
+                "date": "2015-12-12",
+                "result": 0,
+                "id": "tournament_255_14"
+            },
+            {
+                "white": "徐荣冰",
+                "black": "邹江祥",
+                "date": "2015-12-12",
+                "result": 0.5,
+                "id": "tournament_255_15"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "胡碧卫",
+                "black": "黄兴",
+                "date": "2015-12-14",
+                "result": 0.5,
+                "id": "tournament_255_16"
+            },
+            {
+                "white": "邹成硕",
+                "black": "邹江祥",
+                "date": "2015-12-14",
+                "result": 1,
+                "id": "tournament_255_17"
+            },
+            {
+                "white": "吴中桐",
+                "black": "徐荣冰",
+                "date": "2015-12-14",
+                "result": 1,
+                "id": "tournament_255_18"
+            }
+        ]
+    },
+    "tours": 6,
+    "time_control": "rapid"
+}

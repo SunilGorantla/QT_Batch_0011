@@ -1,0 +1,523 @@
+{
+    "name": "tournament_387",
+    "start_date": "2016-12-03",
+    "end_date": "2016-12-23",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Liu Kunhan",
+                "black": "Yang Peicha",
+                "date": "2016-12-03",
+                "result": 0.5,
+                "id": "tournament_387_1"
+            },
+            {
+                "white": "Yang Peicha",
+                "black": "Liu Kunhan",
+                "date": "2016-12-05",
+                "result": 1,
+                "id": "tournament_387_2"
+            },
+            {
+                "white": "Zhang Yiyan",
+                "black": "Liu Fangliang",
+                "date": "2016-12-03",
+                "result": 0,
+                "id": "tournament_387_3"
+            },
+            {
+                "white": "Liu Fangliang",
+                "black": "Zhang Yiyan",
+                "date": "2016-12-05",
+                "result": 1,
+                "id": "tournament_387_4"
+            },
+            {
+                "white": "Hao Hualin",
+                "black": "Feng Erchun",
+                "date": "2016-12-03",
+                "result": 0.5,
+                "id": "tournament_387_5"
+            },
+            {
+                "white": "Feng Erchun",
+                "black": "Hao Hualin",
+                "date": "2016-12-05",
+                "result": 0.5,
+                "id": "tournament_387_6"
+            },
+            {
+                "white": "Hao Hualin",
+                "black": "Feng Erchun",
+                "date": "2016-12-05",
+                "result": 0,
+                "id": "tournament_387_7"
+            },
+            {
+                "white": "Qin Zhi",
+                "black": "Liang Xiaowei",
+                "date": "2016-12-03",
+                "result": 1,
+                "id": "tournament_387_8"
+            },
+            {
+                "white": "Liang Xiaowei",
+                "black": "Qin Zhi",
+                "date": "2016-12-05",
+                "result": 0.5,
+                "id": "tournament_387_9"
+            },
+            {
+                "white": "Huang Shuchu",
+                "black": "Han Changfang",
+                "date": "2016-12-03",
+                "result": 0.5,
+                "id": "tournament_387_10"
+            },
+            {
+                "white": "Han Changfang",
+                "black": "Huang Shuchu",
+                "date": "2016-12-05",
+                "result": 1,
+                "id": "tournament_387_11"
+            },
+            {
+                "white": "Cai Wanxia",
+                "black": "Huang Xing",
+                "date": "2016-12-03",
+                "result": 0.5,
+                "id": "tournament_387_12"
+            },
+            {
+                "white": "Huang Xing",
+                "black": "Cai Wanxia",
+                "date": "2016-12-05",
+                "result": 0,
+                "id": "tournament_387_13"
+            },
+            {
+                "white": "Liu Biyan",
+                "black": "Liu Xian",
+                "date": "2016-12-03",
+                "result": 1,
+                "id": "tournament_387_14"
+            },
+            {
+                "white": "Liu Xian",
+                "black": "Liu Biyan",
+                "date": "2016-12-05",
+                "result": 0,
+                "id": "tournament_387_15"
+            },
+            {
+                "white": "Zhu Yourong",
+                "black": "Li Jianfang",
+                "date": "2016-12-03",
+                "result": 0.5,
+                "id": "tournament_387_16"
+            },
+            {
+                "white": "Li Jianfang",
+                "black": "Zhu Yourong",
+                "date": "2016-12-05",
+                "result": 0,
+                "id": "tournament_387_17"
+            },
+            {
+                "white": "Liang Sipei",
+                "black": "Mao Xinlei",
+                "date": "2016-12-03",
+                "result": 0.5,
+                "id": "tournament_387_18"
+            },
+            {
+                "white": "Mao Xinlei",
+                "black": "Liang Sipei",
+                "date": "2016-12-05",
+                "result": 0.5,
+                "id": "tournament_387_19"
+            },
+            {
+                "white": "Liang Sipei",
+                "black": "Mao Xinlei",
+                "date": "2016-12-05",
+                "result": 0.5,
+                "id": "tournament_387_20"
+            },
+            {
+                "white": "Zhang Zhiqiong",
+                "black": "Liu Qinxin",
+                "date": "2016-12-03",
+                "result": 1,
+                "id": "tournament_387_21"
+            },
+            {
+                "white": "Liu Qinxin",
+                "black": "Zhang Zhiqiong",
+                "date": "2016-12-05",
+                "result": 0,
+                "id": "tournament_387_22"
+            },
+            {
+                "white": "Jiang Ying",
+                "black": "Xie Libo",
+                "date": "2016-12-03",
+                "result": 1,
+                "id": "tournament_387_23"
+            },
+            {
+                "white": "Xie Libo",
+                "black": "Jiang Ying",
+                "date": "2016-12-05",
+                "result": 0.5,
+                "id": "tournament_387_24"
+            },
+            {
+                "white": "Lin Hongli",
+                "black": "Lai Zhenen",
+                "date": "2016-12-03",
+                "result": 0.5,
+                "id": "tournament_387_25"
+            },
+            {
+                "white": "Lai Zhenen",
+                "black": "Lin Hongli",
+                "date": "2016-12-05",
+                "result": 1,
+                "id": "tournament_387_26"
+            },
+            {
+                "white": "Huang Zhongming",
+                "black": "Tang Chen",
+                "date": "2016-12-03",
+                "result": 1,
+                "id": "tournament_387_27"
+            },
+            {
+                "white": "Tang Chen",
+                "black": "Huang Zhongming",
+                "date": "2016-12-05",
+                "result": 0,
+                "id": "tournament_387_28"
+            },
+            {
+                "white": "Hu Jianping",
+                "black": "Xiao Qiuliang",
+                "date": "2016-12-03",
+                "result": 1,
+                "id": "tournament_387_29"
+            },
+            {
+                "white": "Xiao Qiuliang",
+                "black": "Hu Jianping",
+                "date": "2016-12-05",
+                "result": 1,
+                "id": "tournament_387_30"
+            },
+            {
+                "white": "Hu Jianping",
+                "black": "Xiao Qiuliang",
+                "date": "2016-12-05",
+                "result": 0.5,
+                "id": "tournament_387_31"
+            },
+            {
+                "white": "Xu Shibo",
+                "black": "Feng Xiongmin",
+                "date": "2016-12-03",
+                "result": 0,
+                "id": "tournament_387_32"
+            },
+            {
+                "white": "Feng Xiongmin",
+                "black": "Xu Shibo",
+                "date": "2016-12-05",
+                "result": 1,
+                "id": "tournament_387_33"
+            },
+            {
+                "white": "Fu Qingfang",
+                "black": "Li Qiaozhao",
+                "date": "2016-12-03",
+                "result": 0,
+                "id": "tournament_387_34"
+            },
+            {
+                "white": "Li Qiaozhao",
+                "black": "Fu Qingfang",
+                "date": "2016-12-05",
+                "result": 1,
+                "id": "tournament_387_35"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Yang Peicha",
+                "black": "Liu Fangliang",
+                "date": "2016-12-07",
+                "result": 0.5,
+                "id": "tournament_387_36"
+            },
+            {
+                "white": "Liu Fangliang",
+                "black": "Yang Peicha",
+                "date": "2016-12-09",
+                "result": 0,
+                "id": "tournament_387_37"
+            },
+            {
+                "white": "Feng Erchun",
+                "black": "Qin Zhi",
+                "date": "2016-12-07",
+                "result": 0,
+                "id": "tournament_387_38"
+            },
+            {
+                "white": "Qin Zhi",
+                "black": "Feng Erchun",
+                "date": "2016-12-09",
+                "result": 1,
+                "id": "tournament_387_39"
+            },
+            {
+                "white": "Han Changfang",
+                "black": "Cai Wanxia",
+                "date": "2016-12-07",
+                "result": 0,
+                "id": "tournament_387_40"
+            },
+            {
+                "white": "Cai Wanxia",
+                "black": "Han Changfang",
+                "date": "2016-12-09",
+                "result": 1,
+                "id": "tournament_387_41"
+            },
+            {
+                "white": "Liu Biyan",
+                "black": "Zhu Yourong",
+                "date": "2016-12-07",
+                "result": 0,
+                "id": "tournament_387_42"
+            },
+            {
+                "white": "Zhu Yourong",
+                "black": "Liu Biyan",
+                "date": "2016-12-09",
+                "result": 0.5,
+                "id": "tournament_387_43"
+            },
+            {
+                "white": "Mao Xinlei",
+                "black": "Zhang Zhiqiong",
+                "date": "2016-12-07",
+                "result": 1,
+                "id": "tournament_387_44"
+            },
+            {
+                "white": "Zhang Zhiqiong",
+                "black": "Mao Xinlei",
+                "date": "2016-12-09",
+                "result": 1,
+                "id": "tournament_387_45"
+            },
+            {
+                "white": "Mao Xinlei",
+                "black": "Zhang Zhiqiong",
+                "date": "2016-12-09",
+                "result": 0.5,
+                "id": "tournament_387_46"
+            },
+            {
+                "white": "Jiang Ying",
+                "black": "Lai Zhenen",
+                "date": "2016-12-07",
+                "result": 0.5,
+                "id": "tournament_387_47"
+            },
+            {
+                "white": "Lai Zhenen",
+                "black": "Jiang Ying",
+                "date": "2016-12-09",
+                "result": 0.5,
+                "id": "tournament_387_48"
+            },
+            {
+                "white": "Jiang Ying",
+                "black": "Lai Zhenen",
+                "date": "2016-12-09",
+                "result": 0.5,
+                "id": "tournament_387_49"
+            },
+            {
+                "white": "Huang Zhongming",
+                "black": "Xiao Qiuliang",
+                "date": "2016-12-07",
+                "result": 0.5,
+                "id": "tournament_387_50"
+            },
+            {
+                "white": "Xiao Qiuliang",
+                "black": "Huang Zhongming",
+                "date": "2016-12-09",
+                "result": 0.5,
+                "id": "tournament_387_51"
+            },
+            {
+                "white": "Huang Zhongming",
+                "black": "Xiao Qiuliang",
+                "date": "2016-12-09",
+                "result": 0.5,
+                "id": "tournament_387_52"
+            },
+            {
+                "white": "Feng Xiongmin",
+                "black": "Li Qiaozhao",
+                "date": "2016-12-07",
+                "result": 0.5,
+                "id": "tournament_387_53"
+            },
+            {
+                "white": "Li Qiaozhao",
+                "black": "Feng Xiongmin",
+                "date": "2016-12-09",
+                "result": 0.5,
+                "id": "tournament_387_54"
+            },
+            {
+                "white": "Feng Xiongmin",
+                "black": "Li Qiaozhao",
+                "date": "2016-12-09",
+                "result": 0.5,
+                "id": "tournament_387_55"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Yang Peicha",
+                "black": "Qin Zhi",
+                "date": "2016-12-11",
+                "result": 0.5,
+                "id": "tournament_387_56"
+            },
+            {
+                "white": "Qin Zhi",
+                "black": "Yang Peicha",
+                "date": "2016-12-13",
+                "result": 0.5,
+                "id": "tournament_387_57"
+            },
+            {
+                "white": "Yang Peicha",
+                "black": "Qin Zhi",
+                "date": "2016-12-13",
+                "result": 0.5,
+                "id": "tournament_387_58"
+            },
+            {
+                "white": "Cai Wanxia",
+                "black": "Zhu Yourong",
+                "date": "2016-12-11",
+                "result": 1,
+                "id": "tournament_387_59"
+            },
+            {
+                "white": "Zhu Yourong",
+                "black": "Cai Wanxia",
+                "date": "2016-12-13",
+                "result": 0,
+                "id": "tournament_387_60"
+            },
+            {
+                "white": "Zhang Zhiqiong",
+                "black": "Lai Zhenen",
+                "date": "2016-12-11",
+                "result": 0.5,
+                "id": "tournament_387_61"
+            },
+            {
+                "white": "Lai Zhenen",
+                "black": "Zhang Zhiqiong",
+                "date": "2016-12-13",
+                "result": 0.5,
+                "id": "tournament_387_62"
+            },
+            {
+                "white": "Zhang Zhiqiong",
+                "black": "Lai Zhenen",
+                "date": "2016-12-13",
+                "result": 0,
+                "id": "tournament_387_63"
+            },
+            {
+                "white": "Xiao Qiuliang",
+                "black": "Li Qiaozhao",
+                "date": "2016-12-11",
+                "result": 0.5,
+                "id": "tournament_387_64"
+            },
+            {
+                "white": "Li Qiaozhao",
+                "black": "Xiao Qiuliang",
+                "date": "2016-12-13",
+                "result": 1,
+                "id": "tournament_387_65"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Qin Zhi",
+                "black": "Cai Wanxia",
+                "date": "2016-12-15",
+                "result": 0,
+                "id": "tournament_387_66"
+            },
+            {
+                "white": "Cai Wanxia",
+                "black": "Qin Zhi",
+                "date": "2016-12-17",
+                "result": 0.5,
+                "id": "tournament_387_67"
+            },
+            {
+                "white": "Lai Zhenen",
+                "black": "Li Qiaozhao",
+                "date": "2016-12-15",
+                "result": 1,
+                "id": "tournament_387_68"
+            },
+            {
+                "white": "Li Qiaozhao",
+                "black": "Lai Zhenen",
+                "date": "2016-12-17",
+                "result": 0.5,
+                "id": "tournament_387_69"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Cai Wanxia",
+                "black": "Lai Zhenen",
+                "date": "2016-12-19",
+                "result": 0.5,
+                "id": "tournament_387_70"
+            },
+            {
+                "white": "Lai Zhenen",
+                "black": "Cai Wanxia",
+                "date": "2016-12-21",
+                "result": 0.5,
+                "id": "tournament_387_71"
+            },
+            {
+                "white": "Cai Wanxia",
+                "black": "Lai Zhenen",
+                "date": "2016-12-21",
+                "result": 0,
+                "id": "tournament_387_72"
+            }
+        ]
+    },
+    "tours": 5,
+    "time_control": "classic"
+}

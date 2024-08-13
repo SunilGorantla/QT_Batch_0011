@@ -1,0 +1,249 @@
+{
+    "name": "tournament_193",
+    "start_date": "2015-05-08",
+    "end_date": "2015-05-16",
+    "games": {
+        "tour_1": [
+            {
+                "white": "朱春启",
+                "black": "史智",
+                "date": "2015-05-08",
+                "result": 0.5,
+                "id": "tournament_193_1"
+            },
+            {
+                "white": "李敏康",
+                "black": "金俊明",
+                "date": "2015-05-08",
+                "result": 0.5,
+                "id": "tournament_193_2"
+            },
+            {
+                "white": "王瑞梓",
+                "black": "张穆礼",
+                "date": "2015-05-08",
+                "result": 0.5,
+                "id": "tournament_193_3"
+            },
+            {
+                "white": "谭尧",
+                "black": "郑柳格",
+                "date": "2015-05-08",
+                "result": 0,
+                "id": "tournament_193_4"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "黄千健",
+                "black": "朱春启",
+                "date": "2015-05-09",
+                "result": 0.5,
+                "id": "tournament_193_5"
+            },
+            {
+                "white": "王瑞梓",
+                "black": "史智",
+                "date": "2015-05-09",
+                "result": 1,
+                "id": "tournament_193_6"
+            },
+            {
+                "white": "谭尧",
+                "black": "金俊明",
+                "date": "2015-05-09",
+                "result": 0.5,
+                "id": "tournament_193_7"
+            },
+            {
+                "white": "郑柳格",
+                "black": "张穆礼",
+                "date": "2015-05-09",
+                "result": 1,
+                "id": "tournament_193_8"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "李敏康",
+                "black": "黄千健",
+                "date": "2015-05-10",
+                "result": 0.5,
+                "id": "tournament_193_9"
+            },
+            {
+                "white": "朱春启",
+                "black": "王瑞梓",
+                "date": "2015-05-10",
+                "result": 1,
+                "id": "tournament_193_10"
+            },
+            {
+                "white": "郑柳格",
+                "black": "史智",
+                "date": "2015-05-10",
+                "result": 1,
+                "id": "tournament_193_11"
+            },
+            {
+                "white": "张穆礼",
+                "black": "金俊明",
+                "date": "2015-05-10",
+                "result": 1,
+                "id": "tournament_193_12"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "黄千健",
+                "black": "王瑞梓",
+                "date": "2015-05-11",
+                "result": 1,
+                "id": "tournament_193_13"
+            },
+            {
+                "white": "李敏康",
+                "black": "谭尧",
+                "date": "2015-05-11",
+                "result": 0.5,
+                "id": "tournament_193_14"
+            },
+            {
+                "white": "朱春启",
+                "black": "郑柳格",
+                "date": "2015-05-11",
+                "result": 0,
+                "id": "tournament_193_15"
+            },
+            {
+                "white": "金俊明",
+                "black": "史智",
+                "date": "2015-05-11",
+                "result": 1,
+                "id": "tournament_193_16"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "谭尧",
+                "black": "黄千健",
+                "date": "2015-05-12",
+                "result": 1,
+                "id": "tournament_193_17"
+            },
+            {
+                "white": "王瑞梓",
+                "black": "郑柳格",
+                "date": "2015-05-12",
+                "result": 0.5,
+                "id": "tournament_193_18"
+            },
+            {
+                "white": "李敏康",
+                "black": "张穆礼",
+                "date": "2015-05-12",
+                "result": 0.5,
+                "id": "tournament_193_19"
+            },
+            {
+                "white": "朱春启",
+                "black": "金俊明",
+                "date": "2015-05-12",
+                "result": 1,
+                "id": "tournament_193_20"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "黄千健",
+                "black": "郑柳格",
+                "date": "2015-05-13",
+                "result": 0,
+                "id": "tournament_193_21"
+            },
+            {
+                "white": "谭尧",
+                "black": "张穆礼",
+                "date": "2015-05-13",
+                "result": 1,
+                "id": "tournament_193_22"
+            },
+            {
+                "white": "王瑞梓",
+                "black": "金俊明",
+                "date": "2015-05-13",
+                "result": 0,
+                "id": "tournament_193_23"
+            },
+            {
+                "white": "李敏康",
+                "black": "史智",
+                "date": "2015-05-13",
+                "result": 0,
+                "id": "tournament_193_24"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "张穆礼",
+                "black": "黄千健",
+                "date": "2015-05-14",
+                "result": 1,
+                "id": "tournament_193_25"
+            },
+            {
+                "white": "郑柳格",
+                "black": "金俊明",
+                "date": "2015-05-14",
+                "result": 1,
+                "id": "tournament_193_26"
+            },
+            {
+                "white": "谭尧",
+                "black": "史智",
+                "date": "2015-05-14",
+                "result": 1,
+                "id": "tournament_193_27"
+            },
+            {
+                "white": "朱春启",
+                "black": "李敏康",
+                "date": "2015-05-14",
+                "result": 1,
+                "id": "tournament_193_28"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "黄千健",
+                "black": "金俊明",
+                "date": "2015-05-15",
+                "result": 0.5,
+                "id": "tournament_193_29"
+            },
+            {
+                "white": "张穆礼",
+                "black": "史智",
+                "date": "2015-05-15",
+                "result": 0.5,
+                "id": "tournament_193_30"
+            },
+            {
+                "white": "朱春启",
+                "black": "谭尧",
+                "date": "2015-05-15",
+                "result": 0.5,
+                "id": "tournament_193_31"
+            },
+            {
+                "white": "李敏康",
+                "black": "王瑞梓",
+                "date": "2015-05-15",
+                "result": 0.5,
+                "id": "tournament_193_32"
+            }
+        ]
+    },
+    "tours": 8,
+    "time_control": "classic"
+}

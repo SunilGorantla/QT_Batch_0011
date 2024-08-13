@@ -1,0 +1,509 @@
+{
+    "name": "tournament_318",
+    "start_date": "2016-05-31",
+    "end_date": "2016-06-10",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Liu Nü Min",
+                "black": "Lin Hao Peng",
+                "date": "2016-05-31",
+                "result": 1,
+                "id": "tournament_318_1"
+            },
+            {
+                "white": "Lin Hao Peng",
+                "black": "Liu Nü Min",
+                "date": "2016-06-01",
+                "result": 0,
+                "id": "tournament_318_2"
+            },
+            {
+                "white": "Li Min ",
+                "black": "Liang Xiao Wei",
+                "date": "2016-05-31",
+                "result": 0,
+                "id": "tournament_318_3"
+            },
+            {
+                "white": "Liang Xiao Wei",
+                "black": "Li Min ",
+                "date": "2016-06-01",
+                "result": 1,
+                "id": "tournament_318_4"
+            },
+            {
+                "white": "Hao Xing ",
+                "black": "Lin Xian Zhi",
+                "date": "2016-05-31",
+                "result": 0.5,
+                "id": "tournament_318_5"
+            },
+            {
+                "white": "Lin Xian Zhi",
+                "black": "Hao Xing ",
+                "date": "2016-06-01",
+                "result": 0.5,
+                "id": "tournament_318_6"
+            },
+            {
+                "white": "Hao Xing ",
+                "black": "Lin Xian Zhi",
+                "date": "2016-06-01",
+                "result": 1,
+                "id": "tournament_318_7"
+            },
+            {
+                "white": "Zhao Geng ",
+                "black": "Zhang Yu ",
+                "date": "2016-05-31",
+                "result": 0,
+                "id": "tournament_318_8"
+            },
+            {
+                "white": "Zhang Yu ",
+                "black": "Zhao Geng ",
+                "date": "2016-06-01",
+                "result": 0.5,
+                "id": "tournament_318_9"
+            },
+            {
+                "white": "Huang Fang Wei",
+                "black": "Zhao Ming Jun",
+                "date": "2016-05-31",
+                "result": 0.5,
+                "id": "tournament_318_10"
+            },
+            {
+                "white": "Zhao Ming Jun",
+                "black": "Huang Fang Wei",
+                "date": "2016-06-01",
+                "result": 0.5,
+                "id": "tournament_318_11"
+            },
+            {
+                "white": "Huang Fang Wei",
+                "black": "Zhao Ming Jun",
+                "date": "2016-06-01",
+                "result": 0.5,
+                "id": "tournament_318_12"
+            },
+            {
+                "white": "Feng Er Chun",
+                "black": "Yuan Li Quan",
+                "date": "2016-05-31",
+                "result": 0,
+                "id": "tournament_318_13"
+            },
+            {
+                "white": "Yuan Li Quan",
+                "black": "Feng Er Chun",
+                "date": "2016-06-01",
+                "result": 1,
+                "id": "tournament_318_14"
+            },
+            {
+                "white": "Jia Ye Yan",
+                "black": "Li Song Jiang",
+                "date": "2016-05-31",
+                "result": 0.5,
+                "id": "tournament_318_15"
+            },
+            {
+                "white": "Li Song Jiang",
+                "black": "Jia Ye Yan",
+                "date": "2016-06-01",
+                "result": 0.5,
+                "id": "tournament_318_16"
+            },
+            {
+                "white": "Jia Ye Yan",
+                "black": "Li Song Jiang",
+                "date": "2016-06-01",
+                "result": 0.5,
+                "id": "tournament_318_17"
+            },
+            {
+                "white": "Xu Ming ",
+                "black": "Wang Jian Mei",
+                "date": "2016-05-31",
+                "result": 0.5,
+                "id": "tournament_318_18"
+            },
+            {
+                "white": "Wang Jian Mei",
+                "black": "Xu Ming ",
+                "date": "2016-06-01",
+                "result": 0,
+                "id": "tournament_318_19"
+            },
+            {
+                "white": "Liu Su Kai",
+                "black": "Duan Li Ji",
+                "date": "2016-05-31",
+                "result": 0.5,
+                "id": "tournament_318_20"
+            },
+            {
+                "white": "Duan Li Ji",
+                "black": "Liu Su Kai",
+                "date": "2016-06-01",
+                "result": 0.5,
+                "id": "tournament_318_21"
+            },
+            {
+                "white": "Liu Su Kai",
+                "black": "Duan Li Ji",
+                "date": "2016-06-01",
+                "result": 0,
+                "id": "tournament_318_22"
+            },
+            {
+                "white": "Huang Zi Hong",
+                "black": "Deng Zhen Hua",
+                "date": "2016-05-31",
+                "result": 0.5,
+                "id": "tournament_318_23"
+            },
+            {
+                "white": "Deng Zhen Hua",
+                "black": "Huang Zi Hong",
+                "date": "2016-06-01",
+                "result": 1,
+                "id": "tournament_318_24"
+            },
+            {
+                "white": "Zhang Guo Fei",
+                "black": "Chen Yin Liang",
+                "date": "2016-05-31",
+                "result": 0.5,
+                "id": "tournament_318_25"
+            },
+            {
+                "white": "Chen Yin Liang",
+                "black": "Zhang Guo Fei",
+                "date": "2016-06-01",
+                "result": 0,
+                "id": "tournament_318_26"
+            },
+            {
+                "white": "Zhang Yan Ying",
+                "black": "Gao Jing Ni",
+                "date": "2016-05-31",
+                "result": 0.5,
+                "id": "tournament_318_27"
+            },
+            {
+                "white": "Gao Jing Ni",
+                "black": "Zhang Yan Ying",
+                "date": "2016-06-01",
+                "result": 0.5,
+                "id": "tournament_318_28"
+            },
+            {
+                "white": "Zhang Yan Ying",
+                "black": "Gao Jing Ni",
+                "date": "2016-06-01",
+                "result": 1,
+                "id": "tournament_318_29"
+            },
+            {
+                "white": "Li Hai ",
+                "black": "Wu Yi Shun",
+                "date": "2016-05-31",
+                "result": 1,
+                "id": "tournament_318_30"
+            },
+            {
+                "white": "Wu Yi Shun",
+                "black": "Li Hai ",
+                "date": "2016-06-01",
+                "result": 0,
+                "id": "tournament_318_31"
+            },
+            {
+                "white": "Li Jia Jue",
+                "black": "Fan Cun Niu",
+                "date": "2016-05-31",
+                "result": 0,
+                "id": "tournament_318_32"
+            },
+            {
+                "white": "Fan Cun Niu",
+                "black": "Li Jia Jue",
+                "date": "2016-06-01",
+                "result": 0.5,
+                "id": "tournament_318_33"
+            },
+            {
+                "white": "Chen Chun ",
+                "black": "Chen Xiang Ke",
+                "date": "2016-05-31",
+                "result": 0,
+                "id": "tournament_318_34"
+            },
+            {
+                "white": "Chen Xiang Ke",
+                "black": "Chen Chun ",
+                "date": "2016-06-01",
+                "result": 1,
+                "id": "tournament_318_35"
+            },
+            {
+                "white": "Zhu Zi Xin",
+                "black": "Li Teng Tian",
+                "date": "2016-05-31",
+                "result": 1,
+                "id": "tournament_318_36"
+            },
+            {
+                "white": "Li Teng Tian",
+                "black": "Zhu Zi Xin",
+                "date": "2016-06-01",
+                "result": 0,
+                "id": "tournament_318_37"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Liu Nü Min",
+                "black": "Liang Xiao Wei",
+                "date": "2016-06-02",
+                "result": 0.5,
+                "id": "tournament_318_38"
+            },
+            {
+                "white": "Liang Xiao Wei",
+                "black": "Liu Nü Min",
+                "date": "2016-06-03",
+                "result": 0.5,
+                "id": "tournament_318_39"
+            },
+            {
+                "white": "Liu Nü Min",
+                "black": "Liang Xiao Wei",
+                "date": "2016-06-03",
+                "result": 0.5,
+                "id": "tournament_318_40"
+            },
+            {
+                "white": "Hao Xing ",
+                "black": "Zhang Yu ",
+                "date": "2016-06-02",
+                "result": 0,
+                "id": "tournament_318_41"
+            },
+            {
+                "white": "Zhang Yu ",
+                "black": "Hao Xing ",
+                "date": "2016-06-03",
+                "result": 1,
+                "id": "tournament_318_42"
+            },
+            {
+                "white": "Zhao Ming Jun",
+                "black": "Yuan Li Quan",
+                "date": "2016-06-02",
+                "result": 0,
+                "id": "tournament_318_43"
+            },
+            {
+                "white": "Yuan Li Quan",
+                "black": "Zhao Ming Jun",
+                "date": "2016-06-03",
+                "result": 0.5,
+                "id": "tournament_318_44"
+            },
+            {
+                "white": "Li Song Jiang",
+                "black": "Xu Ming ",
+                "date": "2016-06-02",
+                "result": 0.5,
+                "id": "tournament_318_45"
+            },
+            {
+                "white": "Xu Ming ",
+                "black": "Li Song Jiang",
+                "date": "2016-06-03",
+                "result": 1,
+                "id": "tournament_318_46"
+            },
+            {
+                "white": "Duan Li Ji",
+                "black": "Deng Zhen Hua",
+                "date": "2016-06-02",
+                "result": 0,
+                "id": "tournament_318_47"
+            },
+            {
+                "white": "Deng Zhen Hua",
+                "black": "Duan Li Ji",
+                "date": "2016-06-03",
+                "result": 1,
+                "id": "tournament_318_48"
+            },
+            {
+                "white": "Zhang Guo Fei",
+                "black": "Zhang Yan Ying",
+                "date": "2016-06-02",
+                "result": 1,
+                "id": "tournament_318_49"
+            },
+            {
+                "white": "Zhang Yan Ying",
+                "black": "Zhang Guo Fei",
+                "date": "2016-06-03",
+                "result": 0,
+                "id": "tournament_318_50"
+            },
+            {
+                "white": "Li Hai ",
+                "black": "Fan Cun Niu",
+                "date": "2016-06-02",
+                "result": 0.5,
+                "id": "tournament_318_51"
+            },
+            {
+                "white": "Fan Cun Niu",
+                "black": "Li Hai ",
+                "date": "2016-06-03",
+                "result": 0.5,
+                "id": "tournament_318_52"
+            },
+            {
+                "white": "Li Hai ",
+                "black": "Fan Cun Niu",
+                "date": "2016-06-03",
+                "result": 0.5,
+                "id": "tournament_318_53"
+            },
+            {
+                "white": "Chen Xiang Ke",
+                "black": "Zhu Zi Xin",
+                "date": "2016-06-02",
+                "result": 1,
+                "id": "tournament_318_54"
+            },
+            {
+                "white": "Zhu Zi Xin",
+                "black": "Chen Xiang Ke",
+                "date": "2016-06-03",
+                "result": 0.5,
+                "id": "tournament_318_55"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Liang Xiao Wei",
+                "black": "Zhang Yu ",
+                "date": "2016-06-04",
+                "result": 0,
+                "id": "tournament_318_56"
+            },
+            {
+                "white": "Zhang Yu ",
+                "black": "Liang Xiao Wei",
+                "date": "2016-06-05",
+                "result": 1,
+                "id": "tournament_318_57"
+            },
+            {
+                "white": "Yuan Li Quan",
+                "black": "Xu Ming ",
+                "date": "2016-06-04",
+                "result": 0,
+                "id": "tournament_318_58"
+            },
+            {
+                "white": "Xu Ming ",
+                "black": "Yuan Li Quan",
+                "date": "2016-06-05",
+                "result": 0.5,
+                "id": "tournament_318_59"
+            },
+            {
+                "white": "Deng Zhen Hua",
+                "black": "Zhang Guo Fei",
+                "date": "2016-06-04",
+                "result": 0.5,
+                "id": "tournament_318_60"
+            },
+            {
+                "white": "Zhang Guo Fei",
+                "black": "Deng Zhen Hua",
+                "date": "2016-06-05",
+                "result": 1,
+                "id": "tournament_318_61"
+            },
+            {
+                "white": "Fan Cun Niu",
+                "black": "Chen Xiang Ke",
+                "date": "2016-06-04",
+                "result": 0.5,
+                "id": "tournament_318_62"
+            },
+            {
+                "white": "Chen Xiang Ke",
+                "black": "Fan Cun Niu",
+                "date": "2016-06-05",
+                "result": 1,
+                "id": "tournament_318_63"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Zhang Yu ",
+                "black": "Xu Ming ",
+                "date": "2016-06-06",
+                "result": 0.5,
+                "id": "tournament_318_64"
+            },
+            {
+                "white": "Xu Ming ",
+                "black": "Zhang Yu ",
+                "date": "2016-06-07",
+                "result": 0,
+                "id": "tournament_318_65"
+            },
+            {
+                "white": "Zhang Guo Fei",
+                "black": "Chen Xiang Ke",
+                "date": "2016-06-06",
+                "result": 0.5,
+                "id": "tournament_318_66"
+            },
+            {
+                "white": "Chen Xiang Ke",
+                "black": "Zhang Guo Fei",
+                "date": "2016-06-07",
+                "result": 1,
+                "id": "tournament_318_67"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Zhang Yu ",
+                "black": "Chen Xiang Ke",
+                "date": "2016-06-08",
+                "result": 0.5,
+                "id": "tournament_318_68"
+            },
+            {
+                "white": "Chen Xiang Ke",
+                "black": "Zhang Yu ",
+                "date": "2016-06-09",
+                "result": 0.5,
+                "id": "tournament_318_69"
+            },
+            {
+                "white": "Zhang Yu ",
+                "black": "Chen Xiang Ke",
+                "date": "2016-06-09",
+                "result": 1,
+                "id": "tournament_318_70"
+            }
+        ]
+    },
+    "tours": 5,
+    "time_control": "classic"
+}

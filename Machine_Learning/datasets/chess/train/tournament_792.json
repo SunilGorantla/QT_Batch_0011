@@ -1,0 +1,493 @@
+{
+    "name": "tournament_792",
+    "start_date": "2019-12-06",
+    "end_date": "2019-12-28",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Jiang, Degang",
+                "black": "Xu, Xiaozhi",
+                "date": "2019-12-06",
+                "result": 0,
+                "id": "tournament_792_1"
+            },
+            {
+                "white": "Zhang, Muli",
+                "black": "Liu, Jiajian",
+                "date": "2019-12-06",
+                "result": 0.5,
+                "id": "tournament_792_2"
+            },
+            {
+                "white": "Li, Wenzi",
+                "black": "Zhang, Dali",
+                "date": "2019-12-06",
+                "result": 1,
+                "id": "tournament_792_3"
+            },
+            {
+                "white": "Ma, Chaofeng",
+                "black": "Zhang, Zhengnan",
+                "date": "2019-12-06",
+                "result": 0,
+                "id": "tournament_792_4"
+            },
+            {
+                "white": "Chen, Zhi",
+                "black": "Shi, Zhi",
+                "date": "2019-12-06",
+                "result": 0,
+                "id": "tournament_792_5"
+            },
+            {
+                "white": "Kang, Zihui",
+                "black": "Liu, Fei",
+                "date": "2019-12-06",
+                "result": 0.5,
+                "id": "tournament_792_6"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Xu, Xiaozhi",
+                "black": "Zhang, Muli",
+                "date": "2019-12-08",
+                "result": 1,
+                "id": "tournament_792_7"
+            },
+            {
+                "white": "Jiang, Degang",
+                "black": "Li, Wenzi",
+                "date": "2019-12-08",
+                "result": 0.5,
+                "id": "tournament_792_8"
+            },
+            {
+                "white": "Ma, Chaofeng",
+                "black": "Liu, Jiajian",
+                "date": "2019-12-08",
+                "result": 0,
+                "id": "tournament_792_9"
+            },
+            {
+                "white": "Chen, Zhi",
+                "black": "Zhang, Dali",
+                "date": "2019-12-08",
+                "result": 0.5,
+                "id": "tournament_792_10"
+            },
+            {
+                "white": "Kang, Zihui",
+                "black": "Zhang, Zhengnan",
+                "date": "2019-12-08",
+                "result": 1,
+                "id": "tournament_792_11"
+            },
+            {
+                "white": "Liu, Fei",
+                "black": "Shi, Zhi",
+                "date": "2019-12-08",
+                "result": 0.5,
+                "id": "tournament_792_12"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Li, Wenzi",
+                "black": "Xu, Xiaozhi",
+                "date": "2019-12-10",
+                "result": 0.5,
+                "id": "tournament_792_13"
+            },
+            {
+                "white": "Zhang, Muli",
+                "black": "Ma, Chaofeng",
+                "date": "2019-12-10",
+                "result": 0.5,
+                "id": "tournament_792_14"
+            },
+            {
+                "white": "Jiang, Degang",
+                "black": "Chen, Zhi",
+                "date": "2019-12-10",
+                "result": 0,
+                "id": "tournament_792_15"
+            },
+            {
+                "white": "Kang, Zihui",
+                "black": "Liu, Jiajian",
+                "date": "2019-12-10",
+                "result": 1,
+                "id": "tournament_792_16"
+            },
+            {
+                "white": "Liu, Fei",
+                "black": "Zhang, Dali",
+                "date": "2019-12-10",
+                "result": 0.5,
+                "id": "tournament_792_17"
+            },
+            {
+                "white": "Shi, Zhi",
+                "black": "Zhang, Zhengnan",
+                "date": "2019-12-10",
+                "result": 0,
+                "id": "tournament_792_18"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Xu, Xiaozhi",
+                "black": "Ma, Chaofeng",
+                "date": "2019-12-12",
+                "result": 0.5,
+                "id": "tournament_792_19"
+            },
+            {
+                "white": "Li, Wenzi",
+                "black": "Chen, Zhi",
+                "date": "2019-12-12",
+                "result": 0.5,
+                "id": "tournament_792_20"
+            },
+            {
+                "white": "Zhang, Muli",
+                "black": "Kang, Zihui",
+                "date": "2019-12-12",
+                "result": 0,
+                "id": "tournament_792_21"
+            },
+            {
+                "white": "Jiang, Degang",
+                "black": "Liu, Fei",
+                "date": "2019-12-12",
+                "result": 0,
+                "id": "tournament_792_22"
+            },
+            {
+                "white": "Shi, Zhi",
+                "black": "Liu, Jiajian",
+                "date": "2019-12-12",
+                "result": 1,
+                "id": "tournament_792_23"
+            },
+            {
+                "white": "Zhang, Zhengnan",
+                "black": "Zhang, Dali",
+                "date": "2019-12-12",
+                "result": 1,
+                "id": "tournament_792_24"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Chen, Zhi",
+                "black": "Xu, Xiaozhi",
+                "date": "2019-12-14",
+                "result": 1,
+                "id": "tournament_792_25"
+            },
+            {
+                "white": "Ma, Chaofeng",
+                "black": "Kang, Zihui",
+                "date": "2019-12-14",
+                "result": 1,
+                "id": "tournament_792_26"
+            },
+            {
+                "white": "Li, Wenzi",
+                "black": "Liu, Fei",
+                "date": "2019-12-14",
+                "result": 1,
+                "id": "tournament_792_27"
+            },
+            {
+                "white": "Zhang, Muli",
+                "black": "Shi, Zhi",
+                "date": "2019-12-14",
+                "result": 1,
+                "id": "tournament_792_28"
+            },
+            {
+                "white": "Jiang, Degang",
+                "black": "Zhang, Zhengnan",
+                "date": "2019-12-14",
+                "result": 0.5,
+                "id": "tournament_792_29"
+            },
+            {
+                "white": "Zhang, Dali",
+                "black": "Liu, Jiajian",
+                "date": "2019-12-14",
+                "result": 1,
+                "id": "tournament_792_30"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Xu, Xiaozhi",
+                "black": "Kang, Zihui",
+                "date": "2019-12-16",
+                "result": 0,
+                "id": "tournament_792_31"
+            },
+            {
+                "white": "Chen, Zhi",
+                "black": "Liu, Fei",
+                "date": "2019-12-16",
+                "result": 0.5,
+                "id": "tournament_792_32"
+            },
+            {
+                "white": "Ma, Chaofeng",
+                "black": "Shi, Zhi",
+                "date": "2019-12-16",
+                "result": 0.5,
+                "id": "tournament_792_33"
+            },
+            {
+                "white": "Li, Wenzi",
+                "black": "Zhang, Zhengnan",
+                "date": "2019-12-16",
+                "result": 0.5,
+                "id": "tournament_792_34"
+            },
+            {
+                "white": "Zhang, Muli",
+                "black": "Zhang, Dali",
+                "date": "2019-12-16",
+                "result": 0,
+                "id": "tournament_792_35"
+            },
+            {
+                "white": "Jiang, Degang",
+                "black": "Liu, Jiajian",
+                "date": "2019-12-16",
+                "result": 0.5,
+                "id": "tournament_792_36"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Liu, Fei",
+                "black": "Xu, Xiaozhi",
+                "date": "2019-12-18",
+                "result": 0.5,
+                "id": "tournament_792_37"
+            },
+            {
+                "white": "Kang, Zihui",
+                "black": "Shi, Zhi",
+                "date": "2019-12-18",
+                "result": 1,
+                "id": "tournament_792_38"
+            },
+            {
+                "white": "Chen, Zhi",
+                "black": "Zhang, Zhengnan",
+                "date": "2019-12-18",
+                "result": 1,
+                "id": "tournament_792_39"
+            },
+            {
+                "white": "Ma, Chaofeng",
+                "black": "Zhang, Dali",
+                "date": "2019-12-18",
+                "result": 0.5,
+                "id": "tournament_792_40"
+            },
+            {
+                "white": "Li, Wenzi",
+                "black": "Liu, Jiajian",
+                "date": "2019-12-18",
+                "result": 1,
+                "id": "tournament_792_41"
+            },
+            {
+                "white": "Jiang, Degang",
+                "black": "Zhang, Muli",
+                "date": "2019-12-18",
+                "result": 0.5,
+                "id": "tournament_792_42"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Xu, Xiaozhi",
+                "black": "Shi, Zhi",
+                "date": "2019-12-20",
+                "result": 0.5,
+                "id": "tournament_792_43"
+            },
+            {
+                "white": "Liu, Fei",
+                "black": "Zhang, Zhengnan",
+                "date": "2019-12-20",
+                "result": 0.5,
+                "id": "tournament_792_44"
+            },
+            {
+                "white": "Kang, Zihui",
+                "black": "Zhang, Dali",
+                "date": "2019-12-20",
+                "result": 1,
+                "id": "tournament_792_45"
+            },
+            {
+                "white": "Chen, Zhi",
+                "black": "Liu, Jiajian",
+                "date": "2019-12-20",
+                "result": 1,
+                "id": "tournament_792_46"
+            },
+            {
+                "white": "Jiang, Degang",
+                "black": "Ma, Chaofeng",
+                "date": "2019-12-20",
+                "result": 0.5,
+                "id": "tournament_792_47"
+            },
+            {
+                "white": "Zhang, Muli",
+                "black": "Li, Wenzi",
+                "date": "2019-12-20",
+                "result": 0,
+                "id": "tournament_792_48"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Zhang, Zhengnan",
+                "black": "Xu, Xiaozhi",
+                "date": "2019-12-22",
+                "result": 1,
+                "id": "tournament_792_49"
+            },
+            {
+                "white": "Shi, Zhi",
+                "black": "Zhang, Dali",
+                "date": "2019-12-22",
+                "result": 0.5,
+                "id": "tournament_792_50"
+            },
+            {
+                "white": "Liu, Fei",
+                "black": "Liu, Jiajian",
+                "date": "2019-12-22",
+                "result": 0.5,
+                "id": "tournament_792_51"
+            },
+            {
+                "white": "Jiang, Degang",
+                "black": "Kang, Zihui",
+                "date": "2019-12-22",
+                "result": 0,
+                "id": "tournament_792_52"
+            },
+            {
+                "white": "Zhang, Muli",
+                "black": "Chen, Zhi",
+                "date": "2019-12-22",
+                "result": 0,
+                "id": "tournament_792_53"
+            },
+            {
+                "white": "Li, Wenzi",
+                "black": "Ma, Chaofeng",
+                "date": "2019-12-22",
+                "result": 1,
+                "id": "tournament_792_54"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "Xu, Xiaozhi",
+                "black": "Zhang, Dali",
+                "date": "2019-12-24",
+                "result": 0.5,
+                "id": "tournament_792_55"
+            },
+            {
+                "white": "Zhang, Zhengnan",
+                "black": "Liu, Jiajian",
+                "date": "2019-12-24",
+                "result": 0.5,
+                "id": "tournament_792_56"
+            },
+            {
+                "white": "Jiang, Degang",
+                "black": "Shi, Zhi",
+                "date": "2019-12-24",
+                "result": 0,
+                "id": "tournament_792_57"
+            },
+            {
+                "white": "Zhang, Muli",
+                "black": "Liu, Fei",
+                "date": "2019-12-24",
+                "result": 0,
+                "id": "tournament_792_58"
+            },
+            {
+                "white": "Li, Wenzi",
+                "black": "Kang, Zihui",
+                "date": "2019-12-24",
+                "result": 0,
+                "id": "tournament_792_59"
+            },
+            {
+                "white": "Ma, Chaofeng",
+                "black": "Chen, Zhi",
+                "date": "2019-12-24",
+                "result": 0,
+                "id": "tournament_792_60"
+            }
+        ],
+        "tour_11": [
+            {
+                "white": "Liu, Jiajian",
+                "black": "Xu, Xiaozhi",
+                "date": "2019-12-26",
+                "result": 0.5,
+                "id": "tournament_792_61"
+            },
+            {
+                "white": "Jiang, Degang",
+                "black": "Zhang, Dali",
+                "date": "2019-12-26",
+                "result": 0,
+                "id": "tournament_792_62"
+            },
+            {
+                "white": "Zhang, Muli",
+                "black": "Zhang, Zhengnan",
+                "date": "2019-12-26",
+                "result": 0.5,
+                "id": "tournament_792_63"
+            },
+            {
+                "white": "Li, Wenzi",
+                "black": "Shi, Zhi",
+                "date": "2019-12-26",
+                "result": 1,
+                "id": "tournament_792_64"
+            },
+            {
+                "white": "Ma, Chaofeng",
+                "black": "Liu, Fei",
+                "date": "2019-12-26",
+                "result": 0,
+                "id": "tournament_792_65"
+            },
+            {
+                "white": "Chen, Zhi",
+                "black": "Kang, Zihui",
+                "date": "2019-12-26",
+                "result": 0,
+                "id": "tournament_792_66"
+            }
+        ]
+    },
+    "tours": 11,
+    "time_control": "classic"
+}

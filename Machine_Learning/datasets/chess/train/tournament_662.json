@@ -1,0 +1,342 @@
+{
+    "name": "tournament_662",
+    "start_date": "2018-12-05",
+    "end_date": "2018-12-14",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Wei, Bitao",
+                "black": "Hu, Qihong",
+                "date": "2018-12-05",
+                "result": 1,
+                "id": "tournament_662_1"
+            },
+            {
+                "white": "Zhu, Yourong",
+                "black": "Wu, Yishun",
+                "date": "2018-12-05",
+                "result": 0,
+                "id": "tournament_662_2"
+            },
+            {
+                "white": "Liu, Kunhan",
+                "black": "Xie, Liangliang",
+                "date": "2018-12-05",
+                "result": 0.5,
+                "id": "tournament_662_3"
+            },
+            {
+                "white": "Hu, Biwei",
+                "black": "Sun, Lihong",
+                "date": "2018-12-05",
+                "result": 0.5,
+                "id": "tournament_662_4"
+            },
+            {
+                "white": "Bai, Zhuoqiong",
+                "black": "Wang, Yaozhu",
+                "date": "2018-12-05",
+                "result": 0.5,
+                "id": "tournament_662_5"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Hu, Qihong",
+                "black": "Zhu, Yourong",
+                "date": "2018-12-06",
+                "result": 1,
+                "id": "tournament_662_6"
+            },
+            {
+                "white": "Wei, Bitao",
+                "black": "Liu, Kunhan",
+                "date": "2018-12-06",
+                "result": 1,
+                "id": "tournament_662_7"
+            },
+            {
+                "white": "Hu, Biwei",
+                "black": "Wu, Yishun",
+                "date": "2018-12-06",
+                "result": 0.5,
+                "id": "tournament_662_8"
+            },
+            {
+                "white": "Bai, Zhuoqiong",
+                "black": "Xie, Liangliang",
+                "date": "2018-12-06",
+                "result": 0,
+                "id": "tournament_662_9"
+            },
+            {
+                "white": "Wang, Yaozhu",
+                "black": "Sun, Lihong",
+                "date": "2018-12-06",
+                "result": 1,
+                "id": "tournament_662_10"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Liu, Kunhan",
+                "black": "Hu, Qihong",
+                "date": "2018-12-07",
+                "result": 0,
+                "id": "tournament_662_11"
+            },
+            {
+                "white": "Zhu, Yourong",
+                "black": "Hu, Biwei",
+                "date": "2018-12-07",
+                "result": 0,
+                "id": "tournament_662_12"
+            },
+            {
+                "white": "Wei, Bitao",
+                "black": "Bai, Zhuoqiong",
+                "date": "2018-12-07",
+                "result": 1,
+                "id": "tournament_662_13"
+            },
+            {
+                "white": "Wang, Yaozhu",
+                "black": "Wu, Yishun",
+                "date": "2018-12-07",
+                "result": 0.5,
+                "id": "tournament_662_14"
+            },
+            {
+                "white": "Sun, Lihong",
+                "black": "Xie, Liangliang",
+                "date": "2018-12-07",
+                "result": 0,
+                "id": "tournament_662_15"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Hu, Qihong",
+                "black": "Hu, Biwei",
+                "date": "2018-12-08",
+                "result": 1,
+                "id": "tournament_662_16"
+            },
+            {
+                "white": "Liu, Kunhan",
+                "black": "Bai, Zhuoqiong",
+                "date": "2018-12-08",
+                "result": 0.5,
+                "id": "tournament_662_17"
+            },
+            {
+                "white": "Zhu, Yourong",
+                "black": "Wang, Yaozhu",
+                "date": "2018-12-08",
+                "result": 0.5,
+                "id": "tournament_662_18"
+            },
+            {
+                "white": "Wei, Bitao",
+                "black": "Sun, Lihong",
+                "date": "2018-12-08",
+                "result": 1,
+                "id": "tournament_662_19"
+            },
+            {
+                "white": "Xie, Liangliang",
+                "black": "Wu, Yishun",
+                "date": "2018-12-08",
+                "result": 1,
+                "id": "tournament_662_20"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Bai, Zhuoqiong",
+                "black": "Hu, Qihong",
+                "date": "2018-12-09",
+                "result": 0,
+                "id": "tournament_662_21"
+            },
+            {
+                "white": "Hu, Biwei",
+                "black": "Wang, Yaozhu",
+                "date": "2018-12-09",
+                "result": 0.5,
+                "id": "tournament_662_22"
+            },
+            {
+                "white": "Liu, Kunhan",
+                "black": "Sun, Lihong",
+                "date": "2018-12-09",
+                "result": 0.5,
+                "id": "tournament_662_23"
+            },
+            {
+                "white": "Zhu, Yourong",
+                "black": "Xie, Liangliang",
+                "date": "2018-12-09",
+                "result": 0,
+                "id": "tournament_662_24"
+            },
+            {
+                "white": "Wei, Bitao",
+                "black": "Wu, Yishun",
+                "date": "2018-12-09",
+                "result": 1,
+                "id": "tournament_662_25"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Hu, Qihong",
+                "black": "Wang, Yaozhu",
+                "date": "2018-12-10",
+                "result": 1,
+                "id": "tournament_662_26"
+            },
+            {
+                "white": "Bai, Zhuoqiong",
+                "black": "Sun, Lihong",
+                "date": "2018-12-10",
+                "result": 1,
+                "id": "tournament_662_27"
+            },
+            {
+                "white": "Hu, Biwei",
+                "black": "Xie, Liangliang",
+                "date": "2018-12-10",
+                "result": 0,
+                "id": "tournament_662_28"
+            },
+            {
+                "white": "Liu, Kunhan",
+                "black": "Wu, Yishun",
+                "date": "2018-12-10",
+                "result": 0.5,
+                "id": "tournament_662_29"
+            },
+            {
+                "white": "Wei, Bitao",
+                "black": "Zhu, Yourong",
+                "date": "2018-12-10",
+                "result": 0.5,
+                "id": "tournament_662_30"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Sun, Lihong",
+                "black": "Hu, Qihong",
+                "date": "2018-12-11",
+                "result": 0,
+                "id": "tournament_662_31"
+            },
+            {
+                "white": "Wang, Yaozhu",
+                "black": "Xie, Liangliang",
+                "date": "2018-12-11",
+                "result": 0,
+                "id": "tournament_662_32"
+            },
+            {
+                "white": "Bai, Zhuoqiong",
+                "black": "Wu, Yishun",
+                "date": "2018-12-11",
+                "result": 0.5,
+                "id": "tournament_662_33"
+            },
+            {
+                "white": "Wei, Bitao",
+                "black": "Hu, Biwei",
+                "date": "2018-12-11",
+                "result": 1,
+                "id": "tournament_662_34"
+            },
+            {
+                "white": "Zhu, Yourong",
+                "black": "Liu, Kunhan",
+                "date": "2018-12-11",
+                "result": 0.5,
+                "id": "tournament_662_35"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Hu, Qihong",
+                "black": "Xie, Liangliang",
+                "date": "2018-12-12",
+                "result": 0.5,
+                "id": "tournament_662_36"
+            },
+            {
+                "white": "Sun, Lihong",
+                "black": "Wu, Yishun",
+                "date": "2018-12-12",
+                "result": 0.5,
+                "id": "tournament_662_37"
+            },
+            {
+                "white": "Wei, Bitao",
+                "black": "Wang, Yaozhu",
+                "date": "2018-12-12",
+                "result": 1,
+                "id": "tournament_662_38"
+            },
+            {
+                "white": "Zhu, Yourong",
+                "black": "Bai, Zhuoqiong",
+                "date": "2018-12-12",
+                "result": 0.5,
+                "id": "tournament_662_39"
+            },
+            {
+                "white": "Liu, Kunhan",
+                "black": "Hu, Biwei",
+                "date": "2018-12-12",
+                "result": 0.5,
+                "id": "tournament_662_40"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Wu, Yishun",
+                "black": "Hu, Qihong",
+                "date": "2018-12-13",
+                "result": 0.5,
+                "id": "tournament_662_41"
+            },
+            {
+                "white": "Wei, Bitao",
+                "black": "Xie, Liangliang",
+                "date": "2018-12-13",
+                "result": 1,
+                "id": "tournament_662_42"
+            },
+            {
+                "white": "Zhu, Yourong",
+                "black": "Sun, Lihong",
+                "date": "2018-12-13",
+                "result": 0,
+                "id": "tournament_662_43"
+            },
+            {
+                "white": "Liu, Kunhan",
+                "black": "Wang, Yaozhu",
+                "date": "2018-12-13",
+                "result": 1,
+                "id": "tournament_662_44"
+            },
+            {
+                "white": "Hu, Biwei",
+                "black": "Bai, Zhuoqiong",
+                "date": "2018-12-13",
+                "result": 1,
+                "id": "tournament_662_45"
+            }
+        ]
+    },
+    "tours": 9,
+    "time_control": "rapid"
+}

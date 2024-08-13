@@ -1,0 +1,219 @@
+{
+    "name": "tournament_635",
+    "start_date": "2018-10-03",
+    "end_date": "2018-10-10",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Zhang Yiyan",
+                "black": "Jiang Bo",
+                "date": "2018-10-03",
+                "result": 0.5,
+                "id": "tournament_635_1"
+            },
+            {
+                "white": "Li Youhui",
+                "black": "Chen Zenghui",
+                "date": "2018-10-03",
+                "result": 0.5,
+                "id": "tournament_635_2"
+            },
+            {
+                "white": "Wu Junqing",
+                "black": "Zhang Yan",
+                "date": "2018-10-03",
+                "result": 0.5,
+                "id": "tournament_635_3"
+            },
+            {
+                "white": "Bi Xiaoyue",
+                "black": "Hao Xing",
+                "date": "2018-10-03",
+                "result": 0.5,
+                "id": "tournament_635_4"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Jiang Bo",
+                "black": "Li Youhui",
+                "date": "2018-10-04",
+                "result": 1,
+                "id": "tournament_635_5"
+            },
+            {
+                "white": "Zhang Yiyan",
+                "black": "Wu Junqing",
+                "date": "2018-10-04",
+                "result": 0.5,
+                "id": "tournament_635_6"
+            },
+            {
+                "white": "Bi Xiaoyue",
+                "black": "Chen Zenghui",
+                "date": "2018-10-04",
+                "result": 0.5,
+                "id": "tournament_635_7"
+            },
+            {
+                "white": "Hao Xing",
+                "black": "Zhang Yan",
+                "date": "2018-10-04",
+                "result": 0.5,
+                "id": "tournament_635_8"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Wu Junqing",
+                "black": "Jiang Bo",
+                "date": "2018-10-05",
+                "result": 0.5,
+                "id": "tournament_635_9"
+            },
+            {
+                "white": "Li Youhui",
+                "black": "Bi Xiaoyue",
+                "date": "2018-10-05",
+                "result": 0,
+                "id": "tournament_635_10"
+            },
+            {
+                "white": "Zhang Yiyan",
+                "black": "Hao Xing",
+                "date": "2018-10-05",
+                "result": 0,
+                "id": "tournament_635_11"
+            },
+            {
+                "white": "Zhang Yan",
+                "black": "Chen Zenghui",
+                "date": "2018-10-05",
+                "result": 1,
+                "id": "tournament_635_12"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Jiang Bo",
+                "black": "Bi Xiaoyue",
+                "date": "2018-10-06",
+                "result": 0.5,
+                "id": "tournament_635_13"
+            },
+            {
+                "white": "Wu Junqing",
+                "black": "Hao Xing",
+                "date": "2018-10-06",
+                "result": 0,
+                "id": "tournament_635_14"
+            },
+            {
+                "white": "Li Youhui",
+                "black": "Zhang Yan",
+                "date": "2018-10-06",
+                "result": 0,
+                "id": "tournament_635_15"
+            },
+            {
+                "white": "Zhang Yiyan",
+                "black": "Chen Zenghui",
+                "date": "2018-10-06",
+                "result": 1,
+                "id": "tournament_635_16"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Hao Xing",
+                "black": "Jiang Bo",
+                "date": "2018-10-07",
+                "result": 1,
+                "id": "tournament_635_17"
+            },
+            {
+                "white": "Bi Xiaoyue",
+                "black": "Zhang Yan",
+                "date": "2018-10-07",
+                "result": 0.5,
+                "id": "tournament_635_18"
+            },
+            {
+                "white": "Wu Junqing",
+                "black": "Chen Zenghui",
+                "date": "2018-10-07",
+                "result": 1,
+                "id": "tournament_635_19"
+            },
+            {
+                "white": "Zhang Yiyan",
+                "black": "Li Youhui",
+                "date": "2018-10-07",
+                "result": 1,
+                "id": "tournament_635_20"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Jiang Bo",
+                "black": "Zhang Yan",
+                "date": "2018-10-08",
+                "result": 1,
+                "id": "tournament_635_21"
+            },
+            {
+                "white": "Hao Xing",
+                "black": "Chen Zenghui",
+                "date": "2018-10-08",
+                "result": 0.5,
+                "id": "tournament_635_22"
+            },
+            {
+                "white": "Zhang Yiyan",
+                "black": "Bi Xiaoyue",
+                "date": "2018-10-08",
+                "result": 0,
+                "id": "tournament_635_23"
+            },
+            {
+                "white": "Li Youhui",
+                "black": "Wu Junqing",
+                "date": "2018-10-08",
+                "result": 0,
+                "id": "tournament_635_24"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Chen Zenghui",
+                "black": "Jiang Bo",
+                "date": "2018-10-09",
+                "result": 0,
+                "id": "tournament_635_25"
+            },
+            {
+                "white": "Zhang Yiyan",
+                "black": "Zhang Yan",
+                "date": "2018-10-09",
+                "result": 0.5,
+                "id": "tournament_635_26"
+            },
+            {
+                "white": "Li Youhui",
+                "black": "Hao Xing",
+                "date": "2018-10-09",
+                "result": 0.5,
+                "id": "tournament_635_27"
+            },
+            {
+                "white": "Wu Junqing",
+                "black": "Bi Xiaoyue",
+                "date": "2018-10-09",
+                "result": 0.5,
+                "id": "tournament_635_28"
+            }
+        ]
+    },
+    "tours": 7,
+    "time_control": "classic"
+}

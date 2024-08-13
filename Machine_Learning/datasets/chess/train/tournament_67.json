@@ -1,0 +1,255 @@
+{
+    "name": "tournament_67",
+    "start_date": "2014-06-21",
+    "end_date": "2014-07-07",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Li, Songjiang",
+                "black": "Yang, Ling",
+                "date": "2014-06-21",
+                "result": 1,
+                "id": "tournament_67_1"
+            },
+            {
+                "white": "Yang, Ling",
+                "black": "Li, Songjiang",
+                "date": "2014-06-23",
+                "result": 0.5,
+                "id": "tournament_67_2"
+            },
+            {
+                "white": "Tian, Xiong",
+                "black": "Zhong, Hongcun",
+                "date": "2014-06-21",
+                "result": 1,
+                "id": "tournament_67_3"
+            },
+            {
+                "white": "Zhong, Hongcun",
+                "black": "Tian, Xiong",
+                "date": "2014-06-23",
+                "result": 0.5,
+                "id": "tournament_67_4"
+            },
+            {
+                "white": "Li, Qiaoyun",
+                "black": "Chen, Shengxiang",
+                "date": "2014-06-21",
+                "result": 0.5,
+                "id": "tournament_67_5"
+            },
+            {
+                "white": "Chen, Shengxiang",
+                "black": "Li, Qiaoyun",
+                "date": "2014-06-23",
+                "result": 0.5,
+                "id": "tournament_67_6"
+            },
+            {
+                "white": "Li, Qiaoyun",
+                "black": "Chen, Shengxiang",
+                "date": "2014-06-23",
+                "result": 0.5,
+                "id": "tournament_67_7"
+            },
+            {
+                "white": "Zhang, Zhiqiong",
+                "black": "Qi, Huizhi",
+                "date": "2014-06-21",
+                "result": 0.5,
+                "id": "tournament_67_8"
+            },
+            {
+                "white": "Qi, Huizhi",
+                "black": "Zhang, Zhiqiong",
+                "date": "2014-06-23",
+                "result": 0.5,
+                "id": "tournament_67_9"
+            },
+            {
+                "white": "Zhang, Zhiqiong",
+                "black": "Qi, Huizhi",
+                "date": "2014-06-23",
+                "result": 1,
+                "id": "tournament_67_10"
+            },
+            {
+                "white": "Zheng, Xuanzhen",
+                "black": "Meng, Dayun",
+                "date": "2014-06-21",
+                "result": 0.5,
+                "id": "tournament_67_11"
+            },
+            {
+                "white": "Meng, Dayun",
+                "black": "Zheng, Xuanzhen",
+                "date": "2014-06-23",
+                "result": 0,
+                "id": "tournament_67_12"
+            },
+            {
+                "white": "Li, Wenling",
+                "black": "Xu, Xianyan",
+                "date": "2014-06-21",
+                "result": 0,
+                "id": "tournament_67_13"
+            },
+            {
+                "white": "Xu, Xianyan",
+                "black": "Li, Wenling",
+                "date": "2014-06-23",
+                "result": 1,
+                "id": "tournament_67_14"
+            },
+            {
+                "white": "Gao, Changxia",
+                "black": "Wang, Xiaosheng",
+                "date": "2014-06-21",
+                "result": 1,
+                "id": "tournament_67_15"
+            },
+            {
+                "white": "Wang, Xiaosheng",
+                "black": "Gao, Changxia",
+                "date": "2014-06-23",
+                "result": 0,
+                "id": "tournament_67_16"
+            },
+            {
+                "white": "Lu, Yingfu",
+                "black": "Dong, Jian",
+                "date": "2014-06-21",
+                "result": 0.5,
+                "id": "tournament_67_17"
+            },
+            {
+                "white": "Dong, Jian",
+                "black": "Lu, Yingfu",
+                "date": "2014-06-23",
+                "result": 1,
+                "id": "tournament_67_18"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Li, Songjiang",
+                "black": "Tian, Xiong",
+                "date": "2014-06-25",
+                "result": 0.5,
+                "id": "tournament_67_19"
+            },
+            {
+                "white": "Tian, Xiong",
+                "black": "Li, Songjiang",
+                "date": "2014-06-27",
+                "result": 0.5,
+                "id": "tournament_67_20"
+            },
+            {
+                "white": "Li, Songjiang",
+                "black": "Tian, Xiong",
+                "date": "2014-06-27",
+                "result": 0.5,
+                "id": "tournament_67_21"
+            },
+            {
+                "white": "Chen, Shengxiang",
+                "black": "Zhang, Zhiqiong",
+                "date": "2014-06-25",
+                "result": 0,
+                "id": "tournament_67_22"
+            },
+            {
+                "white": "Zhang, Zhiqiong",
+                "black": "Chen, Shengxiang",
+                "date": "2014-06-27",
+                "result": 1,
+                "id": "tournament_67_23"
+            },
+            {
+                "white": "Zheng, Xuanzhen",
+                "black": "Xu, Xianyan",
+                "date": "2014-06-25",
+                "result": 0.5,
+                "id": "tournament_67_24"
+            },
+            {
+                "white": "Xu, Xianyan",
+                "black": "Zheng, Xuanzhen",
+                "date": "2014-06-27",
+                "result": 1,
+                "id": "tournament_67_25"
+            },
+            {
+                "white": "Gao, Changxia",
+                "black": "Dong, Jian",
+                "date": "2014-06-25",
+                "result": 0,
+                "id": "tournament_67_26"
+            },
+            {
+                "white": "Dong, Jian",
+                "black": "Gao, Changxia",
+                "date": "2014-06-27",
+                "result": 0,
+                "id": "tournament_67_27"
+            },
+            {
+                "white": "Gao, Changxia",
+                "black": "Dong, Jian",
+                "date": "2014-06-27",
+                "result": 0.5,
+                "id": "tournament_67_28"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Tian, Xiong",
+                "black": "Zhang, Zhiqiong",
+                "date": "2014-06-29",
+                "result": 0,
+                "id": "tournament_67_29"
+            },
+            {
+                "white": "Zhang, Zhiqiong",
+                "black": "Tian, Xiong",
+                "date": "2014-07-01",
+                "result": 0.5,
+                "id": "tournament_67_30"
+            },
+            {
+                "white": "Xu, Xianyan",
+                "black": "Dong, Jian",
+                "date": "2014-06-29",
+                "result": 0.5,
+                "id": "tournament_67_31"
+            },
+            {
+                "white": "Dong, Jian",
+                "black": "Xu, Xianyan",
+                "date": "2014-07-01",
+                "result": 0,
+                "id": "tournament_67_32"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Zhang, Zhiqiong",
+                "black": "Xu, Xianyan",
+                "date": "2014-07-03",
+                "result": 0,
+                "id": "tournament_67_33"
+            },
+            {
+                "white": "Xu, Xianyan",
+                "black": "Zhang, Zhiqiong",
+                "date": "2014-07-05",
+                "result": 1,
+                "id": "tournament_67_34"
+            }
+        ]
+    },
+    "tours": 4,
+    "time_control": "classic"
+}

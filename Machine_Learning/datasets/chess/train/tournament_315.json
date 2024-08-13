@@ -1,0 +1,921 @@
+{
+    "name": "tournament_315",
+    "start_date": "2016-05-22",
+    "end_date": "2016-05-30",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Li, Yan",
+                "black": "Guo, Zhouzhe",
+                "date": "2016-05-22",
+                "result": 0.5,
+                "id": "tournament_315_1"
+            },
+            {
+                "white": "Xiao, Qiuliang",
+                "black": "Chen, Pingxing",
+                "date": "2016-05-22",
+                "result": 0.5,
+                "id": "tournament_315_2"
+            },
+            {
+                "white": "Zhang, Guofei",
+                "black": "Zhang, Xu",
+                "date": "2016-05-22",
+                "result": 1,
+                "id": "tournament_315_3"
+            },
+            {
+                "white": "Wang, Zhenzhi",
+                "black": "Yang, Yuxian",
+                "date": "2016-05-22",
+                "result": 0.5,
+                "id": "tournament_315_4"
+            },
+            {
+                "white": "Gu, Lifeng",
+                "black": "Xu, Xianyan",
+                "date": "2016-05-22",
+                "result": 1,
+                "id": "tournament_315_5"
+            },
+            {
+                "white": "Lin, Hongli",
+                "black": "Yang, Jing",
+                "date": "2016-05-22",
+                "result": 1,
+                "id": "tournament_315_6"
+            },
+            {
+                "white": "Liang, Sipei",
+                "black": "Lin, Haopeng",
+                "date": "2016-05-22",
+                "result": 1,
+                "id": "tournament_315_7"
+            },
+            {
+                "white": "Zhao, Junzhong",
+                "black": "Zhao, Shi",
+                "date": "2016-05-22",
+                "result": 0,
+                "id": "tournament_315_8"
+            },
+            {
+                "white": "Yu, Dongchun",
+                "black": "Zhu, Mojie",
+                "date": "2016-05-22",
+                "result": 1,
+                "id": "tournament_315_9"
+            },
+            {
+                "white": "Cao, Shaoyong",
+                "black": "Huang, Fangwei",
+                "date": "2016-05-22",
+                "result": 1,
+                "id": "tournament_315_10"
+            },
+            {
+                "white": "Qi, Huizhi",
+                "black": "Li, Huiting",
+                "date": "2016-05-22",
+                "result": 0.5,
+                "id": "tournament_315_11"
+            },
+            {
+                "white": "Song, Shuaihui",
+                "black": "Li, Shuchu",
+                "date": "2016-05-22",
+                "result": 0,
+                "id": "tournament_315_12"
+            },
+            {
+                "white": "Deng, Zhenhua",
+                "black": "Liu, Biyan",
+                "date": "2016-05-22",
+                "result": 0.5,
+                "id": "tournament_315_13"
+            },
+            {
+                "white": "Yang, Shaqiang",
+                "black": "Zhang, Yiyan",
+                "date": "2016-05-22",
+                "result": 0.5,
+                "id": "tournament_315_14"
+            },
+            {
+                "white": "Wu, Xiongcang",
+                "black": "Shen, Lanhong",
+                "date": "2016-05-22",
+                "result": 1,
+                "id": "tournament_315_15"
+            },
+            {
+                "white": "Bai, Xiaoan",
+                "black": "Wang, Jianmei",
+                "date": "2016-05-22",
+                "result": 1,
+                "id": "tournament_315_16"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Zhao, Shi",
+                "black": "Zhang, Guofei",
+                "date": "2016-05-23",
+                "result": 0.5,
+                "id": "tournament_315_17"
+            },
+            {
+                "white": "Li, Shuchu",
+                "black": "Gu, Lifeng",
+                "date": "2016-05-23",
+                "result": 0.5,
+                "id": "tournament_315_18"
+            },
+            {
+                "white": "Guo, Zhouzhe",
+                "black": "Lin, Hongli",
+                "date": "2016-05-23",
+                "result": 1,
+                "id": "tournament_315_19"
+            },
+            {
+                "white": "Chen, Pingxing",
+                "black": "Liang, Sipei",
+                "date": "2016-05-23",
+                "result": 0.5,
+                "id": "tournament_315_20"
+            },
+            {
+                "white": "Yang, Yuxian",
+                "black": "Yu, Dongchun",
+                "date": "2016-05-23",
+                "result": 0.5,
+                "id": "tournament_315_21"
+            },
+            {
+                "white": "Li, Huiting",
+                "black": "Cao, Shaoyong",
+                "date": "2016-05-23",
+                "result": 0.5,
+                "id": "tournament_315_22"
+            },
+            {
+                "white": "Liu, Biyan",
+                "black": "Wu, Xiongcang",
+                "date": "2016-05-23",
+                "result": 0.5,
+                "id": "tournament_315_23"
+            },
+            {
+                "white": "Zhang, Yiyan",
+                "black": "Bai, Xiaoan",
+                "date": "2016-05-23",
+                "result": 0.5,
+                "id": "tournament_315_24"
+            },
+            {
+                "white": "Zhang, Xu",
+                "black": "Li, Yan",
+                "date": "2016-05-23",
+                "result": 1,
+                "id": "tournament_315_25"
+            },
+            {
+                "white": "Xu, Xianyan",
+                "black": "Xiao, Qiuliang",
+                "date": "2016-05-23",
+                "result": 1,
+                "id": "tournament_315_26"
+            },
+            {
+                "white": "Yang, Jing",
+                "black": "Wang, Zhenzhi",
+                "date": "2016-05-23",
+                "result": 1,
+                "id": "tournament_315_27"
+            },
+            {
+                "white": "Lin, Haopeng",
+                "black": "Qi, Huizhi",
+                "date": "2016-05-23",
+                "result": 0.5,
+                "id": "tournament_315_28"
+            },
+            {
+                "white": "Zhu, Mojie",
+                "black": "Deng, Zhenhua",
+                "date": "2016-05-23",
+                "result": 0.5,
+                "id": "tournament_315_29"
+            },
+            {
+                "white": "Huang, Fangwei",
+                "black": "Yang, Shaqiang",
+                "date": "2016-05-23",
+                "result": 0.5,
+                "id": "tournament_315_30"
+            },
+            {
+                "white": "Wang, Jianmei",
+                "black": "Zhao, Junzhong",
+                "date": "2016-05-23",
+                "result": 0,
+                "id": "tournament_315_31"
+            },
+            {
+                "white": "Shen, Lanhong",
+                "black": "Song, Shuaihui",
+                "date": "2016-05-23",
+                "result": 0.5,
+                "id": "tournament_315_32"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Zhang, Guofei",
+                "black": "Li, Shuchu",
+                "date": "2016-05-24",
+                "result": 0,
+                "id": "tournament_315_33"
+            },
+            {
+                "white": "Gu, Lifeng",
+                "black": "Zhao, Shi",
+                "date": "2016-05-24",
+                "result": 1,
+                "id": "tournament_315_34"
+            },
+            {
+                "white": "Liang, Sipei",
+                "black": "Guo, Zhouzhe",
+                "date": "2016-05-24",
+                "result": 0.5,
+                "id": "tournament_315_35"
+            },
+            {
+                "white": "Yu, Dongchun",
+                "black": "Chen, Pingxing",
+                "date": "2016-05-24",
+                "result": 1,
+                "id": "tournament_315_36"
+            },
+            {
+                "white": "Cao, Shaoyong",
+                "black": "Yang, Yuxian",
+                "date": "2016-05-24",
+                "result": 1,
+                "id": "tournament_315_37"
+            },
+            {
+                "white": "Wu, Xiongcang",
+                "black": "Li, Huiting",
+                "date": "2016-05-24",
+                "result": 1,
+                "id": "tournament_315_38"
+            },
+            {
+                "white": "Bai, Xiaoan",
+                "black": "Liu, Biyan",
+                "date": "2016-05-24",
+                "result": 0.5,
+                "id": "tournament_315_39"
+            },
+            {
+                "white": "Lin, Hongli",
+                "black": "Zhang, Yiyan",
+                "date": "2016-05-24",
+                "result": 1,
+                "id": "tournament_315_40"
+            },
+            {
+                "white": "Qi, Huizhi",
+                "black": "Zhang, Xu",
+                "date": "2016-05-24",
+                "result": 0.5,
+                "id": "tournament_315_41"
+            },
+            {
+                "white": "Deng, Zhenhua",
+                "black": "Xu, Xianyan",
+                "date": "2016-05-24",
+                "result": 0,
+                "id": "tournament_315_42"
+            },
+            {
+                "white": "Yang, Shaqiang",
+                "black": "Yang, Jing",
+                "date": "2016-05-24",
+                "result": 0.5,
+                "id": "tournament_315_43"
+            },
+            {
+                "white": "Zhao, Junzhong",
+                "black": "Lin, Haopeng",
+                "date": "2016-05-24",
+                "result": 0.5,
+                "id": "tournament_315_44"
+            },
+            {
+                "white": "Li, Yan",
+                "black": "Zhu, Mojie",
+                "date": "2016-05-24",
+                "result": 1,
+                "id": "tournament_315_45"
+            },
+            {
+                "white": "Xiao, Qiuliang",
+                "black": "Huang, Fangwei",
+                "date": "2016-05-24",
+                "result": 0.5,
+                "id": "tournament_315_46"
+            },
+            {
+                "white": "Wang, Zhenzhi",
+                "black": "Shen, Lanhong",
+                "date": "2016-05-24",
+                "result": 0.5,
+                "id": "tournament_315_47"
+            },
+            {
+                "white": "Song, Shuaihui",
+                "black": "Wang, Jianmei",
+                "date": "2016-05-24",
+                "result": 0.5,
+                "id": "tournament_315_48"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Guo, Zhouzhe",
+                "black": "Gu, Lifeng",
+                "date": "2016-05-25",
+                "result": 0,
+                "id": "tournament_315_49"
+            },
+            {
+                "white": "Li, Shuchu",
+                "black": "Yu, Dongchun",
+                "date": "2016-05-25",
+                "result": 0.5,
+                "id": "tournament_315_50"
+            },
+            {
+                "white": "Xu, Xianyan",
+                "black": "Cao, Shaoyong",
+                "date": "2016-05-25",
+                "result": 0.5,
+                "id": "tournament_315_51"
+            },
+            {
+                "white": "Zhao, Shi",
+                "black": "Wu, Xiongcang",
+                "date": "2016-05-25",
+                "result": 0.5,
+                "id": "tournament_315_52"
+            },
+            {
+                "white": "Liu, Biyan",
+                "black": "Liang, Sipei",
+                "date": "2016-05-25",
+                "result": 1,
+                "id": "tournament_315_53"
+            },
+            {
+                "white": "Zhang, Xu",
+                "black": "Bai, Xiaoan",
+                "date": "2016-05-25",
+                "result": 0,
+                "id": "tournament_315_54"
+            },
+            {
+                "white": "Chen, Pingxing",
+                "black": "Lin, Hongli",
+                "date": "2016-05-25",
+                "result": 1,
+                "id": "tournament_315_55"
+            },
+            {
+                "white": "Yang, Jing",
+                "black": "Zhang, Guofei",
+                "date": "2016-05-25",
+                "result": 1,
+                "id": "tournament_315_56"
+            },
+            {
+                "white": "Yang, Yuxian",
+                "black": "Qi, Huizhi",
+                "date": "2016-05-25",
+                "result": 0.5,
+                "id": "tournament_315_57"
+            },
+            {
+                "white": "Li, Huiting",
+                "black": "Yang, Shaqiang",
+                "date": "2016-05-25",
+                "result": 1,
+                "id": "tournament_315_58"
+            },
+            {
+                "white": "Zhang, Yiyan",
+                "black": "Zhao, Junzhong",
+                "date": "2016-05-25",
+                "result": 0.5,
+                "id": "tournament_315_59"
+            },
+            {
+                "white": "Lin, Haopeng",
+                "black": "Li, Yan",
+                "date": "2016-05-25",
+                "result": 1,
+                "id": "tournament_315_60"
+            },
+            {
+                "white": "Huang, Fangwei",
+                "black": "Deng, Zhenhua",
+                "date": "2016-05-25",
+                "result": 0.5,
+                "id": "tournament_315_61"
+            },
+            {
+                "white": "Shen, Lanhong",
+                "black": "Xiao, Qiuliang",
+                "date": "2016-05-25",
+                "result": 0.5,
+                "id": "tournament_315_62"
+            },
+            {
+                "white": "Zhu, Mojie",
+                "black": "Song, Shuaihui",
+                "date": "2016-05-25",
+                "result": 1,
+                "id": "tournament_315_63"
+            },
+            {
+                "white": "Wang, Jianmei",
+                "black": "Wang, Zhenzhi",
+                "date": "2016-05-25",
+                "result": 0,
+                "id": "tournament_315_64"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Gu, Lifeng",
+                "black": "Liu, Biyan",
+                "date": "2016-05-26",
+                "result": 0,
+                "id": "tournament_315_65"
+            },
+            {
+                "white": "Yu, Dongchun",
+                "black": "Xu, Xianyan",
+                "date": "2016-05-26",
+                "result": 0.5,
+                "id": "tournament_315_66"
+            },
+            {
+                "white": "Cao, Shaoyong",
+                "black": "Li, Shuchu",
+                "date": "2016-05-26",
+                "result": 1,
+                "id": "tournament_315_67"
+            },
+            {
+                "white": "Wu, Xiongcang",
+                "black": "Yang, Jing",
+                "date": "2016-05-26",
+                "result": 1,
+                "id": "tournament_315_68"
+            },
+            {
+                "white": "Bai, Xiaoan",
+                "black": "Guo, Zhouzhe",
+                "date": "2016-05-26",
+                "result": 0.5,
+                "id": "tournament_315_69"
+            },
+            {
+                "white": "Liang, Sipei",
+                "black": "Zhao, Shi",
+                "date": "2016-05-26",
+                "result": 0,
+                "id": "tournament_315_70"
+            },
+            {
+                "white": "Lin, Hongli",
+                "black": "Li, Huiting",
+                "date": "2016-05-26",
+                "result": 0.5,
+                "id": "tournament_315_71"
+            },
+            {
+                "white": "Qi, Huizhi",
+                "black": "Chen, Pingxing",
+                "date": "2016-05-26",
+                "result": 0,
+                "id": "tournament_315_72"
+            },
+            {
+                "white": "Zhao, Junzhong",
+                "black": "Zhang, Xu",
+                "date": "2016-05-26",
+                "result": 0.5,
+                "id": "tournament_315_73"
+            },
+            {
+                "white": "Wang, Zhenzhi",
+                "black": "Lin, Haopeng",
+                "date": "2016-05-26",
+                "result": 1,
+                "id": "tournament_315_74"
+            },
+            {
+                "white": "Zhang, Guofei",
+                "black": "Yang, Yuxian",
+                "date": "2016-05-26",
+                "result": 0.5,
+                "id": "tournament_315_75"
+            },
+            {
+                "white": "Yang, Shaqiang",
+                "black": "Shen, Lanhong",
+                "date": "2016-05-26",
+                "result": 0.5,
+                "id": "tournament_315_76"
+            },
+            {
+                "white": "Li, Yan",
+                "black": "Zhang, Yiyan",
+                "date": "2016-05-26",
+                "result": 0.5,
+                "id": "tournament_315_77"
+            },
+            {
+                "white": "Deng, Zhenhua",
+                "black": "Wang, Jianmei",
+                "date": "2016-05-26",
+                "result": 0.5,
+                "id": "tournament_315_78"
+            },
+            {
+                "white": "Song, Shuaihui",
+                "black": "Huang, Fangwei",
+                "date": "2016-05-26",
+                "result": 0,
+                "id": "tournament_315_79"
+            },
+            {
+                "white": "Xiao, Qiuliang",
+                "black": "Zhu, Mojie",
+                "date": "2016-05-26",
+                "result": 1,
+                "id": "tournament_315_80"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Liu, Biyan",
+                "black": "Cao, Shaoyong",
+                "date": "2016-05-27",
+                "result": 0.5,
+                "id": "tournament_315_81"
+            },
+            {
+                "white": "Li, Shuchu",
+                "black": "Wu, Xiongcang",
+                "date": "2016-05-27",
+                "result": 0,
+                "id": "tournament_315_82"
+            },
+            {
+                "white": "Chen, Pingxing",
+                "black": "Gu, Lifeng",
+                "date": "2016-05-27",
+                "result": 0.5,
+                "id": "tournament_315_83"
+            },
+            {
+                "white": "Zhao, Shi",
+                "black": "Yu, Dongchun",
+                "date": "2016-05-27",
+                "result": 0.5,
+                "id": "tournament_315_84"
+            },
+            {
+                "white": "Xu, Xianyan",
+                "black": "Bai, Xiaoan",
+                "date": "2016-05-27",
+                "result": 0.5,
+                "id": "tournament_315_85"
+            },
+            {
+                "white": "Guo, Zhouzhe",
+                "black": "Wang, Zhenzhi",
+                "date": "2016-05-27",
+                "result": 0.5,
+                "id": "tournament_315_86"
+            },
+            {
+                "white": "Yang, Jing",
+                "black": "Zhao, Junzhong",
+                "date": "2016-05-27",
+                "result": 0,
+                "id": "tournament_315_87"
+            },
+            {
+                "white": "Huang, Fangwei",
+                "black": "Lin, Hongli",
+                "date": "2016-05-27",
+                "result": 0.5,
+                "id": "tournament_315_88"
+            },
+            {
+                "white": "Li, Huiting",
+                "black": "Xiao, Qiuliang",
+                "date": "2016-05-27",
+                "result": 1,
+                "id": "tournament_315_89"
+            },
+            {
+                "white": "Zhang, Xu",
+                "black": "Liang, Sipei",
+                "date": "2016-05-27",
+                "result": 0.5,
+                "id": "tournament_315_90"
+            },
+            {
+                "white": "Zhang, Yiyan",
+                "black": "Qi, Huizhi",
+                "date": "2016-05-27",
+                "result": 0,
+                "id": "tournament_315_91"
+            },
+            {
+                "white": "Lin, Haopeng",
+                "black": "Zhang, Guofei",
+                "date": "2016-05-27",
+                "result": 0.5,
+                "id": "tournament_315_92"
+            },
+            {
+                "white": "Yang, Yuxian",
+                "black": "Song, Shuaihui",
+                "date": "2016-05-27",
+                "result": 1,
+                "id": "tournament_315_93"
+            },
+            {
+                "white": "Shen, Lanhong",
+                "black": "Deng, Zhenhua",
+                "date": "2016-05-27",
+                "result": 0.5,
+                "id": "tournament_315_94"
+            },
+            {
+                "white": "Zhu, Mojie",
+                "black": "Yang, Shaqiang",
+                "date": "2016-05-27",
+                "result": 0,
+                "id": "tournament_315_95"
+            },
+            {
+                "white": "Wang, Jianmei",
+                "black": "Li, Yan",
+                "date": "2016-05-27",
+                "result": 1,
+                "id": "tournament_315_96"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Wu, Xiongcang",
+                "black": "Xu, Xianyan",
+                "date": "2016-05-28",
+                "result": 0.5,
+                "id": "tournament_315_97"
+            },
+            {
+                "white": "Cao, Shaoyong",
+                "black": "Zhao, Shi",
+                "date": "2016-05-28",
+                "result": 0.5,
+                "id": "tournament_315_98"
+            },
+            {
+                "white": "Gu, Lifeng",
+                "black": "Li, Huiting",
+                "date": "2016-05-28",
+                "result": 0.5,
+                "id": "tournament_315_99"
+            },
+            {
+                "white": "Yu, Dongchun",
+                "black": "Liu, Biyan",
+                "date": "2016-05-28",
+                "result": 0.5,
+                "id": "tournament_315_100"
+            },
+            {
+                "white": "Bai, Xiaoan",
+                "black": "Chen, Pingxing",
+                "date": "2016-05-28",
+                "result": 0.5,
+                "id": "tournament_315_101"
+            },
+            {
+                "white": "Wang, Zhenzhi",
+                "black": "Li, Shuchu",
+                "date": "2016-05-28",
+                "result": 0.5,
+                "id": "tournament_315_102"
+            },
+            {
+                "white": "Zhao, Junzhong",
+                "black": "Guo, Zhouzhe",
+                "date": "2016-05-28",
+                "result": 0.5,
+                "id": "tournament_315_103"
+            },
+            {
+                "white": "Lin, Hongli",
+                "black": "Yang, Yuxian",
+                "date": "2016-05-28",
+                "result": 0.5,
+                "id": "tournament_315_104"
+            },
+            {
+                "white": "Qi, Huizhi",
+                "black": "Huang, Fangwei",
+                "date": "2016-05-28",
+                "result": 1,
+                "id": "tournament_315_105"
+            },
+            {
+                "white": "Yang, Shaqiang",
+                "black": "Lin, Haopeng",
+                "date": "2016-05-28",
+                "result": 1,
+                "id": "tournament_315_106"
+            },
+            {
+                "white": "Xiao, Qiuliang",
+                "black": "Yang, Jing",
+                "date": "2016-05-28",
+                "result": 0,
+                "id": "tournament_315_107"
+            },
+            {
+                "white": "Li, Yan",
+                "black": "Shen, Lanhong",
+                "date": "2016-05-28",
+                "result": 0.5,
+                "id": "tournament_315_108"
+            },
+            {
+                "white": "Zhang, Guofei",
+                "black": "Zhu, Mojie",
+                "date": "2016-05-28",
+                "result": 0.5,
+                "id": "tournament_315_109"
+            },
+            {
+                "white": "Liang, Sipei",
+                "black": "Wang, Jianmei",
+                "date": "2016-05-28",
+                "result": 0.5,
+                "id": "tournament_315_110"
+            },
+            {
+                "white": "Song, Shuaihui",
+                "black": "Zhang, Xu",
+                "date": "2016-05-28",
+                "result": 0.5,
+                "id": "tournament_315_111"
+            },
+            {
+                "white": "Deng, Zhenhua",
+                "black": "Zhang, Yiyan",
+                "date": "2016-05-28",
+                "result": 0.5,
+                "id": "tournament_315_112"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Chen, Pingxing",
+                "black": "Wu, Xiongcang",
+                "date": "2016-05-29",
+                "result": 0.5,
+                "id": "tournament_315_113"
+            },
+            {
+                "white": "Guo, Zhouzhe",
+                "black": "Cao, Shaoyong",
+                "date": "2016-05-29",
+                "result": 0,
+                "id": "tournament_315_114"
+            },
+            {
+                "white": "Yang, Yuxian",
+                "black": "Gu, Lifeng",
+                "date": "2016-05-29",
+                "result": 0,
+                "id": "tournament_315_115"
+            },
+            {
+                "white": "Li, Huiting",
+                "black": "Yu, Dongchun",
+                "date": "2016-05-29",
+                "result": 0.5,
+                "id": "tournament_315_116"
+            },
+            {
+                "white": "Zhao, Shi",
+                "black": "Bai, Xiaoan",
+                "date": "2016-05-29",
+                "result": 1,
+                "id": "tournament_315_117"
+            },
+            {
+                "white": "Liu, Biyan",
+                "black": "Wang, Zhenzhi",
+                "date": "2016-05-29",
+                "result": 0.5,
+                "id": "tournament_315_118"
+            },
+            {
+                "white": "Xu, Xianyan",
+                "black": "Zhao, Junzhong",
+                "date": "2016-05-29",
+                "result": 1,
+                "id": "tournament_315_119"
+            },
+            {
+                "white": "Li, Shuchu",
+                "black": "Qi, Huizhi",
+                "date": "2016-05-29",
+                "result": 0,
+                "id": "tournament_315_120"
+            },
+            {
+                "white": "Zhang, Xu",
+                "black": "Yang, Shaqiang",
+                "date": "2016-05-29",
+                "result": 0,
+                "id": "tournament_315_121"
+            },
+            {
+                "white": "Shen, Lanhong",
+                "black": "Lin, Hongli",
+                "date": "2016-05-29",
+                "result": 0,
+                "id": "tournament_315_122"
+            },
+            {
+                "white": "Lin, Haopeng",
+                "black": "Song, Shuaihui",
+                "date": "2016-05-29",
+                "result": 0.5,
+                "id": "tournament_315_123"
+            },
+            {
+                "white": "Wang, Jianmei",
+                "black": "Zhang, Guofei",
+                "date": "2016-05-29",
+                "result": 0,
+                "id": "tournament_315_124"
+            },
+            {
+                "white": "Li, Yan",
+                "black": "Deng, Zhenhua",
+                "date": "2016-05-29",
+                "result": 0,
+                "id": "tournament_315_125"
+            },
+            {
+                "white": "Zhu, Mojie",
+                "black": "Liang, Sipei",
+                "date": "2016-05-29",
+                "result": 0.5,
+                "id": "tournament_315_126"
+            },
+            {
+                "white": "Yang, Jing",
+                "black": "Huang, Fangwei",
+                "date": "2016-05-29",
+                "result": 0.5,
+                "id": "tournament_315_127"
+            },
+            {
+                "white": "Zhang, Yiyan",
+                "black": "Xiao, Qiuliang",
+                "date": "2016-05-29",
+                "result": 0.5,
+                "id": "tournament_315_128"
+            }
+        ]
+    },
+    "tours": 8,
+    "time_control": "classic"
+}

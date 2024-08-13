@@ -1,0 +1,219 @@
+{
+    "name": "tournament_92",
+    "start_date": "2014-08-13",
+    "end_date": "2014-08-27",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Pang Jing ",
+                "black": "Liu Fei ",
+                "date": "2014-08-13",
+                "result": 0,
+                "id": "tournament_92_1"
+            },
+            {
+                "white": "Duan Zhen ",
+                "black": "Zou Feng ",
+                "date": "2014-08-13",
+                "result": 1,
+                "id": "tournament_92_2"
+            },
+            {
+                "white": "Huang Run Jun",
+                "black": "Hong Dong ",
+                "date": "2014-08-13",
+                "result": 0.5,
+                "id": "tournament_92_3"
+            },
+            {
+                "white": "Liu Jian Xi",
+                "black": "Deng Lie ",
+                "date": "2014-08-13",
+                "result": 0.5,
+                "id": "tournament_92_4"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Liu Fei ",
+                "black": "Duan Zhen ",
+                "date": "2014-08-15",
+                "result": 1,
+                "id": "tournament_92_5"
+            },
+            {
+                "white": "Pang Jing ",
+                "black": "Huang Run Jun",
+                "date": "2014-08-15",
+                "result": 0,
+                "id": "tournament_92_6"
+            },
+            {
+                "white": "Liu Jian Xi",
+                "black": "Zou Feng ",
+                "date": "2014-08-15",
+                "result": 0.5,
+                "id": "tournament_92_7"
+            },
+            {
+                "white": "Deng Lie ",
+                "black": "Hong Dong ",
+                "date": "2014-08-15",
+                "result": 0,
+                "id": "tournament_92_8"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Huang Run Jun",
+                "black": "Liu Fei ",
+                "date": "2014-08-17",
+                "result": 0.5,
+                "id": "tournament_92_9"
+            },
+            {
+                "white": "Duan Zhen ",
+                "black": "Liu Jian Xi",
+                "date": "2014-08-17",
+                "result": 0,
+                "id": "tournament_92_10"
+            },
+            {
+                "white": "Pang Jing ",
+                "black": "Deng Lie ",
+                "date": "2014-08-17",
+                "result": 0,
+                "id": "tournament_92_11"
+            },
+            {
+                "white": "Hong Dong ",
+                "black": "Zou Feng ",
+                "date": "2014-08-17",
+                "result": 1,
+                "id": "tournament_92_12"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Liu Fei ",
+                "black": "Liu Jian Xi",
+                "date": "2014-08-19",
+                "result": 0.5,
+                "id": "tournament_92_13"
+            },
+            {
+                "white": "Huang Run Jun",
+                "black": "Deng Lie ",
+                "date": "2014-08-19",
+                "result": 0,
+                "id": "tournament_92_14"
+            },
+            {
+                "white": "Duan Zhen ",
+                "black": "Hong Dong ",
+                "date": "2014-08-19",
+                "result": 0,
+                "id": "tournament_92_15"
+            },
+            {
+                "white": "Pang Jing ",
+                "black": "Zou Feng ",
+                "date": "2014-08-19",
+                "result": 0,
+                "id": "tournament_92_16"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Deng Lie ",
+                "black": "Liu Fei ",
+                "date": "2014-08-21",
+                "result": 1,
+                "id": "tournament_92_17"
+            },
+            {
+                "white": "Liu Jian Xi",
+                "black": "Hong Dong ",
+                "date": "2014-08-21",
+                "result": 0,
+                "id": "tournament_92_18"
+            },
+            {
+                "white": "Huang Run Jun",
+                "black": "Zou Feng ",
+                "date": "2014-08-21",
+                "result": 0.5,
+                "id": "tournament_92_19"
+            },
+            {
+                "white": "Pang Jing ",
+                "black": "Duan Zhen ",
+                "date": "2014-08-21",
+                "result": 0.5,
+                "id": "tournament_92_20"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Liu Fei ",
+                "black": "Hong Dong ",
+                "date": "2014-08-23",
+                "result": 0,
+                "id": "tournament_92_21"
+            },
+            {
+                "white": "Deng Lie ",
+                "black": "Zou Feng ",
+                "date": "2014-08-23",
+                "result": 1,
+                "id": "tournament_92_22"
+            },
+            {
+                "white": "Pang Jing ",
+                "black": "Liu Jian Xi",
+                "date": "2014-08-23",
+                "result": 0,
+                "id": "tournament_92_23"
+            },
+            {
+                "white": "Duan Zhen ",
+                "black": "Huang Run Jun",
+                "date": "2014-08-23",
+                "result": 0,
+                "id": "tournament_92_24"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Zou Feng ",
+                "black": "Liu Fei ",
+                "date": "2014-08-25",
+                "result": 0.5,
+                "id": "tournament_92_25"
+            },
+            {
+                "white": "Pang Jing ",
+                "black": "Hong Dong ",
+                "date": "2014-08-25",
+                "result": 0,
+                "id": "tournament_92_26"
+            },
+            {
+                "white": "Duan Zhen ",
+                "black": "Deng Lie ",
+                "date": "2014-08-25",
+                "result": 0,
+                "id": "tournament_92_27"
+            },
+            {
+                "white": "Huang Run Jun",
+                "black": "Liu Jian Xi",
+                "date": "2014-08-25",
+                "result": 0.5,
+                "id": "tournament_92_28"
+            }
+        ]
+    },
+    "tours": 7,
+    "time_control": "rapid"
+}

@@ -1,0 +1,249 @@
+{
+    "name": "tournament_206",
+    "start_date": "2015-07-03",
+    "end_date": "2015-07-19",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Qin Shouyun",
+                "black": "Huang Mengli",
+                "date": "2015-07-03",
+                "result": 1,
+                "id": "tournament_206_1"
+            },
+            {
+                "white": "Liu Yunyu",
+                "black": "Xu Yueling",
+                "date": "2015-07-03",
+                "result": 1,
+                "id": "tournament_206_2"
+            },
+            {
+                "white": "Luo Xingshi",
+                "black": "Zheng Qiuliang",
+                "date": "2015-07-03",
+                "result": 0.5,
+                "id": "tournament_206_3"
+            },
+            {
+                "white": "Hao Changlong",
+                "black": "Huang Minxiang",
+                "date": "2015-07-03",
+                "result": 0,
+                "id": "tournament_206_4"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Zhang Xinmin",
+                "black": "Qin Shouyun",
+                "date": "2015-07-05",
+                "result": 0,
+                "id": "tournament_206_5"
+            },
+            {
+                "white": "Luo Xingshi",
+                "black": "Huang Mengli",
+                "date": "2015-07-05",
+                "result": 0,
+                "id": "tournament_206_6"
+            },
+            {
+                "white": "Hao Changlong",
+                "black": "Xu Yueling",
+                "date": "2015-07-05",
+                "result": 0,
+                "id": "tournament_206_7"
+            },
+            {
+                "white": "Huang Minxiang",
+                "black": "Zheng Qiuliang",
+                "date": "2015-07-05",
+                "result": 0.5,
+                "id": "tournament_206_8"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Liu Yunyu",
+                "black": "Zhang Xinmin",
+                "date": "2015-07-07",
+                "result": 1,
+                "id": "tournament_206_9"
+            },
+            {
+                "white": "Qin Shouyun",
+                "black": "Luo Xingshi",
+                "date": "2015-07-07",
+                "result": 1,
+                "id": "tournament_206_10"
+            },
+            {
+                "white": "Huang Minxiang",
+                "black": "Huang Mengli",
+                "date": "2015-07-07",
+                "result": 0,
+                "id": "tournament_206_11"
+            },
+            {
+                "white": "Zheng Qiuliang",
+                "black": "Xu Yueling",
+                "date": "2015-07-07",
+                "result": 0.5,
+                "id": "tournament_206_12"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Zhang Xinmin",
+                "black": "Luo Xingshi",
+                "date": "2015-07-09",
+                "result": 0,
+                "id": "tournament_206_13"
+            },
+            {
+                "white": "Liu Yunyu",
+                "black": "Hao Changlong",
+                "date": "2015-07-09",
+                "result": 1,
+                "id": "tournament_206_14"
+            },
+            {
+                "white": "Qin Shouyun",
+                "black": "Huang Minxiang",
+                "date": "2015-07-09",
+                "result": 1,
+                "id": "tournament_206_15"
+            },
+            {
+                "white": "Xu Yueling",
+                "black": "Huang Mengli",
+                "date": "2015-07-09",
+                "result": 0,
+                "id": "tournament_206_16"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Hao Changlong",
+                "black": "Zhang Xinmin",
+                "date": "2015-07-11",
+                "result": 0,
+                "id": "tournament_206_17"
+            },
+            {
+                "white": "Luo Xingshi",
+                "black": "Huang Minxiang",
+                "date": "2015-07-11",
+                "result": 1,
+                "id": "tournament_206_18"
+            },
+            {
+                "white": "Liu Yunyu",
+                "black": "Zheng Qiuliang",
+                "date": "2015-07-11",
+                "result": 1,
+                "id": "tournament_206_19"
+            },
+            {
+                "white": "Qin Shouyun",
+                "black": "Xu Yueling",
+                "date": "2015-07-11",
+                "result": 1,
+                "id": "tournament_206_20"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Zhang Xinmin",
+                "black": "Huang Minxiang",
+                "date": "2015-07-13",
+                "result": 0,
+                "id": "tournament_206_21"
+            },
+            {
+                "white": "Hao Changlong",
+                "black": "Zheng Qiuliang",
+                "date": "2015-07-13",
+                "result": 0,
+                "id": "tournament_206_22"
+            },
+            {
+                "white": "Luo Xingshi",
+                "black": "Xu Yueling",
+                "date": "2015-07-13",
+                "result": 1,
+                "id": "tournament_206_23"
+            },
+            {
+                "white": "Liu Yunyu",
+                "black": "Huang Mengli",
+                "date": "2015-07-13",
+                "result": 0.5,
+                "id": "tournament_206_24"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Zheng Qiuliang",
+                "black": "Zhang Xinmin",
+                "date": "2015-07-15",
+                "result": 0.5,
+                "id": "tournament_206_25"
+            },
+            {
+                "white": "Huang Minxiang",
+                "black": "Xu Yueling",
+                "date": "2015-07-15",
+                "result": 0.5,
+                "id": "tournament_206_26"
+            },
+            {
+                "white": "Hao Changlong",
+                "black": "Huang Mengli",
+                "date": "2015-07-15",
+                "result": 0,
+                "id": "tournament_206_27"
+            },
+            {
+                "white": "Qin Shouyun",
+                "black": "Liu Yunyu",
+                "date": "2015-07-15",
+                "result": 1,
+                "id": "tournament_206_28"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Zhang Xinmin",
+                "black": "Xu Yueling",
+                "date": "2015-07-17",
+                "result": 1,
+                "id": "tournament_206_29"
+            },
+            {
+                "white": "Zheng Qiuliang",
+                "black": "Huang Mengli",
+                "date": "2015-07-17",
+                "result": 0.5,
+                "id": "tournament_206_30"
+            },
+            {
+                "white": "Qin Shouyun",
+                "black": "Hao Changlong",
+                "date": "2015-07-17",
+                "result": 1,
+                "id": "tournament_206_31"
+            },
+            {
+                "white": "Liu Yunyu",
+                "black": "Luo Xingshi",
+                "date": "2015-07-17",
+                "result": 0,
+                "id": "tournament_206_32"
+            }
+        ]
+    },
+    "tours": 8,
+    "time_control": "rapid"
+}

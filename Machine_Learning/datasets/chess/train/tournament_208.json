@@ -1,0 +1,865 @@
+{
+    "name": "tournament_208",
+    "start_date": "2015-07-06",
+    "end_date": "2015-07-14",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Zhu Yan Guang",
+                "black": "Xu Jing ",
+                "date": "2015-07-06",
+                "result": 0.5,
+                "id": "tournament_208_1"
+            },
+            {
+                "white": "Chen Yin Liang",
+                "black": "Sun Qing De",
+                "date": "2015-07-06",
+                "result": 0.5,
+                "id": "tournament_208_2"
+            },
+            {
+                "white": "Liu Ai Gui",
+                "black": "Zhong Hong Cun",
+                "date": "2015-07-06",
+                "result": 1,
+                "id": "tournament_208_3"
+            },
+            {
+                "white": "Li Jian Fang",
+                "black": "Wu Hai Fang",
+                "date": "2015-07-06",
+                "result": 0.5,
+                "id": "tournament_208_4"
+            },
+            {
+                "white": "Guo Xiao Dong",
+                "black": "Zhao Shi ",
+                "date": "2015-07-06",
+                "result": 0,
+                "id": "tournament_208_5"
+            },
+            {
+                "white": "Chen Sheng Xiang",
+                "black": "Liu Kun Han",
+                "date": "2015-07-06",
+                "result": 1,
+                "id": "tournament_208_6"
+            },
+            {
+                "white": "Zhu Wan Ming",
+                "black": "Jin Zhi ",
+                "date": "2015-07-06",
+                "result": 0.5,
+                "id": "tournament_208_7"
+            },
+            {
+                "white": "Yi Li Huang",
+                "black": "Song Ze Ji",
+                "date": "2015-07-06",
+                "result": 0,
+                "id": "tournament_208_8"
+            },
+            {
+                "white": "Xu Gui ",
+                "black": "Shen Qi Jin",
+                "date": "2015-07-06",
+                "result": 1,
+                "id": "tournament_208_9"
+            },
+            {
+                "white": "Xu Fu Ying",
+                "black": "Wang Yao Zhu",
+                "date": "2015-07-06",
+                "result": 1,
+                "id": "tournament_208_10"
+            },
+            {
+                "white": "Zhang Yi Yan",
+                "black": "Zhang Mu Xing",
+                "date": "2015-07-06",
+                "result": 0,
+                "id": "tournament_208_11"
+            },
+            {
+                "white": "Yang Su Ping",
+                "black": "Zhang Yan ",
+                "date": "2015-07-06",
+                "result": 0.5,
+                "id": "tournament_208_12"
+            },
+            {
+                "white": "Tang Jun Fan",
+                "black": "Li Hai ",
+                "date": "2015-07-06",
+                "result": 0,
+                "id": "tournament_208_13"
+            },
+            {
+                "white": "Huang Zi Hong",
+                "black": "Zheng Xuan Zhen",
+                "date": "2015-07-06",
+                "result": 0,
+                "id": "tournament_208_14"
+            },
+            {
+                "white": "Xu Ming ",
+                "black": "Dong Jian ",
+                "date": "2015-07-06",
+                "result": 0,
+                "id": "tournament_208_15"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Zhao Shi ",
+                "black": "Liu Ai Gui",
+                "date": "2015-07-07",
+                "result": 0.5,
+                "id": "tournament_208_16"
+            },
+            {
+                "white": "Song Ze Ji",
+                "black": "Chen Sheng Xiang",
+                "date": "2015-07-07",
+                "result": 1,
+                "id": "tournament_208_17"
+            },
+            {
+                "white": "Zhang Mu Xing",
+                "black": "Xu Gui ",
+                "date": "2015-07-07",
+                "result": 0,
+                "id": "tournament_208_18"
+            },
+            {
+                "white": "Li Hai ",
+                "black": "Xu Fu Ying",
+                "date": "2015-07-07",
+                "result": 1,
+                "id": "tournament_208_19"
+            },
+            {
+                "white": "Zheng Xuan Zhen",
+                "black": "Wei Kai ",
+                "date": "2015-07-07",
+                "result": 1,
+                "id": "tournament_208_20"
+            },
+            {
+                "white": "Dong Jian ",
+                "black": "Zhu Yan Guang",
+                "date": "2015-07-07",
+                "result": 1,
+                "id": "tournament_208_21"
+            },
+            {
+                "white": "Xu Jing ",
+                "black": "Chen Yin Liang",
+                "date": "2015-07-07",
+                "result": 1,
+                "id": "tournament_208_22"
+            },
+            {
+                "white": "Sun Qing De",
+                "black": "Li Jian Fang",
+                "date": "2015-07-07",
+                "result": 0,
+                "id": "tournament_208_23"
+            },
+            {
+                "white": "Wu Hai Fang",
+                "black": "Zhu Wan Ming",
+                "date": "2015-07-07",
+                "result": 0,
+                "id": "tournament_208_24"
+            },
+            {
+                "white": "Jin Zhi ",
+                "black": "Yang Su Ping",
+                "date": "2015-07-07",
+                "result": 0.5,
+                "id": "tournament_208_25"
+            },
+            {
+                "white": "Zhang Yan ",
+                "black": "Guo Xiao Dong",
+                "date": "2015-07-07",
+                "result": 0.5,
+                "id": "tournament_208_26"
+            },
+            {
+                "white": "Zhong Hong Cun",
+                "black": "Yi Li Huang",
+                "date": "2015-07-07",
+                "result": 0.5,
+                "id": "tournament_208_27"
+            },
+            {
+                "white": "Liu Kun Han",
+                "black": "Zhang Yi Yan",
+                "date": "2015-07-07",
+                "result": 0.5,
+                "id": "tournament_208_28"
+            },
+            {
+                "white": "Shen Qi Jin",
+                "black": "Tang Jun Fan",
+                "date": "2015-07-07",
+                "result": 0.5,
+                "id": "tournament_208_29"
+            },
+            {
+                "white": "Wang Yao Zhu",
+                "black": "Xu Ming ",
+                "date": "2015-07-07",
+                "result": 0,
+                "id": "tournament_208_30"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Xu Gui ",
+                "black": "Song Ze Ji",
+                "date": "2015-07-08",
+                "result": 1,
+                "id": "tournament_208_31"
+            },
+            {
+                "white": "Liu Ai Gui",
+                "black": "Li Hai ",
+                "date": "2015-07-08",
+                "result": 0.5,
+                "id": "tournament_208_32"
+            },
+            {
+                "white": "Li Jian Fang",
+                "black": "Zheng Xuan Zhen",
+                "date": "2015-07-08",
+                "result": 0,
+                "id": "tournament_208_33"
+            },
+            {
+                "white": "Zhu Wan Ming",
+                "black": "Dong Jian ",
+                "date": "2015-07-08",
+                "result": 0,
+                "id": "tournament_208_34"
+            },
+            {
+                "white": "Chen Sheng Xiang",
+                "black": "Zhao Shi ",
+                "date": "2015-07-08",
+                "result": 1,
+                "id": "tournament_208_35"
+            },
+            {
+                "white": "Xu Fu Ying",
+                "black": "Xu Jing ",
+                "date": "2015-07-08",
+                "result": 1,
+                "id": "tournament_208_36"
+            },
+            {
+                "white": "Wei Kai ",
+                "black": "Zhang Mu Xing",
+                "date": "2015-07-08",
+                "result": 1,
+                "id": "tournament_208_37"
+            },
+            {
+                "white": "Huang Zi Hong",
+                "black": "Jin Zhi ",
+                "date": "2015-07-08",
+                "result": 1,
+                "id": "tournament_208_38"
+            },
+            {
+                "white": "Yang Su Ping",
+                "black": "Sun Qing De",
+                "date": "2015-07-08",
+                "result": 0,
+                "id": "tournament_208_39"
+            },
+            {
+                "white": "Xu Ming ",
+                "black": "Zhang Yan ",
+                "date": "2015-07-08",
+                "result": 0.5,
+                "id": "tournament_208_40"
+            },
+            {
+                "white": "Zhu Yan Guang",
+                "black": "Wu Hai Fang",
+                "date": "2015-07-08",
+                "result": 0,
+                "id": "tournament_208_41"
+            },
+            {
+                "white": "Chen Yin Liang",
+                "black": "Zhong Hong Cun",
+                "date": "2015-07-08",
+                "result": 1,
+                "id": "tournament_208_42"
+            },
+            {
+                "white": "Guo Xiao Dong",
+                "black": "Liu Kun Han",
+                "date": "2015-07-08",
+                "result": 0.5,
+                "id": "tournament_208_43"
+            },
+            {
+                "white": "Yi Li Huang",
+                "black": "Shen Qi Jin",
+                "date": "2015-07-08",
+                "result": 0,
+                "id": "tournament_208_44"
+            },
+            {
+                "white": "Zhang Yi Yan",
+                "black": "Wang Yao Zhu",
+                "date": "2015-07-08",
+                "result": 1,
+                "id": "tournament_208_45"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Zheng Xuan Zhen",
+                "black": "Xu Gui ",
+                "date": "2015-07-09",
+                "result": 1,
+                "id": "tournament_208_46"
+            },
+            {
+                "white": "Dong Jian ",
+                "black": "Liu Ai Gui",
+                "date": "2015-07-09",
+                "result": 0.5,
+                "id": "tournament_208_47"
+            },
+            {
+                "white": "Li Hai ",
+                "black": "Chen Sheng Xiang",
+                "date": "2015-07-09",
+                "result": 1,
+                "id": "tournament_208_48"
+            },
+            {
+                "white": "Song Ze Ji",
+                "black": "Xu Fu Ying",
+                "date": "2015-07-09",
+                "result": 1,
+                "id": "tournament_208_49"
+            },
+            {
+                "white": "Zhao Shi ",
+                "black": "Wei Kai ",
+                "date": "2015-07-09",
+                "result": 1,
+                "id": "tournament_208_50"
+            },
+            {
+                "white": "Xu Jing ",
+                "black": "Huang Zi Hong",
+                "date": "2015-07-09",
+                "result": 0.5,
+                "id": "tournament_208_51"
+            },
+            {
+                "white": "Zhang Yan ",
+                "black": "Li Jian Fang",
+                "date": "2015-07-09",
+                "result": 1,
+                "id": "tournament_208_52"
+            },
+            {
+                "white": "Sun Qing De",
+                "black": "Zhu Wan Ming",
+                "date": "2015-07-09",
+                "result": 0,
+                "id": "tournament_208_53"
+            },
+            {
+                "white": "Wu Hai Fang",
+                "black": "Xu Ming ",
+                "date": "2015-07-09",
+                "result": 0,
+                "id": "tournament_208_54"
+            },
+            {
+                "white": "Shen Qi Jin",
+                "black": "Chen Yin Liang",
+                "date": "2015-07-09",
+                "result": 1,
+                "id": "tournament_208_55"
+            },
+            {
+                "white": "Jin Zhi ",
+                "black": "Zhang Yi Yan",
+                "date": "2015-07-09",
+                "result": 0.5,
+                "id": "tournament_208_56"
+            },
+            {
+                "white": "Zhang Mu Xing",
+                "black": "Tang Jun Fan",
+                "date": "2015-07-09",
+                "result": 1,
+                "id": "tournament_208_57"
+            },
+            {
+                "white": "Liu Kun Han",
+                "black": "Yang Su Ping",
+                "date": "2015-07-09",
+                "result": 0,
+                "id": "tournament_208_58"
+            },
+            {
+                "white": "Zhong Hong Cun",
+                "black": "Guo Xiao Dong",
+                "date": "2015-07-09",
+                "result": 0.5,
+                "id": "tournament_208_59"
+            },
+            {
+                "white": "Wang Yao Zhu",
+                "black": "Zhu Yan Guang",
+                "date": "2015-07-09",
+                "result": 0,
+                "id": "tournament_208_60"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Liu Ai Gui",
+                "black": "Zheng Xuan Zhen",
+                "date": "2015-07-10",
+                "result": 0,
+                "id": "tournament_208_61"
+            },
+            {
+                "white": "Xu Gui ",
+                "black": "Dong Jian ",
+                "date": "2015-07-10",
+                "result": 1,
+                "id": "tournament_208_62"
+            },
+            {
+                "white": "Huang Zi Hong",
+                "black": "Li Hai ",
+                "date": "2015-07-10",
+                "result": 0,
+                "id": "tournament_208_63"
+            },
+            {
+                "white": "Zhu Wan Ming",
+                "black": "Song Ze Ji",
+                "date": "2015-07-10",
+                "result": 0.5,
+                "id": "tournament_208_64"
+            },
+            {
+                "white": "Xu Ming ",
+                "black": "Zhao Shi ",
+                "date": "2015-07-10",
+                "result": 1,
+                "id": "tournament_208_65"
+            },
+            {
+                "white": "Chen Sheng Xiang",
+                "black": "Zhang Yan ",
+                "date": "2015-07-10",
+                "result": 0.5,
+                "id": "tournament_208_66"
+            },
+            {
+                "white": "Xu Fu Ying",
+                "black": "Shen Qi Jin",
+                "date": "2015-07-10",
+                "result": 0.5,
+                "id": "tournament_208_67"
+            },
+            {
+                "white": "Wei Kai ",
+                "black": "Xu Jing ",
+                "date": "2015-07-10",
+                "result": 1,
+                "id": "tournament_208_68"
+            },
+            {
+                "white": "Zhang Yi Yan",
+                "black": "Sun Qing De",
+                "date": "2015-07-10",
+                "result": 0,
+                "id": "tournament_208_69"
+            },
+            {
+                "white": "Yang Su Ping",
+                "black": "Zhang Mu Xing",
+                "date": "2015-07-10",
+                "result": 0.5,
+                "id": "tournament_208_70"
+            },
+            {
+                "white": "Li Jian Fang",
+                "black": "Jin Zhi ",
+                "date": "2015-07-10",
+                "result": 1,
+                "id": "tournament_208_71"
+            },
+            {
+                "white": "Chen Yin Liang",
+                "black": "Wu Hai Fang",
+                "date": "2015-07-10",
+                "result": 1,
+                "id": "tournament_208_72"
+            },
+            {
+                "white": "Tang Jun Fan",
+                "black": "Liu Kun Han",
+                "date": "2015-07-10",
+                "result": 1,
+                "id": "tournament_208_73"
+            },
+            {
+                "white": "Guo Xiao Dong",
+                "black": "Wang Yao Zhu",
+                "date": "2015-07-10",
+                "result": 0.5,
+                "id": "tournament_208_74"
+            },
+            {
+                "white": "Zhu Yan Guang",
+                "black": "Zhong Hong Cun",
+                "date": "2015-07-10",
+                "result": 0.5,
+                "id": "tournament_208_75"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Zheng Xuan Zhen",
+                "black": "Xu Ming ",
+                "date": "2015-07-11",
+                "result": 1,
+                "id": "tournament_208_76"
+            },
+            {
+                "white": "Li Hai ",
+                "black": "Xu Gui ",
+                "date": "2015-07-11",
+                "result": 0,
+                "id": "tournament_208_77"
+            },
+            {
+                "white": "Dong Jian ",
+                "black": "Wei Kai ",
+                "date": "2015-07-11",
+                "result": 0,
+                "id": "tournament_208_78"
+            },
+            {
+                "white": "Song Ze Ji",
+                "black": "Liu Ai Gui",
+                "date": "2015-07-11",
+                "result": 1,
+                "id": "tournament_208_79"
+            },
+            {
+                "white": "Zhang Yan ",
+                "black": "Zhu Wan Ming",
+                "date": "2015-07-11",
+                "result": 1,
+                "id": "tournament_208_80"
+            },
+            {
+                "white": "Shen Qi Jin",
+                "black": "Huang Zi Hong",
+                "date": "2015-07-11",
+                "result": 1,
+                "id": "tournament_208_81"
+            },
+            {
+                "white": "Zhao Shi ",
+                "black": "Xu Fu Ying",
+                "date": "2015-07-11",
+                "result": 0,
+                "id": "tournament_208_82"
+            },
+            {
+                "white": "Zhang Mu Xing",
+                "black": "Chen Sheng Xiang",
+                "date": "2015-07-11",
+                "result": 0.5,
+                "id": "tournament_208_83"
+            },
+            {
+                "white": "Xu Jing ",
+                "black": "Yang Su Ping",
+                "date": "2015-07-11",
+                "result": 0,
+                "id": "tournament_208_84"
+            },
+            {
+                "white": "Zhong Hong Cun",
+                "black": "Li Jian Fang",
+                "date": "2015-07-11",
+                "result": 0,
+                "id": "tournament_208_85"
+            },
+            {
+                "white": "Jin Zhi ",
+                "black": "Chen Yin Liang",
+                "date": "2015-07-11",
+                "result": 1,
+                "id": "tournament_208_86"
+            },
+            {
+                "white": "Sun Qing De",
+                "black": "Tang Jun Fan",
+                "date": "2015-07-11",
+                "result": 1,
+                "id": "tournament_208_87"
+            },
+            {
+                "white": "Wang Yao Zhu",
+                "black": "Yi Li Huang",
+                "date": "2015-07-11",
+                "result": 0,
+                "id": "tournament_208_88"
+            },
+            {
+                "white": "Wu Hai Fang",
+                "black": "Guo Xiao Dong",
+                "date": "2015-07-11",
+                "result": 1,
+                "id": "tournament_208_89"
+            },
+            {
+                "white": "Liu Kun Han",
+                "black": "Zhu Yan Guang",
+                "date": "2015-07-11",
+                "result": 0.5,
+                "id": "tournament_208_90"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Xu Fu Ying",
+                "black": "Zheng Xuan Zhen",
+                "date": "2015-07-12",
+                "result": 0,
+                "id": "tournament_208_91"
+            },
+            {
+                "white": "Xu Gui ",
+                "black": "Zhang Yan ",
+                "date": "2015-07-12",
+                "result": 1,
+                "id": "tournament_208_92"
+            },
+            {
+                "white": "Wei Kai ",
+                "black": "Li Hai ",
+                "date": "2015-07-12",
+                "result": 0,
+                "id": "tournament_208_93"
+            },
+            {
+                "white": "Xu Ming ",
+                "black": "Song Ze Ji",
+                "date": "2015-07-12",
+                "result": 1,
+                "id": "tournament_208_94"
+            },
+            {
+                "white": "Yang Su Ping",
+                "black": "Shen Qi Jin",
+                "date": "2015-07-12",
+                "result": 0.5,
+                "id": "tournament_208_95"
+            },
+            {
+                "white": "Li Jian Fang",
+                "black": "Dong Jian ",
+                "date": "2015-07-12",
+                "result": 0,
+                "id": "tournament_208_96"
+            },
+            {
+                "white": "Yi Li Huang",
+                "black": "Sun Qing De",
+                "date": "2015-07-12",
+                "result": 0.5,
+                "id": "tournament_208_97"
+            },
+            {
+                "white": "Zhu Wan Ming",
+                "black": "Zhang Mu Xing",
+                "date": "2015-07-12",
+                "result": 0.5,
+                "id": "tournament_208_98"
+            },
+            {
+                "white": "Chen Sheng Xiang",
+                "black": "Wu Hai Fang",
+                "date": "2015-07-12",
+                "result": 1,
+                "id": "tournament_208_99"
+            },
+            {
+                "white": "Zhang Yi Yan",
+                "black": "Zhao Shi ",
+                "date": "2015-07-12",
+                "result": 0,
+                "id": "tournament_208_100"
+            },
+            {
+                "white": "Tang Jun Fan",
+                "black": "Wang Yao Zhu",
+                "date": "2015-07-12",
+                "result": 1,
+                "id": "tournament_208_101"
+            },
+            {
+                "white": "Zhu Yan Guang",
+                "black": "Jin Zhi ",
+                "date": "2015-07-12",
+                "result": 0,
+                "id": "tournament_208_102"
+            },
+            {
+                "white": "Chen Yin Liang",
+                "black": "Guo Xiao Dong",
+                "date": "2015-07-12",
+                "result": 0,
+                "id": "tournament_208_103"
+            },
+            {
+                "white": "Liu Kun Han",
+                "black": "Zhong Hong Cun",
+                "date": "2015-07-12",
+                "result": 0.5,
+                "id": "tournament_208_104"
+            },
+            {
+                "white": "Liu Ai Gui",
+                "black": "Xu Jing ",
+                "date": "2015-07-12",
+                "result": 1,
+                "id": "tournament_208_105"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Zheng Xuan Zhen",
+                "black": "Yang Su Ping",
+                "date": "2015-07-13",
+                "result": 1,
+                "id": "tournament_208_106"
+            },
+            {
+                "white": "Sun Qing De",
+                "black": "Xu Gui ",
+                "date": "2015-07-13",
+                "result": 0,
+                "id": "tournament_208_107"
+            },
+            {
+                "white": "Li Hai ",
+                "black": "Xu Ming ",
+                "date": "2015-07-13",
+                "result": 1,
+                "id": "tournament_208_108"
+            },
+            {
+                "white": "Song Ze Ji",
+                "black": "Wei Kai ",
+                "date": "2015-07-13",
+                "result": 1,
+                "id": "tournament_208_109"
+            },
+            {
+                "white": "Shen Qi Jin",
+                "black": "Chen Sheng Xiang",
+                "date": "2015-07-13",
+                "result": 0.5,
+                "id": "tournament_208_110"
+            },
+            {
+                "white": "Dong Jian ",
+                "black": "Yi Li Huang",
+                "date": "2015-07-13",
+                "result": 1,
+                "id": "tournament_208_111"
+            },
+            {
+                "white": "Zhang Yan ",
+                "black": "Xu Fu Ying",
+                "date": "2015-07-13",
+                "result": 1,
+                "id": "tournament_208_112"
+            },
+            {
+                "white": "Wang Yao Zhu",
+                "black": "Zhu Wan Ming",
+                "date": "2015-07-13",
+                "result": 0,
+                "id": "tournament_208_113"
+            },
+            {
+                "white": "Zhang Mu Xing",
+                "black": "Huang Zi Hong",
+                "date": "2015-07-13",
+                "result": 0.5,
+                "id": "tournament_208_114"
+            },
+            {
+                "white": "Xu Jing ",
+                "black": "Guo Xiao Dong",
+                "date": "2015-07-13",
+                "result": 1,
+                "id": "tournament_208_115"
+            },
+            {
+                "white": "Wu Hai Fang",
+                "black": "Tang Jun Fan",
+                "date": "2015-07-13",
+                "result": 0.5,
+                "id": "tournament_208_116"
+            },
+            {
+                "white": "Liu Kun Han",
+                "black": "Zhao Shi ",
+                "date": "2015-07-13",
+                "result": 0,
+                "id": "tournament_208_117"
+            },
+            {
+                "white": "Zhong Hong Cun",
+                "black": "Zhang Yi Yan",
+                "date": "2015-07-13",
+                "result": 0,
+                "id": "tournament_208_118"
+            },
+            {
+                "white": "Chen Yin Liang",
+                "black": "Li Jian Fang",
+                "date": "2015-07-13",
+                "result": 0.5,
+                "id": "tournament_208_119"
+            },
+            {
+                "white": "Jin Zhi ",
+                "black": "Liu Ai Gui",
+                "date": "2015-07-13",
+                "result": 0,
+                "id": "tournament_208_120"
+            }
+        ]
+    },
+    "tours": 8,
+    "time_control": "rapid"
+}

@@ -1,0 +1,147 @@
+{
+    "name": "tournament_149",
+    "start_date": "2015-01-27",
+    "end_date": "2015-02-02",
+    "games": {
+        "tour_1": [
+            {
+                "white": "向德婷",
+                "black": "胡游标",
+                "date": "2015-01-27",
+                "result": 0.5,
+                "id": "tournament_149_1"
+            },
+            {
+                "white": "秦宇琴",
+                "black": "王驹",
+                "date": "2015-01-27",
+                "result": 0,
+                "id": "tournament_149_2"
+            },
+            {
+                "white": "曹少勇",
+                "black": "梁梅强",
+                "date": "2015-01-27",
+                "result": 0.5,
+                "id": "tournament_149_3"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "秦智",
+                "black": "向德婷",
+                "date": "2015-01-28",
+                "result": 0,
+                "id": "tournament_149_4"
+            },
+            {
+                "white": "曹少勇",
+                "black": "胡游标",
+                "date": "2015-01-28",
+                "result": 0,
+                "id": "tournament_149_5"
+            },
+            {
+                "white": "梁梅强",
+                "black": "王驹",
+                "date": "2015-01-28",
+                "result": 0.5,
+                "id": "tournament_149_6"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "秦宇琴",
+                "black": "秦智",
+                "date": "2015-01-29",
+                "result": 0.5,
+                "id": "tournament_149_7"
+            },
+            {
+                "white": "向德婷",
+                "black": "曹少勇",
+                "date": "2015-01-29",
+                "result": 0.5,
+                "id": "tournament_149_8"
+            },
+            {
+                "white": "王驹",
+                "black": "胡游标",
+                "date": "2015-01-29",
+                "result": 0.5,
+                "id": "tournament_149_9"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "秦智",
+                "black": "曹少勇",
+                "date": "2015-01-30",
+                "result": 0.5,
+                "id": "tournament_149_10"
+            },
+            {
+                "white": "秦宇琴",
+                "black": "梁梅强",
+                "date": "2015-01-30",
+                "result": 0.5,
+                "id": "tournament_149_11"
+            },
+            {
+                "white": "向德婷",
+                "black": "王驹",
+                "date": "2015-01-30",
+                "result": 1,
+                "id": "tournament_149_12"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "梁梅强",
+                "black": "秦智",
+                "date": "2015-01-31",
+                "result": 0.5,
+                "id": "tournament_149_13"
+            },
+            {
+                "white": "曹少勇",
+                "black": "王驹",
+                "date": "2015-01-31",
+                "result": 0.5,
+                "id": "tournament_149_14"
+            },
+            {
+                "white": "秦宇琴",
+                "black": "胡游标",
+                "date": "2015-01-31",
+                "result": 0,
+                "id": "tournament_149_15"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "秦智",
+                "black": "王驹",
+                "date": "2015-02-01",
+                "result": 0,
+                "id": "tournament_149_16"
+            },
+            {
+                "white": "梁梅强",
+                "black": "胡游标",
+                "date": "2015-02-01",
+                "result": 0,
+                "id": "tournament_149_17"
+            },
+            {
+                "white": "向德婷",
+                "black": "秦宇琴",
+                "date": "2015-02-01",
+                "result": 1,
+                "id": "tournament_149_18"
+            }
+        ]
+    },
+    "tours": 6,
+    "time_control": "rapid"
+}

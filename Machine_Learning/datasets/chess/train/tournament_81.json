@@ -1,0 +1,147 @@
+{
+    "name": "tournament_81",
+    "start_date": "2014-07-15",
+    "end_date": "2014-07-21",
+    "games": {
+        "tour_1": [
+            {
+                "white": "徐康波",
+                "black": "李巧芸",
+                "date": "2014-07-15",
+                "result": 0,
+                "id": "tournament_81_1"
+            },
+            {
+                "white": "赵振圆",
+                "black": "洪丽力",
+                "date": "2014-07-15",
+                "result": 0.5,
+                "id": "tournament_81_2"
+            },
+            {
+                "white": "陆教礼",
+                "black": "吴昱明",
+                "date": "2014-07-15",
+                "result": 0,
+                "id": "tournament_81_3"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "李之征",
+                "black": "徐康波",
+                "date": "2014-07-16",
+                "result": 1,
+                "id": "tournament_81_4"
+            },
+            {
+                "white": "陆教礼",
+                "black": "李巧芸",
+                "date": "2014-07-16",
+                "result": 0.5,
+                "id": "tournament_81_5"
+            },
+            {
+                "white": "吴昱明",
+                "black": "洪丽力",
+                "date": "2014-07-16",
+                "result": 1,
+                "id": "tournament_81_6"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "赵振圆",
+                "black": "李之征",
+                "date": "2014-07-17",
+                "result": 0.5,
+                "id": "tournament_81_7"
+            },
+            {
+                "white": "徐康波",
+                "black": "陆教礼",
+                "date": "2014-07-17",
+                "result": 1,
+                "id": "tournament_81_8"
+            },
+            {
+                "white": "洪丽力",
+                "black": "李巧芸",
+                "date": "2014-07-17",
+                "result": 0,
+                "id": "tournament_81_9"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "李之征",
+                "black": "陆教礼",
+                "date": "2014-07-18",
+                "result": 0.5,
+                "id": "tournament_81_10"
+            },
+            {
+                "white": "赵振圆",
+                "black": "吴昱明",
+                "date": "2014-07-18",
+                "result": 0,
+                "id": "tournament_81_11"
+            },
+            {
+                "white": "徐康波",
+                "black": "洪丽力",
+                "date": "2014-07-18",
+                "result": 1,
+                "id": "tournament_81_12"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "吴昱明",
+                "black": "李之征",
+                "date": "2014-07-19",
+                "result": 1,
+                "id": "tournament_81_13"
+            },
+            {
+                "white": "陆教礼",
+                "black": "洪丽力",
+                "date": "2014-07-19",
+                "result": 0,
+                "id": "tournament_81_14"
+            },
+            {
+                "white": "赵振圆",
+                "black": "李巧芸",
+                "date": "2014-07-19",
+                "result": 0,
+                "id": "tournament_81_15"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "李之征",
+                "black": "洪丽力",
+                "date": "2014-07-20",
+                "result": 0.5,
+                "id": "tournament_81_16"
+            },
+            {
+                "white": "吴昱明",
+                "black": "李巧芸",
+                "date": "2014-07-20",
+                "result": 1,
+                "id": "tournament_81_17"
+            },
+            {
+                "white": "徐康波",
+                "black": "赵振圆",
+                "date": "2014-07-20",
+                "result": 1,
+                "id": "tournament_81_18"
+            }
+        ]
+    },
+    "tours": 6,
+    "time_control": "classic"
+}

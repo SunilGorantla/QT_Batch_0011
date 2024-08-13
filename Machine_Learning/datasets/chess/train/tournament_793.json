@@ -1,0 +1,248 @@
+{
+    "name": "tournament_793",
+    "start_date": "2019-12-06",
+    "end_date": "2019-12-14",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Lin, Ligu",
+                "black": "Lin, Xianzhi",
+                "date": "2019-12-06",
+                "result": 1,
+                "id": "tournament_793_1"
+            },
+            {
+                "white": "Lin, Xianzhi",
+                "black": "Lin, Ligu",
+                "date": "2019-12-07",
+                "result": 1,
+                "id": "tournament_793_2"
+            },
+            {
+                "white": "Lin, Ligu",
+                "black": "Lin, Xianzhi",
+                "date": "2019-12-07",
+                "result": 1,
+                "id": "tournament_793_3"
+            },
+            {
+                "white": "Zou, Feng",
+                "black": "Li, Liping",
+                "date": "2019-12-06",
+                "result": 0,
+                "id": "tournament_793_4"
+            },
+            {
+                "white": "Li, Liping",
+                "black": "Zou, Feng",
+                "date": "2019-12-07",
+                "result": 0.5,
+                "id": "tournament_793_5"
+            },
+            {
+                "white": "He, Sipei",
+                "black": "Hong, Dong",
+                "date": "2019-12-06",
+                "result": 0,
+                "id": "tournament_793_6"
+            },
+            {
+                "white": "Hong, Dong",
+                "black": "He, Sipei",
+                "date": "2019-12-07",
+                "result": 0.5,
+                "id": "tournament_793_7"
+            },
+            {
+                "white": "Wu, Nanxia",
+                "black": "Jin, Zhiyuan",
+                "date": "2019-12-06",
+                "result": 0.5,
+                "id": "tournament_793_8"
+            },
+            {
+                "white": "Jin, Zhiyuan",
+                "black": "Wu, Nanxia",
+                "date": "2019-12-07",
+                "result": 0.5,
+                "id": "tournament_793_9"
+            },
+            {
+                "white": "Wu, Nanxia",
+                "black": "Jin, Zhiyuan",
+                "date": "2019-12-07",
+                "result": 0.5,
+                "id": "tournament_793_10"
+            },
+            {
+                "white": "Wei, Xing",
+                "black": "Huang, Cunhua",
+                "date": "2019-12-06",
+                "result": 0,
+                "id": "tournament_793_11"
+            },
+            {
+                "white": "Huang, Cunhua",
+                "black": "Wei, Xing",
+                "date": "2019-12-07",
+                "result": 1,
+                "id": "tournament_793_12"
+            },
+            {
+                "white": "Dong, Yingying",
+                "black": "Lin, Kangjun",
+                "date": "2019-12-06",
+                "result": 0,
+                "id": "tournament_793_13"
+            },
+            {
+                "white": "Lin, Kangjun",
+                "black": "Dong, Yingying",
+                "date": "2019-12-07",
+                "result": 1,
+                "id": "tournament_793_14"
+            },
+            {
+                "white": "Chen, Xueqiang",
+                "black": "Xing, Qiping",
+                "date": "2019-12-06",
+                "result": 1,
+                "id": "tournament_793_15"
+            },
+            {
+                "white": "Xing, Qiping",
+                "black": "Chen, Xueqiang",
+                "date": "2019-12-07",
+                "result": 0.5,
+                "id": "tournament_793_16"
+            },
+            {
+                "white": "Yang, Xiangchao",
+                "black": "Yang, Junrui",
+                "date": "2019-12-06",
+                "result": 1,
+                "id": "tournament_793_17"
+            },
+            {
+                "white": "Yang, Junrui",
+                "black": "Yang, Xiangchao",
+                "date": "2019-12-07",
+                "result": 0,
+                "id": "tournament_793_18"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Lin, Ligu",
+                "black": "Li, Liping",
+                "date": "2019-12-08",
+                "result": 0,
+                "id": "tournament_793_19"
+            },
+            {
+                "white": "Li, Liping",
+                "black": "Lin, Ligu",
+                "date": "2019-12-09",
+                "result": 0.5,
+                "id": "tournament_793_20"
+            },
+            {
+                "white": "Hong, Dong",
+                "black": "Jin, Zhiyuan",
+                "date": "2019-12-08",
+                "result": 0.5,
+                "id": "tournament_793_21"
+            },
+            {
+                "white": "Jin, Zhiyuan",
+                "black": "Hong, Dong",
+                "date": "2019-12-09",
+                "result": 0,
+                "id": "tournament_793_22"
+            },
+            {
+                "white": "Huang, Cunhua",
+                "black": "Lin, Kangjun",
+                "date": "2019-12-08",
+                "result": 1,
+                "id": "tournament_793_23"
+            },
+            {
+                "white": "Lin, Kangjun",
+                "black": "Huang, Cunhua",
+                "date": "2019-12-09",
+                "result": 1,
+                "id": "tournament_793_24"
+            },
+            {
+                "white": "Huang, Cunhua",
+                "black": "Lin, Kangjun",
+                "date": "2019-12-09",
+                "result": 1,
+                "id": "tournament_793_25"
+            },
+            {
+                "white": "Chen, Xueqiang",
+                "black": "Yang, Xiangchao",
+                "date": "2019-12-08",
+                "result": 0,
+                "id": "tournament_793_26"
+            },
+            {
+                "white": "Yang, Xiangchao",
+                "black": "Chen, Xueqiang",
+                "date": "2019-12-09",
+                "result": 0.5,
+                "id": "tournament_793_27"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Li, Liping",
+                "black": "Hong, Dong",
+                "date": "2019-12-10",
+                "result": 0.5,
+                "id": "tournament_793_28"
+            },
+            {
+                "white": "Hong, Dong",
+                "black": "Li, Liping",
+                "date": "2019-12-11",
+                "result": 0,
+                "id": "tournament_793_29"
+            },
+            {
+                "white": "Huang, Cunhua",
+                "black": "Yang, Xiangchao",
+                "date": "2019-12-10",
+                "result": 0.5,
+                "id": "tournament_793_30"
+            },
+            {
+                "white": "Yang, Xiangchao",
+                "black": "Huang, Cunhua",
+                "date": "2019-12-11",
+                "result": 1,
+                "id": "tournament_793_31"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Li, Liping",
+                "black": "Yang, Xiangchao",
+                "date": "2019-12-12",
+                "result": 0,
+                "id": "tournament_793_32"
+            },
+            {
+                "white": "Yang, Xiangchao",
+                "black": "Li, Liping",
+                "date": "2019-12-13",
+                "result": 0.5,
+                "id": "tournament_793_33"
+            }
+        ]
+    },
+    "tours": 4,
+    "time_control": "classic"
+}

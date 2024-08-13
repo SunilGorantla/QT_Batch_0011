@@ -1,0 +1,219 @@
+{
+    "name": "tournament_252",
+    "start_date": "2015-11-30",
+    "end_date": "2015-12-07",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Fang Dong",
+                "black": "Wang Jian",
+                "date": "2015-11-30",
+                "result": 0,
+                "id": "tournament_252_1"
+            },
+            {
+                "white": "Xu Dingyun",
+                "black": "Dong Yingying",
+                "date": "2015-11-30",
+                "result": 1,
+                "id": "tournament_252_2"
+            },
+            {
+                "white": "Yang Dexiang",
+                "black": "Zheng Qiuliang",
+                "date": "2015-11-30",
+                "result": 0,
+                "id": "tournament_252_3"
+            },
+            {
+                "white": "Yin Lifu",
+                "black": "Hu Shan",
+                "date": "2015-11-30",
+                "result": 0.5,
+                "id": "tournament_252_4"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Wang Jian",
+                "black": "Xu Dingyun",
+                "date": "2015-12-01",
+                "result": 0.5,
+                "id": "tournament_252_5"
+            },
+            {
+                "white": "Fang Dong",
+                "black": "Yang Dexiang",
+                "date": "2015-12-01",
+                "result": 0.5,
+                "id": "tournament_252_6"
+            },
+            {
+                "white": "Yin Lifu",
+                "black": "Dong Yingying",
+                "date": "2015-12-01",
+                "result": 0.5,
+                "id": "tournament_252_7"
+            },
+            {
+                "white": "Hu Shan",
+                "black": "Zheng Qiuliang",
+                "date": "2015-12-01",
+                "result": 0.5,
+                "id": "tournament_252_8"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Yang Dexiang",
+                "black": "Wang Jian",
+                "date": "2015-12-02",
+                "result": 0,
+                "id": "tournament_252_9"
+            },
+            {
+                "white": "Xu Dingyun",
+                "black": "Yin Lifu",
+                "date": "2015-12-02",
+                "result": 1,
+                "id": "tournament_252_10"
+            },
+            {
+                "white": "Fang Dong",
+                "black": "Hu Shan",
+                "date": "2015-12-02",
+                "result": 0,
+                "id": "tournament_252_11"
+            },
+            {
+                "white": "Zheng Qiuliang",
+                "black": "Dong Yingying",
+                "date": "2015-12-02",
+                "result": 1,
+                "id": "tournament_252_12"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Wang Jian",
+                "black": "Yin Lifu",
+                "date": "2015-12-03",
+                "result": 0.5,
+                "id": "tournament_252_13"
+            },
+            {
+                "white": "Yang Dexiang",
+                "black": "Hu Shan",
+                "date": "2015-12-03",
+                "result": 0,
+                "id": "tournament_252_14"
+            },
+            {
+                "white": "Xu Dingyun",
+                "black": "Zheng Qiuliang",
+                "date": "2015-12-03",
+                "result": 1,
+                "id": "tournament_252_15"
+            },
+            {
+                "white": "Fang Dong",
+                "black": "Dong Yingying",
+                "date": "2015-12-03",
+                "result": 0.5,
+                "id": "tournament_252_16"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Hu Shan",
+                "black": "Wang Jian",
+                "date": "2015-12-04",
+                "result": 0.5,
+                "id": "tournament_252_17"
+            },
+            {
+                "white": "Yin Lifu",
+                "black": "Zheng Qiuliang",
+                "date": "2015-12-04",
+                "result": 1,
+                "id": "tournament_252_18"
+            },
+            {
+                "white": "Yang Dexiang",
+                "black": "Dong Yingying",
+                "date": "2015-12-04",
+                "result": 1,
+                "id": "tournament_252_19"
+            },
+            {
+                "white": "Fang Dong",
+                "black": "Xu Dingyun",
+                "date": "2015-12-04",
+                "result": 0,
+                "id": "tournament_252_20"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Wang Jian",
+                "black": "Zheng Qiuliang",
+                "date": "2015-12-05",
+                "result": 0.5,
+                "id": "tournament_252_21"
+            },
+            {
+                "white": "Hu Shan",
+                "black": "Dong Yingying",
+                "date": "2015-12-05",
+                "result": 1,
+                "id": "tournament_252_22"
+            },
+            {
+                "white": "Fang Dong",
+                "black": "Yin Lifu",
+                "date": "2015-12-05",
+                "result": 0,
+                "id": "tournament_252_23"
+            },
+            {
+                "white": "Xu Dingyun",
+                "black": "Yang Dexiang",
+                "date": "2015-12-05",
+                "result": 0.5,
+                "id": "tournament_252_24"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Dong Yingying",
+                "black": "Wang Jian",
+                "date": "2015-12-06",
+                "result": 0.5,
+                "id": "tournament_252_25"
+            },
+            {
+                "white": "Fang Dong",
+                "black": "Zheng Qiuliang",
+                "date": "2015-12-06",
+                "result": 0,
+                "id": "tournament_252_26"
+            },
+            {
+                "white": "Xu Dingyun",
+                "black": "Hu Shan",
+                "date": "2015-12-06",
+                "result": 0.5,
+                "id": "tournament_252_27"
+            },
+            {
+                "white": "Yang Dexiang",
+                "black": "Yin Lifu",
+                "date": "2015-12-06",
+                "result": 0,
+                "id": "tournament_252_28"
+            }
+        ]
+    },
+    "tours": 7,
+    "time_control": "rapid"
+}

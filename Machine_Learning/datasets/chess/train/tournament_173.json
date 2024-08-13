@@ -1,0 +1,249 @@
+{
+    "name": "tournament_173",
+    "start_date": "2015-03-19",
+    "end_date": "2015-04-04",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Zhang Bing",
+                "black": "Liu Aigui",
+                "date": "2015-03-19",
+                "result": 0,
+                "id": "tournament_173_1"
+            },
+            {
+                "white": "Xue Huimei",
+                "black": "Li Hai",
+                "date": "2015-03-19",
+                "result": 0,
+                "id": "tournament_173_2"
+            },
+            {
+                "white": "Dong Yingying",
+                "black": "Tan Zai",
+                "date": "2015-03-19",
+                "result": 0.5,
+                "id": "tournament_173_3"
+            },
+            {
+                "white": "Mo Huijie",
+                "black": "Qian Shangying",
+                "date": "2015-03-19",
+                "result": 0.5,
+                "id": "tournament_173_4"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Huang Linxuan",
+                "black": "Zhang Bing",
+                "date": "2015-03-21",
+                "result": 0,
+                "id": "tournament_173_5"
+            },
+            {
+                "white": "Dong Yingying",
+                "black": "Liu Aigui",
+                "date": "2015-03-21",
+                "result": 0.5,
+                "id": "tournament_173_6"
+            },
+            {
+                "white": "Mo Huijie",
+                "black": "Li Hai",
+                "date": "2015-03-21",
+                "result": 0,
+                "id": "tournament_173_7"
+            },
+            {
+                "white": "Qian Shangying",
+                "black": "Tan Zai",
+                "date": "2015-03-21",
+                "result": 1,
+                "id": "tournament_173_8"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Xue Huimei",
+                "black": "Huang Linxuan",
+                "date": "2015-03-23",
+                "result": 1,
+                "id": "tournament_173_9"
+            },
+            {
+                "white": "Zhang Bing",
+                "black": "Dong Yingying",
+                "date": "2015-03-23",
+                "result": 0.5,
+                "id": "tournament_173_10"
+            },
+            {
+                "white": "Qian Shangying",
+                "black": "Liu Aigui",
+                "date": "2015-03-23",
+                "result": 0,
+                "id": "tournament_173_11"
+            },
+            {
+                "white": "Tan Zai",
+                "black": "Li Hai",
+                "date": "2015-03-23",
+                "result": 0,
+                "id": "tournament_173_12"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Huang Linxuan",
+                "black": "Dong Yingying",
+                "date": "2015-03-25",
+                "result": 1,
+                "id": "tournament_173_13"
+            },
+            {
+                "white": "Xue Huimei",
+                "black": "Mo Huijie",
+                "date": "2015-03-25",
+                "result": 0,
+                "id": "tournament_173_14"
+            },
+            {
+                "white": "Zhang Bing",
+                "black": "Qian Shangying",
+                "date": "2015-03-25",
+                "result": 1,
+                "id": "tournament_173_15"
+            },
+            {
+                "white": "Li Hai",
+                "black": "Liu Aigui",
+                "date": "2015-03-25",
+                "result": 0.5,
+                "id": "tournament_173_16"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Mo Huijie",
+                "black": "Huang Linxuan",
+                "date": "2015-03-27",
+                "result": 0.5,
+                "id": "tournament_173_17"
+            },
+            {
+                "white": "Dong Yingying",
+                "black": "Qian Shangying",
+                "date": "2015-03-27",
+                "result": 1,
+                "id": "tournament_173_18"
+            },
+            {
+                "white": "Xue Huimei",
+                "black": "Tan Zai",
+                "date": "2015-03-27",
+                "result": 0,
+                "id": "tournament_173_19"
+            },
+            {
+                "white": "Zhang Bing",
+                "black": "Li Hai",
+                "date": "2015-03-27",
+                "result": 0.5,
+                "id": "tournament_173_20"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Huang Linxuan",
+                "black": "Qian Shangying",
+                "date": "2015-03-29",
+                "result": 0,
+                "id": "tournament_173_21"
+            },
+            {
+                "white": "Mo Huijie",
+                "black": "Tan Zai",
+                "date": "2015-03-29",
+                "result": 0,
+                "id": "tournament_173_22"
+            },
+            {
+                "white": "Dong Yingying",
+                "black": "Li Hai",
+                "date": "2015-03-29",
+                "result": 0.5,
+                "id": "tournament_173_23"
+            },
+            {
+                "white": "Xue Huimei",
+                "black": "Liu Aigui",
+                "date": "2015-03-29",
+                "result": 0,
+                "id": "tournament_173_24"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Tan Zai",
+                "black": "Huang Linxuan",
+                "date": "2015-03-31",
+                "result": 1,
+                "id": "tournament_173_25"
+            },
+            {
+                "white": "Qian Shangying",
+                "black": "Li Hai",
+                "date": "2015-03-31",
+                "result": 0,
+                "id": "tournament_173_26"
+            },
+            {
+                "white": "Mo Huijie",
+                "black": "Liu Aigui",
+                "date": "2015-03-31",
+                "result": 0,
+                "id": "tournament_173_27"
+            },
+            {
+                "white": "Zhang Bing",
+                "black": "Xue Huimei",
+                "date": "2015-03-31",
+                "result": 1,
+                "id": "tournament_173_28"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Huang Linxuan",
+                "black": "Li Hai",
+                "date": "2015-04-02",
+                "result": 0,
+                "id": "tournament_173_29"
+            },
+            {
+                "white": "Tan Zai",
+                "black": "Liu Aigui",
+                "date": "2015-04-02",
+                "result": 0.5,
+                "id": "tournament_173_30"
+            },
+            {
+                "white": "Zhang Bing",
+                "black": "Mo Huijie",
+                "date": "2015-04-02",
+                "result": 0.5,
+                "id": "tournament_173_31"
+            },
+            {
+                "white": "Xue Huimei",
+                "black": "Dong Yingying",
+                "date": "2015-04-02",
+                "result": 0.5,
+                "id": "tournament_173_32"
+            }
+        ]
+    },
+    "tours": 8,
+    "time_control": "classic"
+}

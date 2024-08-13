@@ -1,0 +1,262 @@
+{
+    "name": "tournament_163",
+    "start_date": "2015-03-02",
+    "end_date": "2015-03-10",
+    "games": {
+        "tour_1": [
+            {
+                "white": "林泽熊",
+                "black": "史稳云",
+                "date": "2015-03-02",
+                "result": 0,
+                "id": "tournament_163_1"
+            },
+            {
+                "white": "史稳云",
+                "black": "林泽熊",
+                "date": "2015-03-03",
+                "result": 1,
+                "id": "tournament_163_2"
+            },
+            {
+                "white": "洪雪权",
+                "black": "王小莹",
+                "date": "2015-03-02",
+                "result": 0,
+                "id": "tournament_163_3"
+            },
+            {
+                "white": "王小莹",
+                "black": "洪雪权",
+                "date": "2015-03-03",
+                "result": 0.5,
+                "id": "tournament_163_4"
+            },
+            {
+                "white": "李苏瑾",
+                "black": "王洁友",
+                "date": "2015-03-02",
+                "result": 1,
+                "id": "tournament_163_5"
+            },
+            {
+                "white": "王洁友",
+                "black": "李苏瑾",
+                "date": "2015-03-03",
+                "result": 0,
+                "id": "tournament_163_6"
+            },
+            {
+                "white": "陈芝",
+                "black": "秦常明",
+                "date": "2015-03-02",
+                "result": 1,
+                "id": "tournament_163_7"
+            },
+            {
+                "white": "秦常明",
+                "black": "陈芝",
+                "date": "2015-03-03",
+                "result": 0.5,
+                "id": "tournament_163_8"
+            },
+            {
+                "white": "文利玲",
+                "black": "钱伯珏",
+                "date": "2015-03-02",
+                "result": 0,
+                "id": "tournament_163_9"
+            },
+            {
+                "white": "钱伯珏",
+                "black": "文利玲",
+                "date": "2015-03-03",
+                "result": 1,
+                "id": "tournament_163_10"
+            },
+            {
+                "white": "黄梦莉",
+                "black": "张跃",
+                "date": "2015-03-02",
+                "result": 1,
+                "id": "tournament_163_11"
+            },
+            {
+                "white": "张跃",
+                "black": "黄梦莉",
+                "date": "2015-03-03",
+                "result": 0.5,
+                "id": "tournament_163_12"
+            },
+            {
+                "white": "王瑞梓",
+                "black": "黄敏祥",
+                "date": "2015-03-02",
+                "result": 0,
+                "id": "tournament_163_13"
+            },
+            {
+                "white": "黄敏祥",
+                "black": "王瑞梓",
+                "date": "2015-03-03",
+                "result": 0,
+                "id": "tournament_163_14"
+            },
+            {
+                "white": "王瑞梓",
+                "black": "黄敏祥",
+                "date": "2015-03-03",
+                "result": 1,
+                "id": "tournament_163_15"
+            },
+            {
+                "white": "文永玺",
+                "black": "许太珊",
+                "date": "2015-03-02",
+                "result": 0.5,
+                "id": "tournament_163_16"
+            },
+            {
+                "white": "许太珊",
+                "black": "文永玺",
+                "date": "2015-03-03",
+                "result": 0.5,
+                "id": "tournament_163_17"
+            },
+            {
+                "white": "文永玺",
+                "black": "许太珊",
+                "date": "2015-03-03",
+                "result": 0,
+                "id": "tournament_163_18"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "史稳云",
+                "black": "王小莹",
+                "date": "2015-03-04",
+                "result": 0.5,
+                "id": "tournament_163_19"
+            },
+            {
+                "white": "王小莹",
+                "black": "史稳云",
+                "date": "2015-03-05",
+                "result": 0.5,
+                "id": "tournament_163_20"
+            },
+            {
+                "white": "史稳云",
+                "black": "王小莹",
+                "date": "2015-03-05",
+                "result": 1,
+                "id": "tournament_163_21"
+            },
+            {
+                "white": "李苏瑾",
+                "black": "陈芝",
+                "date": "2015-03-04",
+                "result": 0.5,
+                "id": "tournament_163_22"
+            },
+            {
+                "white": "陈芝",
+                "black": "李苏瑾",
+                "date": "2015-03-05",
+                "result": 1,
+                "id": "tournament_163_23"
+            },
+            {
+                "white": "钱伯珏",
+                "black": "黄梦莉",
+                "date": "2015-03-04",
+                "result": 1,
+                "id": "tournament_163_24"
+            },
+            {
+                "white": "黄梦莉",
+                "black": "钱伯珏",
+                "date": "2015-03-05",
+                "result": 0.5,
+                "id": "tournament_163_25"
+            },
+            {
+                "white": "王瑞梓",
+                "black": "许太珊",
+                "date": "2015-03-04",
+                "result": 0.5,
+                "id": "tournament_163_26"
+            },
+            {
+                "white": "许太珊",
+                "black": "王瑞梓",
+                "date": "2015-03-05",
+                "result": 0.5,
+                "id": "tournament_163_27"
+            },
+            {
+                "white": "王瑞梓",
+                "black": "许太珊",
+                "date": "2015-03-05",
+                "result": 1,
+                "id": "tournament_163_28"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "史稳云",
+                "black": "陈芝",
+                "date": "2015-03-06",
+                "result": 0.5,
+                "id": "tournament_163_29"
+            },
+            {
+                "white": "陈芝",
+                "black": "史稳云",
+                "date": "2015-03-07",
+                "result": 0.5,
+                "id": "tournament_163_30"
+            },
+            {
+                "white": "史稳云",
+                "black": "陈芝",
+                "date": "2015-03-07",
+                "result": 0.5,
+                "id": "tournament_163_31"
+            },
+            {
+                "white": "钱伯珏",
+                "black": "王瑞梓",
+                "date": "2015-03-06",
+                "result": 1,
+                "id": "tournament_163_32"
+            },
+            {
+                "white": "王瑞梓",
+                "black": "钱伯珏",
+                "date": "2015-03-07",
+                "result": 0,
+                "id": "tournament_163_33"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "陈芝",
+                "black": "钱伯珏",
+                "date": "2015-03-08",
+                "result": 0.5,
+                "id": "tournament_163_34"
+            },
+            {
+                "white": "钱伯珏",
+                "black": "陈芝",
+                "date": "2015-03-09",
+                "result": 1,
+                "id": "tournament_163_35"
+            }
+        ]
+    },
+    "tours": 4,
+    "time_control": "rapid"
+}

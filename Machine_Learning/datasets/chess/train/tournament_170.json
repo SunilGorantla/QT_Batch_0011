@@ -1,0 +1,219 @@
+{
+    "name": "tournament_170",
+    "start_date": "2015-03-16",
+    "end_date": "2015-03-30",
+    "games": {
+        "tour_1": [
+            {
+                "white": "王雪",
+                "black": "刘钦新",
+                "date": "2015-03-16",
+                "result": 1,
+                "id": "tournament_170_1"
+            },
+            {
+                "white": "薛冠",
+                "black": "乔宏琪",
+                "date": "2015-03-16",
+                "result": 1,
+                "id": "tournament_170_2"
+            },
+            {
+                "white": "谭卓佳",
+                "black": "胡游标",
+                "date": "2015-03-16",
+                "result": 0.5,
+                "id": "tournament_170_3"
+            },
+            {
+                "white": "胡碧卫",
+                "black": "何文荣",
+                "date": "2015-03-16",
+                "result": 0,
+                "id": "tournament_170_4"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "刘钦新",
+                "black": "薛冠",
+                "date": "2015-03-18",
+                "result": 0.5,
+                "id": "tournament_170_5"
+            },
+            {
+                "white": "王雪",
+                "black": "谭卓佳",
+                "date": "2015-03-18",
+                "result": 0.5,
+                "id": "tournament_170_6"
+            },
+            {
+                "white": "胡碧卫",
+                "black": "乔宏琪",
+                "date": "2015-03-18",
+                "result": 0.5,
+                "id": "tournament_170_7"
+            },
+            {
+                "white": "何文荣",
+                "black": "胡游标",
+                "date": "2015-03-18",
+                "result": 0.5,
+                "id": "tournament_170_8"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "谭卓佳",
+                "black": "刘钦新",
+                "date": "2015-03-20",
+                "result": 0.5,
+                "id": "tournament_170_9"
+            },
+            {
+                "white": "薛冠",
+                "black": "胡碧卫",
+                "date": "2015-03-20",
+                "result": 0.5,
+                "id": "tournament_170_10"
+            },
+            {
+                "white": "王雪",
+                "black": "何文荣",
+                "date": "2015-03-20",
+                "result": 0.5,
+                "id": "tournament_170_11"
+            },
+            {
+                "white": "胡游标",
+                "black": "乔宏琪",
+                "date": "2015-03-20",
+                "result": 0,
+                "id": "tournament_170_12"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "刘钦新",
+                "black": "胡碧卫",
+                "date": "2015-03-22",
+                "result": 0.5,
+                "id": "tournament_170_13"
+            },
+            {
+                "white": "谭卓佳",
+                "black": "何文荣",
+                "date": "2015-03-22",
+                "result": 0.5,
+                "id": "tournament_170_14"
+            },
+            {
+                "white": "薛冠",
+                "black": "胡游标",
+                "date": "2015-03-22",
+                "result": 1,
+                "id": "tournament_170_15"
+            },
+            {
+                "white": "王雪",
+                "black": "乔宏琪",
+                "date": "2015-03-22",
+                "result": 0,
+                "id": "tournament_170_16"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "何文荣",
+                "black": "刘钦新",
+                "date": "2015-03-24",
+                "result": 0.5,
+                "id": "tournament_170_17"
+            },
+            {
+                "white": "胡碧卫",
+                "black": "胡游标",
+                "date": "2015-03-24",
+                "result": 0.5,
+                "id": "tournament_170_18"
+            },
+            {
+                "white": "谭卓佳",
+                "black": "乔宏琪",
+                "date": "2015-03-24",
+                "result": 0.5,
+                "id": "tournament_170_19"
+            },
+            {
+                "white": "王雪",
+                "black": "薛冠",
+                "date": "2015-03-24",
+                "result": 0.5,
+                "id": "tournament_170_20"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "刘钦新",
+                "black": "胡游标",
+                "date": "2015-03-26",
+                "result": 0,
+                "id": "tournament_170_21"
+            },
+            {
+                "white": "何文荣",
+                "black": "乔宏琪",
+                "date": "2015-03-26",
+                "result": 0,
+                "id": "tournament_170_22"
+            },
+            {
+                "white": "王雪",
+                "black": "胡碧卫",
+                "date": "2015-03-26",
+                "result": 0.5,
+                "id": "tournament_170_23"
+            },
+            {
+                "white": "薛冠",
+                "black": "谭卓佳",
+                "date": "2015-03-26",
+                "result": 1,
+                "id": "tournament_170_24"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "乔宏琪",
+                "black": "刘钦新",
+                "date": "2015-03-28",
+                "result": 0.5,
+                "id": "tournament_170_25"
+            },
+            {
+                "white": "王雪",
+                "black": "胡游标",
+                "date": "2015-03-28",
+                "result": 0.5,
+                "id": "tournament_170_26"
+            },
+            {
+                "white": "薛冠",
+                "black": "何文荣",
+                "date": "2015-03-28",
+                "result": 1,
+                "id": "tournament_170_27"
+            },
+            {
+                "white": "谭卓佳",
+                "black": "胡碧卫",
+                "date": "2015-03-28",
+                "result": 0,
+                "id": "tournament_170_28"
+            }
+        ]
+    },
+    "tours": 7,
+    "time_control": "classic"
+}

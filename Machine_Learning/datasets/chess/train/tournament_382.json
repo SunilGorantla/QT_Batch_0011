@@ -1,0 +1,493 @@
+{
+    "name": "tournament_382",
+    "start_date": "2016-11-26",
+    "end_date": "2016-12-18",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Wu Yu Ming",
+                "black": "Xu Rong Bing",
+                "date": "2016-11-26",
+                "result": 1,
+                "id": "tournament_382_1"
+            },
+            {
+                "white": "Xue Guan ",
+                "black": "Wang Jiang Ji",
+                "date": "2016-11-26",
+                "result": 1,
+                "id": "tournament_382_2"
+            },
+            {
+                "white": "Tao Guo ",
+                "black": "Chen Ping Xing",
+                "date": "2016-11-26",
+                "result": 0.5,
+                "id": "tournament_382_3"
+            },
+            {
+                "white": "Zhao You Hai",
+                "black": "Zhong Shu Ling",
+                "date": "2016-11-26",
+                "result": 0,
+                "id": "tournament_382_4"
+            },
+            {
+                "white": "Liang Mei Qiang",
+                "black": "Hu Qi Hong",
+                "date": "2016-11-26",
+                "result": 0,
+                "id": "tournament_382_5"
+            },
+            {
+                "white": "Zheng Xin Cong",
+                "black": "Wan Xin Yi",
+                "date": "2016-11-26",
+                "result": 1,
+                "id": "tournament_382_6"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Xu Rong Bing",
+                "black": "Xue Guan ",
+                "date": "2016-11-28",
+                "result": 1,
+                "id": "tournament_382_7"
+            },
+            {
+                "white": "Wu Yu Ming",
+                "black": "Tao Guo ",
+                "date": "2016-11-28",
+                "result": 1,
+                "id": "tournament_382_8"
+            },
+            {
+                "white": "Zhao You Hai",
+                "black": "Wang Jiang Ji",
+                "date": "2016-11-28",
+                "result": 0.5,
+                "id": "tournament_382_9"
+            },
+            {
+                "white": "Liang Mei Qiang",
+                "black": "Chen Ping Xing",
+                "date": "2016-11-28",
+                "result": 0,
+                "id": "tournament_382_10"
+            },
+            {
+                "white": "Zheng Xin Cong",
+                "black": "Zhong Shu Ling",
+                "date": "2016-11-28",
+                "result": 1,
+                "id": "tournament_382_11"
+            },
+            {
+                "white": "Wan Xin Yi",
+                "black": "Hu Qi Hong",
+                "date": "2016-11-28",
+                "result": 0,
+                "id": "tournament_382_12"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Tao Guo ",
+                "black": "Xu Rong Bing",
+                "date": "2016-11-30",
+                "result": 0,
+                "id": "tournament_382_13"
+            },
+            {
+                "white": "Xue Guan ",
+                "black": "Zhao You Hai",
+                "date": "2016-11-30",
+                "result": 0.5,
+                "id": "tournament_382_14"
+            },
+            {
+                "white": "Wu Yu Ming",
+                "black": "Liang Mei Qiang",
+                "date": "2016-11-30",
+                "result": 1,
+                "id": "tournament_382_15"
+            },
+            {
+                "white": "Zheng Xin Cong",
+                "black": "Wang Jiang Ji",
+                "date": "2016-11-30",
+                "result": 1,
+                "id": "tournament_382_16"
+            },
+            {
+                "white": "Wan Xin Yi",
+                "black": "Chen Ping Xing",
+                "date": "2016-11-30",
+                "result": 0.5,
+                "id": "tournament_382_17"
+            },
+            {
+                "white": "Hu Qi Hong",
+                "black": "Zhong Shu Ling",
+                "date": "2016-11-30",
+                "result": 1,
+                "id": "tournament_382_18"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Xu Rong Bing",
+                "black": "Zhao You Hai",
+                "date": "2016-12-02",
+                "result": 1,
+                "id": "tournament_382_19"
+            },
+            {
+                "white": "Tao Guo ",
+                "black": "Liang Mei Qiang",
+                "date": "2016-12-02",
+                "result": 1,
+                "id": "tournament_382_20"
+            },
+            {
+                "white": "Xue Guan ",
+                "black": "Zheng Xin Cong",
+                "date": "2016-12-02",
+                "result": 0.5,
+                "id": "tournament_382_21"
+            },
+            {
+                "white": "Wu Yu Ming",
+                "black": "Wan Xin Yi",
+                "date": "2016-12-02",
+                "result": 1,
+                "id": "tournament_382_22"
+            },
+            {
+                "white": "Hu Qi Hong",
+                "black": "Wang Jiang Ji",
+                "date": "2016-12-02",
+                "result": 1,
+                "id": "tournament_382_23"
+            },
+            {
+                "white": "Zhong Shu Ling",
+                "black": "Chen Ping Xing",
+                "date": "2016-12-02",
+                "result": 0.5,
+                "id": "tournament_382_24"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Liang Mei Qiang",
+                "black": "Xu Rong Bing",
+                "date": "2016-12-04",
+                "result": 0.5,
+                "id": "tournament_382_25"
+            },
+            {
+                "white": "Zhao You Hai",
+                "black": "Zheng Xin Cong",
+                "date": "2016-12-04",
+                "result": 0,
+                "id": "tournament_382_26"
+            },
+            {
+                "white": "Tao Guo ",
+                "black": "Wan Xin Yi",
+                "date": "2016-12-04",
+                "result": 1,
+                "id": "tournament_382_27"
+            },
+            {
+                "white": "Xue Guan ",
+                "black": "Hu Qi Hong",
+                "date": "2016-12-04",
+                "result": 0,
+                "id": "tournament_382_28"
+            },
+            {
+                "white": "Wu Yu Ming",
+                "black": "Zhong Shu Ling",
+                "date": "2016-12-04",
+                "result": 1,
+                "id": "tournament_382_29"
+            },
+            {
+                "white": "Chen Ping Xing",
+                "black": "Wang Jiang Ji",
+                "date": "2016-12-04",
+                "result": 1,
+                "id": "tournament_382_30"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Xu Rong Bing",
+                "black": "Zheng Xin Cong",
+                "date": "2016-12-06",
+                "result": 0.5,
+                "id": "tournament_382_31"
+            },
+            {
+                "white": "Liang Mei Qiang",
+                "black": "Wan Xin Yi",
+                "date": "2016-12-06",
+                "result": 0,
+                "id": "tournament_382_32"
+            },
+            {
+                "white": "Zhao You Hai",
+                "black": "Hu Qi Hong",
+                "date": "2016-12-06",
+                "result": 0,
+                "id": "tournament_382_33"
+            },
+            {
+                "white": "Tao Guo ",
+                "black": "Zhong Shu Ling",
+                "date": "2016-12-06",
+                "result": 0.5,
+                "id": "tournament_382_34"
+            },
+            {
+                "white": "Xue Guan ",
+                "black": "Chen Ping Xing",
+                "date": "2016-12-06",
+                "result": 0.5,
+                "id": "tournament_382_35"
+            },
+            {
+                "white": "Wu Yu Ming",
+                "black": "Wang Jiang Ji",
+                "date": "2016-12-06",
+                "result": 1,
+                "id": "tournament_382_36"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Wan Xin Yi",
+                "black": "Xu Rong Bing",
+                "date": "2016-12-08",
+                "result": 1,
+                "id": "tournament_382_37"
+            },
+            {
+                "white": "Zheng Xin Cong",
+                "black": "Hu Qi Hong",
+                "date": "2016-12-08",
+                "result": 0.5,
+                "id": "tournament_382_38"
+            },
+            {
+                "white": "Liang Mei Qiang",
+                "black": "Zhong Shu Ling",
+                "date": "2016-12-08",
+                "result": 0.5,
+                "id": "tournament_382_39"
+            },
+            {
+                "white": "Zhao You Hai",
+                "black": "Chen Ping Xing",
+                "date": "2016-12-08",
+                "result": 0.5,
+                "id": "tournament_382_40"
+            },
+            {
+                "white": "Tao Guo ",
+                "black": "Wang Jiang Ji",
+                "date": "2016-12-08",
+                "result": 1,
+                "id": "tournament_382_41"
+            },
+            {
+                "white": "Wu Yu Ming",
+                "black": "Xue Guan ",
+                "date": "2016-12-08",
+                "result": 1,
+                "id": "tournament_382_42"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Xu Rong Bing",
+                "black": "Hu Qi Hong",
+                "date": "2016-12-10",
+                "result": 0,
+                "id": "tournament_382_43"
+            },
+            {
+                "white": "Wan Xin Yi",
+                "black": "Zhong Shu Ling",
+                "date": "2016-12-10",
+                "result": 0.5,
+                "id": "tournament_382_44"
+            },
+            {
+                "white": "Zheng Xin Cong",
+                "black": "Chen Ping Xing",
+                "date": "2016-12-10",
+                "result": 1,
+                "id": "tournament_382_45"
+            },
+            {
+                "white": "Liang Mei Qiang",
+                "black": "Wang Jiang Ji",
+                "date": "2016-12-10",
+                "result": 0.5,
+                "id": "tournament_382_46"
+            },
+            {
+                "white": "Wu Yu Ming",
+                "black": "Zhao You Hai",
+                "date": "2016-12-10",
+                "result": 1,
+                "id": "tournament_382_47"
+            },
+            {
+                "white": "Xue Guan ",
+                "black": "Tao Guo ",
+                "date": "2016-12-10",
+                "result": 0.5,
+                "id": "tournament_382_48"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Zhong Shu Ling",
+                "black": "Xu Rong Bing",
+                "date": "2016-12-12",
+                "result": 0,
+                "id": "tournament_382_49"
+            },
+            {
+                "white": "Hu Qi Hong",
+                "black": "Chen Ping Xing",
+                "date": "2016-12-12",
+                "result": 1,
+                "id": "tournament_382_50"
+            },
+            {
+                "white": "Wan Xin Yi",
+                "black": "Wang Jiang Ji",
+                "date": "2016-12-12",
+                "result": 1,
+                "id": "tournament_382_51"
+            },
+            {
+                "white": "Wu Yu Ming",
+                "black": "Zheng Xin Cong",
+                "date": "2016-12-12",
+                "result": 1,
+                "id": "tournament_382_52"
+            },
+            {
+                "white": "Xue Guan ",
+                "black": "Liang Mei Qiang",
+                "date": "2016-12-12",
+                "result": 0.5,
+                "id": "tournament_382_53"
+            },
+            {
+                "white": "Tao Guo ",
+                "black": "Zhao You Hai",
+                "date": "2016-12-12",
+                "result": 0.5,
+                "id": "tournament_382_54"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "Xu Rong Bing",
+                "black": "Chen Ping Xing",
+                "date": "2016-12-14",
+                "result": 0,
+                "id": "tournament_382_55"
+            },
+            {
+                "white": "Zhong Shu Ling",
+                "black": "Wang Jiang Ji",
+                "date": "2016-12-14",
+                "result": 0.5,
+                "id": "tournament_382_56"
+            },
+            {
+                "white": "Wu Yu Ming",
+                "black": "Hu Qi Hong",
+                "date": "2016-12-14",
+                "result": 1,
+                "id": "tournament_382_57"
+            },
+            {
+                "white": "Xue Guan ",
+                "black": "Wan Xin Yi",
+                "date": "2016-12-14",
+                "result": 0,
+                "id": "tournament_382_58"
+            },
+            {
+                "white": "Tao Guo ",
+                "black": "Zheng Xin Cong",
+                "date": "2016-12-14",
+                "result": 0.5,
+                "id": "tournament_382_59"
+            },
+            {
+                "white": "Zhao You Hai",
+                "black": "Liang Mei Qiang",
+                "date": "2016-12-14",
+                "result": 0.5,
+                "id": "tournament_382_60"
+            }
+        ],
+        "tour_11": [
+            {
+                "white": "Wang Jiang Ji",
+                "black": "Xu Rong Bing",
+                "date": "2016-12-16",
+                "result": 0,
+                "id": "tournament_382_61"
+            },
+            {
+                "white": "Wu Yu Ming",
+                "black": "Chen Ping Xing",
+                "date": "2016-12-16",
+                "result": 1,
+                "id": "tournament_382_62"
+            },
+            {
+                "white": "Xue Guan ",
+                "black": "Zhong Shu Ling",
+                "date": "2016-12-16",
+                "result": 0.5,
+                "id": "tournament_382_63"
+            },
+            {
+                "white": "Tao Guo ",
+                "black": "Hu Qi Hong",
+                "date": "2016-12-16",
+                "result": 0,
+                "id": "tournament_382_64"
+            },
+            {
+                "white": "Zhao You Hai",
+                "black": "Wan Xin Yi",
+                "date": "2016-12-16",
+                "result": 0.5,
+                "id": "tournament_382_65"
+            },
+            {
+                "white": "Liang Mei Qiang",
+                "black": "Zheng Xin Cong",
+                "date": "2016-12-16",
+                "result": 0.5,
+                "id": "tournament_382_66"
+            }
+        ]
+    },
+    "tours": 11,
+    "time_control": "rapid"
+}

@@ -1,0 +1,219 @@
+{
+    "name": "tournament_408",
+    "start_date": "2017-02-03",
+    "end_date": "2017-02-17",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Zhu Yanguang",
+                "black": "Zhang Youqiang",
+                "date": "2017-02-03",
+                "result": 1,
+                "id": "tournament_408_1"
+            },
+            {
+                "white": "Wang Weiyin",
+                "black": "Li Wenzi",
+                "date": "2017-02-03",
+                "result": 1,
+                "id": "tournament_408_2"
+            },
+            {
+                "white": "Lu Yingfu",
+                "black": "Wang Yinbin",
+                "date": "2017-02-03",
+                "result": 0.5,
+                "id": "tournament_408_3"
+            },
+            {
+                "white": "Chen Rongshun",
+                "black": "Fan Yuan",
+                "date": "2017-02-03",
+                "result": 0,
+                "id": "tournament_408_4"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Zhang Youqiang",
+                "black": "Wang Weiyin",
+                "date": "2017-02-05",
+                "result": 0.5,
+                "id": "tournament_408_5"
+            },
+            {
+                "white": "Zhu Yanguang",
+                "black": "Lu Yingfu",
+                "date": "2017-02-05",
+                "result": 0.5,
+                "id": "tournament_408_6"
+            },
+            {
+                "white": "Chen Rongshun",
+                "black": "Li Wenzi",
+                "date": "2017-02-05",
+                "result": 1,
+                "id": "tournament_408_7"
+            },
+            {
+                "white": "Fan Yuan",
+                "black": "Wang Yinbin",
+                "date": "2017-02-05",
+                "result": 1,
+                "id": "tournament_408_8"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Lu Yingfu",
+                "black": "Zhang Youqiang",
+                "date": "2017-02-07",
+                "result": 0.5,
+                "id": "tournament_408_9"
+            },
+            {
+                "white": "Wang Weiyin",
+                "black": "Chen Rongshun",
+                "date": "2017-02-07",
+                "result": 0,
+                "id": "tournament_408_10"
+            },
+            {
+                "white": "Zhu Yanguang",
+                "black": "Fan Yuan",
+                "date": "2017-02-07",
+                "result": 1,
+                "id": "tournament_408_11"
+            },
+            {
+                "white": "Wang Yinbin",
+                "black": "Li Wenzi",
+                "date": "2017-02-07",
+                "result": 1,
+                "id": "tournament_408_12"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Zhang Youqiang",
+                "black": "Chen Rongshun",
+                "date": "2017-02-09",
+                "result": 0,
+                "id": "tournament_408_13"
+            },
+            {
+                "white": "Lu Yingfu",
+                "black": "Fan Yuan",
+                "date": "2017-02-09",
+                "result": 0,
+                "id": "tournament_408_14"
+            },
+            {
+                "white": "Wang Weiyin",
+                "black": "Wang Yinbin",
+                "date": "2017-02-09",
+                "result": 0,
+                "id": "tournament_408_15"
+            },
+            {
+                "white": "Zhu Yanguang",
+                "black": "Li Wenzi",
+                "date": "2017-02-09",
+                "result": 1,
+                "id": "tournament_408_16"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Fan Yuan",
+                "black": "Zhang Youqiang",
+                "date": "2017-02-11",
+                "result": 1,
+                "id": "tournament_408_17"
+            },
+            {
+                "white": "Chen Rongshun",
+                "black": "Wang Yinbin",
+                "date": "2017-02-11",
+                "result": 0.5,
+                "id": "tournament_408_18"
+            },
+            {
+                "white": "Lu Yingfu",
+                "black": "Li Wenzi",
+                "date": "2017-02-11",
+                "result": 1,
+                "id": "tournament_408_19"
+            },
+            {
+                "white": "Zhu Yanguang",
+                "black": "Wang Weiyin",
+                "date": "2017-02-11",
+                "result": 1,
+                "id": "tournament_408_20"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Zhang Youqiang",
+                "black": "Wang Yinbin",
+                "date": "2017-02-13",
+                "result": 0,
+                "id": "tournament_408_21"
+            },
+            {
+                "white": "Fan Yuan",
+                "black": "Li Wenzi",
+                "date": "2017-02-13",
+                "result": 1,
+                "id": "tournament_408_22"
+            },
+            {
+                "white": "Zhu Yanguang",
+                "black": "Chen Rongshun",
+                "date": "2017-02-13",
+                "result": 0,
+                "id": "tournament_408_23"
+            },
+            {
+                "white": "Wang Weiyin",
+                "black": "Lu Yingfu",
+                "date": "2017-02-13",
+                "result": 0.5,
+                "id": "tournament_408_24"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Li Wenzi",
+                "black": "Zhang Youqiang",
+                "date": "2017-02-15",
+                "result": 0,
+                "id": "tournament_408_25"
+            },
+            {
+                "white": "Zhu Yanguang",
+                "black": "Wang Yinbin",
+                "date": "2017-02-15",
+                "result": 1,
+                "id": "tournament_408_26"
+            },
+            {
+                "white": "Wang Weiyin",
+                "black": "Fan Yuan",
+                "date": "2017-02-15",
+                "result": 0.5,
+                "id": "tournament_408_27"
+            },
+            {
+                "white": "Lu Yingfu",
+                "black": "Chen Rongshun",
+                "date": "2017-02-15",
+                "result": 0.5,
+                "id": "tournament_408_28"
+            }
+        ]
+    },
+    "tours": 7,
+    "time_control": "rapid"
+}

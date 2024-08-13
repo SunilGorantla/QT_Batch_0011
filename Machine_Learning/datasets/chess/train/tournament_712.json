@@ -1,0 +1,219 @@
+{
+    "name": "tournament_712",
+    "start_date": "2019-04-29",
+    "end_date": "2019-05-06",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Liu Jian Xi",
+                "black": "Zhang Xiao Rong",
+                "date": "2019-04-29",
+                "result": 1,
+                "id": "tournament_712_1"
+            },
+            {
+                "white": "Chen Xu Xiang",
+                "black": "Mao Ming Mu",
+                "date": "2019-04-29",
+                "result": 0.5,
+                "id": "tournament_712_2"
+            },
+            {
+                "white": "Wang Jun ",
+                "black": "Chen Yi ",
+                "date": "2019-04-29",
+                "result": 1,
+                "id": "tournament_712_3"
+            },
+            {
+                "white": "Gu Gao ",
+                "black": "Yu Yu Qi",
+                "date": "2019-04-29",
+                "result": 0,
+                "id": "tournament_712_4"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Zhang Xiao Rong",
+                "black": "Chen Xu Xiang",
+                "date": "2019-04-30",
+                "result": 0,
+                "id": "tournament_712_5"
+            },
+            {
+                "white": "Liu Jian Xi",
+                "black": "Wang Jun ",
+                "date": "2019-04-30",
+                "result": 0.5,
+                "id": "tournament_712_6"
+            },
+            {
+                "white": "Gu Gao ",
+                "black": "Mao Ming Mu",
+                "date": "2019-04-30",
+                "result": 1,
+                "id": "tournament_712_7"
+            },
+            {
+                "white": "Yu Yu Qi",
+                "black": "Chen Yi ",
+                "date": "2019-04-30",
+                "result": 0.5,
+                "id": "tournament_712_8"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Wang Jun ",
+                "black": "Zhang Xiao Rong",
+                "date": "2019-05-01",
+                "result": 0.5,
+                "id": "tournament_712_9"
+            },
+            {
+                "white": "Chen Xu Xiang",
+                "black": "Gu Gao ",
+                "date": "2019-05-01",
+                "result": 0.5,
+                "id": "tournament_712_10"
+            },
+            {
+                "white": "Liu Jian Xi",
+                "black": "Yu Yu Qi",
+                "date": "2019-05-01",
+                "result": 0.5,
+                "id": "tournament_712_11"
+            },
+            {
+                "white": "Chen Yi ",
+                "black": "Mao Ming Mu",
+                "date": "2019-05-01",
+                "result": 1,
+                "id": "tournament_712_12"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Zhang Xiao Rong",
+                "black": "Gu Gao ",
+                "date": "2019-05-02",
+                "result": 0,
+                "id": "tournament_712_13"
+            },
+            {
+                "white": "Wang Jun ",
+                "black": "Yu Yu Qi",
+                "date": "2019-05-02",
+                "result": 0.5,
+                "id": "tournament_712_14"
+            },
+            {
+                "white": "Chen Xu Xiang",
+                "black": "Chen Yi ",
+                "date": "2019-05-02",
+                "result": 0.5,
+                "id": "tournament_712_15"
+            },
+            {
+                "white": "Liu Jian Xi",
+                "black": "Mao Ming Mu",
+                "date": "2019-05-02",
+                "result": 1,
+                "id": "tournament_712_16"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Yu Yu Qi",
+                "black": "Zhang Xiao Rong",
+                "date": "2019-05-03",
+                "result": 1,
+                "id": "tournament_712_17"
+            },
+            {
+                "white": "Gu Gao ",
+                "black": "Chen Yi ",
+                "date": "2019-05-03",
+                "result": 1,
+                "id": "tournament_712_18"
+            },
+            {
+                "white": "Wang Jun ",
+                "black": "Mao Ming Mu",
+                "date": "2019-05-03",
+                "result": 1,
+                "id": "tournament_712_19"
+            },
+            {
+                "white": "Liu Jian Xi",
+                "black": "Chen Xu Xiang",
+                "date": "2019-05-03",
+                "result": 0.5,
+                "id": "tournament_712_20"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Zhang Xiao Rong",
+                "black": "Chen Yi ",
+                "date": "2019-05-04",
+                "result": 0.5,
+                "id": "tournament_712_21"
+            },
+            {
+                "white": "Yu Yu Qi",
+                "black": "Mao Ming Mu",
+                "date": "2019-05-04",
+                "result": 1,
+                "id": "tournament_712_22"
+            },
+            {
+                "white": "Liu Jian Xi",
+                "black": "Gu Gao ",
+                "date": "2019-05-04",
+                "result": 1,
+                "id": "tournament_712_23"
+            },
+            {
+                "white": "Chen Xu Xiang",
+                "black": "Wang Jun ",
+                "date": "2019-05-04",
+                "result": 0.5,
+                "id": "tournament_712_24"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Mao Ming Mu",
+                "black": "Zhang Xiao Rong",
+                "date": "2019-05-05",
+                "result": 0.5,
+                "id": "tournament_712_25"
+            },
+            {
+                "white": "Liu Jian Xi",
+                "black": "Chen Yi ",
+                "date": "2019-05-05",
+                "result": 0.5,
+                "id": "tournament_712_26"
+            },
+            {
+                "white": "Chen Xu Xiang",
+                "black": "Yu Yu Qi",
+                "date": "2019-05-05",
+                "result": 0.5,
+                "id": "tournament_712_27"
+            },
+            {
+                "white": "Wang Jun ",
+                "black": "Gu Gao ",
+                "date": "2019-05-05",
+                "result": 0.5,
+                "id": "tournament_712_28"
+            }
+        ]
+    },
+    "tours": 7,
+    "time_control": "classic"
+}

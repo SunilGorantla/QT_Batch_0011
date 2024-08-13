@@ -1,0 +1,329 @@
+{
+    "name": "tournament_test_5",
+    "start_date": "2020-01-20",
+    "end_date": "2020-02-09",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Lv Mingmei",
+                "black": "Zhao Zhenyuan",
+                "date": "2020-01-20",
+                "id": "tournament_test_5_1"
+            },
+            {
+                "white": "Yu Dongchun",
+                "black": "Deng Guo",
+                "date": "2020-01-20",
+                "id": "tournament_test_5_2"
+            },
+            {
+                "white": "Liu Yapu",
+                "black": "Qiang Haitian",
+                "date": "2020-01-20",
+                "id": "tournament_test_5_3"
+            },
+            {
+                "white": "Li Yangyi",
+                "black": "Chen Xuxiang",
+                "date": "2020-01-20",
+                "id": "tournament_test_5_4"
+            },
+            {
+                "white": "Zhou Xiulu",
+                "black": "Zhang Qiyan",
+                "date": "2020-01-20",
+                "id": "tournament_test_5_5"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Huang Shuchu",
+                "black": "Lv Mingmei",
+                "date": "2020-01-22",
+                "id": "tournament_test_5_6"
+            },
+            {
+                "white": "Liu Yapu",
+                "black": "Zhao Zhenyuan",
+                "date": "2020-01-22",
+                "id": "tournament_test_5_7"
+            },
+            {
+                "white": "Li Yangyi",
+                "black": "Deng Guo",
+                "date": "2020-01-22",
+                "id": "tournament_test_5_8"
+            },
+            {
+                "white": "Zhou Xiulu",
+                "black": "Qiang Haitian",
+                "date": "2020-01-22",
+                "id": "tournament_test_5_9"
+            },
+            {
+                "white": "Zhang Qiyan",
+                "black": "Chen Xuxiang",
+                "date": "2020-01-22",
+                "id": "tournament_test_5_10"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Yu Dongchun",
+                "black": "Huang Shuchu",
+                "date": "2020-01-24",
+                "id": "tournament_test_5_11"
+            },
+            {
+                "white": "Lv Mingmei",
+                "black": "Liu Yapu",
+                "date": "2020-01-24",
+                "id": "tournament_test_5_12"
+            },
+            {
+                "white": "Zhou Xiulu",
+                "black": "Zhao Zhenyuan",
+                "date": "2020-01-24",
+                "id": "tournament_test_5_13"
+            },
+            {
+                "white": "Zhang Qiyan",
+                "black": "Deng Guo",
+                "date": "2020-01-24",
+                "id": "tournament_test_5_14"
+            },
+            {
+                "white": "Chen Xuxiang",
+                "black": "Qiang Haitian",
+                "date": "2020-01-24",
+                "id": "tournament_test_5_15"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Huang Shuchu",
+                "black": "Liu Yapu",
+                "date": "2020-01-26",
+                "id": "tournament_test_5_16"
+            },
+            {
+                "white": "Yu Dongchun",
+                "black": "Li Yangyi",
+                "date": "2020-01-26",
+                "id": "tournament_test_5_17"
+            },
+            {
+                "white": "Lv Mingmei",
+                "black": "Zhou Xiulu",
+                "date": "2020-01-26",
+                "id": "tournament_test_5_18"
+            },
+            {
+                "white": "Chen Xuxiang",
+                "black": "Zhao Zhenyuan",
+                "date": "2020-01-26",
+                "id": "tournament_test_5_19"
+            },
+            {
+                "white": "Qiang Haitian",
+                "black": "Deng Guo",
+                "date": "2020-01-26",
+                "id": "tournament_test_5_20"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Li Yangyi",
+                "black": "Huang Shuchu",
+                "date": "2020-01-28",
+                "id": "tournament_test_5_21"
+            },
+            {
+                "white": "Liu Yapu",
+                "black": "Zhou Xiulu",
+                "date": "2020-01-28",
+                "id": "tournament_test_5_22"
+            },
+            {
+                "white": "Yu Dongchun",
+                "black": "Zhang Qiyan",
+                "date": "2020-01-28",
+                "id": "tournament_test_5_23"
+            },
+            {
+                "white": "Lv Mingmei",
+                "black": "Chen Xuxiang",
+                "date": "2020-01-28",
+                "id": "tournament_test_5_24"
+            },
+            {
+                "white": "Deng Guo",
+                "black": "Zhao Zhenyuan",
+                "date": "2020-01-28",
+                "id": "tournament_test_5_25"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Huang Shuchu",
+                "black": "Zhou Xiulu",
+                "date": "2020-01-30",
+                "id": "tournament_test_5_26"
+            },
+            {
+                "white": "Li Yangyi",
+                "black": "Zhang Qiyan",
+                "date": "2020-01-30",
+                "id": "tournament_test_5_27"
+            },
+            {
+                "white": "Liu Yapu",
+                "black": "Chen Xuxiang",
+                "date": "2020-01-30",
+                "id": "tournament_test_5_28"
+            },
+            {
+                "white": "Yu Dongchun",
+                "black": "Qiang Haitian",
+                "date": "2020-01-30",
+                "id": "tournament_test_5_29"
+            },
+            {
+                "white": "Lv Mingmei",
+                "black": "Deng Guo",
+                "date": "2020-01-30",
+                "id": "tournament_test_5_30"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Zhang Qiyan",
+                "black": "Huang Shuchu",
+                "date": "2020-02-01",
+                "id": "tournament_test_5_31"
+            },
+            {
+                "white": "Zhou Xiulu",
+                "black": "Chen Xuxiang",
+                "date": "2020-02-01",
+                "id": "tournament_test_5_32"
+            },
+            {
+                "white": "Li Yangyi",
+                "black": "Qiang Haitian",
+                "date": "2020-02-01",
+                "id": "tournament_test_5_33"
+            },
+            {
+                "white": "Liu Yapu",
+                "black": "Deng Guo",
+                "date": "2020-02-01",
+                "id": "tournament_test_5_34"
+            },
+            {
+                "white": "Yu Dongchun",
+                "black": "Zhao Zhenyuan",
+                "date": "2020-02-01",
+                "id": "tournament_test_5_35"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Huang Shuchu",
+                "black": "Chen Xuxiang",
+                "date": "2020-02-03",
+                "id": "tournament_test_5_36"
+            },
+            {
+                "white": "Zhang Qiyan",
+                "black": "Qiang Haitian",
+                "date": "2020-02-03",
+                "id": "tournament_test_5_37"
+            },
+            {
+                "white": "Zhou Xiulu",
+                "black": "Deng Guo",
+                "date": "2020-02-03",
+                "id": "tournament_test_5_38"
+            },
+            {
+                "white": "Li Yangyi",
+                "black": "Zhao Zhenyuan",
+                "date": "2020-02-03",
+                "id": "tournament_test_5_39"
+            },
+            {
+                "white": "Lv Mingmei",
+                "black": "Yu Dongchun",
+                "date": "2020-02-03",
+                "id": "tournament_test_5_40"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Qiang Haitian",
+                "black": "Huang Shuchu",
+                "date": "2020-02-05",
+                "id": "tournament_test_5_41"
+            },
+            {
+                "white": "Chen Xuxiang",
+                "black": "Deng Guo",
+                "date": "2020-02-05",
+                "id": "tournament_test_5_42"
+            },
+            {
+                "white": "Zhang Qiyan",
+                "black": "Zhao Zhenyuan",
+                "date": "2020-02-05",
+                "id": "tournament_test_5_43"
+            },
+            {
+                "white": "Lv Mingmei",
+                "black": "Li Yangyi",
+                "date": "2020-02-05",
+                "id": "tournament_test_5_44"
+            },
+            {
+                "white": "Yu Dongchun",
+                "black": "Liu Yapu",
+                "date": "2020-02-05",
+                "id": "tournament_test_5_45"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "Huang Shuchu",
+                "black": "Deng Guo",
+                "date": "2020-02-07",
+                "id": "tournament_test_5_46"
+            },
+            {
+                "white": "Qiang Haitian",
+                "black": "Zhao Zhenyuan",
+                "date": "2020-02-07",
+                "id": "tournament_test_5_47"
+            },
+            {
+                "white": "Lv Mingmei",
+                "black": "Zhang Qiyan",
+                "date": "2020-02-07",
+                "id": "tournament_test_5_48"
+            },
+            {
+                "white": "Yu Dongchun",
+                "black": "Zhou Xiulu",
+                "date": "2020-02-07",
+                "id": "tournament_test_5_49"
+            },
+            {
+                "white": "Liu Yapu",
+                "black": "Li Yangyi",
+                "date": "2020-02-07",
+                "id": "tournament_test_5_50"
+            }
+        ]
+    },
+    "tours": 10,
+    "time_control": "rapid"
+}

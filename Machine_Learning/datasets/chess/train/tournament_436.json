@@ -1,0 +1,537 @@
+{
+    "name": "tournament_436",
+    "start_date": "2017-04-08",
+    "end_date": "2017-05-02",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Yin, Xiao",
+                "black": "Yan, Chao",
+                "date": "2017-04-08",
+                "result": 1,
+                "id": "tournament_436_1"
+            },
+            {
+                "white": "Zou, Feng",
+                "black": "Cai, Yuxue",
+                "date": "2017-04-08",
+                "result": 0,
+                "id": "tournament_436_2"
+            },
+            {
+                "white": "Cai, Yuewen",
+                "black": "Hao, Changlong",
+                "date": "2017-04-08",
+                "result": 1,
+                "id": "tournament_436_3"
+            },
+            {
+                "white": "Tian, Xiong",
+                "black": "Zhang, Xinmin",
+                "date": "2017-04-08",
+                "result": 0.5,
+                "id": "tournament_436_4"
+            },
+            {
+                "white": "Wang, Jizhi",
+                "black": "Su, Yiyi",
+                "date": "2017-04-08",
+                "result": 0.5,
+                "id": "tournament_436_5"
+            },
+            {
+                "white": "Liu, Yapu",
+                "black": "Song, Mengmei",
+                "date": "2017-04-08",
+                "result": 1,
+                "id": "tournament_436_6"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Cheng, Momei",
+                "black": "Yin, Xiao",
+                "date": "2017-04-10",
+                "result": 0.5,
+                "id": "tournament_436_7"
+            },
+            {
+                "white": "Cai, Yuewen",
+                "black": "Yan, Chao",
+                "date": "2017-04-10",
+                "result": 0,
+                "id": "tournament_436_8"
+            },
+            {
+                "white": "Tian, Xiong",
+                "black": "Cai, Yuxue",
+                "date": "2017-04-10",
+                "result": 0,
+                "id": "tournament_436_9"
+            },
+            {
+                "white": "Wang, Jizhi",
+                "black": "Hao, Changlong",
+                "date": "2017-04-10",
+                "result": 1,
+                "id": "tournament_436_10"
+            },
+            {
+                "white": "Liu, Yapu",
+                "black": "Zhang, Xinmin",
+                "date": "2017-04-10",
+                "result": 1,
+                "id": "tournament_436_11"
+            },
+            {
+                "white": "Song, Mengmei",
+                "black": "Su, Yiyi",
+                "date": "2017-04-10",
+                "result": 0.5,
+                "id": "tournament_436_12"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Zou, Feng",
+                "black": "Cheng, Momei",
+                "date": "2017-04-12",
+                "result": 0,
+                "id": "tournament_436_13"
+            },
+            {
+                "white": "Yin, Xiao",
+                "black": "Cai, Yuewen",
+                "date": "2017-04-12",
+                "result": 0.5,
+                "id": "tournament_436_14"
+            },
+            {
+                "white": "Wang, Jizhi",
+                "black": "Yan, Chao",
+                "date": "2017-04-12",
+                "result": 0,
+                "id": "tournament_436_15"
+            },
+            {
+                "white": "Liu, Yapu",
+                "black": "Cai, Yuxue",
+                "date": "2017-04-12",
+                "result": 0,
+                "id": "tournament_436_16"
+            },
+            {
+                "white": "Song, Mengmei",
+                "black": "Hao, Changlong",
+                "date": "2017-04-12",
+                "result": 0,
+                "id": "tournament_436_17"
+            },
+            {
+                "white": "Su, Yiyi",
+                "black": "Zhang, Xinmin",
+                "date": "2017-04-12",
+                "result": 1,
+                "id": "tournament_436_18"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Cheng, Momei",
+                "black": "Cai, Yuewen",
+                "date": "2017-04-14",
+                "result": 0,
+                "id": "tournament_436_19"
+            },
+            {
+                "white": "Zou, Feng",
+                "black": "Tian, Xiong",
+                "date": "2017-04-14",
+                "result": 0,
+                "id": "tournament_436_20"
+            },
+            {
+                "white": "Yin, Xiao",
+                "black": "Wang, Jizhi",
+                "date": "2017-04-14",
+                "result": 1,
+                "id": "tournament_436_21"
+            },
+            {
+                "white": "Song, Mengmei",
+                "black": "Yan, Chao",
+                "date": "2017-04-14",
+                "result": 0,
+                "id": "tournament_436_22"
+            },
+            {
+                "white": "Su, Yiyi",
+                "black": "Cai, Yuxue",
+                "date": "2017-04-14",
+                "result": 0.5,
+                "id": "tournament_436_23"
+            },
+            {
+                "white": "Zhang, Xinmin",
+                "black": "Hao, Changlong",
+                "date": "2017-04-14",
+                "result": 0.5,
+                "id": "tournament_436_24"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Tian, Xiong",
+                "black": "Cheng, Momei",
+                "date": "2017-04-16",
+                "result": 1,
+                "id": "tournament_436_25"
+            },
+            {
+                "white": "Cai, Yuewen",
+                "black": "Wang, Jizhi",
+                "date": "2017-04-16",
+                "result": 1,
+                "id": "tournament_436_26"
+            },
+            {
+                "white": "Zou, Feng",
+                "black": "Liu, Yapu",
+                "date": "2017-04-16",
+                "result": 0,
+                "id": "tournament_436_27"
+            },
+            {
+                "white": "Yin, Xiao",
+                "black": "Song, Mengmei",
+                "date": "2017-04-16",
+                "result": 1,
+                "id": "tournament_436_28"
+            },
+            {
+                "white": "Zhang, Xinmin",
+                "black": "Yan, Chao",
+                "date": "2017-04-16",
+                "result": 0,
+                "id": "tournament_436_29"
+            },
+            {
+                "white": "Hao, Changlong",
+                "black": "Cai, Yuxue",
+                "date": "2017-04-16",
+                "result": 0,
+                "id": "tournament_436_30"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Cheng, Momei",
+                "black": "Wang, Jizhi",
+                "date": "2017-04-18",
+                "result": 0.5,
+                "id": "tournament_436_31"
+            },
+            {
+                "white": "Tian, Xiong",
+                "black": "Liu, Yapu",
+                "date": "2017-04-18",
+                "result": 0,
+                "id": "tournament_436_32"
+            },
+            {
+                "white": "Cai, Yuewen",
+                "black": "Song, Mengmei",
+                "date": "2017-04-18",
+                "result": 1,
+                "id": "tournament_436_33"
+            },
+            {
+                "white": "Zou, Feng",
+                "black": "Su, Yiyi",
+                "date": "2017-04-18",
+                "result": 0,
+                "id": "tournament_436_34"
+            },
+            {
+                "white": "Yin, Xiao",
+                "black": "Zhang, Xinmin",
+                "date": "2017-04-18",
+                "result": 1,
+                "id": "tournament_436_35"
+            },
+            {
+                "white": "Cai, Yuxue",
+                "black": "Yan, Chao",
+                "date": "2017-04-18",
+                "result": 1,
+                "id": "tournament_436_36"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Liu, Yapu",
+                "black": "Cheng, Momei",
+                "date": "2017-04-20",
+                "result": 1,
+                "id": "tournament_436_37"
+            },
+            {
+                "white": "Wang, Jizhi",
+                "black": "Song, Mengmei",
+                "date": "2017-04-20",
+                "result": 0.5,
+                "id": "tournament_436_38"
+            },
+            {
+                "white": "Tian, Xiong",
+                "black": "Su, Yiyi",
+                "date": "2017-04-20",
+                "result": 0,
+                "id": "tournament_436_39"
+            },
+            {
+                "white": "Cai, Yuewen",
+                "black": "Zhang, Xinmin",
+                "date": "2017-04-20",
+                "result": 1,
+                "id": "tournament_436_40"
+            },
+            {
+                "white": "Zou, Feng",
+                "black": "Hao, Changlong",
+                "date": "2017-04-20",
+                "result": 1,
+                "id": "tournament_436_41"
+            },
+            {
+                "white": "Yin, Xiao",
+                "black": "Cai, Yuxue",
+                "date": "2017-04-20",
+                "result": 0,
+                "id": "tournament_436_42"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Cheng, Momei",
+                "black": "Song, Mengmei",
+                "date": "2017-04-22",
+                "result": 1,
+                "id": "tournament_436_43"
+            },
+            {
+                "white": "Liu, Yapu",
+                "black": "Su, Yiyi",
+                "date": "2017-04-22",
+                "result": 0,
+                "id": "tournament_436_44"
+            },
+            {
+                "white": "Wang, Jizhi",
+                "black": "Zhang, Xinmin",
+                "date": "2017-04-22",
+                "result": 0,
+                "id": "tournament_436_45"
+            },
+            {
+                "white": "Tian, Xiong",
+                "black": "Hao, Changlong",
+                "date": "2017-04-22",
+                "result": 1,
+                "id": "tournament_436_46"
+            },
+            {
+                "white": "Cai, Yuewen",
+                "black": "Cai, Yuxue",
+                "date": "2017-04-22",
+                "result": 0,
+                "id": "tournament_436_47"
+            },
+            {
+                "white": "Zou, Feng",
+                "black": "Yan, Chao",
+                "date": "2017-04-22",
+                "result": 0,
+                "id": "tournament_436_48"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Su, Yiyi",
+                "black": "Cheng, Momei",
+                "date": "2017-04-24",
+                "result": 1,
+                "id": "tournament_436_49"
+            },
+            {
+                "white": "Song, Mengmei",
+                "black": "Zhang, Xinmin",
+                "date": "2017-04-24",
+                "result": 0,
+                "id": "tournament_436_50"
+            },
+            {
+                "white": "Liu, Yapu",
+                "black": "Hao, Changlong",
+                "date": "2017-04-24",
+                "result": 1,
+                "id": "tournament_436_51"
+            },
+            {
+                "white": "Wang, Jizhi",
+                "black": "Cai, Yuxue",
+                "date": "2017-04-24",
+                "result": 0,
+                "id": "tournament_436_52"
+            },
+            {
+                "white": "Tian, Xiong",
+                "black": "Yan, Chao",
+                "date": "2017-04-24",
+                "result": 0,
+                "id": "tournament_436_53"
+            },
+            {
+                "white": "Yin, Xiao",
+                "black": "Zou, Feng",
+                "date": "2017-04-24",
+                "result": 1,
+                "id": "tournament_436_54"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "Cheng, Momei",
+                "black": "Zhang, Xinmin",
+                "date": "2017-04-26",
+                "result": 0,
+                "id": "tournament_436_55"
+            },
+            {
+                "white": "Su, Yiyi",
+                "black": "Hao, Changlong",
+                "date": "2017-04-26",
+                "result": 1,
+                "id": "tournament_436_56"
+            },
+            {
+                "white": "Song, Mengmei",
+                "black": "Cai, Yuxue",
+                "date": "2017-04-26",
+                "result": 0,
+                "id": "tournament_436_57"
+            },
+            {
+                "white": "Liu, Yapu",
+                "black": "Yan, Chao",
+                "date": "2017-04-26",
+                "result": 0.5,
+                "id": "tournament_436_58"
+            },
+            {
+                "white": "Yin, Xiao",
+                "black": "Tian, Xiong",
+                "date": "2017-04-26",
+                "result": 1,
+                "id": "tournament_436_59"
+            },
+            {
+                "white": "Zou, Feng",
+                "black": "Cai, Yuewen",
+                "date": "2017-04-26",
+                "result": 0,
+                "id": "tournament_436_60"
+            }
+        ],
+        "tour_11": [
+            {
+                "white": "Hao, Changlong",
+                "black": "Cheng, Momei",
+                "date": "2017-04-28",
+                "result": 0.5,
+                "id": "tournament_436_61"
+            },
+            {
+                "white": "Zhang, Xinmin",
+                "black": "Cai, Yuxue",
+                "date": "2017-04-28",
+                "result": 0,
+                "id": "tournament_436_62"
+            },
+            {
+                "white": "Su, Yiyi",
+                "black": "Yan, Chao",
+                "date": "2017-04-28",
+                "result": 1,
+                "id": "tournament_436_63"
+            },
+            {
+                "white": "Yin, Xiao",
+                "black": "Liu, Yapu",
+                "date": "2017-04-28",
+                "result": 0,
+                "id": "tournament_436_64"
+            },
+            {
+                "white": "Zou, Feng",
+                "black": "Wang, Jizhi",
+                "date": "2017-04-28",
+                "result": 1,
+                "id": "tournament_436_65"
+            },
+            {
+                "white": "Cai, Yuewen",
+                "black": "Tian, Xiong",
+                "date": "2017-04-28",
+                "result": 0,
+                "id": "tournament_436_66"
+            }
+        ],
+        "tour_12": [
+            {
+                "white": "Cheng, Momei",
+                "black": "Cai, Yuxue",
+                "date": "2017-04-30",
+                "result": 0,
+                "id": "tournament_436_67"
+            },
+            {
+                "white": "Hao, Changlong",
+                "black": "Yan, Chao",
+                "date": "2017-04-30",
+                "result": 0,
+                "id": "tournament_436_68"
+            },
+            {
+                "white": "Yin, Xiao",
+                "black": "Su, Yiyi",
+                "date": "2017-04-30",
+                "result": 0,
+                "id": "tournament_436_69"
+            },
+            {
+                "white": "Zou, Feng",
+                "black": "Song, Mengmei",
+                "date": "2017-04-30",
+                "result": 0.5,
+                "id": "tournament_436_70"
+            },
+            {
+                "white": "Cai, Yuewen",
+                "black": "Liu, Yapu",
+                "date": "2017-04-30",
+                "result": 0,
+                "id": "tournament_436_71"
+            },
+            {
+                "white": "Tian, Xiong",
+                "black": "Wang, Jizhi",
+                "date": "2017-04-30",
+                "result": 1,
+                "id": "tournament_436_72"
+            }
+        ]
+    },
+    "tours": 12,
+    "time_control": "rapid"
+}

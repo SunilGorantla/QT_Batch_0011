@@ -1,0 +1,379 @@
+{
+    "name": "tournament_697",
+    "start_date": "2019-03-11",
+    "end_date": "2019-03-21",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Tang, Chen",
+                "black": "Guo, Hechi",
+                "date": "2019-03-11",
+                "result": 0.5,
+                "id": "tournament_697_1"
+            },
+            {
+                "white": "Liu, Kunhan",
+                "black": "Dong, Haifei",
+                "date": "2019-03-11",
+                "result": 0.5,
+                "id": "tournament_697_2"
+            },
+            {
+                "white": "Lu, Guijie",
+                "black": "Xu, Baolong",
+                "date": "2019-03-11",
+                "result": 0.5,
+                "id": "tournament_697_3"
+            },
+            {
+                "white": "Jia, Yeyan",
+                "black": "Jiang, Bo",
+                "date": "2019-03-11",
+                "result": 0,
+                "id": "tournament_697_4"
+            },
+            {
+                "white": "Xie, Libo",
+                "black": "Wang, Jianmei",
+                "date": "2019-03-11",
+                "result": 1,
+                "id": "tournament_697_5"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Wu, Yishun",
+                "black": "Tang, Chen",
+                "date": "2019-03-12",
+                "result": 1,
+                "id": "tournament_697_6"
+            },
+            {
+                "white": "Lu, Guijie",
+                "black": "Guo, Hechi",
+                "date": "2019-03-12",
+                "result": 1,
+                "id": "tournament_697_7"
+            },
+            {
+                "white": "Jia, Yeyan",
+                "black": "Dong, Haifei",
+                "date": "2019-03-12",
+                "result": 0,
+                "id": "tournament_697_8"
+            },
+            {
+                "white": "Xie, Libo",
+                "black": "Xu, Baolong",
+                "date": "2019-03-12",
+                "result": 1,
+                "id": "tournament_697_9"
+            },
+            {
+                "white": "Wang, Jianmei",
+                "black": "Jiang, Bo",
+                "date": "2019-03-12",
+                "result": 0.5,
+                "id": "tournament_697_10"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Liu, Kunhan",
+                "black": "Wu, Yishun",
+                "date": "2019-03-13",
+                "result": 0,
+                "id": "tournament_697_11"
+            },
+            {
+                "white": "Tang, Chen",
+                "black": "Lu, Guijie",
+                "date": "2019-03-13",
+                "result": 0.5,
+                "id": "tournament_697_12"
+            },
+            {
+                "white": "Xie, Libo",
+                "black": "Guo, Hechi",
+                "date": "2019-03-13",
+                "result": 1,
+                "id": "tournament_697_13"
+            },
+            {
+                "white": "Wang, Jianmei",
+                "black": "Dong, Haifei",
+                "date": "2019-03-13",
+                "result": 0.5,
+                "id": "tournament_697_14"
+            },
+            {
+                "white": "Jiang, Bo",
+                "black": "Xu, Baolong",
+                "date": "2019-03-13",
+                "result": 0.5,
+                "id": "tournament_697_15"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Wu, Yishun",
+                "black": "Lu, Guijie",
+                "date": "2019-03-14",
+                "result": 0,
+                "id": "tournament_697_16"
+            },
+            {
+                "white": "Liu, Kunhan",
+                "black": "Jia, Yeyan",
+                "date": "2019-03-14",
+                "result": 1,
+                "id": "tournament_697_17"
+            },
+            {
+                "white": "Tang, Chen",
+                "black": "Xie, Libo",
+                "date": "2019-03-14",
+                "result": 0,
+                "id": "tournament_697_18"
+            },
+            {
+                "white": "Jiang, Bo",
+                "black": "Guo, Hechi",
+                "date": "2019-03-14",
+                "result": 1,
+                "id": "tournament_697_19"
+            },
+            {
+                "white": "Xu, Baolong",
+                "black": "Dong, Haifei",
+                "date": "2019-03-14",
+                "result": 0,
+                "id": "tournament_697_20"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Jia, Yeyan",
+                "black": "Wu, Yishun",
+                "date": "2019-03-15",
+                "result": 0,
+                "id": "tournament_697_21"
+            },
+            {
+                "white": "Lu, Guijie",
+                "black": "Xie, Libo",
+                "date": "2019-03-15",
+                "result": 0.5,
+                "id": "tournament_697_22"
+            },
+            {
+                "white": "Liu, Kunhan",
+                "black": "Wang, Jianmei",
+                "date": "2019-03-15",
+                "result": 0,
+                "id": "tournament_697_23"
+            },
+            {
+                "white": "Tang, Chen",
+                "black": "Jiang, Bo",
+                "date": "2019-03-15",
+                "result": 0,
+                "id": "tournament_697_24"
+            },
+            {
+                "white": "Dong, Haifei",
+                "black": "Guo, Hechi",
+                "date": "2019-03-15",
+                "result": 1,
+                "id": "tournament_697_25"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Wu, Yishun",
+                "black": "Xie, Libo",
+                "date": "2019-03-16",
+                "result": 0,
+                "id": "tournament_697_26"
+            },
+            {
+                "white": "Jia, Yeyan",
+                "black": "Wang, Jianmei",
+                "date": "2019-03-16",
+                "result": 0,
+                "id": "tournament_697_27"
+            },
+            {
+                "white": "Lu, Guijie",
+                "black": "Jiang, Bo",
+                "date": "2019-03-16",
+                "result": 1,
+                "id": "tournament_697_28"
+            },
+            {
+                "white": "Liu, Kunhan",
+                "black": "Xu, Baolong",
+                "date": "2019-03-16",
+                "result": 0,
+                "id": "tournament_697_29"
+            },
+            {
+                "white": "Tang, Chen",
+                "black": "Dong, Haifei",
+                "date": "2019-03-16",
+                "result": 0,
+                "id": "tournament_697_30"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Wang, Jianmei",
+                "black": "Wu, Yishun",
+                "date": "2019-03-17",
+                "result": 1,
+                "id": "tournament_697_31"
+            },
+            {
+                "white": "Xie, Libo",
+                "black": "Jiang, Bo",
+                "date": "2019-03-17",
+                "result": 1,
+                "id": "tournament_697_32"
+            },
+            {
+                "white": "Jia, Yeyan",
+                "black": "Xu, Baolong",
+                "date": "2019-03-17",
+                "result": 0,
+                "id": "tournament_697_33"
+            },
+            {
+                "white": "Lu, Guijie",
+                "black": "Dong, Haifei",
+                "date": "2019-03-17",
+                "result": 0.5,
+                "id": "tournament_697_34"
+            },
+            {
+                "white": "Liu, Kunhan",
+                "black": "Guo, Hechi",
+                "date": "2019-03-17",
+                "result": 1,
+                "id": "tournament_697_35"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Wu, Yishun",
+                "black": "Jiang, Bo",
+                "date": "2019-03-18",
+                "result": 0.5,
+                "id": "tournament_697_36"
+            },
+            {
+                "white": "Wang, Jianmei",
+                "black": "Xu, Baolong",
+                "date": "2019-03-18",
+                "result": 0.5,
+                "id": "tournament_697_37"
+            },
+            {
+                "white": "Xie, Libo",
+                "black": "Dong, Haifei",
+                "date": "2019-03-18",
+                "result": 1,
+                "id": "tournament_697_38"
+            },
+            {
+                "white": "Jia, Yeyan",
+                "black": "Guo, Hechi",
+                "date": "2019-03-18",
+                "result": 0.5,
+                "id": "tournament_697_39"
+            },
+            {
+                "white": "Tang, Chen",
+                "black": "Liu, Kunhan",
+                "date": "2019-03-18",
+                "result": 0,
+                "id": "tournament_697_40"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Xu, Baolong",
+                "black": "Wu, Yishun",
+                "date": "2019-03-19",
+                "result": 0,
+                "id": "tournament_697_41"
+            },
+            {
+                "white": "Jiang, Bo",
+                "black": "Dong, Haifei",
+                "date": "2019-03-19",
+                "result": 0.5,
+                "id": "tournament_697_42"
+            },
+            {
+                "white": "Wang, Jianmei",
+                "black": "Guo, Hechi",
+                "date": "2019-03-19",
+                "result": 1,
+                "id": "tournament_697_43"
+            },
+            {
+                "white": "Tang, Chen",
+                "black": "Jia, Yeyan",
+                "date": "2019-03-19",
+                "result": 0.5,
+                "id": "tournament_697_44"
+            },
+            {
+                "white": "Liu, Kunhan",
+                "black": "Lu, Guijie",
+                "date": "2019-03-19",
+                "result": 0.5,
+                "id": "tournament_697_45"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "Wu, Yishun",
+                "black": "Dong, Haifei",
+                "date": "2019-03-20",
+                "result": 0.5,
+                "id": "tournament_697_46"
+            },
+            {
+                "white": "Xu, Baolong",
+                "black": "Guo, Hechi",
+                "date": "2019-03-20",
+                "result": 1,
+                "id": "tournament_697_47"
+            },
+            {
+                "white": "Tang, Chen",
+                "black": "Wang, Jianmei",
+                "date": "2019-03-20",
+                "result": 0,
+                "id": "tournament_697_48"
+            },
+            {
+                "white": "Liu, Kunhan",
+                "black": "Xie, Libo",
+                "date": "2019-03-20",
+                "result": 0,
+                "id": "tournament_697_49"
+            },
+            {
+                "white": "Lu, Guijie",
+                "black": "Jia, Yeyan",
+                "date": "2019-03-20",
+                "result": 1,
+                "id": "tournament_697_50"
+            }
+        ]
+    },
+    "tours": 10,
+    "time_control": "rapid"
+}

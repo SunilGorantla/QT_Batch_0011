@@ -1,0 +1,219 @@
+{
+    "name": "tournament_576",
+    "start_date": "2018-05-08",
+    "end_date": "2018-05-15",
+    "games": {
+        "tour_1": [
+            {
+                "white": "朱胜珍",
+                "black": "刘碧艳",
+                "date": "2018-05-08",
+                "result": 0,
+                "id": "tournament_576_1"
+            },
+            {
+                "white": "陆英复",
+                "black": "周泽斌",
+                "date": "2018-05-08",
+                "result": 1,
+                "id": "tournament_576_2"
+            },
+            {
+                "white": "朱辰燕",
+                "black": "王雅宝",
+                "date": "2018-05-08",
+                "result": 1,
+                "id": "tournament_576_3"
+            },
+            {
+                "white": "吴春飞",
+                "black": "孙沙",
+                "date": "2018-05-08",
+                "result": 1,
+                "id": "tournament_576_4"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "刘碧艳",
+                "black": "陆英复",
+                "date": "2018-05-09",
+                "result": 0.5,
+                "id": "tournament_576_5"
+            },
+            {
+                "white": "朱胜珍",
+                "black": "朱辰燕",
+                "date": "2018-05-09",
+                "result": 0.5,
+                "id": "tournament_576_6"
+            },
+            {
+                "white": "吴春飞",
+                "black": "周泽斌",
+                "date": "2018-05-09",
+                "result": 0.5,
+                "id": "tournament_576_7"
+            },
+            {
+                "white": "孙沙",
+                "black": "王雅宝",
+                "date": "2018-05-09",
+                "result": 1,
+                "id": "tournament_576_8"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "朱辰燕",
+                "black": "刘碧艳",
+                "date": "2018-05-10",
+                "result": 1,
+                "id": "tournament_576_9"
+            },
+            {
+                "white": "陆英复",
+                "black": "吴春飞",
+                "date": "2018-05-10",
+                "result": 1,
+                "id": "tournament_576_10"
+            },
+            {
+                "white": "朱胜珍",
+                "black": "孙沙",
+                "date": "2018-05-10",
+                "result": 0.5,
+                "id": "tournament_576_11"
+            },
+            {
+                "white": "王雅宝",
+                "black": "周泽斌",
+                "date": "2018-05-10",
+                "result": 1,
+                "id": "tournament_576_12"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "刘碧艳",
+                "black": "吴春飞",
+                "date": "2018-05-11",
+                "result": 0,
+                "id": "tournament_576_13"
+            },
+            {
+                "white": "朱辰燕",
+                "black": "孙沙",
+                "date": "2018-05-11",
+                "result": 1,
+                "id": "tournament_576_14"
+            },
+            {
+                "white": "陆英复",
+                "black": "王雅宝",
+                "date": "2018-05-11",
+                "result": 1,
+                "id": "tournament_576_15"
+            },
+            {
+                "white": "朱胜珍",
+                "black": "周泽斌",
+                "date": "2018-05-11",
+                "result": 0.5,
+                "id": "tournament_576_16"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "孙沙",
+                "black": "刘碧艳",
+                "date": "2018-05-12",
+                "result": 1,
+                "id": "tournament_576_17"
+            },
+            {
+                "white": "吴春飞",
+                "black": "王雅宝",
+                "date": "2018-05-12",
+                "result": 0.5,
+                "id": "tournament_576_18"
+            },
+            {
+                "white": "朱辰燕",
+                "black": "周泽斌",
+                "date": "2018-05-12",
+                "result": 1,
+                "id": "tournament_576_19"
+            },
+            {
+                "white": "朱胜珍",
+                "black": "陆英复",
+                "date": "2018-05-12",
+                "result": 0,
+                "id": "tournament_576_20"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "刘碧艳",
+                "black": "王雅宝",
+                "date": "2018-05-13",
+                "result": 0,
+                "id": "tournament_576_21"
+            },
+            {
+                "white": "孙沙",
+                "black": "周泽斌",
+                "date": "2018-05-13",
+                "result": 0.5,
+                "id": "tournament_576_22"
+            },
+            {
+                "white": "朱胜珍",
+                "black": "吴春飞",
+                "date": "2018-05-13",
+                "result": 0.5,
+                "id": "tournament_576_23"
+            },
+            {
+                "white": "陆英复",
+                "black": "朱辰燕",
+                "date": "2018-05-13",
+                "result": 0.5,
+                "id": "tournament_576_24"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "周泽斌",
+                "black": "刘碧艳",
+                "date": "2018-05-14",
+                "result": 1,
+                "id": "tournament_576_25"
+            },
+            {
+                "white": "朱胜珍",
+                "black": "王雅宝",
+                "date": "2018-05-14",
+                "result": 0.5,
+                "id": "tournament_576_26"
+            },
+            {
+                "white": "陆英复",
+                "black": "孙沙",
+                "date": "2018-05-14",
+                "result": 1,
+                "id": "tournament_576_27"
+            },
+            {
+                "white": "朱辰燕",
+                "black": "吴春飞",
+                "date": "2018-05-14",
+                "result": 0.5,
+                "id": "tournament_576_28"
+            }
+        ]
+    },
+    "tours": 7,
+    "time_control": "classic"
+}

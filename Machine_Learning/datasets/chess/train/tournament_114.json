@@ -1,0 +1,523 @@
+{
+    "name": "tournament_114",
+    "start_date": "2014-10-03",
+    "end_date": "2014-10-13",
+    "games": {
+        "tour_1": [
+            {
+                "white": "梁扬",
+                "black": "袁红桐",
+                "date": "2014-10-03",
+                "result": 0.5,
+                "id": "tournament_114_1"
+            },
+            {
+                "white": "袁红桐",
+                "black": "梁扬",
+                "date": "2014-10-04",
+                "result": 0.5,
+                "id": "tournament_114_2"
+            },
+            {
+                "white": "梁扬",
+                "black": "袁红桐",
+                "date": "2014-10-04",
+                "result": 1,
+                "id": "tournament_114_3"
+            },
+            {
+                "white": "徐珪",
+                "black": "程墨美",
+                "date": "2014-10-03",
+                "result": 1,
+                "id": "tournament_114_4"
+            },
+            {
+                "white": "程墨美",
+                "black": "徐珪",
+                "date": "2014-10-04",
+                "result": 0.5,
+                "id": "tournament_114_5"
+            },
+            {
+                "white": "王雅宝",
+                "black": "殷小",
+                "date": "2014-10-03",
+                "result": 0.5,
+                "id": "tournament_114_6"
+            },
+            {
+                "white": "殷小",
+                "black": "王雅宝",
+                "date": "2014-10-04",
+                "result": 1,
+                "id": "tournament_114_7"
+            },
+            {
+                "white": "张炎",
+                "black": "王永赟",
+                "date": "2014-10-03",
+                "result": 0.5,
+                "id": "tournament_114_8"
+            },
+            {
+                "white": "王永赟",
+                "black": "张炎",
+                "date": "2014-10-04",
+                "result": 0.5,
+                "id": "tournament_114_9"
+            },
+            {
+                "white": "张炎",
+                "black": "王永赟",
+                "date": "2014-10-04",
+                "result": 1,
+                "id": "tournament_114_10"
+            },
+            {
+                "white": "马建",
+                "black": "杨玮林",
+                "date": "2014-10-03",
+                "result": 1,
+                "id": "tournament_114_11"
+            },
+            {
+                "white": "杨玮林",
+                "black": "马建",
+                "date": "2014-10-04",
+                "result": 0.5,
+                "id": "tournament_114_12"
+            },
+            {
+                "white": "陈增辉",
+                "black": "祝艳光",
+                "date": "2014-10-03",
+                "result": 1,
+                "id": "tournament_114_13"
+            },
+            {
+                "white": "祝艳光",
+                "black": "陈增辉",
+                "date": "2014-10-04",
+                "result": 0,
+                "id": "tournament_114_14"
+            },
+            {
+                "white": "李甫杰",
+                "black": "张延营",
+                "date": "2014-10-03",
+                "result": 0,
+                "id": "tournament_114_15"
+            },
+            {
+                "white": "张延营",
+                "black": "李甫杰",
+                "date": "2014-10-04",
+                "result": 1,
+                "id": "tournament_114_16"
+            },
+            {
+                "white": "杨苏平",
+                "black": "李之征",
+                "date": "2014-10-03",
+                "result": 0.5,
+                "id": "tournament_114_17"
+            },
+            {
+                "white": "李之征",
+                "black": "杨苏平",
+                "date": "2014-10-04",
+                "result": 1,
+                "id": "tournament_114_18"
+            },
+            {
+                "white": "张大丽",
+                "black": "黄子红",
+                "date": "2014-10-03",
+                "result": 0,
+                "id": "tournament_114_19"
+            },
+            {
+                "white": "黄子红",
+                "black": "张大丽",
+                "date": "2014-10-04",
+                "result": 0.5,
+                "id": "tournament_114_20"
+            },
+            {
+                "white": "田茁波",
+                "black": "林宏礼",
+                "date": "2014-10-03",
+                "result": 0.5,
+                "id": "tournament_114_21"
+            },
+            {
+                "white": "林宏礼",
+                "black": "田茁波",
+                "date": "2014-10-04",
+                "result": 0.5,
+                "id": "tournament_114_22"
+            },
+            {
+                "white": "田茁波",
+                "black": "林宏礼",
+                "date": "2014-10-04",
+                "result": 0.5,
+                "id": "tournament_114_23"
+            },
+            {
+                "white": "吴秋",
+                "black": "谢庆麟",
+                "date": "2014-10-03",
+                "result": 1,
+                "id": "tournament_114_24"
+            },
+            {
+                "white": "谢庆麟",
+                "black": "吴秋",
+                "date": "2014-10-04",
+                "result": 0.5,
+                "id": "tournament_114_25"
+            },
+            {
+                "white": "吴永洁",
+                "black": "王剑铭",
+                "date": "2014-10-03",
+                "result": 0.5,
+                "id": "tournament_114_26"
+            },
+            {
+                "white": "王剑铭",
+                "black": "吴永洁",
+                "date": "2014-10-04",
+                "result": 0.5,
+                "id": "tournament_114_27"
+            },
+            {
+                "white": "吴永洁",
+                "black": "王剑铭",
+                "date": "2014-10-04",
+                "result": 1,
+                "id": "tournament_114_28"
+            },
+            {
+                "white": "刘先",
+                "black": "何驿艳",
+                "date": "2014-10-03",
+                "result": 1,
+                "id": "tournament_114_29"
+            },
+            {
+                "white": "何驿艳",
+                "black": "刘先",
+                "date": "2014-10-04",
+                "result": 1,
+                "id": "tournament_114_30"
+            },
+            {
+                "white": "刘先",
+                "black": "何驿艳",
+                "date": "2014-10-04",
+                "result": 1,
+                "id": "tournament_114_31"
+            },
+            {
+                "white": "袁小昆",
+                "black": "冯二春",
+                "date": "2014-10-03",
+                "result": 0.5,
+                "id": "tournament_114_32"
+            },
+            {
+                "white": "冯二春",
+                "black": "袁小昆",
+                "date": "2014-10-04",
+                "result": 1,
+                "id": "tournament_114_33"
+            },
+            {
+                "white": "郑宣珍",
+                "black": "沈启金",
+                "date": "2014-10-03",
+                "result": 0.5,
+                "id": "tournament_114_34"
+            },
+            {
+                "white": "沈启金",
+                "black": "郑宣珍",
+                "date": "2014-10-04",
+                "result": 0.5,
+                "id": "tournament_114_35"
+            },
+            {
+                "white": "郑宣珍",
+                "black": "沈启金",
+                "date": "2014-10-04",
+                "result": 0.5,
+                "id": "tournament_114_36"
+            },
+            {
+                "white": "刘奇喜",
+                "black": "杨钰",
+                "date": "2014-10-03",
+                "result": 1,
+                "id": "tournament_114_37"
+            },
+            {
+                "white": "杨钰",
+                "black": "刘奇喜",
+                "date": "2014-10-04",
+                "result": 0.5,
+                "id": "tournament_114_38"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "梁扬",
+                "black": "徐珪",
+                "date": "2014-10-05",
+                "result": 1,
+                "id": "tournament_114_39"
+            },
+            {
+                "white": "徐珪",
+                "black": "梁扬",
+                "date": "2014-10-06",
+                "result": 0.5,
+                "id": "tournament_114_40"
+            },
+            {
+                "white": "殷小",
+                "black": "张炎",
+                "date": "2014-10-05",
+                "result": 0.5,
+                "id": "tournament_114_41"
+            },
+            {
+                "white": "张炎",
+                "black": "殷小",
+                "date": "2014-10-06",
+                "result": 0.5,
+                "id": "tournament_114_42"
+            },
+            {
+                "white": "殷小",
+                "black": "张炎",
+                "date": "2014-10-06",
+                "result": 0,
+                "id": "tournament_114_43"
+            },
+            {
+                "white": "马建",
+                "black": "陈增辉",
+                "date": "2014-10-05",
+                "result": 0.5,
+                "id": "tournament_114_44"
+            },
+            {
+                "white": "陈增辉",
+                "black": "马建",
+                "date": "2014-10-06",
+                "result": 0.5,
+                "id": "tournament_114_45"
+            },
+            {
+                "white": "马建",
+                "black": "陈增辉",
+                "date": "2014-10-06",
+                "result": 0.5,
+                "id": "tournament_114_46"
+            },
+            {
+                "white": "张延营",
+                "black": "李之征",
+                "date": "2014-10-05",
+                "result": 1,
+                "id": "tournament_114_47"
+            },
+            {
+                "white": "李之征",
+                "black": "张延营",
+                "date": "2014-10-06",
+                "result": 0,
+                "id": "tournament_114_48"
+            },
+            {
+                "white": "黄子红",
+                "black": "林宏礼",
+                "date": "2014-10-05",
+                "result": 1,
+                "id": "tournament_114_49"
+            },
+            {
+                "white": "林宏礼",
+                "black": "黄子红",
+                "date": "2014-10-06",
+                "result": 0.5,
+                "id": "tournament_114_50"
+            },
+            {
+                "white": "吴秋",
+                "black": "吴永洁",
+                "date": "2014-10-05",
+                "result": 0.5,
+                "id": "tournament_114_51"
+            },
+            {
+                "white": "吴永洁",
+                "black": "吴秋",
+                "date": "2014-10-06",
+                "result": 1,
+                "id": "tournament_114_52"
+            },
+            {
+                "white": "刘先",
+                "black": "冯二春",
+                "date": "2014-10-05",
+                "result": 1,
+                "id": "tournament_114_53"
+            },
+            {
+                "white": "冯二春",
+                "black": "刘先",
+                "date": "2014-10-06",
+                "result": 1,
+                "id": "tournament_114_54"
+            },
+            {
+                "white": "刘先",
+                "black": "冯二春",
+                "date": "2014-10-06",
+                "result": 0.5,
+                "id": "tournament_114_55"
+            },
+            {
+                "white": "沈启金",
+                "black": "刘奇喜",
+                "date": "2014-10-05",
+                "result": 0,
+                "id": "tournament_114_56"
+            },
+            {
+                "white": "刘奇喜",
+                "black": "沈启金",
+                "date": "2014-10-06",
+                "result": 0.5,
+                "id": "tournament_114_57"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "梁扬",
+                "black": "张炎",
+                "date": "2014-10-07",
+                "result": 1,
+                "id": "tournament_114_58"
+            },
+            {
+                "white": "张炎",
+                "black": "梁扬",
+                "date": "2014-10-08",
+                "result": 0.5,
+                "id": "tournament_114_59"
+            },
+            {
+                "white": "陈增辉",
+                "black": "张延营",
+                "date": "2014-10-07",
+                "result": 0,
+                "id": "tournament_114_60"
+            },
+            {
+                "white": "张延营",
+                "black": "陈增辉",
+                "date": "2014-10-08",
+                "result": 0.5,
+                "id": "tournament_114_61"
+            },
+            {
+                "white": "黄子红",
+                "black": "吴永洁",
+                "date": "2014-10-07",
+                "result": 0.5,
+                "id": "tournament_114_62"
+            },
+            {
+                "white": "吴永洁",
+                "black": "黄子红",
+                "date": "2014-10-08",
+                "result": 0,
+                "id": "tournament_114_63"
+            },
+            {
+                "white": "冯二春",
+                "black": "刘奇喜",
+                "date": "2014-10-07",
+                "result": 1,
+                "id": "tournament_114_64"
+            },
+            {
+                "white": "刘奇喜",
+                "black": "冯二春",
+                "date": "2014-10-08",
+                "result": 1,
+                "id": "tournament_114_65"
+            },
+            {
+                "white": "冯二春",
+                "black": "刘奇喜",
+                "date": "2014-10-08",
+                "result": 1,
+                "id": "tournament_114_66"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "梁扬",
+                "black": "张延营",
+                "date": "2014-10-09",
+                "result": 0,
+                "id": "tournament_114_67"
+            },
+            {
+                "white": "张延营",
+                "black": "梁扬",
+                "date": "2014-10-10",
+                "result": 1,
+                "id": "tournament_114_68"
+            },
+            {
+                "white": "黄子红",
+                "black": "冯二春",
+                "date": "2014-10-09",
+                "result": 0,
+                "id": "tournament_114_69"
+            },
+            {
+                "white": "冯二春",
+                "black": "黄子红",
+                "date": "2014-10-10",
+                "result": 1,
+                "id": "tournament_114_70"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "张延营",
+                "black": "冯二春",
+                "date": "2014-10-11",
+                "result": 0,
+                "id": "tournament_114_71"
+            },
+            {
+                "white": "冯二春",
+                "black": "张延营",
+                "date": "2014-10-12",
+                "result": 1,
+                "id": "tournament_114_72"
+            }
+        ]
+    },
+    "tours": 5,
+    "time_control": "classic"
+}

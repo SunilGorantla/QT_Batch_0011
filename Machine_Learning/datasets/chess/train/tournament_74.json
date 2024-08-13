@@ -1,0 +1,493 @@
+{
+    "name": "tournament_74",
+    "start_date": "2014-07-01",
+    "end_date": "2014-07-12",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Liu, Qinxin",
+                "black": "Tang, Yangwen",
+                "date": "2014-07-01",
+                "result": 1,
+                "id": "tournament_74_1"
+            },
+            {
+                "white": "Li, Liping",
+                "black": "Xie, Basheng",
+                "date": "2014-07-01",
+                "result": 0.5,
+                "id": "tournament_74_2"
+            },
+            {
+                "white": "Hong, Lili",
+                "black": "Liang, Meiqiang",
+                "date": "2014-07-01",
+                "result": 0,
+                "id": "tournament_74_3"
+            },
+            {
+                "white": "Mao, Juncheng",
+                "black": "Xu, Binghu",
+                "date": "2014-07-01",
+                "result": 1,
+                "id": "tournament_74_4"
+            },
+            {
+                "white": "Lin, Haopeng",
+                "black": "Gu, Jiajun",
+                "date": "2014-07-01",
+                "result": 0,
+                "id": "tournament_74_5"
+            },
+            {
+                "white": "Zhao, Xiyong",
+                "black": "Chen, Chun",
+                "date": "2014-07-01",
+                "result": 0.5,
+                "id": "tournament_74_6"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Tang, Yangwen",
+                "black": "Li, Liping",
+                "date": "2014-07-02",
+                "result": 0.5,
+                "id": "tournament_74_7"
+            },
+            {
+                "white": "Liu, Qinxin",
+                "black": "Hong, Lili",
+                "date": "2014-07-02",
+                "result": 1,
+                "id": "tournament_74_8"
+            },
+            {
+                "white": "Mao, Juncheng",
+                "black": "Xie, Basheng",
+                "date": "2014-07-02",
+                "result": 0.5,
+                "id": "tournament_74_9"
+            },
+            {
+                "white": "Lin, Haopeng",
+                "black": "Liang, Meiqiang",
+                "date": "2014-07-02",
+                "result": 0.5,
+                "id": "tournament_74_10"
+            },
+            {
+                "white": "Zhao, Xiyong",
+                "black": "Xu, Binghu",
+                "date": "2014-07-02",
+                "result": 0.5,
+                "id": "tournament_74_11"
+            },
+            {
+                "white": "Chen, Chun",
+                "black": "Gu, Jiajun",
+                "date": "2014-07-02",
+                "result": 0,
+                "id": "tournament_74_12"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Hong, Lili",
+                "black": "Tang, Yangwen",
+                "date": "2014-07-03",
+                "result": 1,
+                "id": "tournament_74_13"
+            },
+            {
+                "white": "Li, Liping",
+                "black": "Mao, Juncheng",
+                "date": "2014-07-03",
+                "result": 0.5,
+                "id": "tournament_74_14"
+            },
+            {
+                "white": "Liu, Qinxin",
+                "black": "Lin, Haopeng",
+                "date": "2014-07-03",
+                "result": 0.5,
+                "id": "tournament_74_15"
+            },
+            {
+                "white": "Zhao, Xiyong",
+                "black": "Xie, Basheng",
+                "date": "2014-07-03",
+                "result": 0.5,
+                "id": "tournament_74_16"
+            },
+            {
+                "white": "Chen, Chun",
+                "black": "Liang, Meiqiang",
+                "date": "2014-07-03",
+                "result": 0.5,
+                "id": "tournament_74_17"
+            },
+            {
+                "white": "Gu, Jiajun",
+                "black": "Xu, Binghu",
+                "date": "2014-07-03",
+                "result": 1,
+                "id": "tournament_74_18"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Tang, Yangwen",
+                "black": "Mao, Juncheng",
+                "date": "2014-07-04",
+                "result": 1,
+                "id": "tournament_74_19"
+            },
+            {
+                "white": "Hong, Lili",
+                "black": "Lin, Haopeng",
+                "date": "2014-07-04",
+                "result": 0.5,
+                "id": "tournament_74_20"
+            },
+            {
+                "white": "Li, Liping",
+                "black": "Zhao, Xiyong",
+                "date": "2014-07-04",
+                "result": 1,
+                "id": "tournament_74_21"
+            },
+            {
+                "white": "Liu, Qinxin",
+                "black": "Chen, Chun",
+                "date": "2014-07-04",
+                "result": 0.5,
+                "id": "tournament_74_22"
+            },
+            {
+                "white": "Gu, Jiajun",
+                "black": "Xie, Basheng",
+                "date": "2014-07-04",
+                "result": 1,
+                "id": "tournament_74_23"
+            },
+            {
+                "white": "Xu, Binghu",
+                "black": "Liang, Meiqiang",
+                "date": "2014-07-04",
+                "result": 1,
+                "id": "tournament_74_24"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Lin, Haopeng",
+                "black": "Tang, Yangwen",
+                "date": "2014-07-05",
+                "result": 0,
+                "id": "tournament_74_25"
+            },
+            {
+                "white": "Mao, Juncheng",
+                "black": "Zhao, Xiyong",
+                "date": "2014-07-05",
+                "result": 0.5,
+                "id": "tournament_74_26"
+            },
+            {
+                "white": "Hong, Lili",
+                "black": "Chen, Chun",
+                "date": "2014-07-05",
+                "result": 0.5,
+                "id": "tournament_74_27"
+            },
+            {
+                "white": "Li, Liping",
+                "black": "Gu, Jiajun",
+                "date": "2014-07-05",
+                "result": 0,
+                "id": "tournament_74_28"
+            },
+            {
+                "white": "Liu, Qinxin",
+                "black": "Xu, Binghu",
+                "date": "2014-07-05",
+                "result": 1,
+                "id": "tournament_74_29"
+            },
+            {
+                "white": "Liang, Meiqiang",
+                "black": "Xie, Basheng",
+                "date": "2014-07-05",
+                "result": 1,
+                "id": "tournament_74_30"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Tang, Yangwen",
+                "black": "Zhao, Xiyong",
+                "date": "2014-07-06",
+                "result": 1,
+                "id": "tournament_74_31"
+            },
+            {
+                "white": "Lin, Haopeng",
+                "black": "Chen, Chun",
+                "date": "2014-07-06",
+                "result": 0.5,
+                "id": "tournament_74_32"
+            },
+            {
+                "white": "Mao, Juncheng",
+                "black": "Gu, Jiajun",
+                "date": "2014-07-06",
+                "result": 0,
+                "id": "tournament_74_33"
+            },
+            {
+                "white": "Hong, Lili",
+                "black": "Xu, Binghu",
+                "date": "2014-07-06",
+                "result": 0.5,
+                "id": "tournament_74_34"
+            },
+            {
+                "white": "Li, Liping",
+                "black": "Liang, Meiqiang",
+                "date": "2014-07-06",
+                "result": 0.5,
+                "id": "tournament_74_35"
+            },
+            {
+                "white": "Liu, Qinxin",
+                "black": "Xie, Basheng",
+                "date": "2014-07-06",
+                "result": 0.5,
+                "id": "tournament_74_36"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Chen, Chun",
+                "black": "Tang, Yangwen",
+                "date": "2014-07-07",
+                "result": 0,
+                "id": "tournament_74_37"
+            },
+            {
+                "white": "Zhao, Xiyong",
+                "black": "Gu, Jiajun",
+                "date": "2014-07-07",
+                "result": 0,
+                "id": "tournament_74_38"
+            },
+            {
+                "white": "Lin, Haopeng",
+                "black": "Xu, Binghu",
+                "date": "2014-07-07",
+                "result": 0.5,
+                "id": "tournament_74_39"
+            },
+            {
+                "white": "Mao, Juncheng",
+                "black": "Liang, Meiqiang",
+                "date": "2014-07-07",
+                "result": 0.5,
+                "id": "tournament_74_40"
+            },
+            {
+                "white": "Hong, Lili",
+                "black": "Xie, Basheng",
+                "date": "2014-07-07",
+                "result": 0.5,
+                "id": "tournament_74_41"
+            },
+            {
+                "white": "Liu, Qinxin",
+                "black": "Li, Liping",
+                "date": "2014-07-07",
+                "result": 1,
+                "id": "tournament_74_42"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Tang, Yangwen",
+                "black": "Gu, Jiajun",
+                "date": "2014-07-08",
+                "result": 0.5,
+                "id": "tournament_74_43"
+            },
+            {
+                "white": "Chen, Chun",
+                "black": "Xu, Binghu",
+                "date": "2014-07-08",
+                "result": 0.5,
+                "id": "tournament_74_44"
+            },
+            {
+                "white": "Zhao, Xiyong",
+                "black": "Liang, Meiqiang",
+                "date": "2014-07-08",
+                "result": 0,
+                "id": "tournament_74_45"
+            },
+            {
+                "white": "Lin, Haopeng",
+                "black": "Xie, Basheng",
+                "date": "2014-07-08",
+                "result": 1,
+                "id": "tournament_74_46"
+            },
+            {
+                "white": "Liu, Qinxin",
+                "black": "Mao, Juncheng",
+                "date": "2014-07-08",
+                "result": 0.5,
+                "id": "tournament_74_47"
+            },
+            {
+                "white": "Li, Liping",
+                "black": "Hong, Lili",
+                "date": "2014-07-08",
+                "result": 0.5,
+                "id": "tournament_74_48"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Xu, Binghu",
+                "black": "Tang, Yangwen",
+                "date": "2014-07-09",
+                "result": 0.5,
+                "id": "tournament_74_49"
+            },
+            {
+                "white": "Gu, Jiajun",
+                "black": "Liang, Meiqiang",
+                "date": "2014-07-09",
+                "result": 1,
+                "id": "tournament_74_50"
+            },
+            {
+                "white": "Chen, Chun",
+                "black": "Xie, Basheng",
+                "date": "2014-07-09",
+                "result": 0.5,
+                "id": "tournament_74_51"
+            },
+            {
+                "white": "Liu, Qinxin",
+                "black": "Zhao, Xiyong",
+                "date": "2014-07-09",
+                "result": 0.5,
+                "id": "tournament_74_52"
+            },
+            {
+                "white": "Li, Liping",
+                "black": "Lin, Haopeng",
+                "date": "2014-07-09",
+                "result": 0,
+                "id": "tournament_74_53"
+            },
+            {
+                "white": "Hong, Lili",
+                "black": "Mao, Juncheng",
+                "date": "2014-07-09",
+                "result": 0.5,
+                "id": "tournament_74_54"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "Tang, Yangwen",
+                "black": "Liang, Meiqiang",
+                "date": "2014-07-10",
+                "result": 0.5,
+                "id": "tournament_74_55"
+            },
+            {
+                "white": "Xu, Binghu",
+                "black": "Xie, Basheng",
+                "date": "2014-07-10",
+                "result": 0.5,
+                "id": "tournament_74_56"
+            },
+            {
+                "white": "Liu, Qinxin",
+                "black": "Gu, Jiajun",
+                "date": "2014-07-10",
+                "result": 0.5,
+                "id": "tournament_74_57"
+            },
+            {
+                "white": "Li, Liping",
+                "black": "Chen, Chun",
+                "date": "2014-07-10",
+                "result": 0.5,
+                "id": "tournament_74_58"
+            },
+            {
+                "white": "Hong, Lili",
+                "black": "Zhao, Xiyong",
+                "date": "2014-07-10",
+                "result": 0.5,
+                "id": "tournament_74_59"
+            },
+            {
+                "white": "Mao, Juncheng",
+                "black": "Lin, Haopeng",
+                "date": "2014-07-10",
+                "result": 0.5,
+                "id": "tournament_74_60"
+            }
+        ],
+        "tour_11": [
+            {
+                "white": "Xie, Basheng",
+                "black": "Tang, Yangwen",
+                "date": "2014-07-11",
+                "result": 0,
+                "id": "tournament_74_61"
+            },
+            {
+                "white": "Liu, Qinxin",
+                "black": "Liang, Meiqiang",
+                "date": "2014-07-11",
+                "result": 1,
+                "id": "tournament_74_62"
+            },
+            {
+                "white": "Li, Liping",
+                "black": "Xu, Binghu",
+                "date": "2014-07-11",
+                "result": 0.5,
+                "id": "tournament_74_63"
+            },
+            {
+                "white": "Hong, Lili",
+                "black": "Gu, Jiajun",
+                "date": "2014-07-11",
+                "result": 0,
+                "id": "tournament_74_64"
+            },
+            {
+                "white": "Mao, Juncheng",
+                "black": "Chen, Chun",
+                "date": "2014-07-11",
+                "result": 0.5,
+                "id": "tournament_74_65"
+            },
+            {
+                "white": "Lin, Haopeng",
+                "black": "Zhao, Xiyong",
+                "date": "2014-07-11",
+                "result": 1,
+                "id": "tournament_74_66"
+            }
+        ]
+    },
+    "tours": 11,
+    "time_control": "classic"
+}

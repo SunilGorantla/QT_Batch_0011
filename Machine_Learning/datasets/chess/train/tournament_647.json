@@ -1,0 +1,493 @@
+{
+    "name": "tournament_647",
+    "start_date": "2018-11-07",
+    "end_date": "2018-11-18",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Xue Hui Mei",
+                "black": "Wei Xing ",
+                "date": "2018-11-07",
+                "result": 1,
+                "id": "tournament_647_1"
+            },
+            {
+                "white": "Li Yang Yi",
+                "black": "Cai Qi ",
+                "date": "2018-11-07",
+                "result": 1,
+                "id": "tournament_647_2"
+            },
+            {
+                "white": "Zheng Yan Feng",
+                "black": "Chen Qi Liang",
+                "date": "2018-11-07",
+                "result": 1,
+                "id": "tournament_647_3"
+            },
+            {
+                "white": "Song Meng Mei",
+                "black": "Pang Jing ",
+                "date": "2018-11-07",
+                "result": 0,
+                "id": "tournament_647_4"
+            },
+            {
+                "white": "Cao Ling Ying",
+                "black": "Zhao Xi Yong",
+                "date": "2018-11-07",
+                "result": 0.5,
+                "id": "tournament_647_5"
+            },
+            {
+                "white": "Sun Qing Yang",
+                "black": "Wu Qiu ",
+                "date": "2018-11-07",
+                "result": 0.5,
+                "id": "tournament_647_6"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Wei Xing ",
+                "black": "Li Yang Yi",
+                "date": "2018-11-08",
+                "result": 0,
+                "id": "tournament_647_7"
+            },
+            {
+                "white": "Xue Hui Mei",
+                "black": "Zheng Yan Feng",
+                "date": "2018-11-08",
+                "result": 1,
+                "id": "tournament_647_8"
+            },
+            {
+                "white": "Song Meng Mei",
+                "black": "Cai Qi ",
+                "date": "2018-11-08",
+                "result": 1,
+                "id": "tournament_647_9"
+            },
+            {
+                "white": "Cao Ling Ying",
+                "black": "Chen Qi Liang",
+                "date": "2018-11-08",
+                "result": 1,
+                "id": "tournament_647_10"
+            },
+            {
+                "white": "Sun Qing Yang",
+                "black": "Pang Jing ",
+                "date": "2018-11-08",
+                "result": 0.5,
+                "id": "tournament_647_11"
+            },
+            {
+                "white": "Wu Qiu ",
+                "black": "Zhao Xi Yong",
+                "date": "2018-11-08",
+                "result": 1,
+                "id": "tournament_647_12"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Zheng Yan Feng",
+                "black": "Wei Xing ",
+                "date": "2018-11-09",
+                "result": 1,
+                "id": "tournament_647_13"
+            },
+            {
+                "white": "Li Yang Yi",
+                "black": "Song Meng Mei",
+                "date": "2018-11-09",
+                "result": 0.5,
+                "id": "tournament_647_14"
+            },
+            {
+                "white": "Xue Hui Mei",
+                "black": "Cao Ling Ying",
+                "date": "2018-11-09",
+                "result": 0.5,
+                "id": "tournament_647_15"
+            },
+            {
+                "white": "Sun Qing Yang",
+                "black": "Cai Qi ",
+                "date": "2018-11-09",
+                "result": 1,
+                "id": "tournament_647_16"
+            },
+            {
+                "white": "Wu Qiu ",
+                "black": "Chen Qi Liang",
+                "date": "2018-11-09",
+                "result": 1,
+                "id": "tournament_647_17"
+            },
+            {
+                "white": "Zhao Xi Yong",
+                "black": "Pang Jing ",
+                "date": "2018-11-09",
+                "result": 0.5,
+                "id": "tournament_647_18"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Wei Xing ",
+                "black": "Song Meng Mei",
+                "date": "2018-11-10",
+                "result": 0.5,
+                "id": "tournament_647_19"
+            },
+            {
+                "white": "Zheng Yan Feng",
+                "black": "Cao Ling Ying",
+                "date": "2018-11-10",
+                "result": 0,
+                "id": "tournament_647_20"
+            },
+            {
+                "white": "Li Yang Yi",
+                "black": "Sun Qing Yang",
+                "date": "2018-11-10",
+                "result": 1,
+                "id": "tournament_647_21"
+            },
+            {
+                "white": "Xue Hui Mei",
+                "black": "Wu Qiu ",
+                "date": "2018-11-10",
+                "result": 1,
+                "id": "tournament_647_22"
+            },
+            {
+                "white": "Zhao Xi Yong",
+                "black": "Cai Qi ",
+                "date": "2018-11-10",
+                "result": 0.5,
+                "id": "tournament_647_23"
+            },
+            {
+                "white": "Pang Jing ",
+                "black": "Chen Qi Liang",
+                "date": "2018-11-10",
+                "result": 0.5,
+                "id": "tournament_647_24"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Cao Ling Ying",
+                "black": "Wei Xing ",
+                "date": "2018-11-11",
+                "result": 1,
+                "id": "tournament_647_25"
+            },
+            {
+                "white": "Song Meng Mei",
+                "black": "Sun Qing Yang",
+                "date": "2018-11-11",
+                "result": 0.5,
+                "id": "tournament_647_26"
+            },
+            {
+                "white": "Zheng Yan Feng",
+                "black": "Wu Qiu ",
+                "date": "2018-11-11",
+                "result": 1,
+                "id": "tournament_647_27"
+            },
+            {
+                "white": "Li Yang Yi",
+                "black": "Zhao Xi Yong",
+                "date": "2018-11-11",
+                "result": 1,
+                "id": "tournament_647_28"
+            },
+            {
+                "white": "Xue Hui Mei",
+                "black": "Pang Jing ",
+                "date": "2018-11-11",
+                "result": 1,
+                "id": "tournament_647_29"
+            },
+            {
+                "white": "Chen Qi Liang",
+                "black": "Cai Qi ",
+                "date": "2018-11-11",
+                "result": 1,
+                "id": "tournament_647_30"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Wei Xing ",
+                "black": "Sun Qing Yang",
+                "date": "2018-11-12",
+                "result": 0.5,
+                "id": "tournament_647_31"
+            },
+            {
+                "white": "Cao Ling Ying",
+                "black": "Wu Qiu ",
+                "date": "2018-11-12",
+                "result": 1,
+                "id": "tournament_647_32"
+            },
+            {
+                "white": "Song Meng Mei",
+                "black": "Zhao Xi Yong",
+                "date": "2018-11-12",
+                "result": 0.5,
+                "id": "tournament_647_33"
+            },
+            {
+                "white": "Zheng Yan Feng",
+                "black": "Pang Jing ",
+                "date": "2018-11-12",
+                "result": 1,
+                "id": "tournament_647_34"
+            },
+            {
+                "white": "Li Yang Yi",
+                "black": "Chen Qi Liang",
+                "date": "2018-11-12",
+                "result": 1,
+                "id": "tournament_647_35"
+            },
+            {
+                "white": "Xue Hui Mei",
+                "black": "Cai Qi ",
+                "date": "2018-11-12",
+                "result": 1,
+                "id": "tournament_647_36"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Wu Qiu ",
+                "black": "Wei Xing ",
+                "date": "2018-11-13",
+                "result": 1,
+                "id": "tournament_647_37"
+            },
+            {
+                "white": "Sun Qing Yang",
+                "black": "Zhao Xi Yong",
+                "date": "2018-11-13",
+                "result": 1,
+                "id": "tournament_647_38"
+            },
+            {
+                "white": "Cao Ling Ying",
+                "black": "Pang Jing ",
+                "date": "2018-11-13",
+                "result": 0.5,
+                "id": "tournament_647_39"
+            },
+            {
+                "white": "Song Meng Mei",
+                "black": "Chen Qi Liang",
+                "date": "2018-11-13",
+                "result": 0.5,
+                "id": "tournament_647_40"
+            },
+            {
+                "white": "Zheng Yan Feng",
+                "black": "Cai Qi ",
+                "date": "2018-11-13",
+                "result": 1,
+                "id": "tournament_647_41"
+            },
+            {
+                "white": "Xue Hui Mei",
+                "black": "Li Yang Yi",
+                "date": "2018-11-13",
+                "result": 0.5,
+                "id": "tournament_647_42"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Wei Xing ",
+                "black": "Zhao Xi Yong",
+                "date": "2018-11-14",
+                "result": 1,
+                "id": "tournament_647_43"
+            },
+            {
+                "white": "Wu Qiu ",
+                "black": "Pang Jing ",
+                "date": "2018-11-14",
+                "result": 0.5,
+                "id": "tournament_647_44"
+            },
+            {
+                "white": "Sun Qing Yang",
+                "black": "Chen Qi Liang",
+                "date": "2018-11-14",
+                "result": 0.5,
+                "id": "tournament_647_45"
+            },
+            {
+                "white": "Cao Ling Ying",
+                "black": "Cai Qi ",
+                "date": "2018-11-14",
+                "result": 0,
+                "id": "tournament_647_46"
+            },
+            {
+                "white": "Xue Hui Mei",
+                "black": "Song Meng Mei",
+                "date": "2018-11-14",
+                "result": 1,
+                "id": "tournament_647_47"
+            },
+            {
+                "white": "Li Yang Yi",
+                "black": "Zheng Yan Feng",
+                "date": "2018-11-14",
+                "result": 1,
+                "id": "tournament_647_48"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Pang Jing ",
+                "black": "Wei Xing ",
+                "date": "2018-11-15",
+                "result": 1,
+                "id": "tournament_647_49"
+            },
+            {
+                "white": "Zhao Xi Yong",
+                "black": "Chen Qi Liang",
+                "date": "2018-11-15",
+                "result": 0.5,
+                "id": "tournament_647_50"
+            },
+            {
+                "white": "Wu Qiu ",
+                "black": "Cai Qi ",
+                "date": "2018-11-15",
+                "result": 1,
+                "id": "tournament_647_51"
+            },
+            {
+                "white": "Xue Hui Mei",
+                "black": "Sun Qing Yang",
+                "date": "2018-11-15",
+                "result": 1,
+                "id": "tournament_647_52"
+            },
+            {
+                "white": "Li Yang Yi",
+                "black": "Cao Ling Ying",
+                "date": "2018-11-15",
+                "result": 0.5,
+                "id": "tournament_647_53"
+            },
+            {
+                "white": "Zheng Yan Feng",
+                "black": "Song Meng Mei",
+                "date": "2018-11-15",
+                "result": 1,
+                "id": "tournament_647_54"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "Wei Xing ",
+                "black": "Chen Qi Liang",
+                "date": "2018-11-16",
+                "result": 1,
+                "id": "tournament_647_55"
+            },
+            {
+                "white": "Pang Jing ",
+                "black": "Cai Qi ",
+                "date": "2018-11-16",
+                "result": 1,
+                "id": "tournament_647_56"
+            },
+            {
+                "white": "Xue Hui Mei",
+                "black": "Zhao Xi Yong",
+                "date": "2018-11-16",
+                "result": 1,
+                "id": "tournament_647_57"
+            },
+            {
+                "white": "Li Yang Yi",
+                "black": "Wu Qiu ",
+                "date": "2018-11-16",
+                "result": 0.5,
+                "id": "tournament_647_58"
+            },
+            {
+                "white": "Zheng Yan Feng",
+                "black": "Sun Qing Yang",
+                "date": "2018-11-16",
+                "result": 1,
+                "id": "tournament_647_59"
+            },
+            {
+                "white": "Song Meng Mei",
+                "black": "Cao Ling Ying",
+                "date": "2018-11-16",
+                "result": 0.5,
+                "id": "tournament_647_60"
+            }
+        ],
+        "tour_11": [
+            {
+                "white": "Cai Qi ",
+                "black": "Wei Xing ",
+                "date": "2018-11-17",
+                "result": 0.5,
+                "id": "tournament_647_61"
+            },
+            {
+                "white": "Xue Hui Mei",
+                "black": "Chen Qi Liang",
+                "date": "2018-11-17",
+                "result": 1,
+                "id": "tournament_647_62"
+            },
+            {
+                "white": "Li Yang Yi",
+                "black": "Pang Jing ",
+                "date": "2018-11-17",
+                "result": 1,
+                "id": "tournament_647_63"
+            },
+            {
+                "white": "Zheng Yan Feng",
+                "black": "Zhao Xi Yong",
+                "date": "2018-11-17",
+                "result": 1,
+                "id": "tournament_647_64"
+            },
+            {
+                "white": "Song Meng Mei",
+                "black": "Wu Qiu ",
+                "date": "2018-11-17",
+                "result": 0,
+                "id": "tournament_647_65"
+            },
+            {
+                "white": "Cao Ling Ying",
+                "black": "Sun Qing Yang",
+                "date": "2018-11-17",
+                "result": 1,
+                "id": "tournament_647_66"
+            }
+        ]
+    },
+    "tours": 11,
+    "time_control": "rapid"
+}

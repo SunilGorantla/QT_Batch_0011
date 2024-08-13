@@ -1,0 +1,342 @@
+{
+    "name": "tournament_705",
+    "start_date": "2019-03-25",
+    "end_date": "2019-04-03",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Liang, Qing",
+                "black": "Zhong, Changyuan",
+                "date": "2019-03-25",
+                "result": 0.5,
+                "id": "tournament_705_1"
+            },
+            {
+                "white": "Yu, Ping",
+                "black": "Zhao, Jingeng",
+                "date": "2019-03-25",
+                "result": 0.5,
+                "id": "tournament_705_2"
+            },
+            {
+                "white": "Zhao, Geng",
+                "black": "Liu, Aigui",
+                "date": "2019-03-25",
+                "result": 1,
+                "id": "tournament_705_3"
+            },
+            {
+                "white": "Tang, Chen",
+                "black": "Zhang, Yanying",
+                "date": "2019-03-25",
+                "result": 0,
+                "id": "tournament_705_4"
+            },
+            {
+                "white": "Li, Jianfang",
+                "black": "Li, Yan",
+                "date": "2019-03-25",
+                "result": 1,
+                "id": "tournament_705_5"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Zhong, Changyuan",
+                "black": "Yu, Ping",
+                "date": "2019-03-26",
+                "result": 1,
+                "id": "tournament_705_6"
+            },
+            {
+                "white": "Liang, Qing",
+                "black": "Zhao, Geng",
+                "date": "2019-03-26",
+                "result": 0.5,
+                "id": "tournament_705_7"
+            },
+            {
+                "white": "Tang, Chen",
+                "black": "Zhao, Jingeng",
+                "date": "2019-03-26",
+                "result": 0,
+                "id": "tournament_705_8"
+            },
+            {
+                "white": "Li, Jianfang",
+                "black": "Liu, Aigui",
+                "date": "2019-03-26",
+                "result": 0.5,
+                "id": "tournament_705_9"
+            },
+            {
+                "white": "Li, Yan",
+                "black": "Zhang, Yanying",
+                "date": "2019-03-26",
+                "result": 1,
+                "id": "tournament_705_10"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Zhao, Geng",
+                "black": "Zhong, Changyuan",
+                "date": "2019-03-27",
+                "result": 0.5,
+                "id": "tournament_705_11"
+            },
+            {
+                "white": "Yu, Ping",
+                "black": "Tang, Chen",
+                "date": "2019-03-27",
+                "result": 1,
+                "id": "tournament_705_12"
+            },
+            {
+                "white": "Liang, Qing",
+                "black": "Li, Jianfang",
+                "date": "2019-03-27",
+                "result": 1,
+                "id": "tournament_705_13"
+            },
+            {
+                "white": "Li, Yan",
+                "black": "Zhao, Jingeng",
+                "date": "2019-03-27",
+                "result": 0,
+                "id": "tournament_705_14"
+            },
+            {
+                "white": "Zhang, Yanying",
+                "black": "Liu, Aigui",
+                "date": "2019-03-27",
+                "result": 0.5,
+                "id": "tournament_705_15"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Zhong, Changyuan",
+                "black": "Tang, Chen",
+                "date": "2019-03-28",
+                "result": 1,
+                "id": "tournament_705_16"
+            },
+            {
+                "white": "Zhao, Geng",
+                "black": "Li, Jianfang",
+                "date": "2019-03-28",
+                "result": 1,
+                "id": "tournament_705_17"
+            },
+            {
+                "white": "Yu, Ping",
+                "black": "Li, Yan",
+                "date": "2019-03-28",
+                "result": 1,
+                "id": "tournament_705_18"
+            },
+            {
+                "white": "Liang, Qing",
+                "black": "Zhang, Yanying",
+                "date": "2019-03-28",
+                "result": 0.5,
+                "id": "tournament_705_19"
+            },
+            {
+                "white": "Liu, Aigui",
+                "black": "Zhao, Jingeng",
+                "date": "2019-03-28",
+                "result": 1,
+                "id": "tournament_705_20"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Li, Jianfang",
+                "black": "Zhong, Changyuan",
+                "date": "2019-03-29",
+                "result": 0.5,
+                "id": "tournament_705_21"
+            },
+            {
+                "white": "Tang, Chen",
+                "black": "Li, Yan",
+                "date": "2019-03-29",
+                "result": 0.5,
+                "id": "tournament_705_22"
+            },
+            {
+                "white": "Zhao, Geng",
+                "black": "Zhang, Yanying",
+                "date": "2019-03-29",
+                "result": 0.5,
+                "id": "tournament_705_23"
+            },
+            {
+                "white": "Yu, Ping",
+                "black": "Liu, Aigui",
+                "date": "2019-03-29",
+                "result": 0.5,
+                "id": "tournament_705_24"
+            },
+            {
+                "white": "Liang, Qing",
+                "black": "Zhao, Jingeng",
+                "date": "2019-03-29",
+                "result": 1,
+                "id": "tournament_705_25"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Zhong, Changyuan",
+                "black": "Li, Yan",
+                "date": "2019-03-30",
+                "result": 1,
+                "id": "tournament_705_26"
+            },
+            {
+                "white": "Li, Jianfang",
+                "black": "Zhang, Yanying",
+                "date": "2019-03-30",
+                "result": 0.5,
+                "id": "tournament_705_27"
+            },
+            {
+                "white": "Tang, Chen",
+                "black": "Liu, Aigui",
+                "date": "2019-03-30",
+                "result": 0,
+                "id": "tournament_705_28"
+            },
+            {
+                "white": "Zhao, Geng",
+                "black": "Zhao, Jingeng",
+                "date": "2019-03-30",
+                "result": 1,
+                "id": "tournament_705_29"
+            },
+            {
+                "white": "Liang, Qing",
+                "black": "Yu, Ping",
+                "date": "2019-03-30",
+                "result": 1,
+                "id": "tournament_705_30"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Zhang, Yanying",
+                "black": "Zhong, Changyuan",
+                "date": "2019-03-31",
+                "result": 0,
+                "id": "tournament_705_31"
+            },
+            {
+                "white": "Li, Yan",
+                "black": "Liu, Aigui",
+                "date": "2019-03-31",
+                "result": 0,
+                "id": "tournament_705_32"
+            },
+            {
+                "white": "Li, Jianfang",
+                "black": "Zhao, Jingeng",
+                "date": "2019-03-31",
+                "result": 1,
+                "id": "tournament_705_33"
+            },
+            {
+                "white": "Liang, Qing",
+                "black": "Tang, Chen",
+                "date": "2019-03-31",
+                "result": 1,
+                "id": "tournament_705_34"
+            },
+            {
+                "white": "Yu, Ping",
+                "black": "Zhao, Geng",
+                "date": "2019-03-31",
+                "result": 0.5,
+                "id": "tournament_705_35"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Zhong, Changyuan",
+                "black": "Liu, Aigui",
+                "date": "2019-04-01",
+                "result": 1,
+                "id": "tournament_705_36"
+            },
+            {
+                "white": "Zhang, Yanying",
+                "black": "Zhao, Jingeng",
+                "date": "2019-04-01",
+                "result": 0.5,
+                "id": "tournament_705_37"
+            },
+            {
+                "white": "Liang, Qing",
+                "black": "Li, Yan",
+                "date": "2019-04-01",
+                "result": 1,
+                "id": "tournament_705_38"
+            },
+            {
+                "white": "Yu, Ping",
+                "black": "Li, Jianfang",
+                "date": "2019-04-01",
+                "result": 0.5,
+                "id": "tournament_705_39"
+            },
+            {
+                "white": "Zhao, Geng",
+                "black": "Tang, Chen",
+                "date": "2019-04-01",
+                "result": 1,
+                "id": "tournament_705_40"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Zhao, Jingeng",
+                "black": "Zhong, Changyuan",
+                "date": "2019-04-02",
+                "result": 0.5,
+                "id": "tournament_705_41"
+            },
+            {
+                "white": "Liang, Qing",
+                "black": "Liu, Aigui",
+                "date": "2019-04-02",
+                "result": 0.5,
+                "id": "tournament_705_42"
+            },
+            {
+                "white": "Yu, Ping",
+                "black": "Zhang, Yanying",
+                "date": "2019-04-02",
+                "result": 1,
+                "id": "tournament_705_43"
+            },
+            {
+                "white": "Zhao, Geng",
+                "black": "Li, Yan",
+                "date": "2019-04-02",
+                "result": 0.5,
+                "id": "tournament_705_44"
+            },
+            {
+                "white": "Tang, Chen",
+                "black": "Li, Jianfang",
+                "date": "2019-04-02",
+                "result": 0,
+                "id": "tournament_705_45"
+            }
+        ]
+    },
+    "tours": 9,
+    "time_control": "classic"
+}

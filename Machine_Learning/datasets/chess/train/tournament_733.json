@@ -1,0 +1,474 @@
+{
+    "name": "tournament_733",
+    "start_date": "2019-06-27",
+    "end_date": "2019-07-17",
+    "games": {
+        "tour_1": [
+            {
+                "white": "李建方",
+                "black": "杨梦丹",
+                "date": "2019-06-27",
+                "result": 0,
+                "id": "tournament_733_1"
+            },
+            {
+                "white": "杨梦丹",
+                "black": "李建方",
+                "date": "2019-06-29",
+                "result": 1,
+                "id": "tournament_733_2"
+            },
+            {
+                "white": "钟小琰",
+                "black": "吴昱明",
+                "date": "2019-06-27",
+                "result": 0,
+                "id": "tournament_733_3"
+            },
+            {
+                "white": "吴昱明",
+                "black": "钟小琰",
+                "date": "2019-06-29",
+                "result": 1,
+                "id": "tournament_733_4"
+            },
+            {
+                "white": "徐铭",
+                "black": "贾叶珍",
+                "date": "2019-06-27",
+                "result": 0,
+                "id": "tournament_733_5"
+            },
+            {
+                "white": "贾叶珍",
+                "black": "徐铭",
+                "date": "2019-06-29",
+                "result": 0,
+                "id": "tournament_733_6"
+            },
+            {
+                "white": "徐铭",
+                "black": "贾叶珍",
+                "date": "2019-06-29",
+                "result": 0.5,
+                "id": "tournament_733_7"
+            },
+            {
+                "white": "郭亦武",
+                "black": "吴富军",
+                "date": "2019-06-27",
+                "result": 0,
+                "id": "tournament_733_8"
+            },
+            {
+                "white": "吴富军",
+                "black": "郭亦武",
+                "date": "2019-06-29",
+                "result": 1,
+                "id": "tournament_733_9"
+            },
+            {
+                "white": "孙义敏",
+                "black": "杨建霞",
+                "date": "2019-06-27",
+                "result": 0.5,
+                "id": "tournament_733_10"
+            },
+            {
+                "white": "杨建霞",
+                "black": "孙义敏",
+                "date": "2019-06-29",
+                "result": 0,
+                "id": "tournament_733_11"
+            },
+            {
+                "white": "胡守标",
+                "black": "江波",
+                "date": "2019-06-27",
+                "result": 0,
+                "id": "tournament_733_12"
+            },
+            {
+                "white": "江波",
+                "black": "胡守标",
+                "date": "2019-06-29",
+                "result": 1,
+                "id": "tournament_733_13"
+            },
+            {
+                "white": "李胜梅",
+                "black": "陈省祥",
+                "date": "2019-06-27",
+                "result": 1,
+                "id": "tournament_733_14"
+            },
+            {
+                "white": "陈省祥",
+                "black": "李胜梅",
+                "date": "2019-06-29",
+                "result": 0,
+                "id": "tournament_733_15"
+            },
+            {
+                "white": "萧翠兵",
+                "black": "林宏礼",
+                "date": "2019-06-27",
+                "result": 0,
+                "id": "tournament_733_16"
+            },
+            {
+                "white": "林宏礼",
+                "black": "萧翠兵",
+                "date": "2019-06-29",
+                "result": 0.5,
+                "id": "tournament_733_17"
+            },
+            {
+                "white": "王天波",
+                "black": "乔宏琪",
+                "date": "2019-06-27",
+                "result": 1,
+                "id": "tournament_733_18"
+            },
+            {
+                "white": "乔宏琪",
+                "black": "王天波",
+                "date": "2019-06-29",
+                "result": 0,
+                "id": "tournament_733_19"
+            },
+            {
+                "white": "徐保龙",
+                "black": "刘莉名",
+                "date": "2019-06-27",
+                "result": 0,
+                "id": "tournament_733_20"
+            },
+            {
+                "white": "刘莉名",
+                "black": "徐保龙",
+                "date": "2019-06-29",
+                "result": 1,
+                "id": "tournament_733_21"
+            },
+            {
+                "white": "黄忠明",
+                "black": "何文荣",
+                "date": "2019-06-27",
+                "result": 1,
+                "id": "tournament_733_22"
+            },
+            {
+                "white": "何文荣",
+                "black": "黄忠明",
+                "date": "2019-06-29",
+                "result": 0.5,
+                "id": "tournament_733_23"
+            },
+            {
+                "white": "郭晓东",
+                "black": "张燕",
+                "date": "2019-06-27",
+                "result": 0,
+                "id": "tournament_733_24"
+            },
+            {
+                "white": "张燕",
+                "black": "郭晓东",
+                "date": "2019-06-29",
+                "result": 1,
+                "id": "tournament_733_25"
+            },
+            {
+                "white": "范存妞",
+                "black": "于平",
+                "date": "2019-06-27",
+                "result": 1,
+                "id": "tournament_733_26"
+            },
+            {
+                "white": "于平",
+                "black": "范存妞",
+                "date": "2019-06-29",
+                "result": 0,
+                "id": "tournament_733_27"
+            },
+            {
+                "white": "陆桂姐",
+                "black": "赵耕",
+                "date": "2019-06-27",
+                "result": 0,
+                "id": "tournament_733_28"
+            },
+            {
+                "white": "赵耕",
+                "black": "陆桂姐",
+                "date": "2019-06-29",
+                "result": 1,
+                "id": "tournament_733_29"
+            },
+            {
+                "white": "赵世",
+                "black": "吴永洁",
+                "date": "2019-06-27",
+                "result": 0.5,
+                "id": "tournament_733_30"
+            },
+            {
+                "white": "吴永洁",
+                "black": "赵世",
+                "date": "2019-06-29",
+                "result": 0.5,
+                "id": "tournament_733_31"
+            },
+            {
+                "white": "赵世",
+                "black": "吴永洁",
+                "date": "2019-06-29",
+                "result": 0.5,
+                "id": "tournament_733_32"
+            },
+            {
+                "white": "梁青",
+                "black": "陶国",
+                "date": "2019-06-27",
+                "result": 1,
+                "id": "tournament_733_33"
+            },
+            {
+                "white": "陶国",
+                "black": "梁青",
+                "date": "2019-06-29",
+                "result": 0.5,
+                "id": "tournament_733_34"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "杨梦丹",
+                "black": "吴昱明",
+                "date": "2019-07-01",
+                "result": 0.5,
+                "id": "tournament_733_35"
+            },
+            {
+                "white": "吴昱明",
+                "black": "杨梦丹",
+                "date": "2019-07-03",
+                "result": 1,
+                "id": "tournament_733_36"
+            },
+            {
+                "white": "贾叶珍",
+                "black": "吴富军",
+                "date": "2019-07-01",
+                "result": 0,
+                "id": "tournament_733_37"
+            },
+            {
+                "white": "吴富军",
+                "black": "贾叶珍",
+                "date": "2019-07-03",
+                "result": 1,
+                "id": "tournament_733_38"
+            },
+            {
+                "white": "孙义敏",
+                "black": "江波",
+                "date": "2019-07-01",
+                "result": 0.5,
+                "id": "tournament_733_39"
+            },
+            {
+                "white": "江波",
+                "black": "孙义敏",
+                "date": "2019-07-03",
+                "result": 1,
+                "id": "tournament_733_40"
+            },
+            {
+                "white": "李胜梅",
+                "black": "林宏礼",
+                "date": "2019-07-01",
+                "result": 1,
+                "id": "tournament_733_41"
+            },
+            {
+                "white": "林宏礼",
+                "black": "李胜梅",
+                "date": "2019-07-03",
+                "result": 0.5,
+                "id": "tournament_733_42"
+            },
+            {
+                "white": "王天波",
+                "black": "刘莉名",
+                "date": "2019-07-01",
+                "result": 0,
+                "id": "tournament_733_43"
+            },
+            {
+                "white": "刘莉名",
+                "black": "王天波",
+                "date": "2019-07-03",
+                "result": 1,
+                "id": "tournament_733_44"
+            },
+            {
+                "white": "黄忠明",
+                "black": "张燕",
+                "date": "2019-07-01",
+                "result": 1,
+                "id": "tournament_733_45"
+            },
+            {
+                "white": "张燕",
+                "black": "黄忠明",
+                "date": "2019-07-03",
+                "result": 0,
+                "id": "tournament_733_46"
+            },
+            {
+                "white": "范存妞",
+                "black": "赵耕",
+                "date": "2019-07-01",
+                "result": 1,
+                "id": "tournament_733_47"
+            },
+            {
+                "white": "赵耕",
+                "black": "范存妞",
+                "date": "2019-07-03",
+                "result": 0,
+                "id": "tournament_733_48"
+            },
+            {
+                "white": "吴永洁",
+                "black": "梁青",
+                "date": "2019-07-01",
+                "result": 0,
+                "id": "tournament_733_49"
+            },
+            {
+                "white": "梁青",
+                "black": "吴永洁",
+                "date": "2019-07-03",
+                "result": 1,
+                "id": "tournament_733_50"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "吴昱明",
+                "black": "吴富军",
+                "date": "2019-07-05",
+                "result": 1,
+                "id": "tournament_733_51"
+            },
+            {
+                "white": "吴富军",
+                "black": "吴昱明",
+                "date": "2019-07-07",
+                "result": 1,
+                "id": "tournament_733_52"
+            },
+            {
+                "white": "吴昱明",
+                "black": "吴富军",
+                "date": "2019-07-07",
+                "result": 0,
+                "id": "tournament_733_53"
+            },
+            {
+                "white": "江波",
+                "black": "李胜梅",
+                "date": "2019-07-05",
+                "result": 0,
+                "id": "tournament_733_54"
+            },
+            {
+                "white": "李胜梅",
+                "black": "江波",
+                "date": "2019-07-07",
+                "result": 1,
+                "id": "tournament_733_55"
+            },
+            {
+                "white": "刘莉名",
+                "black": "黄忠明",
+                "date": "2019-07-05",
+                "result": 0,
+                "id": "tournament_733_56"
+            },
+            {
+                "white": "黄忠明",
+                "black": "刘莉名",
+                "date": "2019-07-07",
+                "result": 1,
+                "id": "tournament_733_57"
+            },
+            {
+                "white": "范存妞",
+                "black": "梁青",
+                "date": "2019-07-05",
+                "result": 1,
+                "id": "tournament_733_58"
+            },
+            {
+                "white": "梁青",
+                "black": "范存妞",
+                "date": "2019-07-07",
+                "result": 0,
+                "id": "tournament_733_59"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "吴富军",
+                "black": "李胜梅",
+                "date": "2019-07-09",
+                "result": 0,
+                "id": "tournament_733_60"
+            },
+            {
+                "white": "李胜梅",
+                "black": "吴富军",
+                "date": "2019-07-11",
+                "result": 1,
+                "id": "tournament_733_61"
+            },
+            {
+                "white": "黄忠明",
+                "black": "范存妞",
+                "date": "2019-07-09",
+                "result": 0,
+                "id": "tournament_733_62"
+            },
+            {
+                "white": "范存妞",
+                "black": "黄忠明",
+                "date": "2019-07-11",
+                "result": 1,
+                "id": "tournament_733_63"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "李胜梅",
+                "black": "范存妞",
+                "date": "2019-07-13",
+                "result": 1,
+                "id": "tournament_733_64"
+            },
+            {
+                "white": "范存妞",
+                "black": "李胜梅",
+                "date": "2019-07-15",
+                "result": 0.5,
+                "id": "tournament_733_65"
+            }
+        ]
+    },
+    "tours": 5,
+    "time_control": "rapid"
+}

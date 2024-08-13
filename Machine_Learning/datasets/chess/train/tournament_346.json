@@ -1,0 +1,219 @@
+{
+    "name": "tournament_346",
+    "start_date": "2016-08-10",
+    "end_date": "2016-08-24",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Wu, Yishun",
+                "black": "Zhao, Shi",
+                "date": "2016-08-10",
+                "result": 0,
+                "id": "tournament_346_1"
+            },
+            {
+                "white": "He, Yiyan",
+                "black": "Huang, Zihong",
+                "date": "2016-08-10",
+                "result": 1,
+                "id": "tournament_346_2"
+            },
+            {
+                "white": "Tian, Yong",
+                "black": "Li, Meilie",
+                "date": "2016-08-10",
+                "result": 1,
+                "id": "tournament_346_3"
+            },
+            {
+                "white": "Yang, Jing",
+                "black": "Li, Songjiang",
+                "date": "2016-08-10",
+                "result": 0.5,
+                "id": "tournament_346_4"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Zhao, Shi",
+                "black": "He, Yiyan",
+                "date": "2016-08-12",
+                "result": 1,
+                "id": "tournament_346_5"
+            },
+            {
+                "white": "Wu, Yishun",
+                "black": "Tian, Yong",
+                "date": "2016-08-12",
+                "result": 0,
+                "id": "tournament_346_6"
+            },
+            {
+                "white": "Yang, Jing",
+                "black": "Huang, Zihong",
+                "date": "2016-08-12",
+                "result": 0.5,
+                "id": "tournament_346_7"
+            },
+            {
+                "white": "Li, Songjiang",
+                "black": "Li, Meilie",
+                "date": "2016-08-12",
+                "result": 1,
+                "id": "tournament_346_8"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Tian, Yong",
+                "black": "Zhao, Shi",
+                "date": "2016-08-14",
+                "result": 1,
+                "id": "tournament_346_9"
+            },
+            {
+                "white": "He, Yiyan",
+                "black": "Yang, Jing",
+                "date": "2016-08-14",
+                "result": 1,
+                "id": "tournament_346_10"
+            },
+            {
+                "white": "Wu, Yishun",
+                "black": "Li, Songjiang",
+                "date": "2016-08-14",
+                "result": 0.5,
+                "id": "tournament_346_11"
+            },
+            {
+                "white": "Li, Meilie",
+                "black": "Huang, Zihong",
+                "date": "2016-08-14",
+                "result": 1,
+                "id": "tournament_346_12"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Zhao, Shi",
+                "black": "Yang, Jing",
+                "date": "2016-08-16",
+                "result": 1,
+                "id": "tournament_346_13"
+            },
+            {
+                "white": "Tian, Yong",
+                "black": "Li, Songjiang",
+                "date": "2016-08-16",
+                "result": 0.5,
+                "id": "tournament_346_14"
+            },
+            {
+                "white": "He, Yiyan",
+                "black": "Li, Meilie",
+                "date": "2016-08-16",
+                "result": 1,
+                "id": "tournament_346_15"
+            },
+            {
+                "white": "Wu, Yishun",
+                "black": "Huang, Zihong",
+                "date": "2016-08-16",
+                "result": 1,
+                "id": "tournament_346_16"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Li, Songjiang",
+                "black": "Zhao, Shi",
+                "date": "2016-08-18",
+                "result": 0.5,
+                "id": "tournament_346_17"
+            },
+            {
+                "white": "Yang, Jing",
+                "black": "Li, Meilie",
+                "date": "2016-08-18",
+                "result": 1,
+                "id": "tournament_346_18"
+            },
+            {
+                "white": "Tian, Yong",
+                "black": "Huang, Zihong",
+                "date": "2016-08-18",
+                "result": 1,
+                "id": "tournament_346_19"
+            },
+            {
+                "white": "Wu, Yishun",
+                "black": "He, Yiyan",
+                "date": "2016-08-18",
+                "result": 0,
+                "id": "tournament_346_20"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Zhao, Shi",
+                "black": "Li, Meilie",
+                "date": "2016-08-20",
+                "result": 1,
+                "id": "tournament_346_21"
+            },
+            {
+                "white": "Li, Songjiang",
+                "black": "Huang, Zihong",
+                "date": "2016-08-20",
+                "result": 0.5,
+                "id": "tournament_346_22"
+            },
+            {
+                "white": "Wu, Yishun",
+                "black": "Yang, Jing",
+                "date": "2016-08-20",
+                "result": 0.5,
+                "id": "tournament_346_23"
+            },
+            {
+                "white": "He, Yiyan",
+                "black": "Tian, Yong",
+                "date": "2016-08-20",
+                "result": 0,
+                "id": "tournament_346_24"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Huang, Zihong",
+                "black": "Zhao, Shi",
+                "date": "2016-08-22",
+                "result": 0,
+                "id": "tournament_346_25"
+            },
+            {
+                "white": "Wu, Yishun",
+                "black": "Li, Meilie",
+                "date": "2016-08-22",
+                "result": 1,
+                "id": "tournament_346_26"
+            },
+            {
+                "white": "He, Yiyan",
+                "black": "Li, Songjiang",
+                "date": "2016-08-22",
+                "result": 1,
+                "id": "tournament_346_27"
+            },
+            {
+                "white": "Tian, Yong",
+                "black": "Yang, Jing",
+                "date": "2016-08-22",
+                "result": 1,
+                "id": "tournament_346_28"
+            }
+        ]
+    },
+    "tours": 7,
+    "time_control": "rapid"
+}

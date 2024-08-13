@@ -1,0 +1,1219 @@
+{
+    "name": "tournament_500",
+    "start_date": "2017-10-25",
+    "end_date": "2017-10-25",
+    "games": {
+        "tour_1": [
+            {
+                "white": "杨燕波",
+                "black": "黄存花",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_1"
+            },
+            {
+                "white": "梁扬",
+                "black": "刘星梅",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_2"
+            },
+            {
+                "white": "王瑶珠",
+                "black": "薛冠",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_3"
+            },
+            {
+                "white": "李佑辉",
+                "black": "王积芝",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_4"
+            },
+            {
+                "white": "蔡琦",
+                "black": "张正男",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_5"
+            },
+            {
+                "white": "丁晨彤",
+                "black": "于遇琦",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_6"
+            },
+            {
+                "white": "赖震恩",
+                "black": "胡盛元",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_7"
+            },
+            {
+                "white": "顾立锋",
+                "black": "史稳云",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_8"
+            },
+            {
+                "white": "黄慧",
+                "black": "黄润军",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_9"
+            },
+            {
+                "white": "顾加军",
+                "black": "谭卓佳",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_10"
+            },
+            {
+                "white": "李洋宜",
+                "black": "周秀禄",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_11"
+            },
+            {
+                "white": "王钰弘",
+                "black": "郭德基",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_12"
+            },
+            {
+                "white": "何文荣",
+                "black": "王玖",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_13"
+            },
+            {
+                "white": "谭尧",
+                "black": "程浩婷",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_14"
+            },
+            {
+                "white": "田永",
+                "black": "孟大运",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_15"
+            },
+            {
+                "white": "董玉波",
+                "black": "黄千健",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_16"
+            },
+            {
+                "white": "熊立兰",
+                "black": "邹江祥",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_17"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "黄存花",
+                "black": "梁扬",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_18"
+            },
+            {
+                "white": "张正男",
+                "black": "李佑辉",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_19"
+            },
+            {
+                "white": "史稳云",
+                "black": "丁晨彤",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_20"
+            },
+            {
+                "white": "黄润军",
+                "black": "田永",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_21"
+            },
+            {
+                "white": "谭卓佳",
+                "black": "董玉波",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_22"
+            },
+            {
+                "white": "周秀禄",
+                "black": "熊立兰",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_23"
+            },
+            {
+                "white": "郭德基",
+                "black": "田茁波",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_24"
+            },
+            {
+                "white": "程浩婷",
+                "black": "王瑶珠",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_25"
+            },
+            {
+                "white": "薛冠",
+                "black": "赖震恩",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_26"
+            },
+            {
+                "white": "胡盛元",
+                "black": "何文荣",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_27"
+            },
+            {
+                "white": "王玖",
+                "black": "杨燕波",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_28"
+            },
+            {
+                "white": "刘星梅",
+                "black": "蔡琦",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_29"
+            },
+            {
+                "white": "王积芝",
+                "black": "顾立锋",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_30"
+            },
+            {
+                "white": "于遇琦",
+                "black": "黄慧",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_31"
+            },
+            {
+                "white": "孟大运",
+                "black": "顾加军",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_32"
+            },
+            {
+                "white": "邹江祥",
+                "black": "王钰弘",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_33"
+            },
+            {
+                "white": "黄千健",
+                "black": "李洋宜",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_34"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "丁晨彤",
+                "black": "黄存花",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_35"
+            },
+            {
+                "white": "田永",
+                "black": "谭卓佳",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_36"
+            },
+            {
+                "white": "熊立兰",
+                "black": "郭德基",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_37"
+            },
+            {
+                "white": "李佑辉",
+                "black": "程浩婷",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_38"
+            },
+            {
+                "white": "赖震恩",
+                "black": "张正男",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_39"
+            },
+            {
+                "white": "梁扬",
+                "black": "王玖",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_40"
+            },
+            {
+                "white": "董玉波",
+                "black": "史稳云",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_41"
+            },
+            {
+                "white": "田茁波",
+                "black": "黄润军",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_42"
+            },
+            {
+                "white": "何文荣",
+                "black": "周秀禄",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_43"
+            },
+            {
+                "white": "顾加军",
+                "black": "胡盛元",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_44"
+            },
+            {
+                "white": "李洋宜",
+                "black": "刘星梅",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_45"
+            },
+            {
+                "white": "谭尧",
+                "black": "于遇琦",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_46"
+            },
+            {
+                "white": "王瑶珠",
+                "black": "邹江祥",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_47"
+            },
+            {
+                "white": "顾立锋",
+                "black": "薛冠",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_48"
+            },
+            {
+                "white": "杨燕波",
+                "black": "王积芝",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_49"
+            },
+            {
+                "white": "黄慧",
+                "black": "孟大运",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_50"
+            },
+            {
+                "white": "王钰弘",
+                "black": "黄千健",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_51"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "郭德基",
+                "black": "田永",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_52"
+            },
+            {
+                "white": "程浩婷",
+                "black": "丁晨彤",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_53"
+            },
+            {
+                "white": "黄存花",
+                "black": "赖震恩",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_54"
+            },
+            {
+                "white": "谭卓佳",
+                "black": "熊立兰",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_55"
+            },
+            {
+                "white": "王玖",
+                "black": "田茁波",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_56"
+            },
+            {
+                "white": "史稳云",
+                "black": "何文荣",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_57"
+            },
+            {
+                "white": "刘星梅",
+                "black": "谭尧",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_58"
+            },
+            {
+                "white": "邹江祥",
+                "black": "李佑辉",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_59"
+            },
+            {
+                "white": "张正男",
+                "black": "梁扬",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_60"
+            },
+            {
+                "white": "胡盛元",
+                "black": "董玉波",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_61"
+            },
+            {
+                "white": "薛冠",
+                "black": "顾加军",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_62"
+            },
+            {
+                "white": "黄润军",
+                "black": "李洋宜",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_63"
+            },
+            {
+                "white": "周秀禄",
+                "black": "杨燕波",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_64"
+            },
+            {
+                "white": "于遇琦",
+                "black": "蔡琦",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_65"
+            },
+            {
+                "white": "王积芝",
+                "black": "黄慧",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_66"
+            },
+            {
+                "white": "黄千健",
+                "black": "顾立锋",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_67"
+            },
+            {
+                "white": "孟大运",
+                "black": "王瑶珠",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_68"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "赖震恩",
+                "black": "郭德基",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_69"
+            },
+            {
+                "white": "田永",
+                "black": "程浩婷",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_70"
+            },
+            {
+                "white": "谭尧",
+                "black": "谭卓佳",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_71"
+            },
+            {
+                "white": "丁晨彤",
+                "black": "王玖",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_72"
+            },
+            {
+                "white": "何文荣",
+                "black": "黄存花",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_73"
+            },
+            {
+                "white": "李佑辉",
+                "black": "史稳云",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_74"
+            },
+            {
+                "white": "熊立兰",
+                "black": "胡盛元",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_75"
+            },
+            {
+                "white": "顾加军",
+                "black": "刘星梅",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_76"
+            },
+            {
+                "white": "田茁波",
+                "black": "邹江祥",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_77"
+            },
+            {
+                "white": "黄慧",
+                "black": "张正男",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_78"
+            },
+            {
+                "white": "梁扬",
+                "black": "周秀禄",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_79"
+            },
+            {
+                "white": "李洋宜",
+                "black": "于遇琦",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_80"
+            },
+            {
+                "white": "王钰弘",
+                "black": "薛冠",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_81"
+            },
+            {
+                "white": "王瑶珠",
+                "black": "黄润军",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_82"
+            },
+            {
+                "white": "杨燕波",
+                "black": "黄千健",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_83"
+            },
+            {
+                "white": "董玉波",
+                "black": "王积芝",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_84"
+            },
+            {
+                "white": "蔡琦",
+                "black": "孟大运",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_85"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "程浩婷",
+                "black": "赖震恩",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_86"
+            },
+            {
+                "white": "郭德基",
+                "black": "谭尧",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_87"
+            },
+            {
+                "white": "王玖",
+                "black": "田永",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_88"
+            },
+            {
+                "white": "谭卓佳",
+                "black": "丁晨彤",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_89"
+            },
+            {
+                "white": "黄存花",
+                "black": "顾加军",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_90"
+            },
+            {
+                "white": "史稳云",
+                "black": "熊立兰",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_91"
+            },
+            {
+                "white": "胡盛元",
+                "black": "李佑辉",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_92"
+            },
+            {
+                "white": "于遇琦",
+                "black": "何文荣",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_93"
+            },
+            {
+                "white": "张正男",
+                "black": "田茁波",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_94"
+            },
+            {
+                "white": "邹江祥",
+                "black": "梁扬",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_95"
+            },
+            {
+                "white": "周秀禄",
+                "black": "黄慧",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_96"
+            },
+            {
+                "white": "黄润军",
+                "black": "王钰弘",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_97"
+            },
+            {
+                "white": "刘星梅",
+                "black": "董玉波",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_98"
+            },
+            {
+                "white": "薛冠",
+                "black": "李洋宜",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_99"
+            },
+            {
+                "white": "黄千健",
+                "black": "王瑶珠",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_100"
+            },
+            {
+                "white": "孟大运",
+                "black": "杨燕波",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_101"
+            },
+            {
+                "white": "王积芝",
+                "black": "蔡琦",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_102"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "赖震恩",
+                "black": "谭卓佳",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_103"
+            },
+            {
+                "white": "顾加军",
+                "black": "郭德基",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_104"
+            },
+            {
+                "white": "田永",
+                "black": "黄存花",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_105"
+            },
+            {
+                "white": "梁扬",
+                "black": "程浩婷",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_106"
+            },
+            {
+                "white": "谭尧",
+                "black": "史稳云",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_107"
+            },
+            {
+                "white": "丁晨彤",
+                "black": "胡盛元",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_108"
+            },
+            {
+                "white": "李佑辉",
+                "black": "王玖",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_109"
+            },
+            {
+                "white": "熊立兰",
+                "black": "于遇琦",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_110"
+            },
+            {
+                "white": "何文荣",
+                "black": "张正男",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_111"
+            },
+            {
+                "white": "田茁波",
+                "black": "周秀禄",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_112"
+            },
+            {
+                "white": "董玉波",
+                "black": "黄润军",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_113"
+            },
+            {
+                "white": "黄慧",
+                "black": "薛冠",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_114"
+            },
+            {
+                "white": "顾立锋",
+                "black": "邹江祥",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_115"
+            },
+            {
+                "white": "李洋宜",
+                "black": "王积芝",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_116"
+            },
+            {
+                "white": "杨燕波",
+                "black": "刘星梅",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_117"
+            },
+            {
+                "white": "王钰弘",
+                "black": "孟大运",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_118"
+            },
+            {
+                "white": "蔡琦",
+                "black": "黄千健",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_119"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "郭德基",
+                "black": "李佑辉",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_120"
+            },
+            {
+                "white": "史稳云",
+                "black": "田永",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_121"
+            },
+            {
+                "white": "周秀禄",
+                "black": "赖震恩",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_122"
+            },
+            {
+                "white": "程浩婷",
+                "black": "顾加军",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_123"
+            },
+            {
+                "white": "谭卓佳",
+                "black": "何文荣",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_124"
+            },
+            {
+                "white": "胡盛元",
+                "black": "谭尧",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_125"
+            },
+            {
+                "white": "黄存花",
+                "black": "熊立兰",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_126"
+            },
+            {
+                "white": "薛冠",
+                "black": "梁扬",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_127"
+            },
+            {
+                "white": "王玖",
+                "black": "王瑶珠",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_128"
+            },
+            {
+                "white": "于遇琦",
+                "black": "王钰弘",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_129"
+            },
+            {
+                "white": "张正男",
+                "black": "丁晨彤",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_130"
+            },
+            {
+                "white": "黄千健",
+                "black": "黄慧",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_131"
+            },
+            {
+                "white": "孟大运",
+                "black": "董玉波",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_132"
+            },
+            {
+                "white": "刘星梅",
+                "black": "顾立锋",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_133"
+            },
+            {
+                "white": "邹江祥",
+                "black": "李洋宜",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_134"
+            },
+            {
+                "white": "黄润军",
+                "black": "杨燕波",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_135"
+            },
+            {
+                "white": "王积芝",
+                "black": "田茁波",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_136"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "何文荣",
+                "black": "郭德基",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_137"
+            },
+            {
+                "white": "田永",
+                "black": "胡盛元",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_138"
+            },
+            {
+                "white": "赖震恩",
+                "black": "史稳云",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_139"
+            },
+            {
+                "white": "熊立兰",
+                "black": "程浩婷",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_140"
+            },
+            {
+                "white": "李佑辉",
+                "black": "谭卓佳",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_141"
+            },
+            {
+                "white": "谭尧",
+                "black": "黄存花",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_142"
+            },
+            {
+                "white": "丁晨彤",
+                "black": "薛冠",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_143"
+            },
+            {
+                "white": "顾加军",
+                "black": "周秀禄",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_144"
+            },
+            {
+                "white": "董玉波",
+                "black": "王玖",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_145"
+            },
+            {
+                "white": "梁扬",
+                "black": "于遇琦",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_146"
+            },
+            {
+                "white": "蔡琦",
+                "black": "黄润军",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_147"
+            },
+            {
+                "white": "王瑶珠",
+                "black": "张正男",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_148"
+            },
+            {
+                "white": "李洋宜",
+                "black": "孟大运",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_149"
+            },
+            {
+                "white": "田茁波",
+                "black": "王钰弘",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_150"
+            },
+            {
+                "white": "王积芝",
+                "black": "刘星梅",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_151"
+            },
+            {
+                "white": "顾立锋",
+                "black": "黄慧",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_152"
+            },
+            {
+                "white": "邹江祥",
+                "black": "黄千健",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_153"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "薛冠",
+                "black": "田永",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_154"
+            },
+            {
+                "white": "郭德基",
+                "black": "丁晨彤",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_155"
+            },
+            {
+                "white": "王玖",
+                "black": "赖震恩",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_156"
+            },
+            {
+                "white": "程浩婷",
+                "black": "何文荣",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_157"
+            },
+            {
+                "white": "谭卓佳",
+                "black": "梁扬",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_158"
+            },
+            {
+                "white": "史稳云",
+                "black": "顾加军",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_159"
+            },
+            {
+                "white": "黄存花",
+                "black": "黄慧",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_160"
+            },
+            {
+                "white": "黄润军",
+                "black": "谭尧",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_161"
+            },
+            {
+                "white": "胡盛元",
+                "black": "王瑶珠",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_162"
+            },
+            {
+                "white": "周秀禄",
+                "black": "李佑辉",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_163"
+            },
+            {
+                "white": "邹江祥",
+                "black": "董玉波",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_164"
+            },
+            {
+                "white": "刘星梅",
+                "black": "熊立兰",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_165"
+            },
+            {
+                "white": "黄千健",
+                "black": "田茁波",
+                "date": "2017-10-25",
+                "result": 0,
+                "id": "tournament_500_166"
+            },
+            {
+                "white": "孟大运",
+                "black": "于遇琦",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_167"
+            },
+            {
+                "white": "王钰弘",
+                "black": "杨燕波",
+                "date": "2017-10-25",
+                "result": 0.5,
+                "id": "tournament_500_168"
+            },
+            {
+                "white": "李洋宜",
+                "black": "蔡琦",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_169"
+            },
+            {
+                "white": "张正男",
+                "black": "顾立锋",
+                "date": "2017-10-25",
+                "result": 1,
+                "id": "tournament_500_170"
+            }
+        ]
+    },
+    "tours": 10,
+    "time_control": "rapid"
+}

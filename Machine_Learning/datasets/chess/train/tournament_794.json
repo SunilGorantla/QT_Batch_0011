@@ -1,0 +1,147 @@
+{
+    "name": "tournament_794",
+    "start_date": "2019-12-06",
+    "end_date": "2019-12-18",
+    "games": {
+        "tour_1": [
+            {
+                "white": "刘素凯",
+                "black": "陈思刚",
+                "date": "2019-12-06",
+                "result": 0,
+                "id": "tournament_794_1"
+            },
+            {
+                "white": "陆英复",
+                "black": "毛心磊",
+                "date": "2019-12-06",
+                "result": 0,
+                "id": "tournament_794_2"
+            },
+            {
+                "white": "王千迅",
+                "black": "李华鸿",
+                "date": "2019-12-06",
+                "result": 0,
+                "id": "tournament_794_3"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "赵世",
+                "black": "刘素凯",
+                "date": "2019-12-08",
+                "result": 1,
+                "id": "tournament_794_4"
+            },
+            {
+                "white": "王千迅",
+                "black": "陈思刚",
+                "date": "2019-12-08",
+                "result": 0,
+                "id": "tournament_794_5"
+            },
+            {
+                "white": "李华鸿",
+                "black": "毛心磊",
+                "date": "2019-12-08",
+                "result": 1,
+                "id": "tournament_794_6"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "陆英复",
+                "black": "赵世",
+                "date": "2019-12-10",
+                "result": 0.5,
+                "id": "tournament_794_7"
+            },
+            {
+                "white": "刘素凯",
+                "black": "王千迅",
+                "date": "2019-12-10",
+                "result": 0.5,
+                "id": "tournament_794_8"
+            },
+            {
+                "white": "毛心磊",
+                "black": "陈思刚",
+                "date": "2019-12-10",
+                "result": 0,
+                "id": "tournament_794_9"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "赵世",
+                "black": "王千迅",
+                "date": "2019-12-12",
+                "result": 1,
+                "id": "tournament_794_10"
+            },
+            {
+                "white": "陆英复",
+                "black": "李华鸿",
+                "date": "2019-12-12",
+                "result": 0,
+                "id": "tournament_794_11"
+            },
+            {
+                "white": "刘素凯",
+                "black": "毛心磊",
+                "date": "2019-12-12",
+                "result": 0.5,
+                "id": "tournament_794_12"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "李华鸿",
+                "black": "赵世",
+                "date": "2019-12-14",
+                "result": 1,
+                "id": "tournament_794_13"
+            },
+            {
+                "white": "王千迅",
+                "black": "毛心磊",
+                "date": "2019-12-14",
+                "result": 0,
+                "id": "tournament_794_14"
+            },
+            {
+                "white": "陆英复",
+                "black": "陈思刚",
+                "date": "2019-12-14",
+                "result": 0,
+                "id": "tournament_794_15"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "赵世",
+                "black": "毛心磊",
+                "date": "2019-12-16",
+                "result": 1,
+                "id": "tournament_794_16"
+            },
+            {
+                "white": "李华鸿",
+                "black": "陈思刚",
+                "date": "2019-12-16",
+                "result": 0.5,
+                "id": "tournament_794_17"
+            },
+            {
+                "white": "刘素凯",
+                "black": "陆英复",
+                "date": "2019-12-16",
+                "result": 0.5,
+                "id": "tournament_794_18"
+            }
+        ]
+    },
+    "tours": 6,
+    "time_control": "rapid"
+}

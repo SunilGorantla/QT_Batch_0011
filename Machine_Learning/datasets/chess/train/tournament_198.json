@@ -1,0 +1,537 @@
+{
+    "name": "tournament_198",
+    "start_date": "2015-06-15",
+    "end_date": "2015-06-27",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Tan Yao",
+                "black": "Shi Zhi",
+                "date": "2015-06-15",
+                "result": 0,
+                "id": "tournament_198_1"
+            },
+            {
+                "white": "Wang Jiajuan",
+                "black": "Chen Si",
+                "date": "2015-06-15",
+                "result": 1,
+                "id": "tournament_198_2"
+            },
+            {
+                "white": "Chen Yuke",
+                "black": "Yang Junrui",
+                "date": "2015-06-15",
+                "result": 1,
+                "id": "tournament_198_3"
+            },
+            {
+                "white": "Lv Huiqian",
+                "black": "Liu Yanbing",
+                "date": "2015-06-15",
+                "result": 1,
+                "id": "tournament_198_4"
+            },
+            {
+                "white": "Hu Dongwen",
+                "black": "Shao Futa",
+                "date": "2015-06-15",
+                "result": 0.5,
+                "id": "tournament_198_5"
+            },
+            {
+                "white": "Wei Zhentian",
+                "black": "Shi Wenyun",
+                "date": "2015-06-15",
+                "result": 0,
+                "id": "tournament_198_6"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Zhu Chunqi",
+                "black": "Tan Yao",
+                "date": "2015-06-16",
+                "result": 0.5,
+                "id": "tournament_198_7"
+            },
+            {
+                "white": "Chen Yuke",
+                "black": "Shi Zhi",
+                "date": "2015-06-16",
+                "result": 1,
+                "id": "tournament_198_8"
+            },
+            {
+                "white": "Lv Huiqian",
+                "black": "Chen Si",
+                "date": "2015-06-16",
+                "result": 0,
+                "id": "tournament_198_9"
+            },
+            {
+                "white": "Hu Dongwen",
+                "black": "Yang Junrui",
+                "date": "2015-06-16",
+                "result": 0,
+                "id": "tournament_198_10"
+            },
+            {
+                "white": "Wei Zhentian",
+                "black": "Liu Yanbing",
+                "date": "2015-06-16",
+                "result": 1,
+                "id": "tournament_198_11"
+            },
+            {
+                "white": "Shi Wenyun",
+                "black": "Shao Futa",
+                "date": "2015-06-16",
+                "result": 0.5,
+                "id": "tournament_198_12"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Wang Jiajuan",
+                "black": "Zhu Chunqi",
+                "date": "2015-06-17",
+                "result": 1,
+                "id": "tournament_198_13"
+            },
+            {
+                "white": "Tan Yao",
+                "black": "Chen Yuke",
+                "date": "2015-06-17",
+                "result": 0.5,
+                "id": "tournament_198_14"
+            },
+            {
+                "white": "Hu Dongwen",
+                "black": "Shi Zhi",
+                "date": "2015-06-17",
+                "result": 0,
+                "id": "tournament_198_15"
+            },
+            {
+                "white": "Wei Zhentian",
+                "black": "Chen Si",
+                "date": "2015-06-17",
+                "result": 0.5,
+                "id": "tournament_198_16"
+            },
+            {
+                "white": "Shi Wenyun",
+                "black": "Yang Junrui",
+                "date": "2015-06-17",
+                "result": 1,
+                "id": "tournament_198_17"
+            },
+            {
+                "white": "Shao Futa",
+                "black": "Liu Yanbing",
+                "date": "2015-06-17",
+                "result": 1,
+                "id": "tournament_198_18"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Zhu Chunqi",
+                "black": "Chen Yuke",
+                "date": "2015-06-18",
+                "result": 0,
+                "id": "tournament_198_19"
+            },
+            {
+                "white": "Wang Jiajuan",
+                "black": "Lv Huiqian",
+                "date": "2015-06-18",
+                "result": 1,
+                "id": "tournament_198_20"
+            },
+            {
+                "white": "Tan Yao",
+                "black": "Hu Dongwen",
+                "date": "2015-06-18",
+                "result": 0.5,
+                "id": "tournament_198_21"
+            },
+            {
+                "white": "Shi Wenyun",
+                "black": "Shi Zhi",
+                "date": "2015-06-18",
+                "result": 1,
+                "id": "tournament_198_22"
+            },
+            {
+                "white": "Shao Futa",
+                "black": "Chen Si",
+                "date": "2015-06-18",
+                "result": 1,
+                "id": "tournament_198_23"
+            },
+            {
+                "white": "Liu Yanbing",
+                "black": "Yang Junrui",
+                "date": "2015-06-18",
+                "result": 0,
+                "id": "tournament_198_24"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Lv Huiqian",
+                "black": "Zhu Chunqi",
+                "date": "2015-06-19",
+                "result": 0,
+                "id": "tournament_198_25"
+            },
+            {
+                "white": "Chen Yuke",
+                "black": "Hu Dongwen",
+                "date": "2015-06-19",
+                "result": 1,
+                "id": "tournament_198_26"
+            },
+            {
+                "white": "Wang Jiajuan",
+                "black": "Wei Zhentian",
+                "date": "2015-06-19",
+                "result": 1,
+                "id": "tournament_198_27"
+            },
+            {
+                "white": "Tan Yao",
+                "black": "Shi Wenyun",
+                "date": "2015-06-19",
+                "result": 0,
+                "id": "tournament_198_28"
+            },
+            {
+                "white": "Liu Yanbing",
+                "black": "Shi Zhi",
+                "date": "2015-06-19",
+                "result": 0,
+                "id": "tournament_198_29"
+            },
+            {
+                "white": "Yang Junrui",
+                "black": "Chen Si",
+                "date": "2015-06-19",
+                "result": 1,
+                "id": "tournament_198_30"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Zhu Chunqi",
+                "black": "Hu Dongwen",
+                "date": "2015-06-20",
+                "result": 0.5,
+                "id": "tournament_198_31"
+            },
+            {
+                "white": "Lv Huiqian",
+                "black": "Wei Zhentian",
+                "date": "2015-06-20",
+                "result": 1,
+                "id": "tournament_198_32"
+            },
+            {
+                "white": "Chen Yuke",
+                "black": "Shi Wenyun",
+                "date": "2015-06-20",
+                "result": 0.5,
+                "id": "tournament_198_33"
+            },
+            {
+                "white": "Wang Jiajuan",
+                "black": "Shao Futa",
+                "date": "2015-06-20",
+                "result": 0.5,
+                "id": "tournament_198_34"
+            },
+            {
+                "white": "Tan Yao",
+                "black": "Liu Yanbing",
+                "date": "2015-06-20",
+                "result": 1,
+                "id": "tournament_198_35"
+            },
+            {
+                "white": "Chen Si",
+                "black": "Shi Zhi",
+                "date": "2015-06-20",
+                "result": 0,
+                "id": "tournament_198_36"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Wei Zhentian",
+                "black": "Zhu Chunqi",
+                "date": "2015-06-21",
+                "result": 0.5,
+                "id": "tournament_198_37"
+            },
+            {
+                "white": "Hu Dongwen",
+                "black": "Shi Wenyun",
+                "date": "2015-06-21",
+                "result": 0,
+                "id": "tournament_198_38"
+            },
+            {
+                "white": "Lv Huiqian",
+                "black": "Shao Futa",
+                "date": "2015-06-21",
+                "result": 0,
+                "id": "tournament_198_39"
+            },
+            {
+                "white": "Chen Yuke",
+                "black": "Liu Yanbing",
+                "date": "2015-06-21",
+                "result": 1,
+                "id": "tournament_198_40"
+            },
+            {
+                "white": "Wang Jiajuan",
+                "black": "Yang Junrui",
+                "date": "2015-06-21",
+                "result": 0.5,
+                "id": "tournament_198_41"
+            },
+            {
+                "white": "Tan Yao",
+                "black": "Chen Si",
+                "date": "2015-06-21",
+                "result": 0.5,
+                "id": "tournament_198_42"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Zhu Chunqi",
+                "black": "Shi Wenyun",
+                "date": "2015-06-22",
+                "result": 0,
+                "id": "tournament_198_43"
+            },
+            {
+                "white": "Wei Zhentian",
+                "black": "Shao Futa",
+                "date": "2015-06-22",
+                "result": 0,
+                "id": "tournament_198_44"
+            },
+            {
+                "white": "Hu Dongwen",
+                "black": "Liu Yanbing",
+                "date": "2015-06-22",
+                "result": 0.5,
+                "id": "tournament_198_45"
+            },
+            {
+                "white": "Lv Huiqian",
+                "black": "Yang Junrui",
+                "date": "2015-06-22",
+                "result": 0,
+                "id": "tournament_198_46"
+            },
+            {
+                "white": "Chen Yuke",
+                "black": "Chen Si",
+                "date": "2015-06-22",
+                "result": 1,
+                "id": "tournament_198_47"
+            },
+            {
+                "white": "Wang Jiajuan",
+                "black": "Shi Zhi",
+                "date": "2015-06-22",
+                "result": 1,
+                "id": "tournament_198_48"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Shao Futa",
+                "black": "Zhu Chunqi",
+                "date": "2015-06-23",
+                "result": 1,
+                "id": "tournament_198_49"
+            },
+            {
+                "white": "Shi Wenyun",
+                "black": "Liu Yanbing",
+                "date": "2015-06-23",
+                "result": 1,
+                "id": "tournament_198_50"
+            },
+            {
+                "white": "Wei Zhentian",
+                "black": "Yang Junrui",
+                "date": "2015-06-23",
+                "result": 0,
+                "id": "tournament_198_51"
+            },
+            {
+                "white": "Hu Dongwen",
+                "black": "Chen Si",
+                "date": "2015-06-23",
+                "result": 0.5,
+                "id": "tournament_198_52"
+            },
+            {
+                "white": "Lv Huiqian",
+                "black": "Shi Zhi",
+                "date": "2015-06-23",
+                "result": 0,
+                "id": "tournament_198_53"
+            },
+            {
+                "white": "Tan Yao",
+                "black": "Wang Jiajuan",
+                "date": "2015-06-23",
+                "result": 0,
+                "id": "tournament_198_54"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "Zhu Chunqi",
+                "black": "Liu Yanbing",
+                "date": "2015-06-24",
+                "result": 1,
+                "id": "tournament_198_55"
+            },
+            {
+                "white": "Shao Futa",
+                "black": "Yang Junrui",
+                "date": "2015-06-24",
+                "result": 0.5,
+                "id": "tournament_198_56"
+            },
+            {
+                "white": "Shi Wenyun",
+                "black": "Chen Si",
+                "date": "2015-06-24",
+                "result": 1,
+                "id": "tournament_198_57"
+            },
+            {
+                "white": "Wei Zhentian",
+                "black": "Shi Zhi",
+                "date": "2015-06-24",
+                "result": 0,
+                "id": "tournament_198_58"
+            },
+            {
+                "white": "Tan Yao",
+                "black": "Lv Huiqian",
+                "date": "2015-06-24",
+                "result": 0,
+                "id": "tournament_198_59"
+            },
+            {
+                "white": "Wang Jiajuan",
+                "black": "Chen Yuke",
+                "date": "2015-06-24",
+                "result": 1,
+                "id": "tournament_198_60"
+            }
+        ],
+        "tour_11": [
+            {
+                "white": "Yang Junrui",
+                "black": "Zhu Chunqi",
+                "date": "2015-06-25",
+                "result": 0.5,
+                "id": "tournament_198_61"
+            },
+            {
+                "white": "Liu Yanbing",
+                "black": "Chen Si",
+                "date": "2015-06-25",
+                "result": 0,
+                "id": "tournament_198_62"
+            },
+            {
+                "white": "Shao Futa",
+                "black": "Shi Zhi",
+                "date": "2015-06-25",
+                "result": 0.5,
+                "id": "tournament_198_63"
+            },
+            {
+                "white": "Tan Yao",
+                "black": "Wei Zhentian",
+                "date": "2015-06-25",
+                "result": 0.5,
+                "id": "tournament_198_64"
+            },
+            {
+                "white": "Wang Jiajuan",
+                "black": "Hu Dongwen",
+                "date": "2015-06-25",
+                "result": 1,
+                "id": "tournament_198_65"
+            },
+            {
+                "white": "Chen Yuke",
+                "black": "Lv Huiqian",
+                "date": "2015-06-25",
+                "result": 1,
+                "id": "tournament_198_66"
+            }
+        ],
+        "tour_12": [
+            {
+                "white": "Zhu Chunqi",
+                "black": "Chen Si",
+                "date": "2015-06-26",
+                "result": 1,
+                "id": "tournament_198_67"
+            },
+            {
+                "white": "Yang Junrui",
+                "black": "Shi Zhi",
+                "date": "2015-06-26",
+                "result": 0.5,
+                "id": "tournament_198_68"
+            },
+            {
+                "white": "Tan Yao",
+                "black": "Shao Futa",
+                "date": "2015-06-26",
+                "result": 0,
+                "id": "tournament_198_69"
+            },
+            {
+                "white": "Wang Jiajuan",
+                "black": "Shi Wenyun",
+                "date": "2015-06-26",
+                "result": 1,
+                "id": "tournament_198_70"
+            },
+            {
+                "white": "Chen Yuke",
+                "black": "Wei Zhentian",
+                "date": "2015-06-26",
+                "result": 0.5,
+                "id": "tournament_198_71"
+            },
+            {
+                "white": "Lv Huiqian",
+                "black": "Hu Dongwen",
+                "date": "2015-06-26",
+                "result": 0.5,
+                "id": "tournament_198_72"
+            }
+        ]
+    },
+    "tours": 12,
+    "time_control": "rapid"
+}

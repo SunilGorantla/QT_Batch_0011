@@ -1,0 +1,537 @@
+{
+    "name": "tournament_13",
+    "start_date": "2014-01-23",
+    "end_date": "2014-02-16",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Wei Kai",
+                "black": "Jin Yanxiao",
+                "date": "2014-01-23",
+                "result": 1,
+                "id": "tournament_13_1"
+            },
+            {
+                "white": "Yang Jinxiang",
+                "black": "Liu Biyan",
+                "date": "2014-01-23",
+                "result": 0.5,
+                "id": "tournament_13_2"
+            },
+            {
+                "white": "Xie Qinglin",
+                "black": "Xiao Cuibing",
+                "date": "2014-01-23",
+                "result": 0.5,
+                "id": "tournament_13_3"
+            },
+            {
+                "white": "Zhao Junzhong",
+                "black": "Yin Lifu",
+                "date": "2014-01-23",
+                "result": 0.5,
+                "id": "tournament_13_4"
+            },
+            {
+                "white": "Yuan Xiaokun",
+                "black": "Xie Basheng",
+                "date": "2014-01-23",
+                "result": 0,
+                "id": "tournament_13_5"
+            },
+            {
+                "white": "Yang Ling",
+                "black": "Zhang Banzhi",
+                "date": "2014-01-23",
+                "result": 0,
+                "id": "tournament_13_6"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Dong Haifei",
+                "black": "Wei Kai",
+                "date": "2014-01-25",
+                "result": 0,
+                "id": "tournament_13_7"
+            },
+            {
+                "white": "Xie Qinglin",
+                "black": "Jin Yanxiao",
+                "date": "2014-01-25",
+                "result": 1,
+                "id": "tournament_13_8"
+            },
+            {
+                "white": "Zhao Junzhong",
+                "black": "Liu Biyan",
+                "date": "2014-01-25",
+                "result": 0,
+                "id": "tournament_13_9"
+            },
+            {
+                "white": "Yuan Xiaokun",
+                "black": "Xiao Cuibing",
+                "date": "2014-01-25",
+                "result": 0.5,
+                "id": "tournament_13_10"
+            },
+            {
+                "white": "Yang Ling",
+                "black": "Yin Lifu",
+                "date": "2014-01-25",
+                "result": 0.5,
+                "id": "tournament_13_11"
+            },
+            {
+                "white": "Zhang Banzhi",
+                "black": "Xie Basheng",
+                "date": "2014-01-25",
+                "result": 0.5,
+                "id": "tournament_13_12"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Yang Jinxiang",
+                "black": "Dong Haifei",
+                "date": "2014-01-27",
+                "result": 0,
+                "id": "tournament_13_13"
+            },
+            {
+                "white": "Wei Kai",
+                "black": "Xie Qinglin",
+                "date": "2014-01-27",
+                "result": 1,
+                "id": "tournament_13_14"
+            },
+            {
+                "white": "Yuan Xiaokun",
+                "black": "Jin Yanxiao",
+                "date": "2014-01-27",
+                "result": 0.5,
+                "id": "tournament_13_15"
+            },
+            {
+                "white": "Yang Ling",
+                "black": "Liu Biyan",
+                "date": "2014-01-27",
+                "result": 1,
+                "id": "tournament_13_16"
+            },
+            {
+                "white": "Zhang Banzhi",
+                "black": "Xiao Cuibing",
+                "date": "2014-01-27",
+                "result": 1,
+                "id": "tournament_13_17"
+            },
+            {
+                "white": "Xie Basheng",
+                "black": "Yin Lifu",
+                "date": "2014-01-27",
+                "result": 0.5,
+                "id": "tournament_13_18"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Dong Haifei",
+                "black": "Xie Qinglin",
+                "date": "2014-01-29",
+                "result": 0,
+                "id": "tournament_13_19"
+            },
+            {
+                "white": "Yang Jinxiang",
+                "black": "Zhao Junzhong",
+                "date": "2014-01-29",
+                "result": 1,
+                "id": "tournament_13_20"
+            },
+            {
+                "white": "Wei Kai",
+                "black": "Yuan Xiaokun",
+                "date": "2014-01-29",
+                "result": 1,
+                "id": "tournament_13_21"
+            },
+            {
+                "white": "Zhang Banzhi",
+                "black": "Jin Yanxiao",
+                "date": "2014-01-29",
+                "result": 1,
+                "id": "tournament_13_22"
+            },
+            {
+                "white": "Xie Basheng",
+                "black": "Liu Biyan",
+                "date": "2014-01-29",
+                "result": 1,
+                "id": "tournament_13_23"
+            },
+            {
+                "white": "Yin Lifu",
+                "black": "Xiao Cuibing",
+                "date": "2014-01-29",
+                "result": 0.5,
+                "id": "tournament_13_24"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Zhao Junzhong",
+                "black": "Dong Haifei",
+                "date": "2014-01-31",
+                "result": 0,
+                "id": "tournament_13_25"
+            },
+            {
+                "white": "Xie Qinglin",
+                "black": "Yuan Xiaokun",
+                "date": "2014-01-31",
+                "result": 1,
+                "id": "tournament_13_26"
+            },
+            {
+                "white": "Yang Jinxiang",
+                "black": "Yang Ling",
+                "date": "2014-01-31",
+                "result": 0.5,
+                "id": "tournament_13_27"
+            },
+            {
+                "white": "Wei Kai",
+                "black": "Zhang Banzhi",
+                "date": "2014-01-31",
+                "result": 0,
+                "id": "tournament_13_28"
+            },
+            {
+                "white": "Yin Lifu",
+                "black": "Jin Yanxiao",
+                "date": "2014-01-31",
+                "result": 0.5,
+                "id": "tournament_13_29"
+            },
+            {
+                "white": "Xiao Cuibing",
+                "black": "Liu Biyan",
+                "date": "2014-01-31",
+                "result": 1,
+                "id": "tournament_13_30"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Dong Haifei",
+                "black": "Yuan Xiaokun",
+                "date": "2014-02-02",
+                "result": 0.5,
+                "id": "tournament_13_31"
+            },
+            {
+                "white": "Zhao Junzhong",
+                "black": "Yang Ling",
+                "date": "2014-02-02",
+                "result": 0.5,
+                "id": "tournament_13_32"
+            },
+            {
+                "white": "Xie Qinglin",
+                "black": "Zhang Banzhi",
+                "date": "2014-02-02",
+                "result": 0.5,
+                "id": "tournament_13_33"
+            },
+            {
+                "white": "Yang Jinxiang",
+                "black": "Xie Basheng",
+                "date": "2014-02-02",
+                "result": 0,
+                "id": "tournament_13_34"
+            },
+            {
+                "white": "Wei Kai",
+                "black": "Yin Lifu",
+                "date": "2014-02-02",
+                "result": 1,
+                "id": "tournament_13_35"
+            },
+            {
+                "white": "Liu Biyan",
+                "black": "Jin Yanxiao",
+                "date": "2014-02-02",
+                "result": 0.5,
+                "id": "tournament_13_36"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Yang Ling",
+                "black": "Dong Haifei",
+                "date": "2014-02-04",
+                "result": 0.5,
+                "id": "tournament_13_37"
+            },
+            {
+                "white": "Yuan Xiaokun",
+                "black": "Zhang Banzhi",
+                "date": "2014-02-04",
+                "result": 0,
+                "id": "tournament_13_38"
+            },
+            {
+                "white": "Zhao Junzhong",
+                "black": "Xie Basheng",
+                "date": "2014-02-04",
+                "result": 0,
+                "id": "tournament_13_39"
+            },
+            {
+                "white": "Xie Qinglin",
+                "black": "Yin Lifu",
+                "date": "2014-02-04",
+                "result": 1,
+                "id": "tournament_13_40"
+            },
+            {
+                "white": "Yang Jinxiang",
+                "black": "Xiao Cuibing",
+                "date": "2014-02-04",
+                "result": 0.5,
+                "id": "tournament_13_41"
+            },
+            {
+                "white": "Wei Kai",
+                "black": "Liu Biyan",
+                "date": "2014-02-04",
+                "result": 1,
+                "id": "tournament_13_42"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Dong Haifei",
+                "black": "Zhang Banzhi",
+                "date": "2014-02-06",
+                "result": 0,
+                "id": "tournament_13_43"
+            },
+            {
+                "white": "Yang Ling",
+                "black": "Xie Basheng",
+                "date": "2014-02-06",
+                "result": 0.5,
+                "id": "tournament_13_44"
+            },
+            {
+                "white": "Yuan Xiaokun",
+                "black": "Yin Lifu",
+                "date": "2014-02-06",
+                "result": 0.5,
+                "id": "tournament_13_45"
+            },
+            {
+                "white": "Zhao Junzhong",
+                "black": "Xiao Cuibing",
+                "date": "2014-02-06",
+                "result": 0.5,
+                "id": "tournament_13_46"
+            },
+            {
+                "white": "Xie Qinglin",
+                "black": "Liu Biyan",
+                "date": "2014-02-06",
+                "result": 1,
+                "id": "tournament_13_47"
+            },
+            {
+                "white": "Yang Jinxiang",
+                "black": "Jin Yanxiao",
+                "date": "2014-02-06",
+                "result": 1,
+                "id": "tournament_13_48"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Xie Basheng",
+                "black": "Dong Haifei",
+                "date": "2014-02-08",
+                "result": 1,
+                "id": "tournament_13_49"
+            },
+            {
+                "white": "Zhang Banzhi",
+                "black": "Yin Lifu",
+                "date": "2014-02-08",
+                "result": 1,
+                "id": "tournament_13_50"
+            },
+            {
+                "white": "Yang Ling",
+                "black": "Xiao Cuibing",
+                "date": "2014-02-08",
+                "result": 0.5,
+                "id": "tournament_13_51"
+            },
+            {
+                "white": "Yuan Xiaokun",
+                "black": "Liu Biyan",
+                "date": "2014-02-08",
+                "result": 1,
+                "id": "tournament_13_52"
+            },
+            {
+                "white": "Zhao Junzhong",
+                "black": "Jin Yanxiao",
+                "date": "2014-02-08",
+                "result": 1,
+                "id": "tournament_13_53"
+            },
+            {
+                "white": "Wei Kai",
+                "black": "Yang Jinxiang",
+                "date": "2014-02-08",
+                "result": 1,
+                "id": "tournament_13_54"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "Dong Haifei",
+                "black": "Yin Lifu",
+                "date": "2014-02-10",
+                "result": 0.5,
+                "id": "tournament_13_55"
+            },
+            {
+                "white": "Xie Basheng",
+                "black": "Xiao Cuibing",
+                "date": "2014-02-10",
+                "result": 0.5,
+                "id": "tournament_13_56"
+            },
+            {
+                "white": "Zhang Banzhi",
+                "black": "Liu Biyan",
+                "date": "2014-02-10",
+                "result": 1,
+                "id": "tournament_13_57"
+            },
+            {
+                "white": "Yang Ling",
+                "black": "Jin Yanxiao",
+                "date": "2014-02-10",
+                "result": 0,
+                "id": "tournament_13_58"
+            },
+            {
+                "white": "Wei Kai",
+                "black": "Zhao Junzhong",
+                "date": "2014-02-10",
+                "result": 1,
+                "id": "tournament_13_59"
+            },
+            {
+                "white": "Yang Jinxiang",
+                "black": "Xie Qinglin",
+                "date": "2014-02-10",
+                "result": 0,
+                "id": "tournament_13_60"
+            }
+        ],
+        "tour_11": [
+            {
+                "white": "Xiao Cuibing",
+                "black": "Dong Haifei",
+                "date": "2014-02-12",
+                "result": 0.5,
+                "id": "tournament_13_61"
+            },
+            {
+                "white": "Yin Lifu",
+                "black": "Liu Biyan",
+                "date": "2014-02-12",
+                "result": 0.5,
+                "id": "tournament_13_62"
+            },
+            {
+                "white": "Xie Basheng",
+                "black": "Jin Yanxiao",
+                "date": "2014-02-12",
+                "result": 1,
+                "id": "tournament_13_63"
+            },
+            {
+                "white": "Wei Kai",
+                "black": "Yang Ling",
+                "date": "2014-02-12",
+                "result": 1,
+                "id": "tournament_13_64"
+            },
+            {
+                "white": "Yang Jinxiang",
+                "black": "Yuan Xiaokun",
+                "date": "2014-02-12",
+                "result": 1,
+                "id": "tournament_13_65"
+            },
+            {
+                "white": "Xie Qinglin",
+                "black": "Zhao Junzhong",
+                "date": "2014-02-12",
+                "result": 1,
+                "id": "tournament_13_66"
+            }
+        ],
+        "tour_12": [
+            {
+                "white": "Dong Haifei",
+                "black": "Liu Biyan",
+                "date": "2014-02-14",
+                "result": 1,
+                "id": "tournament_13_67"
+            },
+            {
+                "white": "Xiao Cuibing",
+                "black": "Jin Yanxiao",
+                "date": "2014-02-14",
+                "result": 1,
+                "id": "tournament_13_68"
+            },
+            {
+                "white": "Wei Kai",
+                "black": "Xie Basheng",
+                "date": "2014-02-14",
+                "result": 0.5,
+                "id": "tournament_13_69"
+            },
+            {
+                "white": "Yang Jinxiang",
+                "black": "Zhang Banzhi",
+                "date": "2014-02-14",
+                "result": 0,
+                "id": "tournament_13_70"
+            },
+            {
+                "white": "Xie Qinglin",
+                "black": "Yang Ling",
+                "date": "2014-02-14",
+                "result": 1,
+                "id": "tournament_13_71"
+            },
+            {
+                "white": "Zhao Junzhong",
+                "black": "Yuan Xiaokun",
+                "date": "2014-02-14",
+                "result": 0.5,
+                "id": "tournament_13_72"
+            }
+        ]
+    },
+    "tours": 12,
+    "time_control": "rapid"
+}

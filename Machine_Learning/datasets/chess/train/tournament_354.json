@@ -1,0 +1,921 @@
+{
+    "name": "tournament_354",
+    "start_date": "2016-09-14",
+    "end_date": "2016-09-14",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Xu Xiaozhi",
+                "black": "Cheng Haoting",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_1"
+            },
+            {
+                "white": "Li Meilie",
+                "black": "Liang Jinzhou",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_2"
+            },
+            {
+                "white": "Yao Weixia",
+                "black": "Chen Jining",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_3"
+            },
+            {
+                "white": "Cai Yuewen",
+                "black": "Fu Sheng",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_4"
+            },
+            {
+                "white": "Huang Mengli",
+                "black": "Wu Nanxia",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_5"
+            },
+            {
+                "white": "Huang Minxiang",
+                "black": "Chen Rongshun",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_6"
+            },
+            {
+                "white": "Guo Xiaodong",
+                "black": "Sun Qingde",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_7"
+            },
+            {
+                "white": "Chen Shengxiang",
+                "black": "Chen Xuxiang",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_8"
+            },
+            {
+                "white": "Cheng Momei",
+                "black": "Cheng Jinghua",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_9"
+            },
+            {
+                "white": "Yang Jian",
+                "black": "Xu Yaoxiang",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_10"
+            },
+            {
+                "white": "Wang Yaozhu",
+                "black": "Fan Yuan",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_11"
+            },
+            {
+                "white": "He Jianzhi",
+                "black": "Song Mengmei",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_12"
+            },
+            {
+                "white": "Li Shouchao",
+                "black": "Wang Jizhi",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_13"
+            },
+            {
+                "white": "Zhao Baoyu",
+                "black": "Cai Qi",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_14"
+            },
+            {
+                "white": "Shao Hongcong",
+                "black": "Qian Bojue",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_15"
+            },
+            {
+                "white": "Cao Lingying",
+                "black": "Yang Cheng",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_16"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Liang Jinzhou",
+                "black": "Xu Xiaozhi",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_17"
+            },
+            {
+                "white": "Fu Sheng",
+                "black": "Yao Weixia",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_18"
+            },
+            {
+                "white": "Chen Rongshun",
+                "black": "Huang Mengli",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_19"
+            },
+            {
+                "white": "Sun Qingde",
+                "black": "Li Shouchao",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_20"
+            },
+            {
+                "white": "Cheng Jinghua",
+                "black": "Zhao Baoyu",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_21"
+            },
+            {
+                "white": "Fan Yuan",
+                "black": "Li Yangyi",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_22"
+            },
+            {
+                "white": "Qian Bojue",
+                "black": "Cao Lingying",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_23"
+            },
+            {
+                "white": "Xu Yaoxiang",
+                "black": "Chen Shengxiang",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_24"
+            },
+            {
+                "white": "Chen Xuxiang",
+                "black": "Yang Jian",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_25"
+            },
+            {
+                "white": "Cheng Haoting",
+                "black": "He Jianzhi",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_26"
+            },
+            {
+                "white": "Song Mengmei",
+                "black": "Li Meilie",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_27"
+            },
+            {
+                "white": "Chen Jining",
+                "black": "Cai Yuewen",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_28"
+            },
+            {
+                "white": "Wu Nanxia",
+                "black": "Huang Minxiang",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_29"
+            },
+            {
+                "white": "Wang Jizhi",
+                "black": "Guo Xiaodong",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_30"
+            },
+            {
+                "white": "Cai Qi",
+                "black": "Cheng Momei",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_31"
+            },
+            {
+                "white": "Yang Cheng",
+                "black": "Wang Yaozhu",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_32"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Xu Xiaozhi",
+                "black": "Fu Sheng",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_33"
+            },
+            {
+                "white": "Huang Mengli",
+                "black": "Cheng Jinghua",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_34"
+            },
+            {
+                "white": "Li Shouchao",
+                "black": "Qian Bojue",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_35"
+            },
+            {
+                "white": "Li Yangyi",
+                "black": "Liang Jinzhou",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_36"
+            },
+            {
+                "white": "Yao Weixia",
+                "black": "Chen Rongshun",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_37"
+            },
+            {
+                "white": "Zhao Baoyu",
+                "black": "Sun Qingde",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_38"
+            },
+            {
+                "white": "Cao Lingying",
+                "black": "Fan Yuan",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_39"
+            },
+            {
+                "white": "Huang Minxiang",
+                "black": "Chen Xuxiang",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_40"
+            },
+            {
+                "white": "Guo Xiaodong",
+                "black": "Xu Yaoxiang",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_41"
+            },
+            {
+                "white": "Wang Yaozhu",
+                "black": "Song Mengmei",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_42"
+            },
+            {
+                "white": "Shao Hongcong",
+                "black": "Cheng Haoting",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_43"
+            },
+            {
+                "white": "Chen Shengxiang",
+                "black": "Chen Jining",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_44"
+            },
+            {
+                "white": "Yang Jian",
+                "black": "Cai Qi",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_45"
+            },
+            {
+                "white": "He Jianzhi",
+                "black": "Wu Nanxia",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_46"
+            },
+            {
+                "white": "Cheng Momei",
+                "black": "Yang Cheng",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_47"
+            },
+            {
+                "white": "Cai Yuewen",
+                "black": "Wang Jizhi",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_48"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Fu Sheng",
+                "black": "Huang Mengli",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_49"
+            },
+            {
+                "white": "Qian Bojue",
+                "black": "Li Yangyi",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_50"
+            },
+            {
+                "white": "Fan Yuan",
+                "black": "Xu Xiaozhi",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_51"
+            },
+            {
+                "white": "Xu Yaoxiang",
+                "black": "Li Shouchao",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_52"
+            },
+            {
+                "white": "Cheng Jinghua",
+                "black": "Yao Weixia",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_53"
+            },
+            {
+                "white": "Chen Rongshun",
+                "black": "Zhao Baoyu",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_54"
+            },
+            {
+                "white": "Sun Qingde",
+                "black": "Huang Minxiang",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_55"
+            },
+            {
+                "white": "Chen Xuxiang",
+                "black": "Li Meilie",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_56"
+            },
+            {
+                "white": "Song Mengmei",
+                "black": "Chen Shengxiang",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_57"
+            },
+            {
+                "white": "Cheng Haoting",
+                "black": "Yang Jian",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_58"
+            },
+            {
+                "white": "Liang Jinzhou",
+                "black": "Cheng Momei",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_59"
+            },
+            {
+                "white": "Chen Jining",
+                "black": "Cao Lingying",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_60"
+            },
+            {
+                "white": "Cai Qi",
+                "black": "Guo Xiaodong",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_61"
+            },
+            {
+                "white": "Wu Nanxia",
+                "black": "Wang Yaozhu",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_62"
+            },
+            {
+                "white": "Wang Jizhi",
+                "black": "Shao Hongcong",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_63"
+            },
+            {
+                "white": "Yang Cheng",
+                "black": "Cai Yuewen",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_64"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Li Yangyi",
+                "black": "Fu Sheng",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_65"
+            },
+            {
+                "white": "Huang Mengli",
+                "black": "Qian Bojue",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_66"
+            },
+            {
+                "white": "Yao Weixia",
+                "black": "Fan Yuan",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_67"
+            },
+            {
+                "white": "Huang Minxiang",
+                "black": "Xu Yaoxiang",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_68"
+            },
+            {
+                "white": "Chen Shengxiang",
+                "black": "Chen Rongshun",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_69"
+            },
+            {
+                "white": "He Jianzhi",
+                "black": "Chen Xuxiang",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_70"
+            },
+            {
+                "white": "Li Shouchao",
+                "black": "Cheng Haoting",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_71"
+            },
+            {
+                "white": "Xu Xiaozhi",
+                "black": "Song Mengmei",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_72"
+            },
+            {
+                "white": "Zhao Baoyu",
+                "black": "Liang Jinzhou",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_73"
+            },
+            {
+                "white": "Yang Jian",
+                "black": "Cheng Jinghua",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_74"
+            },
+            {
+                "white": "Li Meilie",
+                "black": "Sun Qingde",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_75"
+            },
+            {
+                "white": "Cheng Momei",
+                "black": "Chen Jining",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_76"
+            },
+            {
+                "white": "Cao Lingying",
+                "black": "Cai Qi",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_77"
+            },
+            {
+                "white": "Wang Yaozhu",
+                "black": "Wang Jizhi",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_78"
+            },
+            {
+                "white": "Cai Yuewen",
+                "black": "Wu Nanxia",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_79"
+            },
+            {
+                "white": "Shao Hongcong",
+                "black": "Yang Cheng",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_80"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Fu Sheng",
+                "black": "Huang Minxiang",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_81"
+            },
+            {
+                "white": "Qian Bojue",
+                "black": "Yao Weixia",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_82"
+            },
+            {
+                "white": "Fan Yuan",
+                "black": "Huang Mengli",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_83"
+            },
+            {
+                "white": "Xu Yaoxiang",
+                "black": "Li Yangyi",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_84"
+            },
+            {
+                "white": "Chen Rongshun",
+                "black": "Yang Jian",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_85"
+            },
+            {
+                "white": "Chen Xuxiang",
+                "black": "Cao Lingying",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_86"
+            },
+            {
+                "white": "Cheng Haoting",
+                "black": "Chen Shengxiang",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_87"
+            },
+            {
+                "white": "Song Mengmei",
+                "black": "Shao Hongcong",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_88"
+            },
+            {
+                "white": "Liang Jinzhou",
+                "black": "He Jianzhi",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_89"
+            },
+            {
+                "white": "Sun Qingde",
+                "black": "Cheng Momei",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_90"
+            },
+            {
+                "white": "Cheng Jinghua",
+                "black": "Li Shouchao",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_91"
+            },
+            {
+                "white": "Chen Jining",
+                "black": "Zhao Baoyu",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_92"
+            },
+            {
+                "white": "Wu Nanxia",
+                "black": "Li Meilie",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_93"
+            },
+            {
+                "white": "Cai Qi",
+                "black": "Cai Yuewen",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_94"
+            },
+            {
+                "white": "Yang Cheng",
+                "black": "Guo Xiaodong",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_95"
+            },
+            {
+                "white": "Wang Jizhi",
+                "black": "Xu Xiaozhi",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_96"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Yang Jian",
+                "black": "Fu Sheng",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_97"
+            },
+            {
+                "white": "Huang Minxiang",
+                "black": "Qian Bojue",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_98"
+            },
+            {
+                "white": "Cai Yuewen",
+                "black": "Fan Yuan",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_99"
+            },
+            {
+                "white": "Li Yangyi",
+                "black": "Chen Rongshun",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_100"
+            },
+            {
+                "white": "Huang Mengli",
+                "black": "Chen Xuxiang",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_101"
+            },
+            {
+                "white": "Yao Weixia",
+                "black": "Xu Yaoxiang",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_102"
+            },
+            {
+                "white": "Cao Lingying",
+                "black": "Song Mengmei",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_103"
+            },
+            {
+                "white": "Li Meilie",
+                "black": "Cheng Haoting",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_104"
+            },
+            {
+                "white": "Shao Hongcong",
+                "black": "Liang Jinzhou",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_105"
+            },
+            {
+                "white": "Chen Shengxiang",
+                "black": "Sun Qingde",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_106"
+            },
+            {
+                "white": "He Jianzhi",
+                "black": "Chen Jining",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_107"
+            },
+            {
+                "white": "Guo Xiaodong",
+                "black": "Cheng Jinghua",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_108"
+            },
+            {
+                "white": "Li Shouchao",
+                "black": "Wu Nanxia",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_109"
+            },
+            {
+                "white": "Xu Xiaozhi",
+                "black": "Yang Cheng",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_110"
+            },
+            {
+                "white": "Cheng Momei",
+                "black": "Wang Jizhi",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_111"
+            },
+            {
+                "white": "Wang Yaozhu",
+                "black": "Cai Qi",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_112"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Fu Sheng",
+                "black": "Cao Lingying",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_113"
+            },
+            {
+                "white": "Qian Bojue",
+                "black": "Cai Yuewen",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_114"
+            },
+            {
+                "white": "Chen Rongshun",
+                "black": "Li Shouchao",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_115"
+            },
+            {
+                "white": "Fan Yuan",
+                "black": "Chen Shengxiang",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_116"
+            },
+            {
+                "white": "Chen Xuxiang",
+                "black": "Yao Weixia",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_117"
+            },
+            {
+                "white": "Cheng Haoting",
+                "black": "Huang Mengli",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_118"
+            },
+            {
+                "white": "Xu Yaoxiang",
+                "black": "Wang Yaozhu",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_119"
+            },
+            {
+                "white": "Song Mengmei",
+                "black": "Huang Minxiang",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_120"
+            },
+            {
+                "white": "Liang Jinzhou",
+                "black": "Yang Jian",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_121"
+            },
+            {
+                "white": "Sun Qingde",
+                "black": "Li Yangyi",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_122"
+            },
+            {
+                "white": "Chen Jining",
+                "black": "Shao Hongcong",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_123"
+            },
+            {
+                "white": "Cheng Jinghua",
+                "black": "He Jianzhi",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_124"
+            },
+            {
+                "white": "Wang Jizhi",
+                "black": "Li Meilie",
+                "date": "2016-09-14",
+                "result": 0.5,
+                "id": "tournament_354_125"
+            },
+            {
+                "white": "Cai Qi",
+                "black": "Xu Xiaozhi",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_126"
+            },
+            {
+                "white": "Wu Nanxia",
+                "black": "Guo Xiaodong",
+                "date": "2016-09-14",
+                "result": 1,
+                "id": "tournament_354_127"
+            },
+            {
+                "white": "Yang Cheng",
+                "black": "Zhao Baoyu",
+                "date": "2016-09-14",
+                "result": 0,
+                "id": "tournament_354_128"
+            }
+        ]
+    },
+    "tours": 8,
+    "time_control": "rapid"
+}

@@ -1,0 +1,249 @@
+{
+    "name": "tournament_782",
+    "start_date": "2019-11-21",
+    "end_date": "2019-11-29",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Chen Shengxiang",
+                "black": "Song Zeji",
+                "date": "2019-11-21",
+                "result": 0,
+                "id": "tournament_782_1"
+            },
+            {
+                "white": "Xiong Shuxian",
+                "black": "Jin Menghui",
+                "date": "2019-11-21",
+                "result": 0,
+                "id": "tournament_782_2"
+            },
+            {
+                "white": "Lin Haili",
+                "black": "Fan Cunniu",
+                "date": "2019-11-21",
+                "result": 0,
+                "id": "tournament_782_3"
+            },
+            {
+                "white": "Liu Nvmin",
+                "black": "Xu Yaoxiang",
+                "date": "2019-11-21",
+                "result": 0.5,
+                "id": "tournament_782_4"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Liu Kunhan",
+                "black": "Chen Shengxiang",
+                "date": "2019-11-22",
+                "result": 0,
+                "id": "tournament_782_5"
+            },
+            {
+                "white": "Lin Haili",
+                "black": "Song Zeji",
+                "date": "2019-11-22",
+                "result": 0,
+                "id": "tournament_782_6"
+            },
+            {
+                "white": "Liu Nvmin",
+                "black": "Jin Menghui",
+                "date": "2019-11-22",
+                "result": 0,
+                "id": "tournament_782_7"
+            },
+            {
+                "white": "Xu Yaoxiang",
+                "black": "Fan Cunniu",
+                "date": "2019-11-22",
+                "result": 0,
+                "id": "tournament_782_8"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Xiong Shuxian",
+                "black": "Liu Kunhan",
+                "date": "2019-11-23",
+                "result": 0.5,
+                "id": "tournament_782_9"
+            },
+            {
+                "white": "Chen Shengxiang",
+                "black": "Lin Haili",
+                "date": "2019-11-23",
+                "result": 1,
+                "id": "tournament_782_10"
+            },
+            {
+                "white": "Xu Yaoxiang",
+                "black": "Song Zeji",
+                "date": "2019-11-23",
+                "result": 0,
+                "id": "tournament_782_11"
+            },
+            {
+                "white": "Fan Cunniu",
+                "black": "Jin Menghui",
+                "date": "2019-11-23",
+                "result": 1,
+                "id": "tournament_782_12"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Liu Kunhan",
+                "black": "Lin Haili",
+                "date": "2019-11-24",
+                "result": 1,
+                "id": "tournament_782_13"
+            },
+            {
+                "white": "Xiong Shuxian",
+                "black": "Liu Nvmin",
+                "date": "2019-11-24",
+                "result": 1,
+                "id": "tournament_782_14"
+            },
+            {
+                "white": "Chen Shengxiang",
+                "black": "Xu Yaoxiang",
+                "date": "2019-11-24",
+                "result": 1,
+                "id": "tournament_782_15"
+            },
+            {
+                "white": "Jin Menghui",
+                "black": "Song Zeji",
+                "date": "2019-11-24",
+                "result": 0,
+                "id": "tournament_782_16"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Liu Nvmin",
+                "black": "Liu Kunhan",
+                "date": "2019-11-25",
+                "result": 0.5,
+                "id": "tournament_782_17"
+            },
+            {
+                "white": "Lin Haili",
+                "black": "Xu Yaoxiang",
+                "date": "2019-11-25",
+                "result": 1,
+                "id": "tournament_782_18"
+            },
+            {
+                "white": "Xiong Shuxian",
+                "black": "Fan Cunniu",
+                "date": "2019-11-25",
+                "result": 0,
+                "id": "tournament_782_19"
+            },
+            {
+                "white": "Chen Shengxiang",
+                "black": "Jin Menghui",
+                "date": "2019-11-25",
+                "result": 0.5,
+                "id": "tournament_782_20"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Liu Kunhan",
+                "black": "Xu Yaoxiang",
+                "date": "2019-11-26",
+                "result": 1,
+                "id": "tournament_782_21"
+            },
+            {
+                "white": "Liu Nvmin",
+                "black": "Fan Cunniu",
+                "date": "2019-11-26",
+                "result": 0,
+                "id": "tournament_782_22"
+            },
+            {
+                "white": "Lin Haili",
+                "black": "Jin Menghui",
+                "date": "2019-11-26",
+                "result": 0,
+                "id": "tournament_782_23"
+            },
+            {
+                "white": "Xiong Shuxian",
+                "black": "Song Zeji",
+                "date": "2019-11-26",
+                "result": 0,
+                "id": "tournament_782_24"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Fan Cunniu",
+                "black": "Liu Kunhan",
+                "date": "2019-11-27",
+                "result": 1,
+                "id": "tournament_782_25"
+            },
+            {
+                "white": "Xu Yaoxiang",
+                "black": "Jin Menghui",
+                "date": "2019-11-27",
+                "result": 0,
+                "id": "tournament_782_26"
+            },
+            {
+                "white": "Liu Nvmin",
+                "black": "Song Zeji",
+                "date": "2019-11-27",
+                "result": 0,
+                "id": "tournament_782_27"
+            },
+            {
+                "white": "Chen Shengxiang",
+                "black": "Xiong Shuxian",
+                "date": "2019-11-27",
+                "result": 0.5,
+                "id": "tournament_782_28"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Liu Kunhan",
+                "black": "Jin Menghui",
+                "date": "2019-11-28",
+                "result": 0,
+                "id": "tournament_782_29"
+            },
+            {
+                "white": "Fan Cunniu",
+                "black": "Song Zeji",
+                "date": "2019-11-28",
+                "result": 0,
+                "id": "tournament_782_30"
+            },
+            {
+                "white": "Chen Shengxiang",
+                "black": "Liu Nvmin",
+                "date": "2019-11-28",
+                "result": 1,
+                "id": "tournament_782_31"
+            },
+            {
+                "white": "Xiong Shuxian",
+                "black": "Lin Haili",
+                "date": "2019-11-28",
+                "result": 0.5,
+                "id": "tournament_782_32"
+            }
+        ]
+    },
+    "tours": 8,
+    "time_control": "rapid"
+}

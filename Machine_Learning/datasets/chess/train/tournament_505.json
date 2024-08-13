@@ -1,0 +1,1494 @@
+{
+    "name": "tournament_505",
+    "start_date": "2017-11-07",
+    "end_date": "2017-11-29",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Shen Min Fu",
+                "black": "Zhang Guan Cha",
+                "date": "2017-11-07",
+                "result": 0,
+                "id": "tournament_505_1"
+            },
+            {
+                "white": "Gao Xiao Chen",
+                "black": "Liu Fei ",
+                "date": "2017-11-07",
+                "result": 0.5,
+                "id": "tournament_505_2"
+            },
+            {
+                "white": "Pang Jing ",
+                "black": "Mo Hui Jie",
+                "date": "2017-11-07",
+                "result": 1,
+                "id": "tournament_505_3"
+            },
+            {
+                "white": "Hu Jian Ping",
+                "black": "Wu Shi ",
+                "date": "2017-11-07",
+                "result": 1,
+                "id": "tournament_505_4"
+            },
+            {
+                "white": "Xie Tian Ying",
+                "black": "Xu Chun Yao",
+                "date": "2017-11-07",
+                "result": 1,
+                "id": "tournament_505_5"
+            },
+            {
+                "white": "Zhou Ying Ji",
+                "black": "Chen Kang ",
+                "date": "2017-11-07",
+                "result": 1,
+                "id": "tournament_505_6"
+            },
+            {
+                "white": "Liu Jian Xi",
+                "black": "Meng Dong Ying",
+                "date": "2017-11-07",
+                "result": 1,
+                "id": "tournament_505_7"
+            },
+            {
+                "white": "Li Fu Jie",
+                "black": "Zhao Zhen Yuan",
+                "date": "2017-11-07",
+                "result": 0,
+                "id": "tournament_505_8"
+            },
+            {
+                "white": "Zhang Mu Xing",
+                "black": "Hong Dong ",
+                "date": "2017-11-07",
+                "result": 0.5,
+                "id": "tournament_505_9"
+            },
+            {
+                "white": "Qiang Hai Tian",
+                "black": "Song Man Shen",
+                "date": "2017-11-07",
+                "result": 1,
+                "id": "tournament_505_10"
+            },
+            {
+                "white": "Wang Yu Na",
+                "black": "Huang Hui ",
+                "date": "2017-11-07",
+                "result": 1,
+                "id": "tournament_505_11"
+            },
+            {
+                "white": "Zhang Chun ",
+                "black": "Liu Yu Fu",
+                "date": "2017-11-07",
+                "result": 0.5,
+                "id": "tournament_505_12"
+            },
+            {
+                "white": "Wei Kai ",
+                "black": "Wang Xuan Yan",
+                "date": "2017-11-07",
+                "result": 0.5,
+                "id": "tournament_505_13"
+            },
+            {
+                "white": "Sun Qing Yang",
+                "black": "Fu Qing Fang",
+                "date": "2017-11-07",
+                "result": 0.5,
+                "id": "tournament_505_14"
+            },
+            {
+                "white": "He Wen Rong",
+                "black": "Fan Cun Niu",
+                "date": "2017-11-07",
+                "result": 0,
+                "id": "tournament_505_15"
+            },
+            {
+                "white": "Liang Si Pei",
+                "black": "Li Jian Fang",
+                "date": "2017-11-07",
+                "result": 0.5,
+                "id": "tournament_505_16"
+            },
+            {
+                "white": "Meng Da Yun",
+                "black": "Wang Yao Zhu",
+                "date": "2017-11-07",
+                "result": 0,
+                "id": "tournament_505_17"
+            },
+            {
+                "white": "Xu Nü ",
+                "black": "Tao Guo ",
+                "date": "2017-11-07",
+                "result": 0,
+                "id": "tournament_505_18"
+            },
+            {
+                "white": "Li Hua Hong",
+                "black": "Liu Jin Song",
+                "date": "2017-11-07",
+                "result": 1,
+                "id": "tournament_505_19"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Zhang Guan Cha",
+                "black": "Pang Jing ",
+                "date": "2017-11-09",
+                "result": 1,
+                "id": "tournament_505_20"
+            },
+            {
+                "white": "Zhao Zhen Yuan",
+                "black": "Hu Jian Ping",
+                "date": "2017-11-09",
+                "result": 1,
+                "id": "tournament_505_21"
+            },
+            {
+                "white": "Fan Cun Niu",
+                "black": "Xie Tian Ying",
+                "date": "2017-11-09",
+                "result": 0.5,
+                "id": "tournament_505_22"
+            },
+            {
+                "white": "Wang Yao Zhu",
+                "black": "Zhou Ying Ji",
+                "date": "2017-11-09",
+                "result": 0,
+                "id": "tournament_505_23"
+            },
+            {
+                "white": "Tao Guo ",
+                "black": "Liu Jian Xi",
+                "date": "2017-11-09",
+                "result": 0,
+                "id": "tournament_505_24"
+            },
+            {
+                "white": "Liu Fei ",
+                "black": "Qiang Hai Tian",
+                "date": "2017-11-09",
+                "result": 0.5,
+                "id": "tournament_505_25"
+            },
+            {
+                "white": "Hong Dong ",
+                "black": "Wang Yu Na",
+                "date": "2017-11-09",
+                "result": 0,
+                "id": "tournament_505_26"
+            },
+            {
+                "white": "Liu Yu Fu",
+                "black": "Wu Yu Ming",
+                "date": "2017-11-09",
+                "result": 0,
+                "id": "tournament_505_27"
+            },
+            {
+                "white": "Wang Xuan Yan",
+                "black": "Li Hua Hong",
+                "date": "2017-11-09",
+                "result": 0,
+                "id": "tournament_505_28"
+            },
+            {
+                "white": "Fu Qing Fang",
+                "black": "Gao Xiao Chen",
+                "date": "2017-11-09",
+                "result": 0.5,
+                "id": "tournament_505_29"
+            },
+            {
+                "white": "Li Jian Fang",
+                "black": "Zhang Mu Xing",
+                "date": "2017-11-09",
+                "result": 0,
+                "id": "tournament_505_30"
+            },
+            {
+                "white": "Mo Hui Jie",
+                "black": "Zhang Chun ",
+                "date": "2017-11-09",
+                "result": 0,
+                "id": "tournament_505_31"
+            },
+            {
+                "white": "Wu Shi ",
+                "black": "Wei Kai ",
+                "date": "2017-11-09",
+                "result": 0,
+                "id": "tournament_505_32"
+            },
+            {
+                "white": "Xu Chun Yao",
+                "black": "Sun Qing Yang",
+                "date": "2017-11-09",
+                "result": 1,
+                "id": "tournament_505_33"
+            },
+            {
+                "white": "Chen Kang ",
+                "black": "Liang Si Pei",
+                "date": "2017-11-09",
+                "result": 0,
+                "id": "tournament_505_34"
+            },
+            {
+                "white": "Meng Dong Ying",
+                "black": "Shen Min Fu",
+                "date": "2017-11-09",
+                "result": 0.5,
+                "id": "tournament_505_35"
+            },
+            {
+                "white": "Song Man Shen",
+                "black": "Li Fu Jie",
+                "date": "2017-11-09",
+                "result": 0.5,
+                "id": "tournament_505_36"
+            },
+            {
+                "white": "Huang Hui ",
+                "black": "He Wen Rong",
+                "date": "2017-11-09",
+                "result": 0,
+                "id": "tournament_505_37"
+            },
+            {
+                "white": "Liu Jin Song",
+                "black": "Meng Da Yun",
+                "date": "2017-11-09",
+                "result": 0.5,
+                "id": "tournament_505_38"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Zhou Ying Ji",
+                "black": "Zhang Guan Cha",
+                "date": "2017-11-11",
+                "result": 1,
+                "id": "tournament_505_39"
+            },
+            {
+                "white": "Liu Jian Xi",
+                "black": "Zhao Zhen Yuan",
+                "date": "2017-11-11",
+                "result": 1,
+                "id": "tournament_505_40"
+            },
+            {
+                "white": "Wang Yu Na",
+                "black": "Fan Cun Niu",
+                "date": "2017-11-11",
+                "result": 0.5,
+                "id": "tournament_505_41"
+            },
+            {
+                "white": "Wu Yu Ming",
+                "black": "Wang Yao Zhu",
+                "date": "2017-11-11",
+                "result": 1,
+                "id": "tournament_505_42"
+            },
+            {
+                "white": "Li Hua Hong",
+                "black": "Tao Guo ",
+                "date": "2017-11-11",
+                "result": 1,
+                "id": "tournament_505_43"
+            },
+            {
+                "white": "Xie Tian Ying",
+                "black": "Liu Fei ",
+                "date": "2017-11-11",
+                "result": 1,
+                "id": "tournament_505_44"
+            },
+            {
+                "white": "Qiang Hai Tian",
+                "black": "Fu Qing Fang",
+                "date": "2017-11-11",
+                "result": 0,
+                "id": "tournament_505_45"
+            },
+            {
+                "white": "Zhang Mu Xing",
+                "black": "Xu Chun Yao",
+                "date": "2017-11-11",
+                "result": 0.5,
+                "id": "tournament_505_46"
+            },
+            {
+                "white": "Zhang Chun ",
+                "black": "Hong Dong ",
+                "date": "2017-11-11",
+                "result": 1,
+                "id": "tournament_505_47"
+            },
+            {
+                "white": "Wei Kai ",
+                "black": "Liu Yu Fu",
+                "date": "2017-11-11",
+                "result": 1,
+                "id": "tournament_505_48"
+            },
+            {
+                "white": "Liang Si Pei",
+                "black": "Wang Xuan Yan",
+                "date": "2017-11-11",
+                "result": 1,
+                "id": "tournament_505_49"
+            },
+            {
+                "white": "Pang Jing ",
+                "black": "Li Jian Fang",
+                "date": "2017-11-11",
+                "result": 0,
+                "id": "tournament_505_50"
+            },
+            {
+                "white": "Hu Jian Ping",
+                "black": "Meng Dong Ying",
+                "date": "2017-11-11",
+                "result": 1,
+                "id": "tournament_505_51"
+            },
+            {
+                "white": "Gao Xiao Chen",
+                "black": "Song Man Shen",
+                "date": "2017-11-11",
+                "result": 1,
+                "id": "tournament_505_52"
+            },
+            {
+                "white": "He Wen Rong",
+                "black": "Liu Jin Song",
+                "date": "2017-11-11",
+                "result": 1,
+                "id": "tournament_505_53"
+            },
+            {
+                "white": "Xu Nü ",
+                "black": "Mo Hui Jie",
+                "date": "2017-11-11",
+                "result": 1,
+                "id": "tournament_505_54"
+            },
+            {
+                "white": "Sun Qing Yang",
+                "black": "Wu Shi ",
+                "date": "2017-11-11",
+                "result": 0.5,
+                "id": "tournament_505_55"
+            },
+            {
+                "white": "Meng Da Yun",
+                "black": "Huang Hui ",
+                "date": "2017-11-11",
+                "result": 0.5,
+                "id": "tournament_505_56"
+            },
+            {
+                "white": "Li Fu Jie",
+                "black": "Chen Kang ",
+                "date": "2017-11-11",
+                "result": 0.5,
+                "id": "tournament_505_57"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Zhao Zhen Yuan",
+                "black": "Zhou Ying Ji",
+                "date": "2017-11-13",
+                "result": 1,
+                "id": "tournament_505_58"
+            },
+            {
+                "white": "Zhang Guan Cha",
+                "black": "Liu Jian Xi",
+                "date": "2017-11-13",
+                "result": 0,
+                "id": "tournament_505_59"
+            },
+            {
+                "white": "Fan Cun Niu",
+                "black": "Wu Yu Ming",
+                "date": "2017-11-13",
+                "result": 0,
+                "id": "tournament_505_60"
+            },
+            {
+                "white": "Fu Qing Fang",
+                "black": "Li Hua Hong",
+                "date": "2017-11-13",
+                "result": 1,
+                "id": "tournament_505_61"
+            },
+            {
+                "white": "Xu Chun Yao",
+                "black": "Wang Yu Na",
+                "date": "2017-11-13",
+                "result": 0,
+                "id": "tournament_505_62"
+            },
+            {
+                "white": "Li Jian Fang",
+                "black": "Xie Tian Ying",
+                "date": "2017-11-13",
+                "result": 0,
+                "id": "tournament_505_63"
+            },
+            {
+                "white": "Wang Yao Zhu",
+                "black": "Zhang Chun ",
+                "date": "2017-11-13",
+                "result": 0,
+                "id": "tournament_505_64"
+            },
+            {
+                "white": "Tao Guo ",
+                "black": "Wei Kai ",
+                "date": "2017-11-13",
+                "result": 0.5,
+                "id": "tournament_505_65"
+            },
+            {
+                "white": "Liu Fei ",
+                "black": "Liang Si Pei",
+                "date": "2017-11-13",
+                "result": 1,
+                "id": "tournament_505_66"
+            },
+            {
+                "white": "Liu Yu Fu",
+                "black": "Zhang Mu Xing",
+                "date": "2017-11-13",
+                "result": 0,
+                "id": "tournament_505_67"
+            },
+            {
+                "white": "Hong Dong ",
+                "black": "Hu Jian Ping",
+                "date": "2017-11-13",
+                "result": 1,
+                "id": "tournament_505_68"
+            },
+            {
+                "white": "Wang Xuan Yan",
+                "black": "Gao Xiao Chen",
+                "date": "2017-11-13",
+                "result": 0,
+                "id": "tournament_505_69"
+            },
+            {
+                "white": "Meng Dong Ying",
+                "black": "He Wen Rong",
+                "date": "2017-11-13",
+                "result": 0,
+                "id": "tournament_505_70"
+            },
+            {
+                "white": "Song Man Shen",
+                "black": "Xu Nü ",
+                "date": "2017-11-13",
+                "result": 1,
+                "id": "tournament_505_71"
+            },
+            {
+                "white": "Liu Jin Song",
+                "black": "Qiang Hai Tian",
+                "date": "2017-11-13",
+                "result": 0,
+                "id": "tournament_505_72"
+            },
+            {
+                "white": "Wu Shi ",
+                "black": "Shen Min Fu",
+                "date": "2017-11-13",
+                "result": 1,
+                "id": "tournament_505_73"
+            },
+            {
+                "white": "Chen Kang ",
+                "black": "Pang Jing ",
+                "date": "2017-11-13",
+                "result": 0,
+                "id": "tournament_505_74"
+            },
+            {
+                "white": "Huang Hui ",
+                "black": "Sun Qing Yang",
+                "date": "2017-11-13",
+                "result": 0.5,
+                "id": "tournament_505_75"
+            },
+            {
+                "white": "Mo Hui Jie",
+                "black": "Li Fu Jie",
+                "date": "2017-11-13",
+                "result": 0,
+                "id": "tournament_505_76"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Liu Jian Xi",
+                "black": "Fu Qing Fang",
+                "date": "2017-11-15",
+                "result": 1,
+                "id": "tournament_505_77"
+            },
+            {
+                "white": "Wu Yu Ming",
+                "black": "Zhao Zhen Yuan",
+                "date": "2017-11-15",
+                "result": 1,
+                "id": "tournament_505_78"
+            },
+            {
+                "white": "Wang Yu Na",
+                "black": "Zhang Guan Cha",
+                "date": "2017-11-15",
+                "result": 1,
+                "id": "tournament_505_79"
+            },
+            {
+                "white": "Xie Tian Ying",
+                "black": "Tao Guo ",
+                "date": "2017-11-15",
+                "result": 0.5,
+                "id": "tournament_505_80"
+            },
+            {
+                "white": "Zhang Chun ",
+                "black": "Fan Cun Niu",
+                "date": "2017-11-15",
+                "result": 0.5,
+                "id": "tournament_505_81"
+            },
+            {
+                "white": "Zhou Ying Ji",
+                "black": "Liu Fei ",
+                "date": "2017-11-15",
+                "result": 1,
+                "id": "tournament_505_82"
+            },
+            {
+                "white": "Li Hua Hong",
+                "black": "Xu Chun Yao",
+                "date": "2017-11-15",
+                "result": 1,
+                "id": "tournament_505_83"
+            },
+            {
+                "white": "Wei Kai ",
+                "black": "Li Jian Fang",
+                "date": "2017-11-15",
+                "result": 1,
+                "id": "tournament_505_84"
+            },
+            {
+                "white": "Zhang Mu Xing",
+                "black": "Song Man Shen",
+                "date": "2017-11-15",
+                "result": 0.5,
+                "id": "tournament_505_85"
+            },
+            {
+                "white": "Gao Xiao Chen",
+                "black": "Hong Dong ",
+                "date": "2017-11-15",
+                "result": 0.5,
+                "id": "tournament_505_86"
+            },
+            {
+                "white": "He Wen Rong",
+                "black": "Wu Shi ",
+                "date": "2017-11-15",
+                "result": 0.5,
+                "id": "tournament_505_87"
+            },
+            {
+                "white": "Liang Si Pei",
+                "black": "Wang Yao Zhu",
+                "date": "2017-11-15",
+                "result": 1,
+                "id": "tournament_505_88"
+            },
+            {
+                "white": "Qiang Hai Tian",
+                "black": "Huang Hui ",
+                "date": "2017-11-15",
+                "result": 1,
+                "id": "tournament_505_89"
+            },
+            {
+                "white": "Hu Jian Ping",
+                "black": "Liu Yu Fu",
+                "date": "2017-11-15",
+                "result": 0.5,
+                "id": "tournament_505_90"
+            },
+            {
+                "white": "Xu Nü ",
+                "black": "Wang Xuan Yan",
+                "date": "2017-11-15",
+                "result": 1,
+                "id": "tournament_505_91"
+            },
+            {
+                "white": "Pang Jing ",
+                "black": "Meng Dong Ying",
+                "date": "2017-11-15",
+                "result": 1,
+                "id": "tournament_505_92"
+            },
+            {
+                "white": "Li Fu Jie",
+                "black": "Liu Jin Song",
+                "date": "2017-11-15",
+                "result": 0,
+                "id": "tournament_505_93"
+            },
+            {
+                "white": "Shen Min Fu",
+                "black": "Mo Hui Jie",
+                "date": "2017-11-15",
+                "result": 1,
+                "id": "tournament_505_94"
+            },
+            {
+                "white": "Sun Qing Yang",
+                "black": "Chen Kang ",
+                "date": "2017-11-15",
+                "result": 1,
+                "id": "tournament_505_95"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Fan Cun Niu",
+                "black": "Liu Jian Xi",
+                "date": "2017-11-17",
+                "result": 0.5,
+                "id": "tournament_505_96"
+            },
+            {
+                "white": "Fu Qing Fang",
+                "black": "Wu Yu Ming",
+                "date": "2017-11-17",
+                "result": 0,
+                "id": "tournament_505_97"
+            },
+            {
+                "white": "Zhao Zhen Yuan",
+                "black": "Wang Yu Na",
+                "date": "2017-11-17",
+                "result": 1,
+                "id": "tournament_505_98"
+            },
+            {
+                "white": "Zhang Guan Cha",
+                "black": "Xie Tian Ying",
+                "date": "2017-11-17",
+                "result": 0,
+                "id": "tournament_505_99"
+            },
+            {
+                "white": "Liu Fei ",
+                "black": "Zhang Chun ",
+                "date": "2017-11-17",
+                "result": 0,
+                "id": "tournament_505_100"
+            },
+            {
+                "white": "Tao Guo ",
+                "black": "Zhou Ying Ji",
+                "date": "2017-11-17",
+                "result": 0.5,
+                "id": "tournament_505_101"
+            },
+            {
+                "white": "Hong Dong ",
+                "black": "Li Hua Hong",
+                "date": "2017-11-17",
+                "result": 0,
+                "id": "tournament_505_102"
+            },
+            {
+                "white": "Song Man Shen",
+                "black": "Wei Kai ",
+                "date": "2017-11-17",
+                "result": 1,
+                "id": "tournament_505_103"
+            },
+            {
+                "white": "Wu Shi ",
+                "black": "Zhang Mu Xing",
+                "date": "2017-11-17",
+                "result": 0.5,
+                "id": "tournament_505_104"
+            },
+            {
+                "white": "Xu Chun Yao",
+                "black": "Gao Xiao Chen",
+                "date": "2017-11-17",
+                "result": 0.5,
+                "id": "tournament_505_105"
+            },
+            {
+                "white": "Li Jian Fang",
+                "black": "He Wen Rong",
+                "date": "2017-11-17",
+                "result": 0.5,
+                "id": "tournament_505_106"
+            },
+            {
+                "white": "Liu Jin Song",
+                "black": "Liang Si Pei",
+                "date": "2017-11-17",
+                "result": 0,
+                "id": "tournament_505_107"
+            },
+            {
+                "white": "Wang Yao Zhu",
+                "black": "Qiang Hai Tian",
+                "date": "2017-11-17",
+                "result": 0,
+                "id": "tournament_505_108"
+            },
+            {
+                "white": "Huang Hui ",
+                "black": "Xu Nü ",
+                "date": "2017-11-17",
+                "result": 0.5,
+                "id": "tournament_505_109"
+            },
+            {
+                "white": "Liu Yu Fu",
+                "black": "Pang Jing ",
+                "date": "2017-11-17",
+                "result": 1,
+                "id": "tournament_505_110"
+            },
+            {
+                "white": "Wang Xuan Yan",
+                "black": "Meng Da Yun",
+                "date": "2017-11-17",
+                "result": 0.5,
+                "id": "tournament_505_111"
+            },
+            {
+                "white": "Meng Dong Ying",
+                "black": "Sun Qing Yang",
+                "date": "2017-11-17",
+                "result": 0,
+                "id": "tournament_505_112"
+            },
+            {
+                "white": "Chen Kang ",
+                "black": "Shen Min Fu",
+                "date": "2017-11-17",
+                "result": 0,
+                "id": "tournament_505_113"
+            },
+            {
+                "white": "Mo Hui Jie",
+                "black": "Hu Jian Ping",
+                "date": "2017-11-17",
+                "result": 0,
+                "id": "tournament_505_114"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Wu Yu Ming",
+                "black": "Song Man Shen",
+                "date": "2017-11-19",
+                "result": 1,
+                "id": "tournament_505_115"
+            },
+            {
+                "white": "Liu Jian Xi",
+                "black": "Wu Shi ",
+                "date": "2017-11-19",
+                "result": 1,
+                "id": "tournament_505_116"
+            },
+            {
+                "white": "Xie Tian Ying",
+                "black": "Zhao Zhen Yuan",
+                "date": "2017-11-19",
+                "result": 0,
+                "id": "tournament_505_117"
+            },
+            {
+                "white": "Zhang Chun ",
+                "black": "Fu Qing Fang",
+                "date": "2017-11-19",
+                "result": 1,
+                "id": "tournament_505_118"
+            },
+            {
+                "white": "Li Hua Hong",
+                "black": "Fan Cun Niu",
+                "date": "2017-11-19",
+                "result": 0,
+                "id": "tournament_505_119"
+            },
+            {
+                "white": "Wang Yu Na",
+                "black": "Tao Guo ",
+                "date": "2017-11-19",
+                "result": 1,
+                "id": "tournament_505_120"
+            },
+            {
+                "white": "Zhou Ying Ji",
+                "black": "Hong Dong ",
+                "date": "2017-11-19",
+                "result": 1,
+                "id": "tournament_505_121"
+            },
+            {
+                "white": "Liang Si Pei",
+                "black": "Zhang Guan Cha",
+                "date": "2017-11-19",
+                "result": 0.5,
+                "id": "tournament_505_122"
+            },
+            {
+                "white": "Qiang Hai Tian",
+                "black": "Xu Chun Yao",
+                "date": "2017-11-19",
+                "result": 1,
+                "id": "tournament_505_123"
+            },
+            {
+                "white": "Wei Kai ",
+                "black": "Liu Fei ",
+                "date": "2017-11-19",
+                "result": 1,
+                "id": "tournament_505_124"
+            },
+            {
+                "white": "Zhang Mu Xing",
+                "black": "Liu Jin Song",
+                "date": "2017-11-19",
+                "result": 1,
+                "id": "tournament_505_125"
+            },
+            {
+                "white": "Gao Xiao Chen",
+                "black": "Li Jian Fang",
+                "date": "2017-11-19",
+                "result": 1,
+                "id": "tournament_505_126"
+            },
+            {
+                "white": "He Wen Rong",
+                "black": "Liu Yu Fu",
+                "date": "2017-11-19",
+                "result": 1,
+                "id": "tournament_505_127"
+            },
+            {
+                "white": "Xu Nü ",
+                "black": "Wang Yao Zhu",
+                "date": "2017-11-19",
+                "result": 1,
+                "id": "tournament_505_128"
+            },
+            {
+                "white": "Meng Da Yun",
+                "black": "Meng Dong Ying",
+                "date": "2017-11-19",
+                "result": 1,
+                "id": "tournament_505_129"
+            },
+            {
+                "white": "Shen Min Fu",
+                "black": "Wang Xuan Yan",
+                "date": "2017-11-19",
+                "result": 0.5,
+                "id": "tournament_505_130"
+            },
+            {
+                "white": "Pang Jing ",
+                "black": "Huang Hui ",
+                "date": "2017-11-19",
+                "result": 0.5,
+                "id": "tournament_505_131"
+            },
+            {
+                "white": "Hu Jian Ping",
+                "black": "Chen Kang ",
+                "date": "2017-11-19",
+                "result": 1,
+                "id": "tournament_505_132"
+            },
+            {
+                "white": "Sun Qing Yang",
+                "black": "Mo Hui Jie",
+                "date": "2017-11-19",
+                "result": 0.5,
+                "id": "tournament_505_133"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Tao Guo ",
+                "black": "Wu Yu Ming",
+                "date": "2017-11-21",
+                "result": 0,
+                "id": "tournament_505_134"
+            },
+            {
+                "white": "Song Man Shen",
+                "black": "Liu Jian Xi",
+                "date": "2017-11-21",
+                "result": 0,
+                "id": "tournament_505_135"
+            },
+            {
+                "white": "Zhao Zhen Yuan",
+                "black": "Zhang Chun ",
+                "date": "2017-11-21",
+                "result": 0,
+                "id": "tournament_505_136"
+            },
+            {
+                "white": "Fu Qing Fang",
+                "black": "Wang Yu Na",
+                "date": "2017-11-21",
+                "result": 0,
+                "id": "tournament_505_137"
+            },
+            {
+                "white": "Fan Cun Niu",
+                "black": "Zhou Ying Ji",
+                "date": "2017-11-21",
+                "result": 1,
+                "id": "tournament_505_138"
+            },
+            {
+                "white": "Wu Shi ",
+                "black": "Qiang Hai Tian",
+                "date": "2017-11-21",
+                "result": 0.5,
+                "id": "tournament_505_139"
+            },
+            {
+                "white": "Hong Dong ",
+                "black": "Xie Tian Ying",
+                "date": "2017-11-21",
+                "result": 0.5,
+                "id": "tournament_505_140"
+            },
+            {
+                "white": "Zhang Guan Cha",
+                "black": "Li Hua Hong",
+                "date": "2017-11-21",
+                "result": 0,
+                "id": "tournament_505_141"
+            },
+            {
+                "white": "Xu Chun Yao",
+                "black": "Liang Si Pei",
+                "date": "2017-11-21",
+                "result": 0.5,
+                "id": "tournament_505_142"
+            },
+            {
+                "white": "Huang Hui ",
+                "black": "Wei Kai ",
+                "date": "2017-11-21",
+                "result": 0,
+                "id": "tournament_505_143"
+            },
+            {
+                "white": "Liu Fei ",
+                "black": "Zhang Mu Xing",
+                "date": "2017-11-21",
+                "result": 0.5,
+                "id": "tournament_505_144"
+            },
+            {
+                "white": "Liu Yu Fu",
+                "black": "Gao Xiao Chen",
+                "date": "2017-11-21",
+                "result": 0.5,
+                "id": "tournament_505_145"
+            },
+            {
+                "white": "Wang Xuan Yan",
+                "black": "He Wen Rong",
+                "date": "2017-11-21",
+                "result": 0.5,
+                "id": "tournament_505_146"
+            },
+            {
+                "white": "Li Jian Fang",
+                "black": "Xu Nü ",
+                "date": "2017-11-21",
+                "result": 1,
+                "id": "tournament_505_147"
+            },
+            {
+                "white": "Liu Jin Song",
+                "black": "Hu Jian Ping",
+                "date": "2017-11-21",
+                "result": 0.5,
+                "id": "tournament_505_148"
+            },
+            {
+                "white": "Pang Jing ",
+                "black": "Li Fu Jie",
+                "date": "2017-11-21",
+                "result": 1,
+                "id": "tournament_505_149"
+            },
+            {
+                "white": "Chen Kang ",
+                "black": "Mo Hui Jie",
+                "date": "2017-11-21",
+                "result": 0.5,
+                "id": "tournament_505_150"
+            },
+            {
+                "white": "Meng Da Yun",
+                "black": "Shen Min Fu",
+                "date": "2017-11-21",
+                "result": 1,
+                "id": "tournament_505_151"
+            },
+            {
+                "white": "Wang Yao Zhu",
+                "black": "Sun Qing Yang",
+                "date": "2017-11-21",
+                "result": 1,
+                "id": "tournament_505_152"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Wu Yu Ming",
+                "black": "Wu Shi ",
+                "date": "2017-11-23",
+                "result": 1,
+                "id": "tournament_505_153"
+            },
+            {
+                "white": "Liu Jian Xi",
+                "black": "Li Jian Fang",
+                "date": "2017-11-23",
+                "result": 1,
+                "id": "tournament_505_154"
+            },
+            {
+                "white": "Zhang Chun ",
+                "black": "Song Man Shen",
+                "date": "2017-11-23",
+                "result": 1,
+                "id": "tournament_505_155"
+            },
+            {
+                "white": "Wang Yu Na",
+                "black": "Liu Fei ",
+                "date": "2017-11-23",
+                "result": 0.5,
+                "id": "tournament_505_156"
+            },
+            {
+                "white": "Qiang Hai Tian",
+                "black": "Zhao Zhen Yuan",
+                "date": "2017-11-23",
+                "result": 0.5,
+                "id": "tournament_505_157"
+            },
+            {
+                "white": "Li Hua Hong",
+                "black": "Liu Yu Fu",
+                "date": "2017-11-23",
+                "result": 1,
+                "id": "tournament_505_158"
+            },
+            {
+                "white": "Wei Kai ",
+                "black": "Fan Cun Niu",
+                "date": "2017-11-23",
+                "result": 0.5,
+                "id": "tournament_505_159"
+            },
+            {
+                "white": "Zhou Ying Ji",
+                "black": "Fu Qing Fang",
+                "date": "2017-11-23",
+                "result": 0.5,
+                "id": "tournament_505_160"
+            },
+            {
+                "white": "Xie Tian Ying",
+                "black": "Huang Hui ",
+                "date": "2017-11-23",
+                "result": 1,
+                "id": "tournament_505_161"
+            },
+            {
+                "white": "Liang Si Pei",
+                "black": "Tao Guo ",
+                "date": "2017-11-23",
+                "result": 0.5,
+                "id": "tournament_505_162"
+            },
+            {
+                "white": "Zhang Mu Xing",
+                "black": "Zhang Guan Cha",
+                "date": "2017-11-23",
+                "result": 1,
+                "id": "tournament_505_163"
+            },
+            {
+                "white": "Gao Xiao Chen",
+                "black": "Liu Jin Song",
+                "date": "2017-11-23",
+                "result": 1,
+                "id": "tournament_505_164"
+            },
+            {
+                "white": "He Wen Rong",
+                "black": "Hong Dong ",
+                "date": "2017-11-23",
+                "result": 1,
+                "id": "tournament_505_165"
+            },
+            {
+                "white": "Sun Qing Yang",
+                "black": "Wang Xuan Yan",
+                "date": "2017-11-23",
+                "result": 0,
+                "id": "tournament_505_166"
+            },
+            {
+                "white": "Hu Jian Ping",
+                "black": "Xu Chun Yao",
+                "date": "2017-11-23",
+                "result": 0,
+                "id": "tournament_505_167"
+            },
+            {
+                "white": "Xu Nü ",
+                "black": "Chen Kang ",
+                "date": "2017-11-23",
+                "result": 1,
+                "id": "tournament_505_168"
+            },
+            {
+                "white": "Shen Min Fu",
+                "black": "Wang Yao Zhu",
+                "date": "2017-11-23",
+                "result": 1,
+                "id": "tournament_505_169"
+            },
+            {
+                "white": "Meng Da Yun",
+                "black": "Mo Hui Jie",
+                "date": "2017-11-23",
+                "result": 1,
+                "id": "tournament_505_170"
+            },
+            {
+                "white": "Li Fu Jie",
+                "black": "Meng Dong Ying",
+                "date": "2017-11-23",
+                "result": 1,
+                "id": "tournament_505_171"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "Xu Chun Yao",
+                "black": "Wu Yu Ming",
+                "date": "2017-11-25",
+                "result": 0,
+                "id": "tournament_505_172"
+            },
+            {
+                "white": "Liu Fei ",
+                "black": "Liu Jian Xi",
+                "date": "2017-11-25",
+                "result": 0,
+                "id": "tournament_505_173"
+            },
+            {
+                "white": "Wu Shi ",
+                "black": "Zhang Chun ",
+                "date": "2017-11-25",
+                "result": 0,
+                "id": "tournament_505_174"
+            },
+            {
+                "white": "Song Man Shen",
+                "black": "Wang Yu Na",
+                "date": "2017-11-25",
+                "result": 0,
+                "id": "tournament_505_175"
+            },
+            {
+                "white": "Zhao Zhen Yuan",
+                "black": "Li Hua Hong",
+                "date": "2017-11-25",
+                "result": 1,
+                "id": "tournament_505_176"
+            },
+            {
+                "white": "Fan Cun Niu",
+                "black": "Qiang Hai Tian",
+                "date": "2017-11-25",
+                "result": 1,
+                "id": "tournament_505_177"
+            },
+            {
+                "white": "Fu Qing Fang",
+                "black": "Wei Kai ",
+                "date": "2017-11-25",
+                "result": 1,
+                "id": "tournament_505_178"
+            },
+            {
+                "white": "Wang Xuan Yan",
+                "black": "Xie Tian Ying",
+                "date": "2017-11-25",
+                "result": 0,
+                "id": "tournament_505_179"
+            },
+            {
+                "white": "Tao Guo ",
+                "black": "Zhang Mu Xing",
+                "date": "2017-11-25",
+                "result": 0.5,
+                "id": "tournament_505_180"
+            },
+            {
+                "white": "Zhang Guan Cha",
+                "black": "Gao Xiao Chen",
+                "date": "2017-11-25",
+                "result": 0,
+                "id": "tournament_505_181"
+            },
+            {
+                "white": "Wang Yao Zhu",
+                "black": "He Wen Rong",
+                "date": "2017-11-25",
+                "result": 0,
+                "id": "tournament_505_182"
+            },
+            {
+                "white": "Li Jian Fang",
+                "black": "Meng Da Yun",
+                "date": "2017-11-25",
+                "result": 1,
+                "id": "tournament_505_183"
+            },
+            {
+                "white": "Liu Jin Song",
+                "black": "Xu Nü ",
+                "date": "2017-11-25",
+                "result": 0.5,
+                "id": "tournament_505_184"
+            },
+            {
+                "white": "Huang Hui ",
+                "black": "Hu Jian Ping",
+                "date": "2017-11-25",
+                "result": 0.5,
+                "id": "tournament_505_185"
+            },
+            {
+                "white": "Hong Dong ",
+                "black": "Sun Qing Yang",
+                "date": "2017-11-25",
+                "result": 1,
+                "id": "tournament_505_186"
+            },
+            {
+                "white": "Pang Jing ",
+                "black": "Shen Min Fu",
+                "date": "2017-11-25",
+                "result": 1,
+                "id": "tournament_505_187"
+            },
+            {
+                "white": "Liu Yu Fu",
+                "black": "Li Fu Jie",
+                "date": "2017-11-25",
+                "result": 1,
+                "id": "tournament_505_188"
+            },
+            {
+                "white": "Mo Hui Jie",
+                "black": "Meng Dong Ying",
+                "date": "2017-11-25",
+                "result": 0.5,
+                "id": "tournament_505_189"
+            },
+            {
+                "white": "Liang Si Pei",
+                "black": "Zhou Ying Ji",
+                "date": "2017-11-25",
+                "result": 0,
+                "id": "tournament_505_190"
+            }
+        ],
+        "tour_11": [
+            {
+                "white": "Wu Yu Ming",
+                "black": "Li Jian Fang",
+                "date": "2017-11-27",
+                "result": 1,
+                "id": "tournament_505_191"
+            },
+            {
+                "white": "Liu Jian Xi",
+                "black": "Xu Chun Yao",
+                "date": "2017-11-27",
+                "result": 1,
+                "id": "tournament_505_192"
+            },
+            {
+                "white": "Zhang Chun ",
+                "black": "Tao Guo ",
+                "date": "2017-11-27",
+                "result": 1,
+                "id": "tournament_505_193"
+            },
+            {
+                "white": "Wang Yu Na",
+                "black": "Liu Yu Fu",
+                "date": "2017-11-27",
+                "result": 1,
+                "id": "tournament_505_194"
+            },
+            {
+                "white": "Xie Tian Ying",
+                "black": "Fu Qing Fang",
+                "date": "2017-11-27",
+                "result": 0.5,
+                "id": "tournament_505_195"
+            },
+            {
+                "white": "Gao Xiao Chen",
+                "black": "Zhao Zhen Yuan",
+                "date": "2017-11-27",
+                "result": 0.5,
+                "id": "tournament_505_196"
+            },
+            {
+                "white": "He Wen Rong",
+                "black": "Song Man Shen",
+                "date": "2017-11-27",
+                "result": 1,
+                "id": "tournament_505_197"
+            },
+            {
+                "white": "Li Hua Hong",
+                "black": "Wu Shi ",
+                "date": "2017-11-27",
+                "result": 1,
+                "id": "tournament_505_198"
+            },
+            {
+                "white": "Zhang Mu Xing",
+                "black": "Fan Cun Niu",
+                "date": "2017-11-27",
+                "result": 0,
+                "id": "tournament_505_199"
+            },
+            {
+                "white": "Zhou Ying Ji",
+                "black": "Wang Xuan Yan",
+                "date": "2017-11-27",
+                "result": 1,
+                "id": "tournament_505_200"
+            },
+            {
+                "white": "Qiang Hai Tian",
+                "black": "Hong Dong ",
+                "date": "2017-11-27",
+                "result": 1,
+                "id": "tournament_505_201"
+            },
+            {
+                "white": "Wei Kai ",
+                "black": "Zhang Guan Cha",
+                "date": "2017-11-27",
+                "result": 0.5,
+                "id": "tournament_505_202"
+            },
+            {
+                "white": "Hu Jian Ping",
+                "black": "Wang Yao Zhu",
+                "date": "2017-11-27",
+                "result": 1,
+                "id": "tournament_505_203"
+            },
+            {
+                "white": "Xu Nü ",
+                "black": "Meng Dong Ying",
+                "date": "2017-11-27",
+                "result": 1,
+                "id": "tournament_505_204"
+            },
+            {
+                "white": "Liang Si Pei",
+                "black": "Mo Hui Jie",
+                "date": "2017-11-27",
+                "result": 1,
+                "id": "tournament_505_205"
+            },
+            {
+                "white": "Pang Jing ",
+                "black": "Liu Jin Song",
+                "date": "2017-11-27",
+                "result": 0,
+                "id": "tournament_505_206"
+            },
+            {
+                "white": "Li Fu Jie",
+                "black": "Liu Fei ",
+                "date": "2017-11-27",
+                "result": 0,
+                "id": "tournament_505_207"
+            },
+            {
+                "white": "Meng Da Yun",
+                "black": "Chen Kang ",
+                "date": "2017-11-27",
+                "result": 0.5,
+                "id": "tournament_505_208"
+            },
+            {
+                "white": "Shen Min Fu",
+                "black": "Huang Hui ",
+                "date": "2017-11-27",
+                "result": 0,
+                "id": "tournament_505_209"
+            }
+        ]
+    },
+    "tours": 11,
+    "time_control": "rapid"
+}

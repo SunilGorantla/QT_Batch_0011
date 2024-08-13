@@ -1,0 +1,972 @@
+{
+    "name": "tournament_474",
+    "start_date": "2017-08-12",
+    "end_date": "2017-08-30",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Lü, Yinwen",
+                "black": "Wang, Yijuan",
+                "date": "2017-08-12",
+                "result": 0,
+                "id": "tournament_474_1"
+            },
+            {
+                "white": "Li, Sujin",
+                "black": "Liu, Yanbing",
+                "date": "2017-08-12",
+                "result": 0,
+                "id": "tournament_474_2"
+            },
+            {
+                "white": "Shi, Wenyun",
+                "black": "Yang, Dexiang",
+                "date": "2017-08-12",
+                "result": 1,
+                "id": "tournament_474_3"
+            },
+            {
+                "white": "Peng, Jiehui",
+                "black": "Gao, Changxia",
+                "date": "2017-08-12",
+                "result": 1,
+                "id": "tournament_474_4"
+            },
+            {
+                "white": "Xu, Xiaozhi",
+                "black": "Dong, Yingying",
+                "date": "2017-08-12",
+                "result": 1,
+                "id": "tournament_474_5"
+            },
+            {
+                "white": "Wang, Yuhong",
+                "black": "Mo, Huijie",
+                "date": "2017-08-12",
+                "result": 1,
+                "id": "tournament_474_6"
+            },
+            {
+                "white": "Huang, Guohua",
+                "black": "Zhou, Zhonglei",
+                "date": "2017-08-12",
+                "result": 1,
+                "id": "tournament_474_7"
+            },
+            {
+                "white": "Lin, Zexiong",
+                "black": "Cheng, Zihua",
+                "date": "2017-08-12",
+                "result": 0,
+                "id": "tournament_474_8"
+            },
+            {
+                "white": "Qin, Naitao",
+                "black": "Liu, Chiyu",
+                "date": "2017-08-12",
+                "result": 1,
+                "id": "tournament_474_9"
+            },
+            {
+                "white": "Xing, Xin",
+                "black": "Zhao, Xiyong",
+                "date": "2017-08-12",
+                "result": 1,
+                "id": "tournament_474_10"
+            },
+            {
+                "white": "Zhang, Dali",
+                "black": "Hong, Xueyou",
+                "date": "2017-08-12",
+                "result": 0,
+                "id": "tournament_474_11"
+            },
+            {
+                "white": "Wei, Ming",
+                "black": "Lü, Huiqian",
+                "date": "2017-08-12",
+                "result": 1,
+                "id": "tournament_474_12"
+            },
+            {
+                "white": "Gao, Yutao",
+                "black": "Xie, Weigong",
+                "date": "2017-08-12",
+                "result": 0,
+                "id": "tournament_474_13"
+            },
+            {
+                "white": "Shu, Zhao",
+                "black": "Yu, Yi",
+                "date": "2017-08-12",
+                "result": 0,
+                "id": "tournament_474_14"
+            },
+            {
+                "white": "Song, Mengmei",
+                "black": "Li, Yan",
+                "date": "2017-08-12",
+                "result": 0,
+                "id": "tournament_474_15"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Wang, Yijuan",
+                "black": "Shi, Wenyun",
+                "date": "2017-08-14",
+                "result": 0,
+                "id": "tournament_474_16"
+            },
+            {
+                "white": "Liu, Yanbing",
+                "black": "Peng, Jiehui",
+                "date": "2017-08-14",
+                "result": 0.5,
+                "id": "tournament_474_17"
+            },
+            {
+                "white": "Cheng, Zihua",
+                "black": "Xu, Xiaozhi",
+                "date": "2017-08-14",
+                "result": 1,
+                "id": "tournament_474_18"
+            },
+            {
+                "white": "Hong, Xueyou",
+                "black": "Wang, Yuhong",
+                "date": "2017-08-14",
+                "result": 0.5,
+                "id": "tournament_474_19"
+            },
+            {
+                "white": "Xie, Weigong",
+                "black": "Huang, Guohua",
+                "date": "2017-08-14",
+                "result": 0.5,
+                "id": "tournament_474_20"
+            },
+            {
+                "white": "Yu, Yi",
+                "black": "Qin, Naitao",
+                "date": "2017-08-14",
+                "result": 1,
+                "id": "tournament_474_21"
+            },
+            {
+                "white": "Li, Yan",
+                "black": "Xing, Xin",
+                "date": "2017-08-14",
+                "result": 1,
+                "id": "tournament_474_22"
+            },
+            {
+                "white": "Yang, Dexiang",
+                "black": "Wei, Ming",
+                "date": "2017-08-14",
+                "result": 0.5,
+                "id": "tournament_474_23"
+            },
+            {
+                "white": "Gao, Changxia",
+                "black": "Lü, Yinwen",
+                "date": "2017-08-14",
+                "result": 0.5,
+                "id": "tournament_474_24"
+            },
+            {
+                "white": "Dong, Yingying",
+                "black": "Li, Sujin",
+                "date": "2017-08-14",
+                "result": 1,
+                "id": "tournament_474_25"
+            },
+            {
+                "white": "Mo, Huijie",
+                "black": "Lin, Zexiong",
+                "date": "2017-08-14",
+                "result": 0,
+                "id": "tournament_474_26"
+            },
+            {
+                "white": "Zhou, Zhonglei",
+                "black": "Zhang, Dali",
+                "date": "2017-08-14",
+                "result": 1,
+                "id": "tournament_474_27"
+            },
+            {
+                "white": "Liu, Chiyu",
+                "black": "Gao, Yutao",
+                "date": "2017-08-14",
+                "result": 0.5,
+                "id": "tournament_474_28"
+            },
+            {
+                "white": "Zhao, Xiyong",
+                "black": "Song, Mengmei",
+                "date": "2017-08-14",
+                "result": 1,
+                "id": "tournament_474_29"
+            },
+            {
+                "white": "Lü, Huiqian",
+                "black": "Shu, Zhao",
+                "date": "2017-08-14",
+                "result": 0,
+                "id": "tournament_474_30"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Shi, Wenyun",
+                "black": "Cheng, Zihua",
+                "date": "2017-08-16",
+                "result": 0.5,
+                "id": "tournament_474_31"
+            },
+            {
+                "white": "Peng, Jiehui",
+                "black": "Yu, Yi",
+                "date": "2017-08-16",
+                "result": 0,
+                "id": "tournament_474_32"
+            },
+            {
+                "white": "Wang, Yuhong",
+                "black": "Li, Yan",
+                "date": "2017-08-16",
+                "result": 0,
+                "id": "tournament_474_33"
+            },
+            {
+                "white": "Huang, Guohua",
+                "black": "Liu, Yanbing",
+                "date": "2017-08-16",
+                "result": 1,
+                "id": "tournament_474_34"
+            },
+            {
+                "white": "Wei, Ming",
+                "black": "Hong, Xueyou",
+                "date": "2017-08-16",
+                "result": 0,
+                "id": "tournament_474_35"
+            },
+            {
+                "white": "Xu, Xiaozhi",
+                "black": "Xie, Weigong",
+                "date": "2017-08-16",
+                "result": 0,
+                "id": "tournament_474_36"
+            },
+            {
+                "white": "Qin, Naitao",
+                "black": "Wang, Yijuan",
+                "date": "2017-08-16",
+                "result": 1,
+                "id": "tournament_474_37"
+            },
+            {
+                "white": "Xing, Xin",
+                "black": "Dong, Yingying",
+                "date": "2017-08-16",
+                "result": 0.5,
+                "id": "tournament_474_38"
+            },
+            {
+                "white": "Lin, Zexiong",
+                "black": "Zhou, Zhonglei",
+                "date": "2017-08-16",
+                "result": 0,
+                "id": "tournament_474_39"
+            },
+            {
+                "white": "Shu, Zhao",
+                "black": "Zhao, Xiyong",
+                "date": "2017-08-16",
+                "result": 1,
+                "id": "tournament_474_40"
+            },
+            {
+                "white": "Lü, Yinwen",
+                "black": "Yang, Dexiang",
+                "date": "2017-08-16",
+                "result": 1,
+                "id": "tournament_474_41"
+            },
+            {
+                "white": "Gao, Yutao",
+                "black": "Gao, Changxia",
+                "date": "2017-08-16",
+                "result": 0.5,
+                "id": "tournament_474_42"
+            },
+            {
+                "white": "Li, Sujin",
+                "black": "Liu, Chiyu",
+                "date": "2017-08-16",
+                "result": 0,
+                "id": "tournament_474_43"
+            },
+            {
+                "white": "Zhang, Dali",
+                "black": "Mo, Huijie",
+                "date": "2017-08-16",
+                "result": 1,
+                "id": "tournament_474_44"
+            },
+            {
+                "white": "Song, Mengmei",
+                "black": "Lü, Huiqian",
+                "date": "2017-08-16",
+                "result": 0.5,
+                "id": "tournament_474_45"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Yu, Yi",
+                "black": "Shi, Wenyun",
+                "date": "2017-08-18",
+                "result": 0.5,
+                "id": "tournament_474_46"
+            },
+            {
+                "white": "Li, Yan",
+                "black": "Huang, Guohua",
+                "date": "2017-08-18",
+                "result": 0.5,
+                "id": "tournament_474_47"
+            },
+            {
+                "white": "Cheng, Zihua",
+                "black": "Qin, Naitao",
+                "date": "2017-08-18",
+                "result": 1,
+                "id": "tournament_474_48"
+            },
+            {
+                "white": "Hong, Xueyou",
+                "black": "Shu, Zhao",
+                "date": "2017-08-18",
+                "result": 1,
+                "id": "tournament_474_49"
+            },
+            {
+                "white": "Xie, Weigong",
+                "black": "Peng, Jiehui",
+                "date": "2017-08-18",
+                "result": 1,
+                "id": "tournament_474_50"
+            },
+            {
+                "white": "Zhou, Zhonglei",
+                "black": "Wang, Yuhong",
+                "date": "2017-08-18",
+                "result": 1,
+                "id": "tournament_474_51"
+            },
+            {
+                "white": "Liu, Yanbing",
+                "black": "Wei, Ming",
+                "date": "2017-08-18",
+                "result": 1,
+                "id": "tournament_474_52"
+            },
+            {
+                "white": "Liu, Chiyu",
+                "black": "Xing, Xin",
+                "date": "2017-08-18",
+                "result": 0.5,
+                "id": "tournament_474_53"
+            },
+            {
+                "white": "Dong, Yingying",
+                "black": "Lü, Yinwen",
+                "date": "2017-08-18",
+                "result": 1,
+                "id": "tournament_474_54"
+            },
+            {
+                "white": "Wang, Yijuan",
+                "black": "Xu, Xiaozhi",
+                "date": "2017-08-18",
+                "result": 0.5,
+                "id": "tournament_474_55"
+            },
+            {
+                "white": "Zhao, Xiyong",
+                "black": "Lin, Zexiong",
+                "date": "2017-08-18",
+                "result": 0,
+                "id": "tournament_474_56"
+            },
+            {
+                "white": "Gao, Changxia",
+                "black": "Zhang, Dali",
+                "date": "2017-08-18",
+                "result": 1,
+                "id": "tournament_474_57"
+            },
+            {
+                "white": "Yang, Dexiang",
+                "black": "Gao, Yutao",
+                "date": "2017-08-18",
+                "result": 0,
+                "id": "tournament_474_58"
+            },
+            {
+                "white": "Lü, Huiqian",
+                "black": "Li, Sujin",
+                "date": "2017-08-18",
+                "result": 0.5,
+                "id": "tournament_474_59"
+            },
+            {
+                "white": "Mo, Huijie",
+                "black": "Song, Mengmei",
+                "date": "2017-08-18",
+                "result": 1,
+                "id": "tournament_474_60"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Huang, Guohua",
+                "black": "Yu, Yi",
+                "date": "2017-08-20",
+                "result": 1,
+                "id": "tournament_474_61"
+            },
+            {
+                "white": "Shi, Wenyun",
+                "black": "Li, Yan",
+                "date": "2017-08-20",
+                "result": 0,
+                "id": "tournament_474_62"
+            },
+            {
+                "white": "Shu, Zhao",
+                "black": "Cheng, Zihua",
+                "date": "2017-08-20",
+                "result": 0.5,
+                "id": "tournament_474_63"
+            },
+            {
+                "white": "Qin, Naitao",
+                "black": "Hong, Xueyou",
+                "date": "2017-08-20",
+                "result": 0.5,
+                "id": "tournament_474_64"
+            },
+            {
+                "white": "Xing, Xin",
+                "black": "Xie, Weigong",
+                "date": "2017-08-20",
+                "result": 0.5,
+                "id": "tournament_474_65"
+            },
+            {
+                "white": "Gao, Yutao",
+                "black": "Zhou, Zhonglei",
+                "date": "2017-08-20",
+                "result": 0,
+                "id": "tournament_474_66"
+            },
+            {
+                "white": "Lin, Zexiong",
+                "black": "Liu, Yanbing",
+                "date": "2017-08-20",
+                "result": 0.5,
+                "id": "tournament_474_67"
+            },
+            {
+                "white": "Peng, Jiehui",
+                "black": "Dong, Yingying",
+                "date": "2017-08-20",
+                "result": 1,
+                "id": "tournament_474_68"
+            },
+            {
+                "white": "Wang, Yuhong",
+                "black": "Liu, Chiyu",
+                "date": "2017-08-20",
+                "result": 1,
+                "id": "tournament_474_69"
+            },
+            {
+                "white": "Wei, Ming",
+                "black": "Gao, Changxia",
+                "date": "2017-08-20",
+                "result": 0,
+                "id": "tournament_474_70"
+            },
+            {
+                "white": "Lü, Yinwen",
+                "black": "Zhao, Xiyong",
+                "date": "2017-08-20",
+                "result": 1,
+                "id": "tournament_474_71"
+            },
+            {
+                "white": "Zhang, Dali",
+                "black": "Wang, Yijuan",
+                "date": "2017-08-20",
+                "result": 0.5,
+                "id": "tournament_474_72"
+            },
+            {
+                "white": "Xu, Xiaozhi",
+                "black": "Lü, Huiqian",
+                "date": "2017-08-20",
+                "result": 1,
+                "id": "tournament_474_73"
+            },
+            {
+                "white": "Li, Sujin",
+                "black": "Mo, Huijie",
+                "date": "2017-08-20",
+                "result": 1,
+                "id": "tournament_474_74"
+            },
+            {
+                "white": "Song, Mengmei",
+                "black": "Yang, Dexiang",
+                "date": "2017-08-20",
+                "result": 0,
+                "id": "tournament_474_75"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Li, Yan",
+                "black": "Qin, Naitao",
+                "date": "2017-08-22",
+                "result": 1,
+                "id": "tournament_474_76"
+            },
+            {
+                "white": "Cheng, Zihua",
+                "black": "Huang, Guohua",
+                "date": "2017-08-22",
+                "result": 0,
+                "id": "tournament_474_77"
+            },
+            {
+                "white": "Hong, Xueyou",
+                "black": "Shi, Wenyun",
+                "date": "2017-08-22",
+                "result": 0.5,
+                "id": "tournament_474_78"
+            },
+            {
+                "white": "Xie, Weigong",
+                "black": "Shu, Zhao",
+                "date": "2017-08-22",
+                "result": 1,
+                "id": "tournament_474_79"
+            },
+            {
+                "white": "Zhou, Zhonglei",
+                "black": "Xing, Xin",
+                "date": "2017-08-22",
+                "result": 0.5,
+                "id": "tournament_474_80"
+            },
+            {
+                "white": "Yu, Yi",
+                "black": "Lin, Zexiong",
+                "date": "2017-08-22",
+                "result": 0.5,
+                "id": "tournament_474_81"
+            },
+            {
+                "white": "Liu, Yanbing",
+                "black": "Wang, Yuhong",
+                "date": "2017-08-22",
+                "result": 0.5,
+                "id": "tournament_474_82"
+            },
+            {
+                "white": "Gao, Changxia",
+                "black": "Xu, Xiaozhi",
+                "date": "2017-08-22",
+                "result": 0,
+                "id": "tournament_474_83"
+            },
+            {
+                "white": "Dong, Yingying",
+                "black": "Gao, Yutao",
+                "date": "2017-08-22",
+                "result": 0,
+                "id": "tournament_474_84"
+            },
+            {
+                "white": "Liu, Chiyu",
+                "black": "Peng, Jiehui",
+                "date": "2017-08-22",
+                "result": 0.5,
+                "id": "tournament_474_85"
+            },
+            {
+                "white": "Lü, Huiqian",
+                "black": "Zhang, Dali",
+                "date": "2017-08-22",
+                "result": 0,
+                "id": "tournament_474_86"
+            },
+            {
+                "white": "Wang, Yijuan",
+                "black": "Song, Mengmei",
+                "date": "2017-08-22",
+                "result": 1,
+                "id": "tournament_474_87"
+            },
+            {
+                "white": "Mo, Huijie",
+                "black": "Lü, Yinwen",
+                "date": "2017-08-22",
+                "result": 0.5,
+                "id": "tournament_474_88"
+            },
+            {
+                "white": "Yang, Dexiang",
+                "black": "Li, Sujin",
+                "date": "2017-08-22",
+                "result": 0,
+                "id": "tournament_474_89"
+            },
+            {
+                "white": "Zhao, Xiyong",
+                "black": "Wei, Ming",
+                "date": "2017-08-22",
+                "result": 0,
+                "id": "tournament_474_90"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Xu, Xiaozhi",
+                "black": "Li, Yan",
+                "date": "2017-08-24",
+                "result": 0.5,
+                "id": "tournament_474_91"
+            },
+            {
+                "white": "Shi, Wenyun",
+                "black": "Xie, Weigong",
+                "date": "2017-08-24",
+                "result": 0.5,
+                "id": "tournament_474_92"
+            },
+            {
+                "white": "Huang, Guohua",
+                "black": "Hong, Xueyou",
+                "date": "2017-08-24",
+                "result": 1,
+                "id": "tournament_474_93"
+            },
+            {
+                "white": "Peng, Jiehui",
+                "black": "Zhou, Zhonglei",
+                "date": "2017-08-24",
+                "result": 0,
+                "id": "tournament_474_94"
+            },
+            {
+                "white": "Xing, Xin",
+                "black": "Cheng, Zihua",
+                "date": "2017-08-24",
+                "result": 0.5,
+                "id": "tournament_474_95"
+            },
+            {
+                "white": "Wang, Yuhong",
+                "black": "Yu, Yi",
+                "date": "2017-08-24",
+                "result": 0.5,
+                "id": "tournament_474_96"
+            },
+            {
+                "white": "Lü, Yinwen",
+                "black": "Liu, Yanbing",
+                "date": "2017-08-24",
+                "result": 0.5,
+                "id": "tournament_474_97"
+            },
+            {
+                "white": "Lin, Zexiong",
+                "black": "Gao, Changxia",
+                "date": "2017-08-24",
+                "result": 0.5,
+                "id": "tournament_474_98"
+            },
+            {
+                "white": "Wei, Ming",
+                "black": "Mo, Huijie",
+                "date": "2017-08-24",
+                "result": 1,
+                "id": "tournament_474_99"
+            },
+            {
+                "white": "Li, Sujin",
+                "black": "Zhao, Xiyong",
+                "date": "2017-08-24",
+                "result": 0.5,
+                "id": "tournament_474_100"
+            },
+            {
+                "white": "Zhang, Dali",
+                "black": "Yang, Dexiang",
+                "date": "2017-08-24",
+                "result": 1,
+                "id": "tournament_474_101"
+            },
+            {
+                "white": "Qin, Naitao",
+                "black": "Song, Mengmei",
+                "date": "2017-08-24",
+                "result": 1,
+                "id": "tournament_474_102"
+            },
+            {
+                "white": "Gao, Yutao",
+                "black": "Lü, Huiqian",
+                "date": "2017-08-24",
+                "result": 1,
+                "id": "tournament_474_103"
+            },
+            {
+                "white": "Wang, Yijuan",
+                "black": "Dong, Yingying",
+                "date": "2017-08-24",
+                "result": 0.5,
+                "id": "tournament_474_104"
+            },
+            {
+                "white": "Shu, Zhao",
+                "black": "Liu, Chiyu",
+                "date": "2017-08-24",
+                "result": 1,
+                "id": "tournament_474_105"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Li, Yan",
+                "black": "Gao, Yutao",
+                "date": "2017-08-26",
+                "result": 1,
+                "id": "tournament_474_106"
+            },
+            {
+                "white": "Gao, Changxia",
+                "black": "Huang, Guohua",
+                "date": "2017-08-26",
+                "result": 0,
+                "id": "tournament_474_107"
+            },
+            {
+                "white": "Xie, Weigong",
+                "black": "Lin, Zexiong",
+                "date": "2017-08-26",
+                "result": 1,
+                "id": "tournament_474_108"
+            },
+            {
+                "white": "Zhou, Zhonglei",
+                "black": "Shi, Wenyun",
+                "date": "2017-08-26",
+                "result": 1,
+                "id": "tournament_474_109"
+            },
+            {
+                "white": "Hong, Xueyou",
+                "black": "Xu, Xiaozhi",
+                "date": "2017-08-26",
+                "result": 1,
+                "id": "tournament_474_110"
+            },
+            {
+                "white": "Cheng, Zihua",
+                "black": "Wang, Yuhong",
+                "date": "2017-08-26",
+                "result": 1,
+                "id": "tournament_474_111"
+            },
+            {
+                "white": "Yu, Yi",
+                "black": "Xing, Xin",
+                "date": "2017-08-26",
+                "result": 1,
+                "id": "tournament_474_112"
+            },
+            {
+                "white": "Liu, Yanbing",
+                "black": "Qin, Naitao",
+                "date": "2017-08-26",
+                "result": 0,
+                "id": "tournament_474_113"
+            },
+            {
+                "white": "Lü, Huiqian",
+                "black": "Lü, Yinwen",
+                "date": "2017-08-26",
+                "result": 0.5,
+                "id": "tournament_474_114"
+            },
+            {
+                "white": "Wang, Yijuan",
+                "black": "Wei, Ming",
+                "date": "2017-08-26",
+                "result": 0.5,
+                "id": "tournament_474_115"
+            },
+            {
+                "white": "Yang, Dexiang",
+                "black": "Dong, Yingying",
+                "date": "2017-08-26",
+                "result": 0,
+                "id": "tournament_474_116"
+            },
+            {
+                "white": "Li, Sujin",
+                "black": "Zhang, Dali",
+                "date": "2017-08-26",
+                "result": 0,
+                "id": "tournament_474_117"
+            },
+            {
+                "white": "Mo, Huijie",
+                "black": "Shu, Zhao",
+                "date": "2017-08-26",
+                "result": 0,
+                "id": "tournament_474_118"
+            },
+            {
+                "white": "Song, Mengmei",
+                "black": "Peng, Jiehui",
+                "date": "2017-08-26",
+                "result": 0,
+                "id": "tournament_474_119"
+            },
+            {
+                "white": "Liu, Chiyu",
+                "black": "Zhao, Xiyong",
+                "date": "2017-08-26",
+                "result": 1,
+                "id": "tournament_474_120"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Shu, Zhao",
+                "black": "Li, Yan",
+                "date": "2017-08-28",
+                "result": 0,
+                "id": "tournament_474_121"
+            },
+            {
+                "white": "Huang, Guohua",
+                "black": "Wang, Yijuan",
+                "date": "2017-08-28",
+                "result": 1,
+                "id": "tournament_474_122"
+            },
+            {
+                "white": "Qin, Naitao",
+                "black": "Xie, Weigong",
+                "date": "2017-08-28",
+                "result": 1,
+                "id": "tournament_474_123"
+            },
+            {
+                "white": "Xu, Xiaozhi",
+                "black": "Zhou, Zhonglei",
+                "date": "2017-08-28",
+                "result": 0.5,
+                "id": "tournament_474_124"
+            },
+            {
+                "white": "Gao, Yutao",
+                "black": "Hong, Xueyou",
+                "date": "2017-08-28",
+                "result": 0.5,
+                "id": "tournament_474_125"
+            },
+            {
+                "white": "Zhang, Dali",
+                "black": "Cheng, Zihua",
+                "date": "2017-08-28",
+                "result": 0,
+                "id": "tournament_474_126"
+            },
+            {
+                "white": "Lü, Yinwen",
+                "black": "Yu, Yi",
+                "date": "2017-08-28",
+                "result": 0,
+                "id": "tournament_474_127"
+            },
+            {
+                "white": "Shi, Wenyun",
+                "black": "Liu, Yanbing",
+                "date": "2017-08-28",
+                "result": 1,
+                "id": "tournament_474_128"
+            },
+            {
+                "white": "Wei, Ming",
+                "black": "Dong, Yingying",
+                "date": "2017-08-28",
+                "result": 0,
+                "id": "tournament_474_129"
+            },
+            {
+                "white": "Wang, Yuhong",
+                "black": "Yang, Dexiang",
+                "date": "2017-08-28",
+                "result": 1,
+                "id": "tournament_474_130"
+            },
+            {
+                "white": "Peng, Jiehui",
+                "black": "Zhao, Xiyong",
+                "date": "2017-08-28",
+                "result": 0.5,
+                "id": "tournament_474_131"
+            },
+            {
+                "white": "Lin, Zexiong",
+                "black": "Lü, Huiqian",
+                "date": "2017-08-28",
+                "result": 1,
+                "id": "tournament_474_132"
+            },
+            {
+                "white": "Xing, Xin",
+                "black": "Mo, Huijie",
+                "date": "2017-08-28",
+                "result": 0.5,
+                "id": "tournament_474_133"
+            },
+            {
+                "white": "Song, Mengmei",
+                "black": "Liu, Chiyu",
+                "date": "2017-08-28",
+                "result": 0,
+                "id": "tournament_474_134"
+            },
+            {
+                "white": "Li, Sujin",
+                "black": "Gao, Changxia",
+                "date": "2017-08-28",
+                "result": 0.5,
+                "id": "tournament_474_135"
+            }
+        ]
+    },
+    "tours": 9,
+    "time_control": "rapid"
+}

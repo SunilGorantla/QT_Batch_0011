@@ -1,0 +1,966 @@
+{
+    "name": "tournament_552",
+    "start_date": "2018-03-07",
+    "end_date": "2018-03-31",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Fan, Yuan",
+                "black": "Li, Lujuan",
+                "date": "2018-03-07",
+                "result": 0,
+                "id": "tournament_552_1"
+            },
+            {
+                "white": "Li, Lujuan",
+                "black": "Fan, Yuan",
+                "date": "2018-03-09",
+                "result": 1,
+                "id": "tournament_552_2"
+            },
+            {
+                "white": "Zhu, Mojie",
+                "black": "Wang, Yabao",
+                "date": "2018-03-07",
+                "result": 1,
+                "id": "tournament_552_3"
+            },
+            {
+                "white": "Wang, Yabao",
+                "black": "Zhu, Mojie",
+                "date": "2018-03-09",
+                "result": 0,
+                "id": "tournament_552_4"
+            },
+            {
+                "white": "Zhang, Banzhi",
+                "black": "Chen, Rongshun",
+                "date": "2018-03-07",
+                "result": 0.5,
+                "id": "tournament_552_5"
+            },
+            {
+                "white": "Chen, Rongshun",
+                "black": "Zhang, Banzhi",
+                "date": "2018-03-09",
+                "result": 0,
+                "id": "tournament_552_6"
+            },
+            {
+                "white": "Zhang, Haihang",
+                "black": "Song, Zeji",
+                "date": "2018-03-07",
+                "result": 0,
+                "id": "tournament_552_7"
+            },
+            {
+                "white": "Song, Zeji",
+                "black": "Zhang, Haihang",
+                "date": "2018-03-09",
+                "result": 1,
+                "id": "tournament_552_8"
+            },
+            {
+                "white": "Huang, Jianning",
+                "black": "Wang, Tianbo",
+                "date": "2018-03-07",
+                "result": 0,
+                "id": "tournament_552_9"
+            },
+            {
+                "white": "Wang, Tianbo",
+                "black": "Huang, Jianning",
+                "date": "2018-03-09",
+                "result": 0.5,
+                "id": "tournament_552_10"
+            },
+            {
+                "white": "Dong, Yubo",
+                "black": "Wu, Yishun",
+                "date": "2018-03-07",
+                "result": 0.5,
+                "id": "tournament_552_11"
+            },
+            {
+                "white": "Wu, Yishun",
+                "black": "Dong, Yubo",
+                "date": "2018-03-09",
+                "result": 1,
+                "id": "tournament_552_12"
+            },
+            {
+                "white": "Dong, Haifei",
+                "black": "Zhang, Yanying",
+                "date": "2018-03-07",
+                "result": 0.5,
+                "id": "tournament_552_13"
+            },
+            {
+                "white": "Zhang, Yanying",
+                "black": "Dong, Haifei",
+                "date": "2018-03-09",
+                "result": 1,
+                "id": "tournament_552_14"
+            },
+            {
+                "white": "Lin, Xiao",
+                "black": "Liu, Xian",
+                "date": "2018-03-07",
+                "result": 0.5,
+                "id": "tournament_552_15"
+            },
+            {
+                "white": "Liu, Xian",
+                "black": "Lin, Xiao",
+                "date": "2018-03-09",
+                "result": 1,
+                "id": "tournament_552_16"
+            },
+            {
+                "white": "Lin, Haopeng",
+                "black": "Zhang, Weirong",
+                "date": "2018-03-07",
+                "result": 0,
+                "id": "tournament_552_17"
+            },
+            {
+                "white": "Zhang, Weirong",
+                "black": "Lin, Haopeng",
+                "date": "2018-03-09",
+                "result": 1,
+                "id": "tournament_552_18"
+            },
+            {
+                "white": "Yin, Yuandong",
+                "black": "Qiang, Haitian",
+                "date": "2018-03-07",
+                "result": 0,
+                "id": "tournament_552_19"
+            },
+            {
+                "white": "Qiang, Haitian",
+                "black": "Yin, Yuandong",
+                "date": "2018-03-09",
+                "result": 0,
+                "id": "tournament_552_20"
+            },
+            {
+                "white": "Yin, Yuandong",
+                "black": "Qiang, Haitian",
+                "date": "2018-03-09",
+                "result": 1,
+                "id": "tournament_552_21"
+            },
+            {
+                "white": "Feng, Baizhen",
+                "black": "Xie, Libo",
+                "date": "2018-03-07",
+                "result": 0,
+                "id": "tournament_552_22"
+            },
+            {
+                "white": "Xie, Libo",
+                "black": "Feng, Baizhen",
+                "date": "2018-03-09",
+                "result": 1,
+                "id": "tournament_552_23"
+            },
+            {
+                "white": "Wan, Xinyi",
+                "black": "Zheng, Rendan",
+                "date": "2018-03-07",
+                "result": 1,
+                "id": "tournament_552_24"
+            },
+            {
+                "white": "Zheng, Rendan",
+                "black": "Wan, Xinyi",
+                "date": "2018-03-09",
+                "result": 0,
+                "id": "tournament_552_25"
+            },
+            {
+                "white": "Xu, Yaoxiang",
+                "black": "Liang, Jinzhou",
+                "date": "2018-03-07",
+                "result": 1,
+                "id": "tournament_552_26"
+            },
+            {
+                "white": "Liang, Jinzhou",
+                "black": "Xu, Yaoxiang",
+                "date": "2018-03-09",
+                "result": 0,
+                "id": "tournament_552_27"
+            },
+            {
+                "white": "Chen, Qiliang",
+                "black": "Zhang, Anpeng",
+                "date": "2018-03-07",
+                "result": 0,
+                "id": "tournament_552_28"
+            },
+            {
+                "white": "Zhang, Anpeng",
+                "black": "Chen, Qiliang",
+                "date": "2018-03-09",
+                "result": 1,
+                "id": "tournament_552_29"
+            },
+            {
+                "white": "Yan, Yu",
+                "black": "Cai, Yuxue",
+                "date": "2018-03-07",
+                "result": 0,
+                "id": "tournament_552_30"
+            },
+            {
+                "white": "Cai, Yuxue",
+                "black": "Yan, Yu",
+                "date": "2018-03-09",
+                "result": 1,
+                "id": "tournament_552_31"
+            },
+            {
+                "white": "Xu, Dingyun",
+                "black": "Zhang, Antian",
+                "date": "2018-03-07",
+                "result": 1,
+                "id": "tournament_552_32"
+            },
+            {
+                "white": "Zhang, Antian",
+                "black": "Xu, Dingyun",
+                "date": "2018-03-09",
+                "result": 0,
+                "id": "tournament_552_33"
+            },
+            {
+                "white": "Chen, Yuyu",
+                "black": "Zhang, Yan",
+                "date": "2018-03-07",
+                "result": 0.5,
+                "id": "tournament_552_34"
+            },
+            {
+                "white": "Zhang, Yan",
+                "black": "Chen, Yuyu",
+                "date": "2018-03-09",
+                "result": 1,
+                "id": "tournament_552_35"
+            },
+            {
+                "white": "Yan, Mei",
+                "black": "Jin, Zhi",
+                "date": "2018-03-07",
+                "result": 0.5,
+                "id": "tournament_552_36"
+            },
+            {
+                "white": "Jin, Zhi",
+                "black": "Yan, Mei",
+                "date": "2018-03-09",
+                "result": 1,
+                "id": "tournament_552_37"
+            },
+            {
+                "white": "Shi, Yijiao",
+                "black": "Yan, Sijun",
+                "date": "2018-03-07",
+                "result": 1,
+                "id": "tournament_552_38"
+            },
+            {
+                "white": "Yan, Sijun",
+                "black": "Shi, Yijiao",
+                "date": "2018-03-09",
+                "result": 0,
+                "id": "tournament_552_39"
+            },
+            {
+                "white": "Zhang, Yejun",
+                "black": "Zhao, Zhenyuan",
+                "date": "2018-03-07",
+                "result": 0,
+                "id": "tournament_552_40"
+            },
+            {
+                "white": "Zhao, Zhenyuan",
+                "black": "Zhang, Yejun",
+                "date": "2018-03-09",
+                "result": 0.5,
+                "id": "tournament_552_41"
+            },
+            {
+                "white": "Mao, Juncheng",
+                "black": "Chen, Shengxiang",
+                "date": "2018-03-07",
+                "result": 0.5,
+                "id": "tournament_552_42"
+            },
+            {
+                "white": "Chen, Shengxiang",
+                "black": "Mao, Juncheng",
+                "date": "2018-03-09",
+                "result": 0,
+                "id": "tournament_552_43"
+            },
+            {
+                "white": "Wang, Qianxun",
+                "black": "Zhang, Yayan",
+                "date": "2018-03-07",
+                "result": 1,
+                "id": "tournament_552_44"
+            },
+            {
+                "white": "Zhang, Yayan",
+                "black": "Wang, Qianxun",
+                "date": "2018-03-09",
+                "result": 0,
+                "id": "tournament_552_45"
+            },
+            {
+                "white": "Cheng, Jinghua",
+                "black": "Wu, Chunfei",
+                "date": "2018-03-07",
+                "result": 0,
+                "id": "tournament_552_46"
+            },
+            {
+                "white": "Wu, Chunfei",
+                "black": "Cheng, Jinghua",
+                "date": "2018-03-09",
+                "result": 1,
+                "id": "tournament_552_47"
+            },
+            {
+                "white": "Li, Shouchao",
+                "black": "Hao, Hualin",
+                "date": "2018-03-07",
+                "result": 0.5,
+                "id": "tournament_552_48"
+            },
+            {
+                "white": "Hao, Hualin",
+                "black": "Li, Shouchao",
+                "date": "2018-03-09",
+                "result": 1,
+                "id": "tournament_552_49"
+            },
+            {
+                "white": "Yang, Yue",
+                "black": "Li, Hai",
+                "date": "2018-03-07",
+                "result": 0,
+                "id": "tournament_552_50"
+            },
+            {
+                "white": "Li, Hai",
+                "black": "Yang, Yue",
+                "date": "2018-03-09",
+                "result": 1,
+                "id": "tournament_552_51"
+            },
+            {
+                "white": "Chen, Kang",
+                "black": "Zhu, Yu",
+                "date": "2018-03-07",
+                "result": 0,
+                "id": "tournament_552_52"
+            },
+            {
+                "white": "Zhu, Yu",
+                "black": "Chen, Kang",
+                "date": "2018-03-09",
+                "result": 1,
+                "id": "tournament_552_53"
+            },
+            {
+                "white": "Zhu, Yanguang",
+                "black": "Huang, Kaiwen",
+                "date": "2018-03-07",
+                "result": 0,
+                "id": "tournament_552_54"
+            },
+            {
+                "white": "Huang, Kaiwen",
+                "black": "Zhu, Yanguang",
+                "date": "2018-03-09",
+                "result": 1,
+                "id": "tournament_552_55"
+            },
+            {
+                "white": "Lv, Yaguang",
+                "black": "Hu, Biwei",
+                "date": "2018-03-07",
+                "result": 0,
+                "id": "tournament_552_56"
+            },
+            {
+                "white": "Hu, Biwei",
+                "black": "Lv, Yaguang",
+                "date": "2018-03-09",
+                "result": 0,
+                "id": "tournament_552_57"
+            },
+            {
+                "white": "Lv, Yaguang",
+                "black": "Hu, Biwei",
+                "date": "2018-03-09",
+                "result": 0.5,
+                "id": "tournament_552_58"
+            },
+            {
+                "white": "Yuan, Zhenshan",
+                "black": "Yan, Tianpeng",
+                "date": "2018-03-07",
+                "result": 1,
+                "id": "tournament_552_59"
+            },
+            {
+                "white": "Yan, Tianpeng",
+                "black": "Yuan, Zhenshan",
+                "date": "2018-03-09",
+                "result": 0.5,
+                "id": "tournament_552_60"
+            },
+            {
+                "white": "Jin, Xinfeng",
+                "black": "Guo, Hongmin",
+                "date": "2018-03-07",
+                "result": 1,
+                "id": "tournament_552_61"
+            },
+            {
+                "white": "Guo, Hongmin",
+                "black": "Jin, Xinfeng",
+                "date": "2018-03-09",
+                "result": 0,
+                "id": "tournament_552_62"
+            },
+            {
+                "white": "Yang, Yanbo",
+                "black": "Cheng, Haoting",
+                "date": "2018-03-07",
+                "result": 0,
+                "id": "tournament_552_63"
+            },
+            {
+                "white": "Cheng, Haoting",
+                "black": "Yang, Yanbo",
+                "date": "2018-03-09",
+                "result": 1,
+                "id": "tournament_552_64"
+            },
+            {
+                "white": "Hu, Jianjing",
+                "black": "Wei, Bitao",
+                "date": "2018-03-07",
+                "result": 0,
+                "id": "tournament_552_65"
+            },
+            {
+                "white": "Wei, Bitao",
+                "black": "Hu, Jianjing",
+                "date": "2018-03-09",
+                "result": 0.5,
+                "id": "tournament_552_66"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Li, Lujuan",
+                "black": "Zhu, Mojie",
+                "date": "2018-03-11",
+                "result": 1,
+                "id": "tournament_552_67"
+            },
+            {
+                "white": "Zhu, Mojie",
+                "black": "Li, Lujuan",
+                "date": "2018-03-13",
+                "result": 0.5,
+                "id": "tournament_552_68"
+            },
+            {
+                "white": "Zhang, Banzhi",
+                "black": "Song, Zeji",
+                "date": "2018-03-11",
+                "result": 0.5,
+                "id": "tournament_552_69"
+            },
+            {
+                "white": "Song, Zeji",
+                "black": "Zhang, Banzhi",
+                "date": "2018-03-13",
+                "result": 1,
+                "id": "tournament_552_70"
+            },
+            {
+                "white": "Wang, Tianbo",
+                "black": "Wu, Yishun",
+                "date": "2018-03-11",
+                "result": 1,
+                "id": "tournament_552_71"
+            },
+            {
+                "white": "Wu, Yishun",
+                "black": "Wang, Tianbo",
+                "date": "2018-03-13",
+                "result": 0,
+                "id": "tournament_552_72"
+            },
+            {
+                "white": "Zhang, Yanying",
+                "black": "Liu, Xian",
+                "date": "2018-03-11",
+                "result": 0.5,
+                "id": "tournament_552_73"
+            },
+            {
+                "white": "Liu, Xian",
+                "black": "Zhang, Yanying",
+                "date": "2018-03-13",
+                "result": 0.5,
+                "id": "tournament_552_74"
+            },
+            {
+                "white": "Zhang, Yanying",
+                "black": "Liu, Xian",
+                "date": "2018-03-13",
+                "result": 0.5,
+                "id": "tournament_552_75"
+            },
+            {
+                "white": "Zhang, Weirong",
+                "black": "Yin, Yuandong",
+                "date": "2018-03-11",
+                "result": 0.5,
+                "id": "tournament_552_76"
+            },
+            {
+                "white": "Yin, Yuandong",
+                "black": "Zhang, Weirong",
+                "date": "2018-03-13",
+                "result": 1,
+                "id": "tournament_552_77"
+            },
+            {
+                "white": "Xie, Libo",
+                "black": "Wan, Xinyi",
+                "date": "2018-03-11",
+                "result": 0.5,
+                "id": "tournament_552_78"
+            },
+            {
+                "white": "Wan, Xinyi",
+                "black": "Xie, Libo",
+                "date": "2018-03-13",
+                "result": 0,
+                "id": "tournament_552_79"
+            },
+            {
+                "white": "Xu, Yaoxiang",
+                "black": "Zhang, Anpeng",
+                "date": "2018-03-11",
+                "result": 0,
+                "id": "tournament_552_80"
+            },
+            {
+                "white": "Zhang, Anpeng",
+                "black": "Xu, Yaoxiang",
+                "date": "2018-03-13",
+                "result": 1,
+                "id": "tournament_552_81"
+            },
+            {
+                "white": "Cai, Yuxue",
+                "black": "Xu, Dingyun",
+                "date": "2018-03-11",
+                "result": 0.5,
+                "id": "tournament_552_82"
+            },
+            {
+                "white": "Xu, Dingyun",
+                "black": "Cai, Yuxue",
+                "date": "2018-03-13",
+                "result": 0.5,
+                "id": "tournament_552_83"
+            },
+            {
+                "white": "Cai, Yuxue",
+                "black": "Xu, Dingyun",
+                "date": "2018-03-13",
+                "result": 0.5,
+                "id": "tournament_552_84"
+            },
+            {
+                "white": "Zhang, Yan",
+                "black": "Jin, Zhi",
+                "date": "2018-03-11",
+                "result": 0.5,
+                "id": "tournament_552_85"
+            },
+            {
+                "white": "Jin, Zhi",
+                "black": "Zhang, Yan",
+                "date": "2018-03-13",
+                "result": 0,
+                "id": "tournament_552_86"
+            },
+            {
+                "white": "Shi, Yijiao",
+                "black": "Zhao, Zhenyuan",
+                "date": "2018-03-11",
+                "result": 0,
+                "id": "tournament_552_87"
+            },
+            {
+                "white": "Zhao, Zhenyuan",
+                "black": "Shi, Yijiao",
+                "date": "2018-03-13",
+                "result": 0.5,
+                "id": "tournament_552_88"
+            },
+            {
+                "white": "Mao, Juncheng",
+                "black": "Wang, Qianxun",
+                "date": "2018-03-11",
+                "result": 1,
+                "id": "tournament_552_89"
+            },
+            {
+                "white": "Wang, Qianxun",
+                "black": "Mao, Juncheng",
+                "date": "2018-03-13",
+                "result": 0,
+                "id": "tournament_552_90"
+            },
+            {
+                "white": "Wu, Chunfei",
+                "black": "Hao, Hualin",
+                "date": "2018-03-11",
+                "result": 1,
+                "id": "tournament_552_91"
+            },
+            {
+                "white": "Hao, Hualin",
+                "black": "Wu, Chunfei",
+                "date": "2018-03-13",
+                "result": 0,
+                "id": "tournament_552_92"
+            },
+            {
+                "white": "Li, Hai",
+                "black": "Zhu, Yu",
+                "date": "2018-03-11",
+                "result": 1,
+                "id": "tournament_552_93"
+            },
+            {
+                "white": "Zhu, Yu",
+                "black": "Li, Hai",
+                "date": "2018-03-13",
+                "result": 0.5,
+                "id": "tournament_552_94"
+            },
+            {
+                "white": "Huang, Kaiwen",
+                "black": "Hu, Biwei",
+                "date": "2018-03-11",
+                "result": 1,
+                "id": "tournament_552_95"
+            },
+            {
+                "white": "Hu, Biwei",
+                "black": "Huang, Kaiwen",
+                "date": "2018-03-13",
+                "result": 0,
+                "id": "tournament_552_96"
+            },
+            {
+                "white": "Yuan, Zhenshan",
+                "black": "Jin, Xinfeng",
+                "date": "2018-03-11",
+                "result": 1,
+                "id": "tournament_552_97"
+            },
+            {
+                "white": "Jin, Xinfeng",
+                "black": "Yuan, Zhenshan",
+                "date": "2018-03-13",
+                "result": 0,
+                "id": "tournament_552_98"
+            },
+            {
+                "white": "Cheng, Haoting",
+                "black": "Wei, Bitao",
+                "date": "2018-03-11",
+                "result": 0,
+                "id": "tournament_552_99"
+            },
+            {
+                "white": "Wei, Bitao",
+                "black": "Cheng, Haoting",
+                "date": "2018-03-13",
+                "result": 1,
+                "id": "tournament_552_100"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Li, Lujuan",
+                "black": "Song, Zeji",
+                "date": "2018-03-15",
+                "result": 0,
+                "id": "tournament_552_101"
+            },
+            {
+                "white": "Song, Zeji",
+                "black": "Li, Lujuan",
+                "date": "2018-03-17",
+                "result": 1,
+                "id": "tournament_552_102"
+            },
+            {
+                "white": "Wang, Tianbo",
+                "black": "Liu, Xian",
+                "date": "2018-03-15",
+                "result": 1,
+                "id": "tournament_552_103"
+            },
+            {
+                "white": "Liu, Xian",
+                "black": "Wang, Tianbo",
+                "date": "2018-03-17",
+                "result": 0.5,
+                "id": "tournament_552_104"
+            },
+            {
+                "white": "Yin, Yuandong",
+                "black": "Xie, Libo",
+                "date": "2018-03-15",
+                "result": 1,
+                "id": "tournament_552_105"
+            },
+            {
+                "white": "Xie, Libo",
+                "black": "Yin, Yuandong",
+                "date": "2018-03-17",
+                "result": 0,
+                "id": "tournament_552_106"
+            },
+            {
+                "white": "Zhang, Anpeng",
+                "black": "Xu, Dingyun",
+                "date": "2018-03-15",
+                "result": 1,
+                "id": "tournament_552_107"
+            },
+            {
+                "white": "Xu, Dingyun",
+                "black": "Zhang, Anpeng",
+                "date": "2018-03-17",
+                "result": 0,
+                "id": "tournament_552_108"
+            },
+            {
+                "white": "Zhang, Yan",
+                "black": "Zhao, Zhenyuan",
+                "date": "2018-03-15",
+                "result": 1,
+                "id": "tournament_552_109"
+            },
+            {
+                "white": "Zhao, Zhenyuan",
+                "black": "Zhang, Yan",
+                "date": "2018-03-17",
+                "result": 1,
+                "id": "tournament_552_110"
+            },
+            {
+                "white": "Zhang, Yan",
+                "black": "Zhao, Zhenyuan",
+                "date": "2018-03-17",
+                "result": 1,
+                "id": "tournament_552_111"
+            },
+            {
+                "white": "Mao, Juncheng",
+                "black": "Wu, Chunfei",
+                "date": "2018-03-15",
+                "result": 0.5,
+                "id": "tournament_552_112"
+            },
+            {
+                "white": "Wu, Chunfei",
+                "black": "Mao, Juncheng",
+                "date": "2018-03-17",
+                "result": 1,
+                "id": "tournament_552_113"
+            },
+            {
+                "white": "Li, Hai",
+                "black": "Huang, Kaiwen",
+                "date": "2018-03-15",
+                "result": 0,
+                "id": "tournament_552_114"
+            },
+            {
+                "white": "Huang, Kaiwen",
+                "black": "Li, Hai",
+                "date": "2018-03-17",
+                "result": 1,
+                "id": "tournament_552_115"
+            },
+            {
+                "white": "Yuan, Zhenshan",
+                "black": "Wei, Bitao",
+                "date": "2018-03-15",
+                "result": 1,
+                "id": "tournament_552_116"
+            },
+            {
+                "white": "Wei, Bitao",
+                "black": "Yuan, Zhenshan",
+                "date": "2018-03-17",
+                "result": 1,
+                "id": "tournament_552_117"
+            },
+            {
+                "white": "Yuan, Zhenshan",
+                "black": "Wei, Bitao",
+                "date": "2018-03-17",
+                "result": 0,
+                "id": "tournament_552_118"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Song, Zeji",
+                "black": "Wang, Tianbo",
+                "date": "2018-03-19",
+                "result": 1,
+                "id": "tournament_552_119"
+            },
+            {
+                "white": "Wang, Tianbo",
+                "black": "Song, Zeji",
+                "date": "2018-03-21",
+                "result": 0,
+                "id": "tournament_552_120"
+            },
+            {
+                "white": "Yin, Yuandong",
+                "black": "Zhang, Anpeng",
+                "date": "2018-03-19",
+                "result": 0,
+                "id": "tournament_552_121"
+            },
+            {
+                "white": "Zhang, Anpeng",
+                "black": "Yin, Yuandong",
+                "date": "2018-03-21",
+                "result": 0.5,
+                "id": "tournament_552_122"
+            },
+            {
+                "white": "Zhang, Yan",
+                "black": "Wu, Chunfei",
+                "date": "2018-03-19",
+                "result": 0.5,
+                "id": "tournament_552_123"
+            },
+            {
+                "white": "Wu, Chunfei",
+                "black": "Zhang, Yan",
+                "date": "2018-03-21",
+                "result": 0.5,
+                "id": "tournament_552_124"
+            },
+            {
+                "white": "Zhang, Yan",
+                "black": "Wu, Chunfei",
+                "date": "2018-03-21",
+                "result": 0.5,
+                "id": "tournament_552_125"
+            },
+            {
+                "white": "Huang, Kaiwen",
+                "black": "Wei, Bitao",
+                "date": "2018-03-19",
+                "result": 1,
+                "id": "tournament_552_126"
+            },
+            {
+                "white": "Wei, Bitao",
+                "black": "Huang, Kaiwen",
+                "date": "2018-03-21",
+                "result": 0,
+                "id": "tournament_552_127"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Song, Zeji",
+                "black": "Zhang, Anpeng",
+                "date": "2018-03-23",
+                "result": 0.5,
+                "id": "tournament_552_128"
+            },
+            {
+                "white": "Zhang, Anpeng",
+                "black": "Song, Zeji",
+                "date": "2018-03-25",
+                "result": 0.5,
+                "id": "tournament_552_129"
+            },
+            {
+                "white": "Song, Zeji",
+                "black": "Zhang, Anpeng",
+                "date": "2018-03-25",
+                "result": 0,
+                "id": "tournament_552_130"
+            },
+            {
+                "white": "Wu, Chunfei",
+                "black": "Huang, Kaiwen",
+                "date": "2018-03-23",
+                "result": 1,
+                "id": "tournament_552_131"
+            },
+            {
+                "white": "Huang, Kaiwen",
+                "black": "Wu, Chunfei",
+                "date": "2018-03-25",
+                "result": 0,
+                "id": "tournament_552_132"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Zhang, Anpeng",
+                "black": "Wu, Chunfei",
+                "date": "2018-03-27",
+                "result": 0.5,
+                "id": "tournament_552_133"
+            },
+            {
+                "white": "Wu, Chunfei",
+                "black": "Zhang, Anpeng",
+                "date": "2018-03-29",
+                "result": 0.5,
+                "id": "tournament_552_134"
+            },
+            {
+                "white": "Zhang, Anpeng",
+                "black": "Wu, Chunfei",
+                "date": "2018-03-29",
+                "result": 0.5,
+                "id": "tournament_552_135"
+            }
+        ]
+    },
+    "tours": 6,
+    "time_control": "rapid"
+}

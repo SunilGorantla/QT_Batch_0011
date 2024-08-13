@@ -1,0 +1,537 @@
+{
+    "name": "tournament_763",
+    "start_date": "2019-10-04",
+    "end_date": "2019-10-28",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Zhong Shu Ling",
+                "black": "Lin Hao Peng",
+                "date": "2019-10-04",
+                "result": 0.5,
+                "id": "tournament_763_1"
+            },
+            {
+                "white": "Xie Hua Yuan",
+                "black": "Wu Yong Ji",
+                "date": "2019-10-04",
+                "result": 0.5,
+                "id": "tournament_763_2"
+            },
+            {
+                "white": "Guo He Chi",
+                "black": "Dong Hai Fei",
+                "date": "2019-10-04",
+                "result": 0.5,
+                "id": "tournament_763_3"
+            },
+            {
+                "white": "Jia Ye Yan",
+                "black": "Chen Ji Ning",
+                "date": "2019-10-04",
+                "result": 1,
+                "id": "tournament_763_4"
+            },
+            {
+                "white": "Hao Yong ",
+                "black": "Li Yan ",
+                "date": "2019-10-04",
+                "result": 0.5,
+                "id": "tournament_763_5"
+            },
+            {
+                "white": "Liu Nü Min",
+                "black": "Wu Yi Shun",
+                "date": "2019-10-04",
+                "result": 0.5,
+                "id": "tournament_763_6"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Hu Shan ",
+                "black": "Zhong Shu Ling",
+                "date": "2019-10-06",
+                "result": 0.5,
+                "id": "tournament_763_7"
+            },
+            {
+                "white": "Guo He Chi",
+                "black": "Lin Hao Peng",
+                "date": "2019-10-06",
+                "result": 1,
+                "id": "tournament_763_8"
+            },
+            {
+                "white": "Jia Ye Yan",
+                "black": "Wu Yong Ji",
+                "date": "2019-10-06",
+                "result": 0.5,
+                "id": "tournament_763_9"
+            },
+            {
+                "white": "Hao Yong ",
+                "black": "Dong Hai Fei",
+                "date": "2019-10-06",
+                "result": 0,
+                "id": "tournament_763_10"
+            },
+            {
+                "white": "Liu Nü Min",
+                "black": "Chen Ji Ning",
+                "date": "2019-10-06",
+                "result": 0,
+                "id": "tournament_763_11"
+            },
+            {
+                "white": "Wu Yi Shun",
+                "black": "Li Yan ",
+                "date": "2019-10-06",
+                "result": 1,
+                "id": "tournament_763_12"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Xie Hua Yuan",
+                "black": "Hu Shan ",
+                "date": "2019-10-08",
+                "result": 0,
+                "id": "tournament_763_13"
+            },
+            {
+                "white": "Zhong Shu Ling",
+                "black": "Guo He Chi",
+                "date": "2019-10-08",
+                "result": 0,
+                "id": "tournament_763_14"
+            },
+            {
+                "white": "Hao Yong ",
+                "black": "Lin Hao Peng",
+                "date": "2019-10-08",
+                "result": 1,
+                "id": "tournament_763_15"
+            },
+            {
+                "white": "Liu Nü Min",
+                "black": "Wu Yong Ji",
+                "date": "2019-10-08",
+                "result": 0,
+                "id": "tournament_763_16"
+            },
+            {
+                "white": "Wu Yi Shun",
+                "black": "Dong Hai Fei",
+                "date": "2019-10-08",
+                "result": 0.5,
+                "id": "tournament_763_17"
+            },
+            {
+                "white": "Li Yan ",
+                "black": "Chen Ji Ning",
+                "date": "2019-10-08",
+                "result": 0.5,
+                "id": "tournament_763_18"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Hu Shan ",
+                "black": "Guo He Chi",
+                "date": "2019-10-10",
+                "result": 0.5,
+                "id": "tournament_763_19"
+            },
+            {
+                "white": "Xie Hua Yuan",
+                "black": "Jia Ye Yan",
+                "date": "2019-10-10",
+                "result": 0,
+                "id": "tournament_763_20"
+            },
+            {
+                "white": "Zhong Shu Ling",
+                "black": "Hao Yong ",
+                "date": "2019-10-10",
+                "result": 1,
+                "id": "tournament_763_21"
+            },
+            {
+                "white": "Wu Yi Shun",
+                "black": "Lin Hao Peng",
+                "date": "2019-10-10",
+                "result": 0.5,
+                "id": "tournament_763_22"
+            },
+            {
+                "white": "Li Yan ",
+                "black": "Wu Yong Ji",
+                "date": "2019-10-10",
+                "result": 0,
+                "id": "tournament_763_23"
+            },
+            {
+                "white": "Chen Ji Ning",
+                "black": "Dong Hai Fei",
+                "date": "2019-10-10",
+                "result": 1,
+                "id": "tournament_763_24"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Jia Ye Yan",
+                "black": "Hu Shan ",
+                "date": "2019-10-12",
+                "result": 0.5,
+                "id": "tournament_763_25"
+            },
+            {
+                "white": "Guo He Chi",
+                "black": "Hao Yong ",
+                "date": "2019-10-12",
+                "result": 1,
+                "id": "tournament_763_26"
+            },
+            {
+                "white": "Xie Hua Yuan",
+                "black": "Liu Nü Min",
+                "date": "2019-10-12",
+                "result": 1,
+                "id": "tournament_763_27"
+            },
+            {
+                "white": "Zhong Shu Ling",
+                "black": "Wu Yi Shun",
+                "date": "2019-10-12",
+                "result": 0.5,
+                "id": "tournament_763_28"
+            },
+            {
+                "white": "Chen Ji Ning",
+                "black": "Lin Hao Peng",
+                "date": "2019-10-12",
+                "result": 0.5,
+                "id": "tournament_763_29"
+            },
+            {
+                "white": "Dong Hai Fei",
+                "black": "Wu Yong Ji",
+                "date": "2019-10-12",
+                "result": 0.5,
+                "id": "tournament_763_30"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Hu Shan ",
+                "black": "Hao Yong ",
+                "date": "2019-10-14",
+                "result": 1,
+                "id": "tournament_763_31"
+            },
+            {
+                "white": "Jia Ye Yan",
+                "black": "Liu Nü Min",
+                "date": "2019-10-14",
+                "result": 1,
+                "id": "tournament_763_32"
+            },
+            {
+                "white": "Guo He Chi",
+                "black": "Wu Yi Shun",
+                "date": "2019-10-14",
+                "result": 1,
+                "id": "tournament_763_33"
+            },
+            {
+                "white": "Xie Hua Yuan",
+                "black": "Li Yan ",
+                "date": "2019-10-14",
+                "result": 0.5,
+                "id": "tournament_763_34"
+            },
+            {
+                "white": "Zhong Shu Ling",
+                "black": "Chen Ji Ning",
+                "date": "2019-10-14",
+                "result": 0,
+                "id": "tournament_763_35"
+            },
+            {
+                "white": "Wu Yong Ji",
+                "black": "Lin Hao Peng",
+                "date": "2019-10-14",
+                "result": 1,
+                "id": "tournament_763_36"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Liu Nü Min",
+                "black": "Hu Shan ",
+                "date": "2019-10-16",
+                "result": 0,
+                "id": "tournament_763_37"
+            },
+            {
+                "white": "Hao Yong ",
+                "black": "Wu Yi Shun",
+                "date": "2019-10-16",
+                "result": 0.5,
+                "id": "tournament_763_38"
+            },
+            {
+                "white": "Jia Ye Yan",
+                "black": "Li Yan ",
+                "date": "2019-10-16",
+                "result": 0.5,
+                "id": "tournament_763_39"
+            },
+            {
+                "white": "Guo He Chi",
+                "black": "Chen Ji Ning",
+                "date": "2019-10-16",
+                "result": 1,
+                "id": "tournament_763_40"
+            },
+            {
+                "white": "Xie Hua Yuan",
+                "black": "Dong Hai Fei",
+                "date": "2019-10-16",
+                "result": 0,
+                "id": "tournament_763_41"
+            },
+            {
+                "white": "Zhong Shu Ling",
+                "black": "Wu Yong Ji",
+                "date": "2019-10-16",
+                "result": 0,
+                "id": "tournament_763_42"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Hu Shan ",
+                "black": "Wu Yi Shun",
+                "date": "2019-10-18",
+                "result": 1,
+                "id": "tournament_763_43"
+            },
+            {
+                "white": "Liu Nü Min",
+                "black": "Li Yan ",
+                "date": "2019-10-18",
+                "result": 1,
+                "id": "tournament_763_44"
+            },
+            {
+                "white": "Hao Yong ",
+                "black": "Chen Ji Ning",
+                "date": "2019-10-18",
+                "result": 0,
+                "id": "tournament_763_45"
+            },
+            {
+                "white": "Jia Ye Yan",
+                "black": "Dong Hai Fei",
+                "date": "2019-10-18",
+                "result": 0,
+                "id": "tournament_763_46"
+            },
+            {
+                "white": "Guo He Chi",
+                "black": "Wu Yong Ji",
+                "date": "2019-10-18",
+                "result": 0.5,
+                "id": "tournament_763_47"
+            },
+            {
+                "white": "Xie Hua Yuan",
+                "black": "Lin Hao Peng",
+                "date": "2019-10-18",
+                "result": 0.5,
+                "id": "tournament_763_48"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Li Yan ",
+                "black": "Hu Shan ",
+                "date": "2019-10-20",
+                "result": 0,
+                "id": "tournament_763_49"
+            },
+            {
+                "white": "Wu Yi Shun",
+                "black": "Chen Ji Ning",
+                "date": "2019-10-20",
+                "result": 0,
+                "id": "tournament_763_50"
+            },
+            {
+                "white": "Liu Nü Min",
+                "black": "Dong Hai Fei",
+                "date": "2019-10-20",
+                "result": 0,
+                "id": "tournament_763_51"
+            },
+            {
+                "white": "Hao Yong ",
+                "black": "Wu Yong Ji",
+                "date": "2019-10-20",
+                "result": 0,
+                "id": "tournament_763_52"
+            },
+            {
+                "white": "Jia Ye Yan",
+                "black": "Lin Hao Peng",
+                "date": "2019-10-20",
+                "result": 1,
+                "id": "tournament_763_53"
+            },
+            {
+                "white": "Zhong Shu Ling",
+                "black": "Xie Hua Yuan",
+                "date": "2019-10-20",
+                "result": 0,
+                "id": "tournament_763_54"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "Hu Shan ",
+                "black": "Chen Ji Ning",
+                "date": "2019-10-22",
+                "result": 1,
+                "id": "tournament_763_55"
+            },
+            {
+                "white": "Li Yan ",
+                "black": "Dong Hai Fei",
+                "date": "2019-10-22",
+                "result": 0,
+                "id": "tournament_763_56"
+            },
+            {
+                "white": "Wu Yi Shun",
+                "black": "Wu Yong Ji",
+                "date": "2019-10-22",
+                "result": 0,
+                "id": "tournament_763_57"
+            },
+            {
+                "white": "Liu Nü Min",
+                "black": "Lin Hao Peng",
+                "date": "2019-10-22",
+                "result": 0.5,
+                "id": "tournament_763_58"
+            },
+            {
+                "white": "Zhong Shu Ling",
+                "black": "Jia Ye Yan",
+                "date": "2019-10-22",
+                "result": 0,
+                "id": "tournament_763_59"
+            },
+            {
+                "white": "Xie Hua Yuan",
+                "black": "Guo He Chi",
+                "date": "2019-10-22",
+                "result": 0,
+                "id": "tournament_763_60"
+            }
+        ],
+        "tour_11": [
+            {
+                "white": "Dong Hai Fei",
+                "black": "Hu Shan ",
+                "date": "2019-10-24",
+                "result": 1,
+                "id": "tournament_763_61"
+            },
+            {
+                "white": "Chen Ji Ning",
+                "black": "Wu Yong Ji",
+                "date": "2019-10-24",
+                "result": 0.5,
+                "id": "tournament_763_62"
+            },
+            {
+                "white": "Li Yan ",
+                "black": "Lin Hao Peng",
+                "date": "2019-10-24",
+                "result": 1,
+                "id": "tournament_763_63"
+            },
+            {
+                "white": "Zhong Shu Ling",
+                "black": "Liu Nü Min",
+                "date": "2019-10-24",
+                "result": 0,
+                "id": "tournament_763_64"
+            },
+            {
+                "white": "Xie Hua Yuan",
+                "black": "Hao Yong ",
+                "date": "2019-10-24",
+                "result": 1,
+                "id": "tournament_763_65"
+            },
+            {
+                "white": "Guo He Chi",
+                "black": "Jia Ye Yan",
+                "date": "2019-10-24",
+                "result": 0,
+                "id": "tournament_763_66"
+            }
+        ],
+        "tour_12": [
+            {
+                "white": "Hu Shan ",
+                "black": "Wu Yong Ji",
+                "date": "2019-10-26",
+                "result": 0,
+                "id": "tournament_763_67"
+            },
+            {
+                "white": "Dong Hai Fei",
+                "black": "Lin Hao Peng",
+                "date": "2019-10-26",
+                "result": 1,
+                "id": "tournament_763_68"
+            },
+            {
+                "white": "Zhong Shu Ling",
+                "black": "Li Yan ",
+                "date": "2019-10-26",
+                "result": 0.5,
+                "id": "tournament_763_69"
+            },
+            {
+                "white": "Xie Hua Yuan",
+                "black": "Wu Yi Shun",
+                "date": "2019-10-26",
+                "result": 0,
+                "id": "tournament_763_70"
+            },
+            {
+                "white": "Guo He Chi",
+                "black": "Liu Nü Min",
+                "date": "2019-10-26",
+                "result": 1,
+                "id": "tournament_763_71"
+            },
+            {
+                "white": "Jia Ye Yan",
+                "black": "Hao Yong ",
+                "date": "2019-10-26",
+                "result": 1,
+                "id": "tournament_763_72"
+            }
+        ]
+    },
+    "tours": 12,
+    "time_control": "classic"
+}

@@ -1,0 +1,147 @@
+{
+    "name": "tournament_667",
+    "start_date": "2018-12-13",
+    "end_date": "2018-12-19",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Li Qiaozhao",
+                "black": "Bi Xiaoyue",
+                "date": "2018-12-13",
+                "result": 0,
+                "id": "tournament_667_1"
+            },
+            {
+                "white": "Jia Xiezhen",
+                "black": "Feng Sanli",
+                "date": "2018-12-13",
+                "result": 1,
+                "id": "tournament_667_2"
+            },
+            {
+                "white": "Deng Zhenhua",
+                "black": "Chen Shengxiang",
+                "date": "2018-12-13",
+                "result": 1,
+                "id": "tournament_667_3"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Zhu Wenyan",
+                "black": "Li Qiaozhao",
+                "date": "2018-12-14",
+                "result": 1,
+                "id": "tournament_667_4"
+            },
+            {
+                "white": "Deng Zhenhua",
+                "black": "Bi Xiaoyue",
+                "date": "2018-12-14",
+                "result": 0.5,
+                "id": "tournament_667_5"
+            },
+            {
+                "white": "Chen Shengxiang",
+                "black": "Feng Sanli",
+                "date": "2018-12-14",
+                "result": 1,
+                "id": "tournament_667_6"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Jia Xiezhen",
+                "black": "Zhu Wenyan",
+                "date": "2018-12-15",
+                "result": 1,
+                "id": "tournament_667_7"
+            },
+            {
+                "white": "Li Qiaozhao",
+                "black": "Deng Zhenhua",
+                "date": "2018-12-15",
+                "result": 0,
+                "id": "tournament_667_8"
+            },
+            {
+                "white": "Feng Sanli",
+                "black": "Bi Xiaoyue",
+                "date": "2018-12-15",
+                "result": 0.5,
+                "id": "tournament_667_9"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Zhu Wenyan",
+                "black": "Deng Zhenhua",
+                "date": "2018-12-16",
+                "result": 0,
+                "id": "tournament_667_10"
+            },
+            {
+                "white": "Jia Xiezhen",
+                "black": "Chen Shengxiang",
+                "date": "2018-12-16",
+                "result": 1,
+                "id": "tournament_667_11"
+            },
+            {
+                "white": "Li Qiaozhao",
+                "black": "Feng Sanli",
+                "date": "2018-12-16",
+                "result": 0.5,
+                "id": "tournament_667_12"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Chen Shengxiang",
+                "black": "Zhu Wenyan",
+                "date": "2018-12-17",
+                "result": 0.5,
+                "id": "tournament_667_13"
+            },
+            {
+                "white": "Deng Zhenhua",
+                "black": "Feng Sanli",
+                "date": "2018-12-17",
+                "result": 1,
+                "id": "tournament_667_14"
+            },
+            {
+                "white": "Jia Xiezhen",
+                "black": "Bi Xiaoyue",
+                "date": "2018-12-17",
+                "result": 0.5,
+                "id": "tournament_667_15"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Zhu Wenyan",
+                "black": "Feng Sanli",
+                "date": "2018-12-18",
+                "result": 1,
+                "id": "tournament_667_16"
+            },
+            {
+                "white": "Chen Shengxiang",
+                "black": "Bi Xiaoyue",
+                "date": "2018-12-18",
+                "result": 0,
+                "id": "tournament_667_17"
+            },
+            {
+                "white": "Li Qiaozhao",
+                "black": "Jia Xiezhen",
+                "date": "2018-12-18",
+                "result": 0,
+                "id": "tournament_667_18"
+            }
+        ]
+    },
+    "tours": 6,
+    "time_control": "classic"
+}

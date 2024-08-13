@@ -1,0 +1,262 @@
+{
+    "name": "tournament_522",
+    "start_date": "2017-12-15",
+    "end_date": "2017-12-23",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Wang Xiaochuan",
+                "black": "Li Wenling",
+                "date": "2017-12-15",
+                "result": 0,
+                "id": "tournament_522_1"
+            },
+            {
+                "white": "Li Wenling",
+                "black": "Wang Xiaochuan",
+                "date": "2017-12-16",
+                "result": 0.5,
+                "id": "tournament_522_2"
+            },
+            {
+                "white": "Lan Yanxia",
+                "black": "Lu Xingmiao",
+                "date": "2017-12-15",
+                "result": 0.5,
+                "id": "tournament_522_3"
+            },
+            {
+                "white": "Lu Xingmiao",
+                "black": "Lan Yanxia",
+                "date": "2017-12-16",
+                "result": 0.5,
+                "id": "tournament_522_4"
+            },
+            {
+                "white": "Lan Yanxia",
+                "black": "Lu Xingmiao",
+                "date": "2017-12-16",
+                "result": 0.5,
+                "id": "tournament_522_5"
+            },
+            {
+                "white": "Xu Gui",
+                "black": "Chen Jining",
+                "date": "2017-12-15",
+                "result": 1,
+                "id": "tournament_522_6"
+            },
+            {
+                "white": "Chen Jining",
+                "black": "Xu Gui",
+                "date": "2017-12-16",
+                "result": 0.5,
+                "id": "tournament_522_7"
+            },
+            {
+                "white": "Yan Yu",
+                "black": "Zhao Yun",
+                "date": "2017-12-15",
+                "result": 1,
+                "id": "tournament_522_8"
+            },
+            {
+                "white": "Zhao Yun",
+                "black": "Yan Yu",
+                "date": "2017-12-16",
+                "result": 0.5,
+                "id": "tournament_522_9"
+            },
+            {
+                "white": "Liu Xingmei",
+                "black": "Fan Yuan",
+                "date": "2017-12-15",
+                "result": 0.5,
+                "id": "tournament_522_10"
+            },
+            {
+                "white": "Fan Yuan",
+                "black": "Liu Xingmei",
+                "date": "2017-12-16",
+                "result": 0.5,
+                "id": "tournament_522_11"
+            },
+            {
+                "white": "Liu Xingmei",
+                "black": "Fan Yuan",
+                "date": "2017-12-16",
+                "result": 0,
+                "id": "tournament_522_12"
+            },
+            {
+                "white": "Yang Yu",
+                "black": "Xiong Shuxian",
+                "date": "2017-12-15",
+                "result": 1,
+                "id": "tournament_522_13"
+            },
+            {
+                "white": "Xiong Shuxian",
+                "black": "Yang Yu",
+                "date": "2017-12-16",
+                "result": 0,
+                "id": "tournament_522_14"
+            },
+            {
+                "white": "Fan Jianli",
+                "black": "Zhang Muxing",
+                "date": "2017-12-15",
+                "result": 0.5,
+                "id": "tournament_522_15"
+            },
+            {
+                "white": "Zhang Muxing",
+                "black": "Fan Jianli",
+                "date": "2017-12-16",
+                "result": 0,
+                "id": "tournament_522_16"
+            },
+            {
+                "white": "Wang Jin",
+                "black": "Qin Qing",
+                "date": "2017-12-15",
+                "result": 1,
+                "id": "tournament_522_17"
+            },
+            {
+                "white": "Qin Qing",
+                "black": "Wang Jin",
+                "date": "2017-12-16",
+                "result": 0.5,
+                "id": "tournament_522_18"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Li Wenling",
+                "black": "Lu Xingmiao",
+                "date": "2017-12-17",
+                "result": 1,
+                "id": "tournament_522_19"
+            },
+            {
+                "white": "Lu Xingmiao",
+                "black": "Li Wenling",
+                "date": "2017-12-18",
+                "result": 0,
+                "id": "tournament_522_20"
+            },
+            {
+                "white": "Xu Gui",
+                "black": "Yan Yu",
+                "date": "2017-12-17",
+                "result": 0.5,
+                "id": "tournament_522_21"
+            },
+            {
+                "white": "Yan Yu",
+                "black": "Xu Gui",
+                "date": "2017-12-18",
+                "result": 0.5,
+                "id": "tournament_522_22"
+            },
+            {
+                "white": "Xu Gui",
+                "black": "Yan Yu",
+                "date": "2017-12-18",
+                "result": 1,
+                "id": "tournament_522_23"
+            },
+            {
+                "white": "Fan Yuan",
+                "black": "Yang Yu",
+                "date": "2017-12-17",
+                "result": 0.5,
+                "id": "tournament_522_24"
+            },
+            {
+                "white": "Yang Yu",
+                "black": "Fan Yuan",
+                "date": "2017-12-18",
+                "result": 0.5,
+                "id": "tournament_522_25"
+            },
+            {
+                "white": "Fan Yuan",
+                "black": "Yang Yu",
+                "date": "2017-12-18",
+                "result": 1,
+                "id": "tournament_522_26"
+            },
+            {
+                "white": "Fan Jianli",
+                "black": "Wang Jin",
+                "date": "2017-12-17",
+                "result": 1,
+                "id": "tournament_522_27"
+            },
+            {
+                "white": "Wang Jin",
+                "black": "Fan Jianli",
+                "date": "2017-12-18",
+                "result": 0,
+                "id": "tournament_522_28"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Li Wenling",
+                "black": "Xu Gui",
+                "date": "2017-12-19",
+                "result": 1,
+                "id": "tournament_522_29"
+            },
+            {
+                "white": "Xu Gui",
+                "black": "Li Wenling",
+                "date": "2017-12-20",
+                "result": 0,
+                "id": "tournament_522_30"
+            },
+            {
+                "white": "Fan Yuan",
+                "black": "Fan Jianli",
+                "date": "2017-12-19",
+                "result": 1,
+                "id": "tournament_522_31"
+            },
+            {
+                "white": "Fan Jianli",
+                "black": "Fan Yuan",
+                "date": "2017-12-20",
+                "result": 1,
+                "id": "tournament_522_32"
+            },
+            {
+                "white": "Fan Yuan",
+                "black": "Fan Jianli",
+                "date": "2017-12-20",
+                "result": 1,
+                "id": "tournament_522_33"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Li Wenling",
+                "black": "Fan Yuan",
+                "date": "2017-12-21",
+                "result": 1,
+                "id": "tournament_522_34"
+            },
+            {
+                "white": "Fan Yuan",
+                "black": "Li Wenling",
+                "date": "2017-12-22",
+                "result": 0,
+                "id": "tournament_522_35"
+            }
+        ]
+    },
+    "tours": 4,
+    "time_control": "classic"
+}

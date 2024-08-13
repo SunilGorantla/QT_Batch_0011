@@ -1,0 +1,495 @@
+{
+    "name": "tournament_280",
+    "start_date": "2016-02-09",
+    "end_date": "2016-02-19",
+    "games": {
+        "tour_1": [
+            {
+                "white": "刘青聪",
+                "black": "王瑶珠",
+                "date": "2016-02-09",
+                "result": 1,
+                "id": "tournament_280_1"
+            },
+            {
+                "white": "王瑶珠",
+                "black": "刘青聪",
+                "date": "2016-02-10",
+                "result": 0,
+                "id": "tournament_280_2"
+            },
+            {
+                "white": "袁小昆",
+                "black": "吴秋",
+                "date": "2016-02-09",
+                "result": 0,
+                "id": "tournament_280_3"
+            },
+            {
+                "white": "吴秋",
+                "black": "袁小昆",
+                "date": "2016-02-10",
+                "result": 1,
+                "id": "tournament_280_4"
+            },
+            {
+                "white": "刘碧艳",
+                "black": "王千迅",
+                "date": "2016-02-09",
+                "result": 0,
+                "id": "tournament_280_5"
+            },
+            {
+                "white": "王千迅",
+                "black": "刘碧艳",
+                "date": "2016-02-10",
+                "result": 1,
+                "id": "tournament_280_6"
+            },
+            {
+                "white": "刘钦新",
+                "black": "黄忠明",
+                "date": "2016-02-09",
+                "result": 0,
+                "id": "tournament_280_7"
+            },
+            {
+                "white": "黄忠明",
+                "black": "刘钦新",
+                "date": "2016-02-10",
+                "result": 1,
+                "id": "tournament_280_8"
+            },
+            {
+                "white": "孟芳全",
+                "black": "林鲜志",
+                "date": "2016-02-09",
+                "result": 0.5,
+                "id": "tournament_280_9"
+            },
+            {
+                "white": "林鲜志",
+                "black": "孟芳全",
+                "date": "2016-02-10",
+                "result": 0.5,
+                "id": "tournament_280_10"
+            },
+            {
+                "white": "孟芳全",
+                "black": "林鲜志",
+                "date": "2016-02-10",
+                "result": 0.5,
+                "id": "tournament_280_11"
+            },
+            {
+                "white": "林肖",
+                "black": "胡启红",
+                "date": "2016-02-09",
+                "result": 1,
+                "id": "tournament_280_12"
+            },
+            {
+                "white": "胡启红",
+                "black": "林肖",
+                "date": "2016-02-10",
+                "result": 0,
+                "id": "tournament_280_13"
+            },
+            {
+                "white": "唐君范",
+                "black": "张半植",
+                "date": "2016-02-09",
+                "result": 0,
+                "id": "tournament_280_14"
+            },
+            {
+                "white": "张半植",
+                "black": "唐君范",
+                "date": "2016-02-10",
+                "result": 1,
+                "id": "tournament_280_15"
+            },
+            {
+                "white": "梁继岳",
+                "black": "林浩鹏",
+                "date": "2016-02-09",
+                "result": 0,
+                "id": "tournament_280_16"
+            },
+            {
+                "white": "林浩鹏",
+                "black": "梁继岳",
+                "date": "2016-02-10",
+                "result": 1,
+                "id": "tournament_280_17"
+            },
+            {
+                "white": "陈春",
+                "black": "徐保龙",
+                "date": "2016-02-09",
+                "result": 1,
+                "id": "tournament_280_18"
+            },
+            {
+                "white": "徐保龙",
+                "black": "陈春",
+                "date": "2016-02-10",
+                "result": 0,
+                "id": "tournament_280_19"
+            },
+            {
+                "white": "陈一",
+                "black": "彭国",
+                "date": "2016-02-09",
+                "result": 0.5,
+                "id": "tournament_280_20"
+            },
+            {
+                "white": "彭国",
+                "black": "陈一",
+                "date": "2016-02-10",
+                "result": 1,
+                "id": "tournament_280_21"
+            },
+            {
+                "white": "黄慧",
+                "black": "赵保屿",
+                "date": "2016-02-09",
+                "result": 0.5,
+                "id": "tournament_280_22"
+            },
+            {
+                "white": "赵保屿",
+                "black": "黄慧",
+                "date": "2016-02-10",
+                "result": 0.5,
+                "id": "tournament_280_23"
+            },
+            {
+                "white": "黄慧",
+                "black": "赵保屿",
+                "date": "2016-02-10",
+                "result": 1,
+                "id": "tournament_280_24"
+            },
+            {
+                "white": "贺思沛",
+                "black": "杨靖",
+                "date": "2016-02-09",
+                "result": 0,
+                "id": "tournament_280_25"
+            },
+            {
+                "white": "杨靖",
+                "black": "贺思沛",
+                "date": "2016-02-10",
+                "result": 1,
+                "id": "tournament_280_26"
+            },
+            {
+                "white": "陈雪强",
+                "black": "李琳华",
+                "date": "2016-02-09",
+                "result": 1,
+                "id": "tournament_280_27"
+            },
+            {
+                "white": "李琳华",
+                "black": "陈雪强",
+                "date": "2016-02-10",
+                "result": 1,
+                "id": "tournament_280_28"
+            },
+            {
+                "white": "陈雪强",
+                "black": "李琳华",
+                "date": "2016-02-10",
+                "result": 1,
+                "id": "tournament_280_29"
+            },
+            {
+                "white": "李桥昭",
+                "black": "朱于",
+                "date": "2016-02-09",
+                "result": 0.5,
+                "id": "tournament_280_30"
+            },
+            {
+                "white": "朱于",
+                "black": "李桥昭",
+                "date": "2016-02-10",
+                "result": 0,
+                "id": "tournament_280_31"
+            },
+            {
+                "white": "段立吉",
+                "black": "李建方",
+                "date": "2016-02-09",
+                "result": 1,
+                "id": "tournament_280_32"
+            },
+            {
+                "white": "李建方",
+                "black": "段立吉",
+                "date": "2016-02-10",
+                "result": 0,
+                "id": "tournament_280_33"
+            },
+            {
+                "white": "马朝风",
+                "black": "徐泽飞",
+                "date": "2016-02-09",
+                "result": 0,
+                "id": "tournament_280_34"
+            },
+            {
+                "white": "徐泽飞",
+                "black": "马朝风",
+                "date": "2016-02-10",
+                "result": 1,
+                "id": "tournament_280_35"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "刘青聪",
+                "black": "吴秋",
+                "date": "2016-02-11",
+                "result": 1,
+                "id": "tournament_280_36"
+            },
+            {
+                "white": "吴秋",
+                "black": "刘青聪",
+                "date": "2016-02-12",
+                "result": 0,
+                "id": "tournament_280_37"
+            },
+            {
+                "white": "王千迅",
+                "black": "黄忠明",
+                "date": "2016-02-11",
+                "result": 0,
+                "id": "tournament_280_38"
+            },
+            {
+                "white": "黄忠明",
+                "black": "王千迅",
+                "date": "2016-02-12",
+                "result": 0.5,
+                "id": "tournament_280_39"
+            },
+            {
+                "white": "林鲜志",
+                "black": "林肖",
+                "date": "2016-02-11",
+                "result": 0,
+                "id": "tournament_280_40"
+            },
+            {
+                "white": "林肖",
+                "black": "林鲜志",
+                "date": "2016-02-12",
+                "result": 1,
+                "id": "tournament_280_41"
+            },
+            {
+                "white": "张半植",
+                "black": "林浩鹏",
+                "date": "2016-02-11",
+                "result": 0.5,
+                "id": "tournament_280_42"
+            },
+            {
+                "white": "林浩鹏",
+                "black": "张半植",
+                "date": "2016-02-12",
+                "result": 0,
+                "id": "tournament_280_43"
+            },
+            {
+                "white": "陈春",
+                "black": "彭国",
+                "date": "2016-02-11",
+                "result": 0.5,
+                "id": "tournament_280_44"
+            },
+            {
+                "white": "彭国",
+                "black": "陈春",
+                "date": "2016-02-12",
+                "result": 1,
+                "id": "tournament_280_45"
+            },
+            {
+                "white": "黄慧",
+                "black": "杨靖",
+                "date": "2016-02-11",
+                "result": 1,
+                "id": "tournament_280_46"
+            },
+            {
+                "white": "杨靖",
+                "black": "黄慧",
+                "date": "2016-02-12",
+                "result": 0.5,
+                "id": "tournament_280_47"
+            },
+            {
+                "white": "陈雪强",
+                "black": "李桥昭",
+                "date": "2016-02-11",
+                "result": 0.5,
+                "id": "tournament_280_48"
+            },
+            {
+                "white": "李桥昭",
+                "black": "陈雪强",
+                "date": "2016-02-12",
+                "result": 1,
+                "id": "tournament_280_49"
+            },
+            {
+                "white": "段立吉",
+                "black": "徐泽飞",
+                "date": "2016-02-11",
+                "result": 1,
+                "id": "tournament_280_50"
+            },
+            {
+                "white": "徐泽飞",
+                "black": "段立吉",
+                "date": "2016-02-12",
+                "result": 0.5,
+                "id": "tournament_280_51"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "刘青聪",
+                "black": "黄忠明",
+                "date": "2016-02-13",
+                "result": 0,
+                "id": "tournament_280_52"
+            },
+            {
+                "white": "黄忠明",
+                "black": "刘青聪",
+                "date": "2016-02-14",
+                "result": 0.5,
+                "id": "tournament_280_53"
+            },
+            {
+                "white": "林肖",
+                "black": "张半植",
+                "date": "2016-02-13",
+                "result": 0,
+                "id": "tournament_280_54"
+            },
+            {
+                "white": "张半植",
+                "black": "林肖",
+                "date": "2016-02-14",
+                "result": 0.5,
+                "id": "tournament_280_55"
+            },
+            {
+                "white": "彭国",
+                "black": "黄慧",
+                "date": "2016-02-13",
+                "result": 0.5,
+                "id": "tournament_280_56"
+            },
+            {
+                "white": "黄慧",
+                "black": "彭国",
+                "date": "2016-02-14",
+                "result": 0.5,
+                "id": "tournament_280_57"
+            },
+            {
+                "white": "彭国",
+                "black": "黄慧",
+                "date": "2016-02-14",
+                "result": 1,
+                "id": "tournament_280_58"
+            },
+            {
+                "white": "李桥昭",
+                "black": "段立吉",
+                "date": "2016-02-13",
+                "result": 0,
+                "id": "tournament_280_59"
+            },
+            {
+                "white": "段立吉",
+                "black": "李桥昭",
+                "date": "2016-02-14",
+                "result": 0.5,
+                "id": "tournament_280_60"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "黄忠明",
+                "black": "张半植",
+                "date": "2016-02-15",
+                "result": 1,
+                "id": "tournament_280_61"
+            },
+            {
+                "white": "张半植",
+                "black": "黄忠明",
+                "date": "2016-02-16",
+                "result": 1,
+                "id": "tournament_280_62"
+            },
+            {
+                "white": "黄忠明",
+                "black": "张半植",
+                "date": "2016-02-16",
+                "result": 0.5,
+                "id": "tournament_280_63"
+            },
+            {
+                "white": "彭国",
+                "black": "段立吉",
+                "date": "2016-02-15",
+                "result": 0,
+                "id": "tournament_280_64"
+            },
+            {
+                "white": "段立吉",
+                "black": "彭国",
+                "date": "2016-02-16",
+                "result": 1,
+                "id": "tournament_280_65"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "张半植",
+                "black": "段立吉",
+                "date": "2016-02-17",
+                "result": 0.5,
+                "id": "tournament_280_66"
+            },
+            {
+                "white": "段立吉",
+                "black": "张半植",
+                "date": "2016-02-18",
+                "result": 0.5,
+                "id": "tournament_280_67"
+            },
+            {
+                "white": "张半植",
+                "black": "段立吉",
+                "date": "2016-02-18",
+                "result": 0.5,
+                "id": "tournament_280_68"
+            }
+        ]
+    },
+    "tours": 5,
+    "time_control": "rapid"
+}

@@ -1,0 +1,342 @@
+{
+    "name": "tournament_85",
+    "start_date": "2014-07-27",
+    "end_date": "2014-08-05",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Zhao Junzhong",
+                "black": "Fu Qingfang",
+                "date": "2014-07-27",
+                "result": 0.5,
+                "id": "tournament_85_1"
+            },
+            {
+                "white": "Liu Zi",
+                "black": "Wang Tianbo",
+                "date": "2014-07-27",
+                "result": 0.5,
+                "id": "tournament_85_2"
+            },
+            {
+                "white": "Qin Yuqin",
+                "black": "Qin Zhi",
+                "date": "2014-07-27",
+                "result": 1,
+                "id": "tournament_85_3"
+            },
+            {
+                "white": "Dong Jian",
+                "black": "Zhang Zhiqiong",
+                "date": "2014-07-27",
+                "result": 0.5,
+                "id": "tournament_85_4"
+            },
+            {
+                "white": "Cai Wanxia",
+                "black": "Wang Zhenzhi",
+                "date": "2014-07-27",
+                "result": 0,
+                "id": "tournament_85_5"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Fu Qingfang",
+                "black": "Liu Zi",
+                "date": "2014-07-28",
+                "result": 0.5,
+                "id": "tournament_85_6"
+            },
+            {
+                "white": "Zhao Junzhong",
+                "black": "Qin Yuqin",
+                "date": "2014-07-28",
+                "result": 0,
+                "id": "tournament_85_7"
+            },
+            {
+                "white": "Dong Jian",
+                "black": "Wang Tianbo",
+                "date": "2014-07-28",
+                "result": 0.5,
+                "id": "tournament_85_8"
+            },
+            {
+                "white": "Cai Wanxia",
+                "black": "Qin Zhi",
+                "date": "2014-07-28",
+                "result": 0.5,
+                "id": "tournament_85_9"
+            },
+            {
+                "white": "Wang Zhenzhi",
+                "black": "Zhang Zhiqiong",
+                "date": "2014-07-28",
+                "result": 0,
+                "id": "tournament_85_10"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Qin Yuqin",
+                "black": "Fu Qingfang",
+                "date": "2014-07-29",
+                "result": 0.5,
+                "id": "tournament_85_11"
+            },
+            {
+                "white": "Liu Zi",
+                "black": "Dong Jian",
+                "date": "2014-07-29",
+                "result": 0,
+                "id": "tournament_85_12"
+            },
+            {
+                "white": "Zhao Junzhong",
+                "black": "Cai Wanxia",
+                "date": "2014-07-29",
+                "result": 0,
+                "id": "tournament_85_13"
+            },
+            {
+                "white": "Wang Zhenzhi",
+                "black": "Wang Tianbo",
+                "date": "2014-07-29",
+                "result": 1,
+                "id": "tournament_85_14"
+            },
+            {
+                "white": "Zhang Zhiqiong",
+                "black": "Qin Zhi",
+                "date": "2014-07-29",
+                "result": 1,
+                "id": "tournament_85_15"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Fu Qingfang",
+                "black": "Dong Jian",
+                "date": "2014-07-30",
+                "result": 1,
+                "id": "tournament_85_16"
+            },
+            {
+                "white": "Qin Yuqin",
+                "black": "Cai Wanxia",
+                "date": "2014-07-30",
+                "result": 0.5,
+                "id": "tournament_85_17"
+            },
+            {
+                "white": "Liu Zi",
+                "black": "Wang Zhenzhi",
+                "date": "2014-07-30",
+                "result": 0,
+                "id": "tournament_85_18"
+            },
+            {
+                "white": "Zhao Junzhong",
+                "black": "Zhang Zhiqiong",
+                "date": "2014-07-30",
+                "result": 0.5,
+                "id": "tournament_85_19"
+            },
+            {
+                "white": "Qin Zhi",
+                "black": "Wang Tianbo",
+                "date": "2014-07-30",
+                "result": 1,
+                "id": "tournament_85_20"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Cai Wanxia",
+                "black": "Fu Qingfang",
+                "date": "2014-07-31",
+                "result": 0.5,
+                "id": "tournament_85_21"
+            },
+            {
+                "white": "Dong Jian",
+                "black": "Wang Zhenzhi",
+                "date": "2014-07-31",
+                "result": 0.5,
+                "id": "tournament_85_22"
+            },
+            {
+                "white": "Qin Yuqin",
+                "black": "Zhang Zhiqiong",
+                "date": "2014-07-31",
+                "result": 0,
+                "id": "tournament_85_23"
+            },
+            {
+                "white": "Liu Zi",
+                "black": "Qin Zhi",
+                "date": "2014-07-31",
+                "result": 1,
+                "id": "tournament_85_24"
+            },
+            {
+                "white": "Zhao Junzhong",
+                "black": "Wang Tianbo",
+                "date": "2014-07-31",
+                "result": 0.5,
+                "id": "tournament_85_25"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Fu Qingfang",
+                "black": "Wang Zhenzhi",
+                "date": "2014-08-01",
+                "result": 0,
+                "id": "tournament_85_26"
+            },
+            {
+                "white": "Cai Wanxia",
+                "black": "Zhang Zhiqiong",
+                "date": "2014-08-01",
+                "result": 0.5,
+                "id": "tournament_85_27"
+            },
+            {
+                "white": "Dong Jian",
+                "black": "Qin Zhi",
+                "date": "2014-08-01",
+                "result": 1,
+                "id": "tournament_85_28"
+            },
+            {
+                "white": "Qin Yuqin",
+                "black": "Wang Tianbo",
+                "date": "2014-08-01",
+                "result": 1,
+                "id": "tournament_85_29"
+            },
+            {
+                "white": "Zhao Junzhong",
+                "black": "Liu Zi",
+                "date": "2014-08-01",
+                "result": 1,
+                "id": "tournament_85_30"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Zhang Zhiqiong",
+                "black": "Fu Qingfang",
+                "date": "2014-08-02",
+                "result": 0.5,
+                "id": "tournament_85_31"
+            },
+            {
+                "white": "Wang Zhenzhi",
+                "black": "Qin Zhi",
+                "date": "2014-08-02",
+                "result": 1,
+                "id": "tournament_85_32"
+            },
+            {
+                "white": "Cai Wanxia",
+                "black": "Wang Tianbo",
+                "date": "2014-08-02",
+                "result": 0,
+                "id": "tournament_85_33"
+            },
+            {
+                "white": "Zhao Junzhong",
+                "black": "Dong Jian",
+                "date": "2014-08-02",
+                "result": 0,
+                "id": "tournament_85_34"
+            },
+            {
+                "white": "Liu Zi",
+                "black": "Qin Yuqin",
+                "date": "2014-08-02",
+                "result": 0,
+                "id": "tournament_85_35"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Fu Qingfang",
+                "black": "Qin Zhi",
+                "date": "2014-08-03",
+                "result": 1,
+                "id": "tournament_85_36"
+            },
+            {
+                "white": "Zhang Zhiqiong",
+                "black": "Wang Tianbo",
+                "date": "2014-08-03",
+                "result": 1,
+                "id": "tournament_85_37"
+            },
+            {
+                "white": "Zhao Junzhong",
+                "black": "Wang Zhenzhi",
+                "date": "2014-08-03",
+                "result": 0,
+                "id": "tournament_85_38"
+            },
+            {
+                "white": "Liu Zi",
+                "black": "Cai Wanxia",
+                "date": "2014-08-03",
+                "result": 0.5,
+                "id": "tournament_85_39"
+            },
+            {
+                "white": "Qin Yuqin",
+                "black": "Dong Jian",
+                "date": "2014-08-03",
+                "result": 0.5,
+                "id": "tournament_85_40"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Wang Tianbo",
+                "black": "Fu Qingfang",
+                "date": "2014-08-04",
+                "result": 1,
+                "id": "tournament_85_41"
+            },
+            {
+                "white": "Zhao Junzhong",
+                "black": "Qin Zhi",
+                "date": "2014-08-04",
+                "result": 0.5,
+                "id": "tournament_85_42"
+            },
+            {
+                "white": "Liu Zi",
+                "black": "Zhang Zhiqiong",
+                "date": "2014-08-04",
+                "result": 0.5,
+                "id": "tournament_85_43"
+            },
+            {
+                "white": "Qin Yuqin",
+                "black": "Wang Zhenzhi",
+                "date": "2014-08-04",
+                "result": 0,
+                "id": "tournament_85_44"
+            },
+            {
+                "white": "Dong Jian",
+                "black": "Cai Wanxia",
+                "date": "2014-08-04",
+                "result": 1,
+                "id": "tournament_85_45"
+            }
+        ]
+    },
+    "tours": 9,
+    "time_control": "rapid"
+}

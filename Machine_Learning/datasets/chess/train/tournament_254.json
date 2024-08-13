@@ -1,0 +1,1629 @@
+{
+    "name": "tournament_254",
+    "start_date": "2015-12-04",
+    "end_date": "2015-12-16",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Chen Yingcheng",
+                "black": "Liu Qixi",
+                "date": "2015-12-04",
+                "result": 0.5,
+                "id": "tournament_254_1"
+            },
+            {
+                "white": "Yang Mengdan",
+                "black": "Guo Xiaodong",
+                "date": "2015-12-04",
+                "result": 1,
+                "id": "tournament_254_2"
+            },
+            {
+                "white": "Mao Juncheng",
+                "black": "Tian Jiada",
+                "date": "2015-12-04",
+                "result": 0.5,
+                "id": "tournament_254_3"
+            },
+            {
+                "white": "Zhong Xiaoyan",
+                "black": "Lin Xianzhi",
+                "date": "2015-12-04",
+                "result": 1,
+                "id": "tournament_254_4"
+            },
+            {
+                "white": "Xie Libo",
+                "black": "Yuan Xiaokun",
+                "date": "2015-12-04",
+                "result": 1,
+                "id": "tournament_254_5"
+            },
+            {
+                "white": "Liang Yang",
+                "black": "Zhong Hongcun",
+                "date": "2015-12-04",
+                "result": 0.5,
+                "id": "tournament_254_6"
+            },
+            {
+                "white": "Yang Hui",
+                "black": "Lü Yaguang",
+                "date": "2015-12-04",
+                "result": 1,
+                "id": "tournament_254_7"
+            },
+            {
+                "white": "Wang Weiyin",
+                "black": "Chen Fanka",
+                "date": "2015-12-04",
+                "result": 0,
+                "id": "tournament_254_8"
+            },
+            {
+                "white": "Zhu Wanming",
+                "black": "Wang Yongyun",
+                "date": "2015-12-04",
+                "result": 1,
+                "id": "tournament_254_9"
+            },
+            {
+                "white": "Ding Chentong",
+                "black": "Chen Yinliang",
+                "date": "2015-12-04",
+                "result": 0,
+                "id": "tournament_254_10"
+            },
+            {
+                "white": "Zhang Xingmin",
+                "black": "He Yiyan",
+                "date": "2015-12-04",
+                "result": 0.5,
+                "id": "tournament_254_11"
+            },
+            {
+                "white": "Liu Kaiqing",
+                "black": "Jin Zhi",
+                "date": "2015-12-04",
+                "result": 0,
+                "id": "tournament_254_12"
+            },
+            {
+                "white": "Wei Xing",
+                "black": "Liu Jiajian",
+                "date": "2015-12-04",
+                "result": 0.5,
+                "id": "tournament_254_13"
+            },
+            {
+                "white": "Xie Tianying",
+                "black": "Li Qiaoyun",
+                "date": "2015-12-04",
+                "result": 1,
+                "id": "tournament_254_14"
+            },
+            {
+                "white": "Chen Xueqiang",
+                "black": "Huang Zhongming",
+                "date": "2015-12-04",
+                "result": 0.5,
+                "id": "tournament_254_15"
+            },
+            {
+                "white": "Lin Hongli",
+                "black": "Wang Yabao",
+                "date": "2015-12-04",
+                "result": 1,
+                "id": "tournament_254_16"
+            },
+            {
+                "white": "Shen Minfu",
+                "black": "Guo Hongmin",
+                "date": "2015-12-04",
+                "result": 0,
+                "id": "tournament_254_17"
+            },
+            {
+                "white": "Liang Jiyue",
+                "black": "Zhu Yu",
+                "date": "2015-12-04",
+                "result": 1,
+                "id": "tournament_254_18"
+            },
+            {
+                "white": "Yan Mei",
+                "black": "Zhang Yanying",
+                "date": "2015-12-04",
+                "result": 0,
+                "id": "tournament_254_19"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Chen Fanka",
+                "black": "Yang Mengdan",
+                "date": "2015-12-05",
+                "result": 0,
+                "id": "tournament_254_20"
+            },
+            {
+                "white": "Chen Yinliang",
+                "black": "Zhong Xiaoyan",
+                "date": "2015-12-05",
+                "result": 0.5,
+                "id": "tournament_254_21"
+            },
+            {
+                "white": "Jin Zhi",
+                "black": "Xie Libo",
+                "date": "2015-12-05",
+                "result": 0.5,
+                "id": "tournament_254_22"
+            },
+            {
+                "white": "Guo Hongmin",
+                "black": "Yang Hui",
+                "date": "2015-12-05",
+                "result": 0,
+                "id": "tournament_254_23"
+            },
+            {
+                "white": "Zhang Yanying",
+                "black": "Zhu Wanming",
+                "date": "2015-12-05",
+                "result": 0.5,
+                "id": "tournament_254_24"
+            },
+            {
+                "white": "Liu Qixi",
+                "black": "Xie Tianying",
+                "date": "2015-12-05",
+                "result": 0,
+                "id": "tournament_254_25"
+            },
+            {
+                "white": "Tian Jiada",
+                "black": "Lin Hongli",
+                "date": "2015-12-05",
+                "result": 0,
+                "id": "tournament_254_26"
+            },
+            {
+                "white": "Zhong Hongcun",
+                "black": "Liang Jiyue",
+                "date": "2015-12-05",
+                "result": 0.5,
+                "id": "tournament_254_27"
+            },
+            {
+                "white": "He Yiyan",
+                "black": "Chen Yingcheng",
+                "date": "2015-12-05",
+                "result": 1,
+                "id": "tournament_254_28"
+            },
+            {
+                "white": "Liu Jiajian",
+                "black": "Mao Juncheng",
+                "date": "2015-12-05",
+                "result": 0,
+                "id": "tournament_254_29"
+            },
+            {
+                "white": "Huang Zhongming",
+                "black": "Liang Yang",
+                "date": "2015-12-05",
+                "result": 1,
+                "id": "tournament_254_30"
+            },
+            {
+                "white": "Guo Xiaodong",
+                "black": "Zhang Xingmin",
+                "date": "2015-12-05",
+                "result": 0,
+                "id": "tournament_254_31"
+            },
+            {
+                "white": "Lin Xianzhi",
+                "black": "Wei Xing",
+                "date": "2015-12-05",
+                "result": 0,
+                "id": "tournament_254_32"
+            },
+            {
+                "white": "Yuan Xiaokun",
+                "black": "Chen Xueqiang",
+                "date": "2015-12-05",
+                "result": 0,
+                "id": "tournament_254_33"
+            },
+            {
+                "white": "Lü Yaguang",
+                "black": "Wang Weiyin",
+                "date": "2015-12-05",
+                "result": 0,
+                "id": "tournament_254_34"
+            },
+            {
+                "white": "Wang Yongyun",
+                "black": "Ding Chentong",
+                "date": "2015-12-05",
+                "result": 0,
+                "id": "tournament_254_35"
+            },
+            {
+                "white": "Li Qiaoyun",
+                "black": "Liu Kaiqing",
+                "date": "2015-12-05",
+                "result": 0,
+                "id": "tournament_254_36"
+            },
+            {
+                "white": "Wang Yabao",
+                "black": "Shen Minfu",
+                "date": "2015-12-05",
+                "result": 0.5,
+                "id": "tournament_254_37"
+            },
+            {
+                "white": "Zhu Yu",
+                "black": "Yan Mei",
+                "date": "2015-12-05",
+                "result": 1,
+                "id": "tournament_254_38"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Yang Mengdan",
+                "black": "Chen Yinliang",
+                "date": "2015-12-06",
+                "result": 1,
+                "id": "tournament_254_39"
+            },
+            {
+                "white": "Yang Hui",
+                "black": "Jin Zhi",
+                "date": "2015-12-06",
+                "result": 0.5,
+                "id": "tournament_254_40"
+            },
+            {
+                "white": "Xie Tianying",
+                "black": "Zhang Yanying",
+                "date": "2015-12-06",
+                "result": 1,
+                "id": "tournament_254_41"
+            },
+            {
+                "white": "Lin Hongli",
+                "black": "He Yiyan",
+                "date": "2015-12-06",
+                "result": 0.5,
+                "id": "tournament_254_42"
+            },
+            {
+                "white": "Zhong Xiaoyan",
+                "black": "Huang Zhongming",
+                "date": "2015-12-06",
+                "result": 0.5,
+                "id": "tournament_254_43"
+            },
+            {
+                "white": "Xie Libo",
+                "black": "Chen Fanka",
+                "date": "2015-12-06",
+                "result": 0.5,
+                "id": "tournament_254_44"
+            },
+            {
+                "white": "Zhu Wanming",
+                "black": "Guo Hongmin",
+                "date": "2015-12-06",
+                "result": 1,
+                "id": "tournament_254_45"
+            },
+            {
+                "white": "Liang Jiyue",
+                "black": "Liu Qixi",
+                "date": "2015-12-06",
+                "result": 1,
+                "id": "tournament_254_46"
+            },
+            {
+                "white": "Mao Juncheng",
+                "black": "Zhong Hongcun",
+                "date": "2015-12-06",
+                "result": 1,
+                "id": "tournament_254_47"
+            },
+            {
+                "white": "Zhang Xingmin",
+                "black": "Zhu Yu",
+                "date": "2015-12-06",
+                "result": 0.5,
+                "id": "tournament_254_48"
+            },
+            {
+                "white": "Wei Xing",
+                "black": "Tian Jiada",
+                "date": "2015-12-06",
+                "result": 0,
+                "id": "tournament_254_49"
+            },
+            {
+                "white": "Chen Xueqiang",
+                "black": "Liu Jiajian",
+                "date": "2015-12-06",
+                "result": 0.5,
+                "id": "tournament_254_50"
+            },
+            {
+                "white": "Wang Weiyin",
+                "black": "Wang Yabao",
+                "date": "2015-12-06",
+                "result": 0.5,
+                "id": "tournament_254_51"
+            },
+            {
+                "white": "Ding Chentong",
+                "black": "Guo Xiaodong",
+                "date": "2015-12-06",
+                "result": 1,
+                "id": "tournament_254_52"
+            },
+            {
+                "white": "Liu Kaiqing",
+                "black": "Lin Xianzhi",
+                "date": "2015-12-06",
+                "result": 1,
+                "id": "tournament_254_53"
+            },
+            {
+                "white": "Chen Yingcheng",
+                "black": "Yuan Xiaokun",
+                "date": "2015-12-06",
+                "result": 0.5,
+                "id": "tournament_254_54"
+            },
+            {
+                "white": "Liang Yang",
+                "black": "Lü Yaguang",
+                "date": "2015-12-06",
+                "result": 0,
+                "id": "tournament_254_55"
+            },
+            {
+                "white": "Shen Minfu",
+                "black": "Wang Yongyun",
+                "date": "2015-12-06",
+                "result": 0.5,
+                "id": "tournament_254_56"
+            },
+            {
+                "white": "Yan Mei",
+                "black": "Li Qiaoyun",
+                "date": "2015-12-06",
+                "result": 1,
+                "id": "tournament_254_57"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Jin Zhi",
+                "black": "Yang Mengdan",
+                "date": "2015-12-07",
+                "result": 0,
+                "id": "tournament_254_58"
+            },
+            {
+                "white": "He Yiyan",
+                "black": "Xie Tianying",
+                "date": "2015-12-07",
+                "result": 0,
+                "id": "tournament_254_59"
+            },
+            {
+                "white": "Huang Zhongming",
+                "black": "Yang Hui",
+                "date": "2015-12-07",
+                "result": 0,
+                "id": "tournament_254_60"
+            },
+            {
+                "white": "Chen Yinliang",
+                "black": "Lin Hongli",
+                "date": "2015-12-07",
+                "result": 0,
+                "id": "tournament_254_61"
+            },
+            {
+                "white": "Chen Fanka",
+                "black": "Zhu Wanming",
+                "date": "2015-12-07",
+                "result": 0,
+                "id": "tournament_254_62"
+            },
+            {
+                "white": "Zhang Yanying",
+                "black": "Liang Jiyue",
+                "date": "2015-12-07",
+                "result": 1,
+                "id": "tournament_254_63"
+            },
+            {
+                "white": "Zhu Yu",
+                "black": "Mao Juncheng",
+                "date": "2015-12-07",
+                "result": 0,
+                "id": "tournament_254_64"
+            },
+            {
+                "white": "Tian Jiada",
+                "black": "Zhong Xiaoyan",
+                "date": "2015-12-07",
+                "result": 0.5,
+                "id": "tournament_254_65"
+            },
+            {
+                "white": "Guo Hongmin",
+                "black": "Xie Libo",
+                "date": "2015-12-07",
+                "result": 0,
+                "id": "tournament_254_66"
+            },
+            {
+                "white": "Zhong Hongcun",
+                "black": "Zhang Xingmin",
+                "date": "2015-12-07",
+                "result": 0,
+                "id": "tournament_254_67"
+            },
+            {
+                "white": "Wang Yabao",
+                "black": "Chen Xueqiang",
+                "date": "2015-12-07",
+                "result": 0,
+                "id": "tournament_254_68"
+            },
+            {
+                "white": "Liu Jiajian",
+                "black": "Ding Chentong",
+                "date": "2015-12-07",
+                "result": 1,
+                "id": "tournament_254_69"
+            },
+            {
+                "white": "Lü Yaguang",
+                "black": "Liu Kaiqing",
+                "date": "2015-12-07",
+                "result": 0,
+                "id": "tournament_254_70"
+            },
+            {
+                "white": "Liu Qixi",
+                "black": "Wei Xing",
+                "date": "2015-12-07",
+                "result": 0.5,
+                "id": "tournament_254_71"
+            },
+            {
+                "white": "Yuan Xiaokun",
+                "black": "Wang Weiyin",
+                "date": "2015-12-07",
+                "result": 0.5,
+                "id": "tournament_254_72"
+            },
+            {
+                "white": "Wang Yongyun",
+                "black": "Chen Yingcheng",
+                "date": "2015-12-07",
+                "result": 0.5,
+                "id": "tournament_254_73"
+            },
+            {
+                "white": "Guo Xiaodong",
+                "black": "Shen Minfu",
+                "date": "2015-12-07",
+                "result": 1,
+                "id": "tournament_254_74"
+            },
+            {
+                "white": "Lin Xianzhi",
+                "black": "Yan Mei",
+                "date": "2015-12-07",
+                "result": 0,
+                "id": "tournament_254_75"
+            },
+            {
+                "white": "Li Qiaoyun",
+                "black": "Liang Yang",
+                "date": "2015-12-07",
+                "result": 0,
+                "id": "tournament_254_76"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Yang Mengdan",
+                "black": "Zhang Yanying",
+                "date": "2015-12-08",
+                "result": 1,
+                "id": "tournament_254_77"
+            },
+            {
+                "white": "Xie Tianying",
+                "black": "Jin Zhi",
+                "date": "2015-12-08",
+                "result": 0.5,
+                "id": "tournament_254_78"
+            },
+            {
+                "white": "Yang Hui",
+                "black": "He Yiyan",
+                "date": "2015-12-08",
+                "result": 0,
+                "id": "tournament_254_79"
+            },
+            {
+                "white": "Lin Hongli",
+                "black": "Huang Zhongming",
+                "date": "2015-12-08",
+                "result": 1,
+                "id": "tournament_254_80"
+            },
+            {
+                "white": "Zhu Wanming",
+                "black": "Tian Jiada",
+                "date": "2015-12-08",
+                "result": 1,
+                "id": "tournament_254_81"
+            },
+            {
+                "white": "Mao Juncheng",
+                "black": "Chen Yinliang",
+                "date": "2015-12-08",
+                "result": 1,
+                "id": "tournament_254_82"
+            },
+            {
+                "white": "Xie Libo",
+                "black": "Liu Jiajian",
+                "date": "2015-12-08",
+                "result": 1,
+                "id": "tournament_254_83"
+            },
+            {
+                "white": "Zhang Xingmin",
+                "black": "Chen Fanka",
+                "date": "2015-12-08",
+                "result": 0.5,
+                "id": "tournament_254_84"
+            },
+            {
+                "white": "Chen Xueqiang",
+                "black": "Zhu Yu",
+                "date": "2015-12-08",
+                "result": 1,
+                "id": "tournament_254_85"
+            },
+            {
+                "white": "Liu Kaiqing",
+                "black": "Guo Hongmin",
+                "date": "2015-12-08",
+                "result": 1,
+                "id": "tournament_254_86"
+            },
+            {
+                "white": "Liang Jiyue",
+                "black": "Wang Yabao",
+                "date": "2015-12-08",
+                "result": 1,
+                "id": "tournament_254_87"
+            },
+            {
+                "white": "Zhong Xiaoyan",
+                "black": "Zhong Hongcun",
+                "date": "2015-12-08",
+                "result": 1,
+                "id": "tournament_254_88"
+            },
+            {
+                "white": "Ding Chentong",
+                "black": "Lü Yaguang",
+                "date": "2015-12-08",
+                "result": 0.5,
+                "id": "tournament_254_89"
+            },
+            {
+                "white": "Wei Xing",
+                "black": "Yuan Xiaokun",
+                "date": "2015-12-08",
+                "result": 1,
+                "id": "tournament_254_90"
+            },
+            {
+                "white": "Wang Weiyin",
+                "black": "Liu Qixi",
+                "date": "2015-12-08",
+                "result": 1,
+                "id": "tournament_254_91"
+            },
+            {
+                "white": "Yan Mei",
+                "black": "Wang Yongyun",
+                "date": "2015-12-08",
+                "result": 0.5,
+                "id": "tournament_254_92"
+            },
+            {
+                "white": "Chen Yingcheng",
+                "black": "Guo Xiaodong",
+                "date": "2015-12-08",
+                "result": 0.5,
+                "id": "tournament_254_93"
+            },
+            {
+                "white": "Liang Yang",
+                "black": "Lin Xianzhi",
+                "date": "2015-12-08",
+                "result": 0.5,
+                "id": "tournament_254_94"
+            },
+            {
+                "white": "Shen Minfu",
+                "black": "Li Qiaoyun",
+                "date": "2015-12-08",
+                "result": 0.5,
+                "id": "tournament_254_95"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "He Yiyan",
+                "black": "Yang Mengdan",
+                "date": "2015-12-09",
+                "result": 0,
+                "id": "tournament_254_96"
+            },
+            {
+                "white": "Huang Zhongming",
+                "black": "Xie Tianying",
+                "date": "2015-12-09",
+                "result": 1,
+                "id": "tournament_254_97"
+            },
+            {
+                "white": "Zhang Yanying",
+                "black": "Lin Hongli",
+                "date": "2015-12-09",
+                "result": 0,
+                "id": "tournament_254_98"
+            },
+            {
+                "white": "Jin Zhi",
+                "black": "Zhu Wanming",
+                "date": "2015-12-09",
+                "result": 1,
+                "id": "tournament_254_99"
+            },
+            {
+                "white": "Chen Fanka",
+                "black": "Mao Juncheng",
+                "date": "2015-12-09",
+                "result": 0,
+                "id": "tournament_254_100"
+            },
+            {
+                "white": "Tian Jiada",
+                "black": "Xie Libo",
+                "date": "2015-12-09",
+                "result": 0,
+                "id": "tournament_254_101"
+            },
+            {
+                "white": "Chen Yinliang",
+                "black": "Chen Xueqiang",
+                "date": "2015-12-09",
+                "result": 0.5,
+                "id": "tournament_254_102"
+            },
+            {
+                "white": "Liu Jiajian",
+                "black": "Liu Kaiqing",
+                "date": "2015-12-09",
+                "result": 0,
+                "id": "tournament_254_103"
+            },
+            {
+                "white": "Zhu Yu",
+                "black": "Yang Hui",
+                "date": "2015-12-09",
+                "result": 0.5,
+                "id": "tournament_254_104"
+            },
+            {
+                "white": "Lü Yaguang",
+                "black": "Zhang Xingmin",
+                "date": "2015-12-09",
+                "result": 0.5,
+                "id": "tournament_254_105"
+            },
+            {
+                "white": "Wang Yongyun",
+                "black": "Liang Jiyue",
+                "date": "2015-12-09",
+                "result": 0,
+                "id": "tournament_254_106"
+            },
+            {
+                "white": "Guo Xiaodong",
+                "black": "Zhong Xiaoyan",
+                "date": "2015-12-09",
+                "result": 0,
+                "id": "tournament_254_107"
+            },
+            {
+                "white": "Guo Hongmin",
+                "black": "Wei Xing",
+                "date": "2015-12-09",
+                "result": 0.5,
+                "id": "tournament_254_108"
+            },
+            {
+                "white": "Zhong Hongcun",
+                "black": "Wang Weiyin",
+                "date": "2015-12-09",
+                "result": 0.5,
+                "id": "tournament_254_109"
+            },
+            {
+                "white": "Wang Yabao",
+                "black": "Ding Chentong",
+                "date": "2015-12-09",
+                "result": 0,
+                "id": "tournament_254_110"
+            },
+            {
+                "white": "Liu Qixi",
+                "black": "Yan Mei",
+                "date": "2015-12-09",
+                "result": 0,
+                "id": "tournament_254_111"
+            },
+            {
+                "white": "Li Qiaoyun",
+                "black": "Chen Yingcheng",
+                "date": "2015-12-09",
+                "result": 0.5,
+                "id": "tournament_254_112"
+            },
+            {
+                "white": "Lin Xianzhi",
+                "black": "Shen Minfu",
+                "date": "2015-12-09",
+                "result": 0.5,
+                "id": "tournament_254_113"
+            },
+            {
+                "white": "Yuan Xiaokun",
+                "black": "Liang Yang",
+                "date": "2015-12-09",
+                "result": 0,
+                "id": "tournament_254_114"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Yang Mengdan",
+                "black": "Huang Zhongming",
+                "date": "2015-12-10",
+                "result": 1,
+                "id": "tournament_254_115"
+            },
+            {
+                "white": "Lin Hongli",
+                "black": "Jin Zhi",
+                "date": "2015-12-10",
+                "result": 1,
+                "id": "tournament_254_116"
+            },
+            {
+                "white": "Mao Juncheng",
+                "black": "He Yiyan",
+                "date": "2015-12-10",
+                "result": 0.5,
+                "id": "tournament_254_117"
+            },
+            {
+                "white": "Xie Libo",
+                "black": "Zhang Yanying",
+                "date": "2015-12-10",
+                "result": 1,
+                "id": "tournament_254_118"
+            },
+            {
+                "white": "Liu Kaiqing",
+                "black": "Tian Jiada",
+                "date": "2015-12-10",
+                "result": 0.5,
+                "id": "tournament_254_119"
+            },
+            {
+                "white": "Xie Tianying",
+                "black": "Liu Jiajian",
+                "date": "2015-12-10",
+                "result": 1,
+                "id": "tournament_254_120"
+            },
+            {
+                "white": "Zhu Wanming",
+                "black": "Chen Yinliang",
+                "date": "2015-12-10",
+                "result": 1,
+                "id": "tournament_254_121"
+            },
+            {
+                "white": "Chen Xueqiang",
+                "black": "Chen Fanka",
+                "date": "2015-12-10",
+                "result": 0.5,
+                "id": "tournament_254_122"
+            },
+            {
+                "white": "Liang Jiyue",
+                "black": "Lü Yaguang",
+                "date": "2015-12-10",
+                "result": 0.5,
+                "id": "tournament_254_123"
+            },
+            {
+                "white": "Zhong Xiaoyan",
+                "black": "Zhu Yu",
+                "date": "2015-12-10",
+                "result": 1,
+                "id": "tournament_254_124"
+            },
+            {
+                "white": "Yang Hui",
+                "black": "Wang Yongyun",
+                "date": "2015-12-10",
+                "result": 1,
+                "id": "tournament_254_125"
+            },
+            {
+                "white": "Zhang Xingmin",
+                "black": "Guo Hongmin",
+                "date": "2015-12-10",
+                "result": 0.5,
+                "id": "tournament_254_126"
+            },
+            {
+                "white": "Wei Xing",
+                "black": "Guo Xiaodong",
+                "date": "2015-12-10",
+                "result": 1,
+                "id": "tournament_254_127"
+            },
+            {
+                "white": "Liang Yang",
+                "black": "Liu Qixi",
+                "date": "2015-12-10",
+                "result": 1,
+                "id": "tournament_254_128"
+            },
+            {
+                "white": "Ding Chentong",
+                "black": "Zhong Hongcun",
+                "date": "2015-12-10",
+                "result": 0.5,
+                "id": "tournament_254_129"
+            },
+            {
+                "white": "Yan Mei",
+                "black": "Wang Yabao",
+                "date": "2015-12-10",
+                "result": 0.5,
+                "id": "tournament_254_130"
+            },
+            {
+                "white": "Shen Minfu",
+                "black": "Yuan Xiaokun",
+                "date": "2015-12-10",
+                "result": 1,
+                "id": "tournament_254_131"
+            },
+            {
+                "white": "Chen Yingcheng",
+                "black": "Lin Xianzhi",
+                "date": "2015-12-10",
+                "result": 1,
+                "id": "tournament_254_132"
+            },
+            {
+                "white": "Wang Weiyin",
+                "black": "Li Qiaoyun",
+                "date": "2015-12-10",
+                "result": 0,
+                "id": "tournament_254_133"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Tian Jiada",
+                "black": "Yang Mengdan",
+                "date": "2015-12-11",
+                "result": 0,
+                "id": "tournament_254_134"
+            },
+            {
+                "white": "Chen Fanka",
+                "black": "Lin Hongli",
+                "date": "2015-12-11",
+                "result": 0,
+                "id": "tournament_254_135"
+            },
+            {
+                "white": "Jin Zhi",
+                "black": "Mao Juncheng",
+                "date": "2015-12-11",
+                "result": 0.5,
+                "id": "tournament_254_136"
+            },
+            {
+                "white": "He Yiyan",
+                "black": "Xie Libo",
+                "date": "2015-12-11",
+                "result": 1,
+                "id": "tournament_254_137"
+            },
+            {
+                "white": "Huang Zhongming",
+                "black": "Liu Kaiqing",
+                "date": "2015-12-11",
+                "result": 0,
+                "id": "tournament_254_138"
+            },
+            {
+                "white": "Lü Yaguang",
+                "black": "Xie Tianying",
+                "date": "2015-12-11",
+                "result": 0,
+                "id": "tournament_254_139"
+            },
+            {
+                "white": "Liu Jiajian",
+                "black": "Zhu Wanming",
+                "date": "2015-12-11",
+                "result": 0.5,
+                "id": "tournament_254_140"
+            },
+            {
+                "white": "Zhang Yanying",
+                "black": "Zhong Xiaoyan",
+                "date": "2015-12-11",
+                "result": 0.5,
+                "id": "tournament_254_141"
+            },
+            {
+                "white": "Guo Hongmin",
+                "black": "Chen Xueqiang",
+                "date": "2015-12-11",
+                "result": 0.5,
+                "id": "tournament_254_142"
+            },
+            {
+                "white": "Chen Yinliang",
+                "black": "Liang Jiyue",
+                "date": "2015-12-11",
+                "result": 0.5,
+                "id": "tournament_254_143"
+            },
+            {
+                "white": "Zhong Hongcun",
+                "black": "Yang Hui",
+                "date": "2015-12-11",
+                "result": 0,
+                "id": "tournament_254_144"
+            },
+            {
+                "white": "Li Qiaoyun",
+                "black": "Zhang Xingmin",
+                "date": "2015-12-11",
+                "result": 0,
+                "id": "tournament_254_145"
+            },
+            {
+                "white": "Zhu Yu",
+                "black": "Wei Xing",
+                "date": "2015-12-11",
+                "result": 0,
+                "id": "tournament_254_146"
+            },
+            {
+                "white": "Lin Xianzhi",
+                "black": "Wang Weiyin",
+                "date": "2015-12-11",
+                "result": 0.5,
+                "id": "tournament_254_147"
+            },
+            {
+                "white": "Liang Yang",
+                "black": "Yan Mei",
+                "date": "2015-12-11",
+                "result": 1,
+                "id": "tournament_254_148"
+            },
+            {
+                "white": "Wang Yabao",
+                "black": "Liu Qixi",
+                "date": "2015-12-11",
+                "result": 0.5,
+                "id": "tournament_254_149"
+            },
+            {
+                "white": "Yuan Xiaokun",
+                "black": "Ding Chentong",
+                "date": "2015-12-11",
+                "result": 0,
+                "id": "tournament_254_150"
+            },
+            {
+                "white": "Guo Xiaodong",
+                "black": "Wang Yongyun",
+                "date": "2015-12-11",
+                "result": 0.5,
+                "id": "tournament_254_151"
+            },
+            {
+                "white": "Chen Yingcheng",
+                "black": "Shen Minfu",
+                "date": "2015-12-11",
+                "result": 1,
+                "id": "tournament_254_152"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Yang Mengdan",
+                "black": "Lü Yaguang",
+                "date": "2015-12-12",
+                "result": 1,
+                "id": "tournament_254_153"
+            },
+            {
+                "white": "Lin Hongli",
+                "black": "Liu Jiajian",
+                "date": "2015-12-12",
+                "result": 1,
+                "id": "tournament_254_154"
+            },
+            {
+                "white": "Mao Juncheng",
+                "black": "Huang Zhongming",
+                "date": "2015-12-12",
+                "result": 0,
+                "id": "tournament_254_155"
+            },
+            {
+                "white": "Liu Kaiqing",
+                "black": "He Yiyan",
+                "date": "2015-12-12",
+                "result": 1,
+                "id": "tournament_254_156"
+            },
+            {
+                "white": "Xie Tianying",
+                "black": "Tian Jiada",
+                "date": "2015-12-12",
+                "result": 0.5,
+                "id": "tournament_254_157"
+            },
+            {
+                "white": "Xie Libo",
+                "black": "Chen Yinliang",
+                "date": "2015-12-12",
+                "result": 0,
+                "id": "tournament_254_158"
+            },
+            {
+                "white": "Zhu Wanming",
+                "black": "Zhu Yu",
+                "date": "2015-12-12",
+                "result": 0,
+                "id": "tournament_254_159"
+            },
+            {
+                "white": "Zhong Xiaoyan",
+                "black": "Jin Zhi",
+                "date": "2015-12-12",
+                "result": 0.5,
+                "id": "tournament_254_160"
+            },
+            {
+                "white": "Yang Hui",
+                "black": "Zhang Yanying",
+                "date": "2015-12-12",
+                "result": 1,
+                "id": "tournament_254_161"
+            },
+            {
+                "white": "Chen Xueqiang",
+                "black": "Zhong Hongcun",
+                "date": "2015-12-12",
+                "result": 1,
+                "id": "tournament_254_162"
+            },
+            {
+                "white": "Liang Jiyue",
+                "black": "Chen Fanka",
+                "date": "2015-12-12",
+                "result": 0,
+                "id": "tournament_254_163"
+            },
+            {
+                "white": "Zhang Xingmin",
+                "black": "Wang Yongyun",
+                "date": "2015-12-12",
+                "result": 1,
+                "id": "tournament_254_164"
+            },
+            {
+                "white": "Ding Chentong",
+                "black": "Liu Qixi",
+                "date": "2015-12-12",
+                "result": 1,
+                "id": "tournament_254_165"
+            },
+            {
+                "white": "Chen Yingcheng",
+                "black": "Yan Mei",
+                "date": "2015-12-12",
+                "result": 0.5,
+                "id": "tournament_254_166"
+            },
+            {
+                "white": "Lin Xianzhi",
+                "black": "Yuan Xiaokun",
+                "date": "2015-12-12",
+                "result": 0.5,
+                "id": "tournament_254_167"
+            },
+            {
+                "white": "Wei Xing",
+                "black": "Shen Minfu",
+                "date": "2015-12-12",
+                "result": 0.5,
+                "id": "tournament_254_168"
+            },
+            {
+                "white": "Liang Yang",
+                "black": "Guo Hongmin",
+                "date": "2015-12-12",
+                "result": 0.5,
+                "id": "tournament_254_169"
+            },
+            {
+                "white": "Wang Yabao",
+                "black": "Li Qiaoyun",
+                "date": "2015-12-12",
+                "result": 0,
+                "id": "tournament_254_170"
+            },
+            {
+                "white": "Wang Weiyin",
+                "black": "Guo Xiaodong",
+                "date": "2015-12-12",
+                "result": 1,
+                "id": "tournament_254_171"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "Guo Hongmin",
+                "black": "Yang Mengdan",
+                "date": "2015-12-13",
+                "result": 0,
+                "id": "tournament_254_172"
+            },
+            {
+                "white": "Zhu Yu",
+                "black": "Lin Hongli",
+                "date": "2015-12-13",
+                "result": 0,
+                "id": "tournament_254_173"
+            },
+            {
+                "white": "Chen Fanka",
+                "black": "Liu Kaiqing",
+                "date": "2015-12-13",
+                "result": 0.5,
+                "id": "tournament_254_174"
+            },
+            {
+                "white": "Chen Yinliang",
+                "black": "Xie Tianying",
+                "date": "2015-12-13",
+                "result": 0.5,
+                "id": "tournament_254_175"
+            },
+            {
+                "white": "Tian Jiada",
+                "black": "Yang Hui",
+                "date": "2015-12-13",
+                "result": 0,
+                "id": "tournament_254_176"
+            },
+            {
+                "white": "Zhang Yanying",
+                "black": "Mao Juncheng",
+                "date": "2015-12-13",
+                "result": 0.5,
+                "id": "tournament_254_177"
+            },
+            {
+                "white": "He Yiyan",
+                "black": "Zhong Xiaoyan",
+                "date": "2015-12-13",
+                "result": 0,
+                "id": "tournament_254_178"
+            },
+            {
+                "white": "Jin Zhi",
+                "black": "Chen Xueqiang",
+                "date": "2015-12-13",
+                "result": 1,
+                "id": "tournament_254_179"
+            },
+            {
+                "white": "Huang Zhongming",
+                "black": "Zhang Xingmin",
+                "date": "2015-12-13",
+                "result": 0.5,
+                "id": "tournament_254_180"
+            },
+            {
+                "white": "Li Qiaoyun",
+                "black": "Xie Libo",
+                "date": "2015-12-13",
+                "result": 0,
+                "id": "tournament_254_181"
+            },
+            {
+                "white": "Lü Yaguang",
+                "black": "Zhu Wanming",
+                "date": "2015-12-13",
+                "result": 0.5,
+                "id": "tournament_254_182"
+            },
+            {
+                "white": "Zhong Hongcun",
+                "black": "Wei Xing",
+                "date": "2015-12-13",
+                "result": 1,
+                "id": "tournament_254_183"
+            },
+            {
+                "white": "Lin Xianzhi",
+                "black": "Ding Chentong",
+                "date": "2015-12-13",
+                "result": 0,
+                "id": "tournament_254_184"
+            },
+            {
+                "white": "Wang Yongyun",
+                "black": "Liang Yang",
+                "date": "2015-12-13",
+                "result": 0,
+                "id": "tournament_254_185"
+            },
+            {
+                "white": "Yuan Xiaokun",
+                "black": "Yan Mei",
+                "date": "2015-12-13",
+                "result": 0.5,
+                "id": "tournament_254_186"
+            },
+            {
+                "white": "Liu Qixi",
+                "black": "Shen Minfu",
+                "date": "2015-12-13",
+                "result": 0,
+                "id": "tournament_254_187"
+            },
+            {
+                "white": "Guo Xiaodong",
+                "black": "Liang Jiyue",
+                "date": "2015-12-13",
+                "result": 0,
+                "id": "tournament_254_188"
+            },
+            {
+                "white": "Wang Yabao",
+                "black": "Chen Yingcheng",
+                "date": "2015-12-13",
+                "result": 0.5,
+                "id": "tournament_254_189"
+            },
+            {
+                "white": "Liu Jiajian",
+                "black": "Wang Weiyin",
+                "date": "2015-12-13",
+                "result": 1,
+                "id": "tournament_254_190"
+            }
+        ],
+        "tour_11": [
+            {
+                "white": "Yang Mengdan",
+                "black": "Liu Jiajian",
+                "date": "2015-12-14",
+                "result": 1,
+                "id": "tournament_254_191"
+            },
+            {
+                "white": "Lin Hongli",
+                "black": "Guo Hongmin",
+                "date": "2015-12-14",
+                "result": 1,
+                "id": "tournament_254_192"
+            },
+            {
+                "white": "Liu Kaiqing",
+                "black": "Chen Yinliang",
+                "date": "2015-12-14",
+                "result": 1,
+                "id": "tournament_254_193"
+            },
+            {
+                "white": "Yang Hui",
+                "black": "Chen Fanka",
+                "date": "2015-12-14",
+                "result": 1,
+                "id": "tournament_254_194"
+            },
+            {
+                "white": "Xie Tianying",
+                "black": "Zhu Yu",
+                "date": "2015-12-14",
+                "result": 1,
+                "id": "tournament_254_195"
+            },
+            {
+                "white": "Zhong Xiaoyan",
+                "black": "Li Qiaoyun",
+                "date": "2015-12-14",
+                "result": 1,
+                "id": "tournament_254_196"
+            },
+            {
+                "white": "Mao Juncheng",
+                "black": "Lü Yaguang",
+                "date": "2015-12-14",
+                "result": 1,
+                "id": "tournament_254_197"
+            },
+            {
+                "white": "Zhang Xingmin",
+                "black": "Jin Zhi",
+                "date": "2015-12-14",
+                "result": 1,
+                "id": "tournament_254_198"
+            },
+            {
+                "white": "Xie Libo",
+                "black": "Huang Zhongming",
+                "date": "2015-12-14",
+                "result": 0.5,
+                "id": "tournament_254_199"
+            },
+            {
+                "white": "Ding Chentong",
+                "black": "He Yiyan",
+                "date": "2015-12-14",
+                "result": 0.5,
+                "id": "tournament_254_200"
+            },
+            {
+                "white": "Chen Xueqiang",
+                "black": "Zhang Yanying",
+                "date": "2015-12-14",
+                "result": 0.5,
+                "id": "tournament_254_201"
+            },
+            {
+                "white": "Zhu Wanming",
+                "black": "Zhong Hongcun",
+                "date": "2015-12-14",
+                "result": 0,
+                "id": "tournament_254_202"
+            },
+            {
+                "white": "Liang Yang",
+                "black": "Wang Yabao",
+                "date": "2015-12-14",
+                "result": 1,
+                "id": "tournament_254_203"
+            },
+            {
+                "white": "Chen Yingcheng",
+                "black": "Wang Weiyin",
+                "date": "2015-12-14",
+                "result": 0,
+                "id": "tournament_254_204"
+            },
+            {
+                "white": "Shen Minfu",
+                "black": "Liang Jiyue",
+                "date": "2015-12-14",
+                "result": 0,
+                "id": "tournament_254_205"
+            },
+            {
+                "white": "Guo Xiaodong",
+                "black": "Liu Qixi",
+                "date": "2015-12-14",
+                "result": 1,
+                "id": "tournament_254_206"
+            },
+            {
+                "white": "Wei Xing",
+                "black": "Yan Mei",
+                "date": "2015-12-14",
+                "result": 0.5,
+                "id": "tournament_254_207"
+            },
+            {
+                "white": "Yuan Xiaokun",
+                "black": "Tian Jiada",
+                "date": "2015-12-14",
+                "result": 0,
+                "id": "tournament_254_208"
+            },
+            {
+                "white": "Wang Yongyun",
+                "black": "Lin Xianzhi",
+                "date": "2015-12-14",
+                "result": 1,
+                "id": "tournament_254_209"
+            }
+        ],
+        "tour_12": [
+            {
+                "white": "Zhong Hongcun",
+                "black": "Yang Mengdan",
+                "date": "2015-12-15",
+                "result": 0,
+                "id": "tournament_254_210"
+            },
+            {
+                "white": "Li Qiaoyun",
+                "black": "Lin Hongli",
+                "date": "2015-12-15",
+                "result": 0,
+                "id": "tournament_254_211"
+            },
+            {
+                "white": "Zhang Yanying",
+                "black": "Liu Kaiqing",
+                "date": "2015-12-15",
+                "result": 0.5,
+                "id": "tournament_254_212"
+            },
+            {
+                "white": "Chen Yinliang",
+                "black": "Yang Hui",
+                "date": "2015-12-15",
+                "result": 0,
+                "id": "tournament_254_213"
+            },
+            {
+                "white": "Chen Fanka",
+                "black": "Xie Tianying",
+                "date": "2015-12-15",
+                "result": 0,
+                "id": "tournament_254_214"
+            },
+            {
+                "white": "Liu Jiajian",
+                "black": "Zhong Xiaoyan",
+                "date": "2015-12-15",
+                "result": 0.5,
+                "id": "tournament_254_215"
+            },
+            {
+                "white": "Guo Hongmin",
+                "black": "Mao Juncheng",
+                "date": "2015-12-15",
+                "result": 0,
+                "id": "tournament_254_216"
+            },
+            {
+                "white": "Tian Jiada",
+                "black": "Zhang Xingmin",
+                "date": "2015-12-15",
+                "result": 0.5,
+                "id": "tournament_254_217"
+            },
+            {
+                "white": "Zhu Yu",
+                "black": "Xie Libo",
+                "date": "2015-12-15",
+                "result": 0,
+                "id": "tournament_254_218"
+            },
+            {
+                "white": "Jin Zhi",
+                "black": "Ding Chentong",
+                "date": "2015-12-15",
+                "result": 1,
+                "id": "tournament_254_219"
+            },
+            {
+                "white": "He Yiyan",
+                "black": "Liang Jiyue",
+                "date": "2015-12-15",
+                "result": 1,
+                "id": "tournament_254_220"
+            },
+            {
+                "white": "Guo Xiaodong",
+                "black": "Liang Yang",
+                "date": "2015-12-15",
+                "result": 0,
+                "id": "tournament_254_221"
+            },
+            {
+                "white": "Huang Zhongming",
+                "black": "Shen Minfu",
+                "date": "2015-12-15",
+                "result": 1,
+                "id": "tournament_254_222"
+            },
+            {
+                "white": "Liu Qixi",
+                "black": "Yuan Xiaokun",
+                "date": "2015-12-15",
+                "result": 1,
+                "id": "tournament_254_223"
+            },
+            {
+                "white": "Zhu Wanming",
+                "black": "Chen Yingcheng",
+                "date": "2015-12-15",
+                "result": 1,
+                "id": "tournament_254_224"
+            },
+            {
+                "white": "Wang Yongyun",
+                "black": "Wang Weiyin",
+                "date": "2015-12-15",
+                "result": 0.5,
+                "id": "tournament_254_225"
+            },
+            {
+                "white": "Wei Xing",
+                "black": "Chen Xueqiang",
+                "date": "2015-12-15",
+                "result": 0,
+                "id": "tournament_254_226"
+            },
+            {
+                "white": "Lü Yaguang",
+                "black": "Yan Mei",
+                "date": "2015-12-15",
+                "result": 1,
+                "id": "tournament_254_227"
+            },
+            {
+                "white": "Wang Yabao",
+                "black": "Lin Xianzhi",
+                "date": "2015-12-15",
+                "result": 0.5,
+                "id": "tournament_254_228"
+            }
+        ]
+    },
+    "tours": 12,
+    "time_control": "rapid"
+}

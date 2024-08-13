@@ -1,0 +1,921 @@
+{
+    "name": "tournament_19",
+    "start_date": "2014-02-09",
+    "end_date": "2014-02-25",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Liu, Xingmei",
+                "black": "Zhang, Weirong",
+                "date": "2014-02-09",
+                "result": 1,
+                "id": "tournament_19_1"
+            },
+            {
+                "white": "Li, Wenling",
+                "black": "Ren, Suqin",
+                "date": "2014-02-09",
+                "result": 0,
+                "id": "tournament_19_2"
+            },
+            {
+                "white": "Tan, Ya",
+                "black": "Zhu, Wanming",
+                "date": "2014-02-09",
+                "result": 0.5,
+                "id": "tournament_19_3"
+            },
+            {
+                "white": "Guo, Hongmin",
+                "black": "Jiang, Degang",
+                "date": "2014-02-09",
+                "result": 0,
+                "id": "tournament_19_4"
+            },
+            {
+                "white": "Yang, Hui",
+                "black": "Wang, Dian",
+                "date": "2014-02-09",
+                "result": 1,
+                "id": "tournament_19_5"
+            },
+            {
+                "white": "Cao, Lingying",
+                "black": "Yuan, Xiongping",
+                "date": "2014-02-09",
+                "result": 1,
+                "id": "tournament_19_6"
+            },
+            {
+                "white": "Chen, Sigang",
+                "black": "Liang, Shujun",
+                "date": "2014-02-09",
+                "result": 0.5,
+                "id": "tournament_19_7"
+            },
+            {
+                "white": "Cui, Junkai",
+                "black": "Zhang, Wei",
+                "date": "2014-02-09",
+                "result": 0.5,
+                "id": "tournament_19_8"
+            },
+            {
+                "white": "Liang, Qing",
+                "black": "Liu, Yapu",
+                "date": "2014-02-09",
+                "result": 0,
+                "id": "tournament_19_9"
+            },
+            {
+                "white": "Lin, Zexiong",
+                "black": "Chen, Chenyun",
+                "date": "2014-02-09",
+                "result": 0,
+                "id": "tournament_19_10"
+            },
+            {
+                "white": "Wang, Yongyun",
+                "black": "Hu, Jianjing",
+                "date": "2014-02-09",
+                "result": 0.5,
+                "id": "tournament_19_11"
+            },
+            {
+                "white": "Jiang, Bo",
+                "black": "Liu, Aigui",
+                "date": "2014-02-09",
+                "result": 0.5,
+                "id": "tournament_19_12"
+            },
+            {
+                "white": "Cai, Yuxue",
+                "black": "Zou, Feng",
+                "date": "2014-02-09",
+                "result": 1,
+                "id": "tournament_19_13"
+            },
+            {
+                "white": "Huang, Zhongming",
+                "black": "Fu, Jian",
+                "date": "2014-02-09",
+                "result": 1,
+                "id": "tournament_19_14"
+            },
+            {
+                "white": "Zhong, Changyuan",
+                "black": "Wen, Yongxi",
+                "date": "2014-02-09",
+                "result": 0.5,
+                "id": "tournament_19_15"
+            },
+            {
+                "white": "Cheng, Momei",
+                "black": "Cai, Qi",
+                "date": "2014-02-09",
+                "result": 0.5,
+                "id": "tournament_19_16"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Ren, Suqin",
+                "black": "Liu, Xingmei",
+                "date": "2014-02-11",
+                "result": 0,
+                "id": "tournament_19_17"
+            },
+            {
+                "white": "Jiang, Degang",
+                "black": "Yang, Hui",
+                "date": "2014-02-11",
+                "result": 0.5,
+                "id": "tournament_19_18"
+            },
+            {
+                "white": "Liu, Yapu",
+                "black": "Cao, Lingying",
+                "date": "2014-02-11",
+                "result": 1,
+                "id": "tournament_19_19"
+            },
+            {
+                "white": "Chen, Chenyun",
+                "black": "Cai, Yuxue",
+                "date": "2014-02-11",
+                "result": 0,
+                "id": "tournament_19_20"
+            },
+            {
+                "white": "Zhu, Wanming",
+                "black": "Huang, Zhongming",
+                "date": "2014-02-11",
+                "result": 0,
+                "id": "tournament_19_21"
+            },
+            {
+                "white": "Liang, Shujun",
+                "black": "Jin, Zhiyuan",
+                "date": "2014-02-11",
+                "result": 1,
+                "id": "tournament_19_22"
+            },
+            {
+                "white": "Zhang, Wei",
+                "black": "Tan, Ya",
+                "date": "2014-02-11",
+                "result": 0.5,
+                "id": "tournament_19_23"
+            },
+            {
+                "white": "Hu, Jianjing",
+                "black": "Chen, Sigang",
+                "date": "2014-02-11",
+                "result": 0.5,
+                "id": "tournament_19_24"
+            },
+            {
+                "white": "Liu, Aigui",
+                "black": "Cui, Junkai",
+                "date": "2014-02-11",
+                "result": 1,
+                "id": "tournament_19_25"
+            },
+            {
+                "white": "Wen, Yongxi",
+                "black": "Wang, Yongyun",
+                "date": "2014-02-11",
+                "result": 0.5,
+                "id": "tournament_19_26"
+            },
+            {
+                "white": "Cai, Qi",
+                "black": "Jiang, Bo",
+                "date": "2014-02-11",
+                "result": 0.5,
+                "id": "tournament_19_27"
+            },
+            {
+                "white": "Zhang, Weirong",
+                "black": "Zhong, Changyuan",
+                "date": "2014-02-11",
+                "result": 0.5,
+                "id": "tournament_19_28"
+            },
+            {
+                "white": "Wang, Dian",
+                "black": "Cheng, Momei",
+                "date": "2014-02-11",
+                "result": 0.5,
+                "id": "tournament_19_29"
+            },
+            {
+                "white": "Yuan, Xiongping",
+                "black": "Li, Wenling",
+                "date": "2014-02-11",
+                "result": 0.5,
+                "id": "tournament_19_30"
+            },
+            {
+                "white": "Fu, Jian",
+                "black": "Guo, Hongmin",
+                "date": "2014-02-11",
+                "result": 1,
+                "id": "tournament_19_31"
+            },
+            {
+                "white": "Zou, Feng",
+                "black": "Liang, Qing",
+                "date": "2014-02-11",
+                "result": 1,
+                "id": "tournament_19_32"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Liu, Xingmei",
+                "black": "Liu, Yapu",
+                "date": "2014-02-13",
+                "result": 1,
+                "id": "tournament_19_33"
+            },
+            {
+                "white": "Cai, Yuxue",
+                "black": "Jiang, Degang",
+                "date": "2014-02-13",
+                "result": 1,
+                "id": "tournament_19_34"
+            },
+            {
+                "white": "Huang, Zhongming",
+                "black": "Liang, Shujun",
+                "date": "2014-02-13",
+                "result": 0,
+                "id": "tournament_19_35"
+            },
+            {
+                "white": "Yang, Hui",
+                "black": "Liu, Aigui",
+                "date": "2014-02-13",
+                "result": 0.5,
+                "id": "tournament_19_36"
+            },
+            {
+                "white": "Cao, Lingying",
+                "black": "Ren, Suqin",
+                "date": "2014-02-13",
+                "result": 0.5,
+                "id": "tournament_19_37"
+            },
+            {
+                "white": "Jin, Zhiyuan",
+                "black": "Chen, Chenyun",
+                "date": "2014-02-13",
+                "result": 0.5,
+                "id": "tournament_19_38"
+            },
+            {
+                "white": "Tan, Ya",
+                "black": "Hu, Jianjing",
+                "date": "2014-02-13",
+                "result": 0.5,
+                "id": "tournament_19_39"
+            },
+            {
+                "white": "Chen, Sigang",
+                "black": "Zhang, Wei",
+                "date": "2014-02-13",
+                "result": 1,
+                "id": "tournament_19_40"
+            },
+            {
+                "white": "Wang, Yongyun",
+                "black": "Cai, Qi",
+                "date": "2014-02-13",
+                "result": 0.5,
+                "id": "tournament_19_41"
+            },
+            {
+                "white": "Jiang, Bo",
+                "black": "Wen, Yongxi",
+                "date": "2014-02-13",
+                "result": 1,
+                "id": "tournament_19_42"
+            },
+            {
+                "white": "Zhong, Changyuan",
+                "black": "Zou, Feng",
+                "date": "2014-02-13",
+                "result": 1,
+                "id": "tournament_19_43"
+            },
+            {
+                "white": "Cheng, Momei",
+                "black": "Fu, Jian",
+                "date": "2014-02-13",
+                "result": 0,
+                "id": "tournament_19_44"
+            },
+            {
+                "white": "Lin, Zexiong",
+                "black": "Zhu, Wanming",
+                "date": "2014-02-13",
+                "result": 0.5,
+                "id": "tournament_19_45"
+            },
+            {
+                "white": "Cui, Junkai",
+                "black": "Zhang, Weirong",
+                "date": "2014-02-13",
+                "result": 0.5,
+                "id": "tournament_19_46"
+            },
+            {
+                "white": "Li, Wenling",
+                "black": "Wang, Dian",
+                "date": "2014-02-13",
+                "result": 0,
+                "id": "tournament_19_47"
+            },
+            {
+                "white": "Guo, Hongmin",
+                "black": "Yuan, Xiongping",
+                "date": "2014-02-13",
+                "result": 0.5,
+                "id": "tournament_19_48"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Liang, Shujun",
+                "black": "Liu, Xingmei",
+                "date": "2014-02-15",
+                "result": 0.5,
+                "id": "tournament_19_49"
+            },
+            {
+                "white": "Liu, Yapu",
+                "black": "Cai, Yuxue",
+                "date": "2014-02-15",
+                "result": 1,
+                "id": "tournament_19_50"
+            },
+            {
+                "white": "Liu, Aigui",
+                "black": "Huang, Zhongming",
+                "date": "2014-02-15",
+                "result": 1,
+                "id": "tournament_19_51"
+            },
+            {
+                "white": "Fu, Jian",
+                "black": "Yang, Hui",
+                "date": "2014-02-15",
+                "result": 0.5,
+                "id": "tournament_19_52"
+            },
+            {
+                "white": "Jiang, Degang",
+                "black": "Chen, Sigang",
+                "date": "2014-02-15",
+                "result": 0.5,
+                "id": "tournament_19_53"
+            },
+            {
+                "white": "Ren, Suqin",
+                "black": "Jiang, Bo",
+                "date": "2014-02-15",
+                "result": 1,
+                "id": "tournament_19_54"
+            },
+            {
+                "white": "Chen, Chenyun",
+                "black": "Zhong, Changyuan",
+                "date": "2014-02-15",
+                "result": 1,
+                "id": "tournament_19_55"
+            },
+            {
+                "white": "Hu, Jianjing",
+                "black": "Cao, Lingying",
+                "date": "2014-02-15",
+                "result": 0.5,
+                "id": "tournament_19_56"
+            },
+            {
+                "white": "Cai, Qi",
+                "black": "Jin, Zhiyuan",
+                "date": "2014-02-15",
+                "result": 0,
+                "id": "tournament_19_57"
+            },
+            {
+                "white": "Wang, Dian",
+                "black": "Tan, Ya",
+                "date": "2014-02-15",
+                "result": 0.5,
+                "id": "tournament_19_58"
+            },
+            {
+                "white": "Zhang, Wei",
+                "black": "Wang, Yongyun",
+                "date": "2014-02-15",
+                "result": 0.5,
+                "id": "tournament_19_59"
+            },
+            {
+                "white": "Wen, Yongxi",
+                "black": "Lin, Zexiong",
+                "date": "2014-02-15",
+                "result": 1,
+                "id": "tournament_19_60"
+            },
+            {
+                "white": "Zou, Feng",
+                "black": "Cheng, Momei",
+                "date": "2014-02-15",
+                "result": 0.5,
+                "id": "tournament_19_61"
+            },
+            {
+                "white": "Zhu, Wanming",
+                "black": "Cui, Junkai",
+                "date": "2014-02-15",
+                "result": 1,
+                "id": "tournament_19_62"
+            },
+            {
+                "white": "Zhang, Weirong",
+                "black": "Li, Wenling",
+                "date": "2014-02-15",
+                "result": 0,
+                "id": "tournament_19_63"
+            },
+            {
+                "white": "Yuan, Xiongping",
+                "black": "Liang, Qing",
+                "date": "2014-02-15",
+                "result": 1,
+                "id": "tournament_19_64"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Liu, Xingmei",
+                "black": "Liu, Aigui",
+                "date": "2014-02-17",
+                "result": 1,
+                "id": "tournament_19_65"
+            },
+            {
+                "white": "Cai, Yuxue",
+                "black": "Liang, Shujun",
+                "date": "2014-02-17",
+                "result": 0.5,
+                "id": "tournament_19_66"
+            },
+            {
+                "white": "Yang, Hui",
+                "black": "Liu, Yapu",
+                "date": "2014-02-17",
+                "result": 0.5,
+                "id": "tournament_19_67"
+            },
+            {
+                "white": "Chen, Sigang",
+                "black": "Fu, Jian",
+                "date": "2014-02-17",
+                "result": 0.5,
+                "id": "tournament_19_68"
+            },
+            {
+                "white": "Jin, Zhiyuan",
+                "black": "Ren, Suqin",
+                "date": "2014-02-17",
+                "result": 0.5,
+                "id": "tournament_19_69"
+            },
+            {
+                "white": "Huang, Zhongming",
+                "black": "Chen, Chenyun",
+                "date": "2014-02-17",
+                "result": 0.5,
+                "id": "tournament_19_70"
+            },
+            {
+                "white": "Jiang, Bo",
+                "black": "Jiang, Degang",
+                "date": "2014-02-17",
+                "result": 0,
+                "id": "tournament_19_71"
+            },
+            {
+                "white": "Zhong, Changyuan",
+                "black": "Hu, Jianjing",
+                "date": "2014-02-17",
+                "result": 0.5,
+                "id": "tournament_19_72"
+            },
+            {
+                "white": "Cao, Lingying",
+                "black": "Wang, Dian",
+                "date": "2014-02-17",
+                "result": 0.5,
+                "id": "tournament_19_73"
+            },
+            {
+                "white": "Tan, Ya",
+                "black": "Wen, Yongxi",
+                "date": "2014-02-17",
+                "result": 0.5,
+                "id": "tournament_19_74"
+            },
+            {
+                "white": "Wang, Yongyun",
+                "black": "Zhu, Wanming",
+                "date": "2014-02-17",
+                "result": 0.5,
+                "id": "tournament_19_75"
+            },
+            {
+                "white": "Lin, Zexiong",
+                "black": "Yuan, Xiongping",
+                "date": "2014-02-17",
+                "result": 0,
+                "id": "tournament_19_76"
+            },
+            {
+                "white": "Li, Wenling",
+                "black": "Cai, Qi",
+                "date": "2014-02-17",
+                "result": 1,
+                "id": "tournament_19_77"
+            },
+            {
+                "white": "Cheng, Momei",
+                "black": "Zhang, Wei",
+                "date": "2014-02-17",
+                "result": 0,
+                "id": "tournament_19_78"
+            },
+            {
+                "white": "Guo, Hongmin",
+                "black": "Zou, Feng",
+                "date": "2014-02-17",
+                "result": 1,
+                "id": "tournament_19_79"
+            },
+            {
+                "white": "Liang, Qing",
+                "black": "Zhang, Weirong",
+                "date": "2014-02-17",
+                "result": 0.5,
+                "id": "tournament_19_80"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Fu, Jian",
+                "black": "Liu, Xingmei",
+                "date": "2014-02-19",
+                "result": 1,
+                "id": "tournament_19_81"
+            },
+            {
+                "white": "Liu, Aigui",
+                "black": "Cai, Yuxue",
+                "date": "2014-02-19",
+                "result": 0,
+                "id": "tournament_19_82"
+            },
+            {
+                "white": "Liang, Shujun",
+                "black": "Yang, Hui",
+                "date": "2014-02-19",
+                "result": 0.5,
+                "id": "tournament_19_83"
+            },
+            {
+                "white": "Liu, Yapu",
+                "black": "Chen, Sigang",
+                "date": "2014-02-19",
+                "result": 0.5,
+                "id": "tournament_19_84"
+            },
+            {
+                "white": "Ren, Suqin",
+                "black": "Huang, Zhongming",
+                "date": "2014-02-19",
+                "result": 0,
+                "id": "tournament_19_85"
+            },
+            {
+                "white": "Chen, Chenyun",
+                "black": "Cao, Lingying",
+                "date": "2014-02-19",
+                "result": 0,
+                "id": "tournament_19_86"
+            },
+            {
+                "white": "Jiang, Degang",
+                "black": "Jin, Zhiyuan",
+                "date": "2014-02-19",
+                "result": 1,
+                "id": "tournament_19_87"
+            },
+            {
+                "white": "Yuan, Xiongping",
+                "black": "Zhong, Changyuan",
+                "date": "2014-02-19",
+                "result": 1,
+                "id": "tournament_19_88"
+            },
+            {
+                "white": "Cai, Qi",
+                "black": "Tan, Ya",
+                "date": "2014-02-19",
+                "result": 0,
+                "id": "tournament_19_89"
+            },
+            {
+                "white": "Wang, Dian",
+                "black": "Wang, Yongyun",
+                "date": "2014-02-19",
+                "result": 1,
+                "id": "tournament_19_90"
+            },
+            {
+                "white": "Hu, Jianjing",
+                "black": "Li, Wenling",
+                "date": "2014-02-19",
+                "result": 0.5,
+                "id": "tournament_19_91"
+            },
+            {
+                "white": "Wen, Yongxi",
+                "black": "Guo, Hongmin",
+                "date": "2014-02-19",
+                "result": 1,
+                "id": "tournament_19_92"
+            },
+            {
+                "white": "Zhu, Wanming",
+                "black": "Jiang, Bo",
+                "date": "2014-02-19",
+                "result": 1,
+                "id": "tournament_19_93"
+            },
+            {
+                "white": "Zhang, Wei",
+                "black": "Lin, Zexiong",
+                "date": "2014-02-19",
+                "result": 0.5,
+                "id": "tournament_19_94"
+            },
+            {
+                "white": "Zou, Feng",
+                "black": "Cui, Junkai",
+                "date": "2014-02-19",
+                "result": 0.5,
+                "id": "tournament_19_95"
+            },
+            {
+                "white": "Zhang, Weirong",
+                "black": "Cheng, Momei",
+                "date": "2014-02-19",
+                "result": 0.5,
+                "id": "tournament_19_96"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Liu, Xingmei",
+                "black": "Jiang, Degang",
+                "date": "2014-02-21",
+                "result": 0.5,
+                "id": "tournament_19_97"
+            },
+            {
+                "white": "Cai, Yuxue",
+                "black": "Fu, Jian",
+                "date": "2014-02-21",
+                "result": 0.5,
+                "id": "tournament_19_98"
+            },
+            {
+                "white": "Cao, Lingying",
+                "black": "Liang, Shujun",
+                "date": "2014-02-21",
+                "result": 0,
+                "id": "tournament_19_99"
+            },
+            {
+                "white": "Huang, Zhongming",
+                "black": "Liu, Yapu",
+                "date": "2014-02-21",
+                "result": 0,
+                "id": "tournament_19_100"
+            },
+            {
+                "white": "Yang, Hui",
+                "black": "Yuan, Xiongping",
+                "date": "2014-02-21",
+                "result": 1,
+                "id": "tournament_19_101"
+            },
+            {
+                "white": "Chen, Sigang",
+                "black": "Wang, Dian",
+                "date": "2014-02-21",
+                "result": 0.5,
+                "id": "tournament_19_102"
+            },
+            {
+                "white": "Tan, Ya",
+                "black": "Liu, Aigui",
+                "date": "2014-02-21",
+                "result": 0.5,
+                "id": "tournament_19_103"
+            },
+            {
+                "white": "Jin, Zhiyuan",
+                "black": "Wen, Yongxi",
+                "date": "2014-02-21",
+                "result": 1,
+                "id": "tournament_19_104"
+            },
+            {
+                "white": "Li, Wenling",
+                "black": "Zhu, Wanming",
+                "date": "2014-02-21",
+                "result": 0.5,
+                "id": "tournament_19_105"
+            },
+            {
+                "white": "Zhong, Changyuan",
+                "black": "Ren, Suqin",
+                "date": "2014-02-21",
+                "result": 0,
+                "id": "tournament_19_106"
+            },
+            {
+                "white": "Wang, Yongyun",
+                "black": "Chen, Chenyun",
+                "date": "2014-02-21",
+                "result": 1,
+                "id": "tournament_19_107"
+            },
+            {
+                "white": "Liang, Qing",
+                "black": "Cui, Junkai",
+                "date": "2014-02-21",
+                "result": 0,
+                "id": "tournament_19_108"
+            },
+            {
+                "white": "Jiang, Bo",
+                "black": "Hu, Jianjing",
+                "date": "2014-02-21",
+                "result": 0.5,
+                "id": "tournament_19_109"
+            },
+            {
+                "white": "Zhang, Weirong",
+                "black": "Cai, Qi",
+                "date": "2014-02-21",
+                "result": 1,
+                "id": "tournament_19_110"
+            },
+            {
+                "white": "Lin, Zexiong",
+                "black": "Zou, Feng",
+                "date": "2014-02-21",
+                "result": 0.5,
+                "id": "tournament_19_111"
+            },
+            {
+                "white": "Cheng, Momei",
+                "black": "Guo, Hongmin",
+                "date": "2014-02-21",
+                "result": 0,
+                "id": "tournament_19_112"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Yuan, Xiongping",
+                "black": "Liu, Xingmei",
+                "date": "2014-02-23",
+                "result": 0.5,
+                "id": "tournament_19_113"
+            },
+            {
+                "white": "Wang, Dian",
+                "black": "Cai, Yuxue",
+                "date": "2014-02-23",
+                "result": 0.5,
+                "id": "tournament_19_114"
+            },
+            {
+                "white": "Liang, Shujun",
+                "black": "Tan, Ya",
+                "date": "2014-02-23",
+                "result": 0.5,
+                "id": "tournament_19_115"
+            },
+            {
+                "white": "Liu, Yapu",
+                "black": "Jin, Zhiyuan",
+                "date": "2014-02-23",
+                "result": 0.5,
+                "id": "tournament_19_116"
+            },
+            {
+                "white": "Fu, Jian",
+                "black": "Cao, Lingying",
+                "date": "2014-02-23",
+                "result": 0.5,
+                "id": "tournament_19_117"
+            },
+            {
+                "white": "Jiang, Degang",
+                "black": "Huang, Zhongming",
+                "date": "2014-02-23",
+                "result": 0,
+                "id": "tournament_19_118"
+            },
+            {
+                "white": "Zhu, Wanming",
+                "black": "Yang, Hui",
+                "date": "2014-02-23",
+                "result": 0.5,
+                "id": "tournament_19_119"
+            },
+            {
+                "white": "Ren, Suqin",
+                "black": "Chen, Sigang",
+                "date": "2014-02-23",
+                "result": 0.5,
+                "id": "tournament_19_120"
+            },
+            {
+                "white": "Zhang, Wei",
+                "black": "Li, Wenling",
+                "date": "2014-02-23",
+                "result": 1,
+                "id": "tournament_19_121"
+            },
+            {
+                "white": "Wen, Yongxi",
+                "black": "Cui, Junkai",
+                "date": "2014-02-23",
+                "result": 1,
+                "id": "tournament_19_122"
+            },
+            {
+                "white": "Liu, Aigui",
+                "black": "Wang, Yongyun",
+                "date": "2014-02-23",
+                "result": 1,
+                "id": "tournament_19_123"
+            },
+            {
+                "white": "Zou, Feng",
+                "black": "Cai, Qi",
+                "date": "2014-02-23",
+                "result": 1,
+                "id": "tournament_19_124"
+            },
+            {
+                "white": "Chen, Chenyun",
+                "black": "Guo, Hongmin",
+                "date": "2014-02-23",
+                "result": 1,
+                "id": "tournament_19_125"
+            },
+            {
+                "white": "Zhang, Weirong",
+                "black": "Lin, Zexiong",
+                "date": "2014-02-23",
+                "result": 1,
+                "id": "tournament_19_126"
+            },
+            {
+                "white": "Cheng, Momei",
+                "black": "Zhong, Changyuan",
+                "date": "2014-02-23",
+                "result": 0,
+                "id": "tournament_19_127"
+            },
+            {
+                "white": "Hu, Jianjing",
+                "black": "Liang, Qing",
+                "date": "2014-02-23",
+                "result": 1,
+                "id": "tournament_19_128"
+            }
+        ]
+    },
+    "tours": 8,
+    "time_control": "rapid"
+}

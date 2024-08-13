@@ -1,0 +1,241 @@
+{
+    "name": "tournament_153",
+    "start_date": "2015-02-06",
+    "end_date": "2015-02-22",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Zhang, Yan",
+                "black": "Fan, Chenni",
+                "date": "2015-02-06",
+                "result": 1,
+                "id": "tournament_153_1"
+            },
+            {
+                "white": "Fan, Chenni",
+                "black": "Zhang, Yan",
+                "date": "2015-02-08",
+                "result": 0.5,
+                "id": "tournament_153_2"
+            },
+            {
+                "white": "Zhong, Changyuan",
+                "black": "Chen, Rongshun",
+                "date": "2015-02-06",
+                "result": 0.5,
+                "id": "tournament_153_3"
+            },
+            {
+                "white": "Chen, Rongshun",
+                "black": "Zhong, Changyuan",
+                "date": "2015-02-08",
+                "result": 1,
+                "id": "tournament_153_4"
+            },
+            {
+                "white": "Zhang, Anpeng",
+                "black": "Lu, Jiaoli",
+                "date": "2015-02-06",
+                "result": 1,
+                "id": "tournament_153_5"
+            },
+            {
+                "white": "Lu, Jiaoli",
+                "black": "Zhang, Anpeng",
+                "date": "2015-02-08",
+                "result": 0,
+                "id": "tournament_153_6"
+            },
+            {
+                "white": "Hu, Jingxin",
+                "black": "Yuan, Hongtong",
+                "date": "2015-02-06",
+                "result": 1,
+                "id": "tournament_153_7"
+            },
+            {
+                "white": "Yuan, Hongtong",
+                "black": "Hu, Jingxin",
+                "date": "2015-02-08",
+                "result": 0,
+                "id": "tournament_153_8"
+            },
+            {
+                "white": "Dong, Haifei",
+                "black": "Cheng, Mingyun",
+                "date": "2015-02-06",
+                "result": 0.5,
+                "id": "tournament_153_9"
+            },
+            {
+                "white": "Cheng, Mingyun",
+                "black": "Dong, Haifei",
+                "date": "2015-02-08",
+                "result": 0.5,
+                "id": "tournament_153_10"
+            },
+            {
+                "white": "Dong, Haifei",
+                "black": "Cheng, Mingyun",
+                "date": "2015-02-08",
+                "result": 1,
+                "id": "tournament_153_11"
+            },
+            {
+                "white": "Sun, Chunyi",
+                "black": "He, Jianzhi",
+                "date": "2015-02-06",
+                "result": 1,
+                "id": "tournament_153_12"
+            },
+            {
+                "white": "He, Jianzhi",
+                "black": "Sun, Chunyi",
+                "date": "2015-02-08",
+                "result": 0,
+                "id": "tournament_153_13"
+            },
+            {
+                "white": "Shen, Jianqin",
+                "black": "Liang, Shujun",
+                "date": "2015-02-06",
+                "result": 0.5,
+                "id": "tournament_153_14"
+            },
+            {
+                "white": "Liang, Shujun",
+                "black": "Shen, Jianqin",
+                "date": "2015-02-08",
+                "result": 0.5,
+                "id": "tournament_153_15"
+            },
+            {
+                "white": "Shen, Jianqin",
+                "black": "Liang, Shujun",
+                "date": "2015-02-08",
+                "result": 0.5,
+                "id": "tournament_153_16"
+            },
+            {
+                "white": "Yang, Yinxiang",
+                "black": "Yang, Hui",
+                "date": "2015-02-06",
+                "result": 0,
+                "id": "tournament_153_17"
+            },
+            {
+                "white": "Yang, Hui",
+                "black": "Yang, Yinxiang",
+                "date": "2015-02-08",
+                "result": 1,
+                "id": "tournament_153_18"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Zhang, Yan",
+                "black": "Chen, Rongshun",
+                "date": "2015-02-10",
+                "result": 0,
+                "id": "tournament_153_19"
+            },
+            {
+                "white": "Chen, Rongshun",
+                "black": "Zhang, Yan",
+                "date": "2015-02-12",
+                "result": 0.5,
+                "id": "tournament_153_20"
+            },
+            {
+                "white": "Zhang, Anpeng",
+                "black": "Hu, Jingxin",
+                "date": "2015-02-10",
+                "result": 1,
+                "id": "tournament_153_21"
+            },
+            {
+                "white": "Hu, Jingxin",
+                "black": "Zhang, Anpeng",
+                "date": "2015-02-12",
+                "result": 0,
+                "id": "tournament_153_22"
+            },
+            {
+                "white": "Dong, Haifei",
+                "black": "Sun, Chunyi",
+                "date": "2015-02-10",
+                "result": 0,
+                "id": "tournament_153_23"
+            },
+            {
+                "white": "Sun, Chunyi",
+                "black": "Dong, Haifei",
+                "date": "2015-02-12",
+                "result": 1,
+                "id": "tournament_153_24"
+            },
+            {
+                "white": "Liang, Shujun",
+                "black": "Yang, Hui",
+                "date": "2015-02-10",
+                "result": 1,
+                "id": "tournament_153_25"
+            },
+            {
+                "white": "Yang, Hui",
+                "black": "Liang, Shujun",
+                "date": "2015-02-12",
+                "result": 0.5,
+                "id": "tournament_153_26"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Chen, Rongshun",
+                "black": "Zhang, Anpeng",
+                "date": "2015-02-14",
+                "result": 0.5,
+                "id": "tournament_153_27"
+            },
+            {
+                "white": "Zhang, Anpeng",
+                "black": "Chen, Rongshun",
+                "date": "2015-02-16",
+                "result": 1,
+                "id": "tournament_153_28"
+            },
+            {
+                "white": "Sun, Chunyi",
+                "black": "Liang, Shujun",
+                "date": "2015-02-14",
+                "result": 0.5,
+                "id": "tournament_153_29"
+            },
+            {
+                "white": "Liang, Shujun",
+                "black": "Sun, Chunyi",
+                "date": "2015-02-16",
+                "result": 1,
+                "id": "tournament_153_30"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Zhang, Anpeng",
+                "black": "Liang, Shujun",
+                "date": "2015-02-18",
+                "result": 1,
+                "id": "tournament_153_31"
+            },
+            {
+                "white": "Liang, Shujun",
+                "black": "Zhang, Anpeng",
+                "date": "2015-02-20",
+                "result": 0,
+                "id": "tournament_153_32"
+            }
+        ]
+    },
+    "tours": 4,
+    "time_control": "rapid"
+}

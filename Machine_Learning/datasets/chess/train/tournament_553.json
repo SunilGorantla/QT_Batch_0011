@@ -1,0 +1,249 @@
+{
+    "name": "tournament_553",
+    "start_date": "2018-03-07",
+    "end_date": "2018-03-15",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Wang, Jianyao",
+                "black": "Xu, Jing",
+                "date": "2018-03-07",
+                "result": 1,
+                "id": "tournament_553_1"
+            },
+            {
+                "white": "Fang, Dong",
+                "black": "Tan, Yao",
+                "date": "2018-03-07",
+                "result": 0.5,
+                "id": "tournament_553_2"
+            },
+            {
+                "white": "Huang, Hui",
+                "black": "Wu, Zhongtong",
+                "date": "2018-03-07",
+                "result": 0,
+                "id": "tournament_553_3"
+            },
+            {
+                "white": "Feng, Erchun",
+                "black": "Shen, Minfu",
+                "date": "2018-03-07",
+                "result": 0.5,
+                "id": "tournament_553_4"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Li, Zhengji",
+                "black": "Wang, Jianyao",
+                "date": "2018-03-08",
+                "result": 0,
+                "id": "tournament_553_5"
+            },
+            {
+                "white": "Huang, Hui",
+                "black": "Xu, Jing",
+                "date": "2018-03-08",
+                "result": 0,
+                "id": "tournament_553_6"
+            },
+            {
+                "white": "Feng, Erchun",
+                "black": "Tan, Yao",
+                "date": "2018-03-08",
+                "result": 1,
+                "id": "tournament_553_7"
+            },
+            {
+                "white": "Shen, Minfu",
+                "black": "Wu, Zhongtong",
+                "date": "2018-03-08",
+                "result": 0.5,
+                "id": "tournament_553_8"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Fang, Dong",
+                "black": "Li, Zhengji",
+                "date": "2018-03-09",
+                "result": 1,
+                "id": "tournament_553_9"
+            },
+            {
+                "white": "Wang, Jianyao",
+                "black": "Huang, Hui",
+                "date": "2018-03-09",
+                "result": 1,
+                "id": "tournament_553_10"
+            },
+            {
+                "white": "Shen, Minfu",
+                "black": "Xu, Jing",
+                "date": "2018-03-09",
+                "result": 0.5,
+                "id": "tournament_553_11"
+            },
+            {
+                "white": "Wu, Zhongtong",
+                "black": "Tan, Yao",
+                "date": "2018-03-09",
+                "result": 1,
+                "id": "tournament_553_12"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Li, Zhengji",
+                "black": "Huang, Hui",
+                "date": "2018-03-10",
+                "result": 1,
+                "id": "tournament_553_13"
+            },
+            {
+                "white": "Fang, Dong",
+                "black": "Feng, Erchun",
+                "date": "2018-03-10",
+                "result": 0.5,
+                "id": "tournament_553_14"
+            },
+            {
+                "white": "Wang, Jianyao",
+                "black": "Shen, Minfu",
+                "date": "2018-03-10",
+                "result": 1,
+                "id": "tournament_553_15"
+            },
+            {
+                "white": "Tan, Yao",
+                "black": "Xu, Jing",
+                "date": "2018-03-10",
+                "result": 0.5,
+                "id": "tournament_553_16"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Feng, Erchun",
+                "black": "Li, Zhengji",
+                "date": "2018-03-11",
+                "result": 0.5,
+                "id": "tournament_553_17"
+            },
+            {
+                "white": "Huang, Hui",
+                "black": "Shen, Minfu",
+                "date": "2018-03-11",
+                "result": 0,
+                "id": "tournament_553_18"
+            },
+            {
+                "white": "Fang, Dong",
+                "black": "Wu, Zhongtong",
+                "date": "2018-03-11",
+                "result": 0.5,
+                "id": "tournament_553_19"
+            },
+            {
+                "white": "Wang, Jianyao",
+                "black": "Tan, Yao",
+                "date": "2018-03-11",
+                "result": 1,
+                "id": "tournament_553_20"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Li, Zhengji",
+                "black": "Shen, Minfu",
+                "date": "2018-03-12",
+                "result": 0.5,
+                "id": "tournament_553_21"
+            },
+            {
+                "white": "Feng, Erchun",
+                "black": "Wu, Zhongtong",
+                "date": "2018-03-12",
+                "result": 1,
+                "id": "tournament_553_22"
+            },
+            {
+                "white": "Huang, Hui",
+                "black": "Tan, Yao",
+                "date": "2018-03-12",
+                "result": 0,
+                "id": "tournament_553_23"
+            },
+            {
+                "white": "Fang, Dong",
+                "black": "Xu, Jing",
+                "date": "2018-03-12",
+                "result": 1,
+                "id": "tournament_553_24"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Wu, Zhongtong",
+                "black": "Li, Zhengji",
+                "date": "2018-03-13",
+                "result": 0,
+                "id": "tournament_553_25"
+            },
+            {
+                "white": "Shen, Minfu",
+                "black": "Tan, Yao",
+                "date": "2018-03-13",
+                "result": 1,
+                "id": "tournament_553_26"
+            },
+            {
+                "white": "Feng, Erchun",
+                "black": "Xu, Jing",
+                "date": "2018-03-13",
+                "result": 1,
+                "id": "tournament_553_27"
+            },
+            {
+                "white": "Wang, Jianyao",
+                "black": "Fang, Dong",
+                "date": "2018-03-13",
+                "result": 0.5,
+                "id": "tournament_553_28"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Li, Zhengji",
+                "black": "Tan, Yao",
+                "date": "2018-03-14",
+                "result": 0.5,
+                "id": "tournament_553_29"
+            },
+            {
+                "white": "Wu, Zhongtong",
+                "black": "Xu, Jing",
+                "date": "2018-03-14",
+                "result": 0.5,
+                "id": "tournament_553_30"
+            },
+            {
+                "white": "Wang, Jianyao",
+                "black": "Feng, Erchun",
+                "date": "2018-03-14",
+                "result": 0.5,
+                "id": "tournament_553_31"
+            },
+            {
+                "white": "Fang, Dong",
+                "black": "Huang, Hui",
+                "date": "2018-03-14",
+                "result": 1,
+                "id": "tournament_553_32"
+            }
+        ]
+    },
+    "tours": 8,
+    "time_control": "classic"
+}

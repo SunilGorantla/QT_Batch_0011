@@ -1,0 +1,219 @@
+{
+    "name": "tournament_646",
+    "start_date": "2018-11-07",
+    "end_date": "2018-11-14",
+    "games": {
+        "tour_1": [
+            {
+                "white": "王瑞梓",
+                "black": "张穆礼",
+                "date": "2018-11-07",
+                "result": 0,
+                "id": "tournament_646_1"
+            },
+            {
+                "white": "胡静新",
+                "black": "刘改川",
+                "date": "2018-11-07",
+                "result": 0.5,
+                "id": "tournament_646_2"
+            },
+            {
+                "white": "文胜容",
+                "black": "朱二州",
+                "date": "2018-11-07",
+                "result": 0.5,
+                "id": "tournament_646_3"
+            },
+            {
+                "white": "吕明梅",
+                "black": "董迎婴",
+                "date": "2018-11-07",
+                "result": 0.5,
+                "id": "tournament_646_4"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "张穆礼",
+                "black": "胡静新",
+                "date": "2018-11-08",
+                "result": 1,
+                "id": "tournament_646_5"
+            },
+            {
+                "white": "王瑞梓",
+                "black": "文胜容",
+                "date": "2018-11-08",
+                "result": 0.5,
+                "id": "tournament_646_6"
+            },
+            {
+                "white": "吕明梅",
+                "black": "刘改川",
+                "date": "2018-11-08",
+                "result": 0.5,
+                "id": "tournament_646_7"
+            },
+            {
+                "white": "董迎婴",
+                "black": "朱二州",
+                "date": "2018-11-08",
+                "result": 0,
+                "id": "tournament_646_8"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "文胜容",
+                "black": "张穆礼",
+                "date": "2018-11-09",
+                "result": 1,
+                "id": "tournament_646_9"
+            },
+            {
+                "white": "胡静新",
+                "black": "吕明梅",
+                "date": "2018-11-09",
+                "result": 0,
+                "id": "tournament_646_10"
+            },
+            {
+                "white": "王瑞梓",
+                "black": "董迎婴",
+                "date": "2018-11-09",
+                "result": 0.5,
+                "id": "tournament_646_11"
+            },
+            {
+                "white": "朱二州",
+                "black": "刘改川",
+                "date": "2018-11-09",
+                "result": 1,
+                "id": "tournament_646_12"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "张穆礼",
+                "black": "吕明梅",
+                "date": "2018-11-10",
+                "result": 0.5,
+                "id": "tournament_646_13"
+            },
+            {
+                "white": "文胜容",
+                "black": "董迎婴",
+                "date": "2018-11-10",
+                "result": 0.5,
+                "id": "tournament_646_14"
+            },
+            {
+                "white": "胡静新",
+                "black": "朱二州",
+                "date": "2018-11-10",
+                "result": 0,
+                "id": "tournament_646_15"
+            },
+            {
+                "white": "王瑞梓",
+                "black": "刘改川",
+                "date": "2018-11-10",
+                "result": 1,
+                "id": "tournament_646_16"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "董迎婴",
+                "black": "张穆礼",
+                "date": "2018-11-11",
+                "result": 1,
+                "id": "tournament_646_17"
+            },
+            {
+                "white": "吕明梅",
+                "black": "朱二州",
+                "date": "2018-11-11",
+                "result": 0,
+                "id": "tournament_646_18"
+            },
+            {
+                "white": "文胜容",
+                "black": "刘改川",
+                "date": "2018-11-11",
+                "result": 0.5,
+                "id": "tournament_646_19"
+            },
+            {
+                "white": "王瑞梓",
+                "black": "胡静新",
+                "date": "2018-11-11",
+                "result": 1,
+                "id": "tournament_646_20"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "张穆礼",
+                "black": "朱二州",
+                "date": "2018-11-12",
+                "result": 0,
+                "id": "tournament_646_21"
+            },
+            {
+                "white": "董迎婴",
+                "black": "刘改川",
+                "date": "2018-11-12",
+                "result": 0.5,
+                "id": "tournament_646_22"
+            },
+            {
+                "white": "王瑞梓",
+                "black": "吕明梅",
+                "date": "2018-11-12",
+                "result": 1,
+                "id": "tournament_646_23"
+            },
+            {
+                "white": "胡静新",
+                "black": "文胜容",
+                "date": "2018-11-12",
+                "result": 0,
+                "id": "tournament_646_24"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "刘改川",
+                "black": "张穆礼",
+                "date": "2018-11-13",
+                "result": 0,
+                "id": "tournament_646_25"
+            },
+            {
+                "white": "王瑞梓",
+                "black": "朱二州",
+                "date": "2018-11-13",
+                "result": 0,
+                "id": "tournament_646_26"
+            },
+            {
+                "white": "胡静新",
+                "black": "董迎婴",
+                "date": "2018-11-13",
+                "result": 0.5,
+                "id": "tournament_646_27"
+            },
+            {
+                "white": "文胜容",
+                "black": "吕明梅",
+                "date": "2018-11-13",
+                "result": 1,
+                "id": "tournament_646_28"
+            }
+        ]
+    },
+    "tours": 7,
+    "time_control": "classic"
+}

@@ -1,0 +1,379 @@
+{
+    "name": "tournament_270",
+    "start_date": "2016-01-18",
+    "end_date": "2016-01-28",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Wang Zhenzhi",
+                "black": "He Sipei",
+                "date": "2016-01-18",
+                "result": 0.5,
+                "id": "tournament_270_1"
+            },
+            {
+                "white": "Tang Yangwen",
+                "black": "Zheng Xincong",
+                "date": "2016-01-18",
+                "result": 1,
+                "id": "tournament_270_2"
+            },
+            {
+                "white": "Jiang Ying",
+                "black": "Yang Jing",
+                "date": "2016-01-18",
+                "result": 0.5,
+                "id": "tournament_270_3"
+            },
+            {
+                "white": "Zhang Guofei",
+                "black": "Xu Baolong",
+                "date": "2016-01-18",
+                "result": 1,
+                "id": "tournament_270_4"
+            },
+            {
+                "white": "Han Changfang",
+                "black": "Zhong Shuling",
+                "date": "2016-01-18",
+                "result": 1,
+                "id": "tournament_270_5"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Zhao Mingjun",
+                "black": "Wang Zhenzhi",
+                "date": "2016-01-19",
+                "result": 0.5,
+                "id": "tournament_270_6"
+            },
+            {
+                "white": "Jiang Ying",
+                "black": "He Sipei",
+                "date": "2016-01-19",
+                "result": 1,
+                "id": "tournament_270_7"
+            },
+            {
+                "white": "Zhang Guofei",
+                "black": "Zheng Xincong",
+                "date": "2016-01-19",
+                "result": 1,
+                "id": "tournament_270_8"
+            },
+            {
+                "white": "Han Changfang",
+                "black": "Yang Jing",
+                "date": "2016-01-19",
+                "result": 0,
+                "id": "tournament_270_9"
+            },
+            {
+                "white": "Zhong Shuling",
+                "black": "Xu Baolong",
+                "date": "2016-01-19",
+                "result": 0.5,
+                "id": "tournament_270_10"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Tang Yangwen",
+                "black": "Zhao Mingjun",
+                "date": "2016-01-20",
+                "result": 1,
+                "id": "tournament_270_11"
+            },
+            {
+                "white": "Wang Zhenzhi",
+                "black": "Jiang Ying",
+                "date": "2016-01-20",
+                "result": 1,
+                "id": "tournament_270_12"
+            },
+            {
+                "white": "Han Changfang",
+                "black": "He Sipei",
+                "date": "2016-01-20",
+                "result": 1,
+                "id": "tournament_270_13"
+            },
+            {
+                "white": "Zhong Shuling",
+                "black": "Zheng Xincong",
+                "date": "2016-01-20",
+                "result": 1,
+                "id": "tournament_270_14"
+            },
+            {
+                "white": "Xu Baolong",
+                "black": "Yang Jing",
+                "date": "2016-01-20",
+                "result": 0.5,
+                "id": "tournament_270_15"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Zhao Mingjun",
+                "black": "Jiang Ying",
+                "date": "2016-01-21",
+                "result": 1,
+                "id": "tournament_270_16"
+            },
+            {
+                "white": "Tang Yangwen",
+                "black": "Zhang Guofei",
+                "date": "2016-01-21",
+                "result": 0,
+                "id": "tournament_270_17"
+            },
+            {
+                "white": "Wang Zhenzhi",
+                "black": "Han Changfang",
+                "date": "2016-01-21",
+                "result": 0.5,
+                "id": "tournament_270_18"
+            },
+            {
+                "white": "Xu Baolong",
+                "black": "He Sipei",
+                "date": "2016-01-21",
+                "result": 1,
+                "id": "tournament_270_19"
+            },
+            {
+                "white": "Yang Jing",
+                "black": "Zheng Xincong",
+                "date": "2016-01-21",
+                "result": 0.5,
+                "id": "tournament_270_20"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Zhang Guofei",
+                "black": "Zhao Mingjun",
+                "date": "2016-01-22",
+                "result": 0,
+                "id": "tournament_270_21"
+            },
+            {
+                "white": "Jiang Ying",
+                "black": "Han Changfang",
+                "date": "2016-01-22",
+                "result": 0.5,
+                "id": "tournament_270_22"
+            },
+            {
+                "white": "Tang Yangwen",
+                "black": "Zhong Shuling",
+                "date": "2016-01-22",
+                "result": 1,
+                "id": "tournament_270_23"
+            },
+            {
+                "white": "Wang Zhenzhi",
+                "black": "Xu Baolong",
+                "date": "2016-01-22",
+                "result": 0.5,
+                "id": "tournament_270_24"
+            },
+            {
+                "white": "Zheng Xincong",
+                "black": "He Sipei",
+                "date": "2016-01-22",
+                "result": 1,
+                "id": "tournament_270_25"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Zhao Mingjun",
+                "black": "Han Changfang",
+                "date": "2016-01-23",
+                "result": 0.5,
+                "id": "tournament_270_26"
+            },
+            {
+                "white": "Zhang Guofei",
+                "black": "Zhong Shuling",
+                "date": "2016-01-23",
+                "result": 0.5,
+                "id": "tournament_270_27"
+            },
+            {
+                "white": "Jiang Ying",
+                "black": "Xu Baolong",
+                "date": "2016-01-23",
+                "result": 0.5,
+                "id": "tournament_270_28"
+            },
+            {
+                "white": "Tang Yangwen",
+                "black": "Yang Jing",
+                "date": "2016-01-23",
+                "result": 1,
+                "id": "tournament_270_29"
+            },
+            {
+                "white": "Wang Zhenzhi",
+                "black": "Zheng Xincong",
+                "date": "2016-01-23",
+                "result": 0,
+                "id": "tournament_270_30"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Zhong Shuling",
+                "black": "Zhao Mingjun",
+                "date": "2016-01-24",
+                "result": 0.5,
+                "id": "tournament_270_31"
+            },
+            {
+                "white": "Han Changfang",
+                "black": "Xu Baolong",
+                "date": "2016-01-24",
+                "result": 1,
+                "id": "tournament_270_32"
+            },
+            {
+                "white": "Zhang Guofei",
+                "black": "Yang Jing",
+                "date": "2016-01-24",
+                "result": 1,
+                "id": "tournament_270_33"
+            },
+            {
+                "white": "Jiang Ying",
+                "black": "Zheng Xincong",
+                "date": "2016-01-24",
+                "result": 0,
+                "id": "tournament_270_34"
+            },
+            {
+                "white": "Tang Yangwen",
+                "black": "He Sipei",
+                "date": "2016-01-24",
+                "result": 1,
+                "id": "tournament_270_35"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Zhao Mingjun",
+                "black": "Xu Baolong",
+                "date": "2016-01-25",
+                "result": 1,
+                "id": "tournament_270_36"
+            },
+            {
+                "white": "Zhong Shuling",
+                "black": "Yang Jing",
+                "date": "2016-01-25",
+                "result": 1,
+                "id": "tournament_270_37"
+            },
+            {
+                "white": "Han Changfang",
+                "black": "Zheng Xincong",
+                "date": "2016-01-25",
+                "result": 0.5,
+                "id": "tournament_270_38"
+            },
+            {
+                "white": "Zhang Guofei",
+                "black": "He Sipei",
+                "date": "2016-01-25",
+                "result": 1,
+                "id": "tournament_270_39"
+            },
+            {
+                "white": "Wang Zhenzhi",
+                "black": "Tang Yangwen",
+                "date": "2016-01-25",
+                "result": 0.5,
+                "id": "tournament_270_40"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Yang Jing",
+                "black": "Zhao Mingjun",
+                "date": "2016-01-26",
+                "result": 0,
+                "id": "tournament_270_41"
+            },
+            {
+                "white": "Xu Baolong",
+                "black": "Zheng Xincong",
+                "date": "2016-01-26",
+                "result": 0.5,
+                "id": "tournament_270_42"
+            },
+            {
+                "white": "Zhong Shuling",
+                "black": "He Sipei",
+                "date": "2016-01-26",
+                "result": 1,
+                "id": "tournament_270_43"
+            },
+            {
+                "white": "Wang Zhenzhi",
+                "black": "Zhang Guofei",
+                "date": "2016-01-26",
+                "result": 0.5,
+                "id": "tournament_270_44"
+            },
+            {
+                "white": "Tang Yangwen",
+                "black": "Jiang Ying",
+                "date": "2016-01-26",
+                "result": 1,
+                "id": "tournament_270_45"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "Zhao Mingjun",
+                "black": "Zheng Xincong",
+                "date": "2016-01-27",
+                "result": 1,
+                "id": "tournament_270_46"
+            },
+            {
+                "white": "Yang Jing",
+                "black": "He Sipei",
+                "date": "2016-01-27",
+                "result": 0.5,
+                "id": "tournament_270_47"
+            },
+            {
+                "white": "Wang Zhenzhi",
+                "black": "Zhong Shuling",
+                "date": "2016-01-27",
+                "result": 0.5,
+                "id": "tournament_270_48"
+            },
+            {
+                "white": "Tang Yangwen",
+                "black": "Han Changfang",
+                "date": "2016-01-27",
+                "result": 0.5,
+                "id": "tournament_270_49"
+            },
+            {
+                "white": "Jiang Ying",
+                "black": "Zhang Guofei",
+                "date": "2016-01-27",
+                "result": 0.5,
+                "id": "tournament_270_50"
+            }
+        ]
+    },
+    "tours": 10,
+    "time_control": "classic"
+}

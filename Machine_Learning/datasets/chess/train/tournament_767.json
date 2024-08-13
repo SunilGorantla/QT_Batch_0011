@@ -1,0 +1,219 @@
+{
+    "name": "tournament_767",
+    "start_date": "2019-10-08",
+    "end_date": "2019-10-22",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Song, Manshen",
+                "black": "Liu, Yanbing",
+                "date": "2019-10-08",
+                "result": 0.5,
+                "id": "tournament_767_1"
+            },
+            {
+                "white": "Wang, Yabao",
+                "black": "Fu, Jian",
+                "date": "2019-10-08",
+                "result": 0.5,
+                "id": "tournament_767_2"
+            },
+            {
+                "white": "Lin, Xianzhi",
+                "black": "Wang, Jiajuan",
+                "date": "2019-10-08",
+                "result": 0,
+                "id": "tournament_767_3"
+            },
+            {
+                "white": "Yang, Yinxiang",
+                "black": "Liang, Liang",
+                "date": "2019-10-08",
+                "result": 1,
+                "id": "tournament_767_4"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Liu, Yanbing",
+                "black": "Wang, Yabao",
+                "date": "2019-10-10",
+                "result": 1,
+                "id": "tournament_767_5"
+            },
+            {
+                "white": "Song, Manshen",
+                "black": "Lin, Xianzhi",
+                "date": "2019-10-10",
+                "result": 1,
+                "id": "tournament_767_6"
+            },
+            {
+                "white": "Yang, Yinxiang",
+                "black": "Fu, Jian",
+                "date": "2019-10-10",
+                "result": 1,
+                "id": "tournament_767_7"
+            },
+            {
+                "white": "Liang, Liang",
+                "black": "Wang, Jiajuan",
+                "date": "2019-10-10",
+                "result": 0,
+                "id": "tournament_767_8"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Lin, Xianzhi",
+                "black": "Liu, Yanbing",
+                "date": "2019-10-12",
+                "result": 0,
+                "id": "tournament_767_9"
+            },
+            {
+                "white": "Wang, Yabao",
+                "black": "Yang, Yinxiang",
+                "date": "2019-10-12",
+                "result": 0,
+                "id": "tournament_767_10"
+            },
+            {
+                "white": "Song, Manshen",
+                "black": "Liang, Liang",
+                "date": "2019-10-12",
+                "result": 0.5,
+                "id": "tournament_767_11"
+            },
+            {
+                "white": "Wang, Jiajuan",
+                "black": "Fu, Jian",
+                "date": "2019-10-12",
+                "result": 1,
+                "id": "tournament_767_12"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Liu, Yanbing",
+                "black": "Yang, Yinxiang",
+                "date": "2019-10-14",
+                "result": 0.5,
+                "id": "tournament_767_13"
+            },
+            {
+                "white": "Lin, Xianzhi",
+                "black": "Liang, Liang",
+                "date": "2019-10-14",
+                "result": 0,
+                "id": "tournament_767_14"
+            },
+            {
+                "white": "Wang, Yabao",
+                "black": "Wang, Jiajuan",
+                "date": "2019-10-14",
+                "result": 0,
+                "id": "tournament_767_15"
+            },
+            {
+                "white": "Song, Manshen",
+                "black": "Fu, Jian",
+                "date": "2019-10-14",
+                "result": 1,
+                "id": "tournament_767_16"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Liang, Liang",
+                "black": "Liu, Yanbing",
+                "date": "2019-10-16",
+                "result": 0.5,
+                "id": "tournament_767_17"
+            },
+            {
+                "white": "Yang, Yinxiang",
+                "black": "Wang, Jiajuan",
+                "date": "2019-10-16",
+                "result": 0,
+                "id": "tournament_767_18"
+            },
+            {
+                "white": "Lin, Xianzhi",
+                "black": "Fu, Jian",
+                "date": "2019-10-16",
+                "result": 0,
+                "id": "tournament_767_19"
+            },
+            {
+                "white": "Song, Manshen",
+                "black": "Wang, Yabao",
+                "date": "2019-10-16",
+                "result": 1,
+                "id": "tournament_767_20"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Liu, Yanbing",
+                "black": "Wang, Jiajuan",
+                "date": "2019-10-18",
+                "result": 0,
+                "id": "tournament_767_21"
+            },
+            {
+                "white": "Liang, Liang",
+                "black": "Fu, Jian",
+                "date": "2019-10-18",
+                "result": 1,
+                "id": "tournament_767_22"
+            },
+            {
+                "white": "Song, Manshen",
+                "black": "Yang, Yinxiang",
+                "date": "2019-10-18",
+                "result": 0.5,
+                "id": "tournament_767_23"
+            },
+            {
+                "white": "Wang, Yabao",
+                "black": "Lin, Xianzhi",
+                "date": "2019-10-18",
+                "result": 0.5,
+                "id": "tournament_767_24"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Fu, Jian",
+                "black": "Liu, Yanbing",
+                "date": "2019-10-20",
+                "result": 0,
+                "id": "tournament_767_25"
+            },
+            {
+                "white": "Song, Manshen",
+                "black": "Wang, Jiajuan",
+                "date": "2019-10-20",
+                "result": 0,
+                "id": "tournament_767_26"
+            },
+            {
+                "white": "Wang, Yabao",
+                "black": "Liang, Liang",
+                "date": "2019-10-20",
+                "result": 0,
+                "id": "tournament_767_27"
+            },
+            {
+                "white": "Lin, Xianzhi",
+                "black": "Yang, Yinxiang",
+                "date": "2019-10-20",
+                "result": 0,
+                "id": "tournament_767_28"
+            }
+        ]
+    },
+    "tours": 7,
+    "time_control": "rapid"
+}

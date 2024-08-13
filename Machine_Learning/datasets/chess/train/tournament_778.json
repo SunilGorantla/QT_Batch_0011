@@ -1,0 +1,537 @@
+{
+    "name": "tournament_778",
+    "start_date": "2019-11-08",
+    "end_date": "2019-12-02",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Guo, Hongmin",
+                "black": "Bai, Zhuoqiong",
+                "date": "2019-11-08",
+                "result": 0.5,
+                "id": "tournament_778_1"
+            },
+            {
+                "white": "Dong, Yubo",
+                "black": "Xu, Yueling",
+                "date": "2019-11-08",
+                "result": 0.5,
+                "id": "tournament_778_2"
+            },
+            {
+                "white": "Wang, Jianmei",
+                "black": "Chen, Kang",
+                "date": "2019-11-08",
+                "result": 0,
+                "id": "tournament_778_3"
+            },
+            {
+                "white": "Wang, Jiu",
+                "black": "Cai, Wanxia",
+                "date": "2019-11-08",
+                "result": 1,
+                "id": "tournament_778_4"
+            },
+            {
+                "white": "Hu, Biwei",
+                "black": "Li, Qiaoyun",
+                "date": "2019-11-08",
+                "result": 1,
+                "id": "tournament_778_5"
+            },
+            {
+                "white": "Bi, Luhui",
+                "black": "Li, Yangyi",
+                "date": "2019-11-08",
+                "result": 1,
+                "id": "tournament_778_6"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Wang, Jin",
+                "black": "Guo, Hongmin",
+                "date": "2019-11-10",
+                "result": 1,
+                "id": "tournament_778_7"
+            },
+            {
+                "white": "Wang, Jianmei",
+                "black": "Bai, Zhuoqiong",
+                "date": "2019-11-10",
+                "result": 0,
+                "id": "tournament_778_8"
+            },
+            {
+                "white": "Wang, Jiu",
+                "black": "Xu, Yueling",
+                "date": "2019-11-10",
+                "result": 0.5,
+                "id": "tournament_778_9"
+            },
+            {
+                "white": "Hu, Biwei",
+                "black": "Chen, Kang",
+                "date": "2019-11-10",
+                "result": 1,
+                "id": "tournament_778_10"
+            },
+            {
+                "white": "Bi, Luhui",
+                "black": "Cai, Wanxia",
+                "date": "2019-11-10",
+                "result": 1,
+                "id": "tournament_778_11"
+            },
+            {
+                "white": "Li, Yangyi",
+                "black": "Li, Qiaoyun",
+                "date": "2019-11-10",
+                "result": 0.5,
+                "id": "tournament_778_12"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Dong, Yubo",
+                "black": "Wang, Jin",
+                "date": "2019-11-12",
+                "result": 1,
+                "id": "tournament_778_13"
+            },
+            {
+                "white": "Guo, Hongmin",
+                "black": "Wang, Jianmei",
+                "date": "2019-11-12",
+                "result": 0.5,
+                "id": "tournament_778_14"
+            },
+            {
+                "white": "Hu, Biwei",
+                "black": "Bai, Zhuoqiong",
+                "date": "2019-11-12",
+                "result": 1,
+                "id": "tournament_778_15"
+            },
+            {
+                "white": "Bi, Luhui",
+                "black": "Xu, Yueling",
+                "date": "2019-11-12",
+                "result": 1,
+                "id": "tournament_778_16"
+            },
+            {
+                "white": "Li, Yangyi",
+                "black": "Chen, Kang",
+                "date": "2019-11-12",
+                "result": 0.5,
+                "id": "tournament_778_17"
+            },
+            {
+                "white": "Li, Qiaoyun",
+                "black": "Cai, Wanxia",
+                "date": "2019-11-12",
+                "result": 1,
+                "id": "tournament_778_18"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Wang, Jin",
+                "black": "Wang, Jianmei",
+                "date": "2019-11-14",
+                "result": 1,
+                "id": "tournament_778_19"
+            },
+            {
+                "white": "Dong, Yubo",
+                "black": "Wang, Jiu",
+                "date": "2019-11-14",
+                "result": 0.5,
+                "id": "tournament_778_20"
+            },
+            {
+                "white": "Guo, Hongmin",
+                "black": "Hu, Biwei",
+                "date": "2019-11-14",
+                "result": 1,
+                "id": "tournament_778_21"
+            },
+            {
+                "white": "Li, Yangyi",
+                "black": "Bai, Zhuoqiong",
+                "date": "2019-11-14",
+                "result": 1,
+                "id": "tournament_778_22"
+            },
+            {
+                "white": "Li, Qiaoyun",
+                "black": "Xu, Yueling",
+                "date": "2019-11-14",
+                "result": 0,
+                "id": "tournament_778_23"
+            },
+            {
+                "white": "Cai, Wanxia",
+                "black": "Chen, Kang",
+                "date": "2019-11-14",
+                "result": 0.5,
+                "id": "tournament_778_24"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Wang, Jiu",
+                "black": "Wang, Jin",
+                "date": "2019-11-16",
+                "result": 0.5,
+                "id": "tournament_778_25"
+            },
+            {
+                "white": "Wang, Jianmei",
+                "black": "Hu, Biwei",
+                "date": "2019-11-16",
+                "result": 0,
+                "id": "tournament_778_26"
+            },
+            {
+                "white": "Dong, Yubo",
+                "black": "Bi, Luhui",
+                "date": "2019-11-16",
+                "result": 0,
+                "id": "tournament_778_27"
+            },
+            {
+                "white": "Guo, Hongmin",
+                "black": "Li, Yangyi",
+                "date": "2019-11-16",
+                "result": 0,
+                "id": "tournament_778_28"
+            },
+            {
+                "white": "Cai, Wanxia",
+                "black": "Bai, Zhuoqiong",
+                "date": "2019-11-16",
+                "result": 0.5,
+                "id": "tournament_778_29"
+            },
+            {
+                "white": "Chen, Kang",
+                "black": "Xu, Yueling",
+                "date": "2019-11-16",
+                "result": 0.5,
+                "id": "tournament_778_30"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Wang, Jin",
+                "black": "Hu, Biwei",
+                "date": "2019-11-18",
+                "result": 0.5,
+                "id": "tournament_778_31"
+            },
+            {
+                "white": "Wang, Jiu",
+                "black": "Bi, Luhui",
+                "date": "2019-11-18",
+                "result": 0.5,
+                "id": "tournament_778_32"
+            },
+            {
+                "white": "Wang, Jianmei",
+                "black": "Li, Yangyi",
+                "date": "2019-11-18",
+                "result": 0,
+                "id": "tournament_778_33"
+            },
+            {
+                "white": "Dong, Yubo",
+                "black": "Li, Qiaoyun",
+                "date": "2019-11-18",
+                "result": 0.5,
+                "id": "tournament_778_34"
+            },
+            {
+                "white": "Guo, Hongmin",
+                "black": "Cai, Wanxia",
+                "date": "2019-11-18",
+                "result": 1,
+                "id": "tournament_778_35"
+            },
+            {
+                "white": "Xu, Yueling",
+                "black": "Bai, Zhuoqiong",
+                "date": "2019-11-18",
+                "result": 0,
+                "id": "tournament_778_36"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Bi, Luhui",
+                "black": "Wang, Jin",
+                "date": "2019-11-20",
+                "result": 0.5,
+                "id": "tournament_778_37"
+            },
+            {
+                "white": "Hu, Biwei",
+                "black": "Li, Yangyi",
+                "date": "2019-11-20",
+                "result": 0.5,
+                "id": "tournament_778_38"
+            },
+            {
+                "white": "Wang, Jiu",
+                "black": "Li, Qiaoyun",
+                "date": "2019-11-20",
+                "result": 0.5,
+                "id": "tournament_778_39"
+            },
+            {
+                "white": "Wang, Jianmei",
+                "black": "Cai, Wanxia",
+                "date": "2019-11-20",
+                "result": 0,
+                "id": "tournament_778_40"
+            },
+            {
+                "white": "Dong, Yubo",
+                "black": "Chen, Kang",
+                "date": "2019-11-20",
+                "result": 1,
+                "id": "tournament_778_41"
+            },
+            {
+                "white": "Guo, Hongmin",
+                "black": "Xu, Yueling",
+                "date": "2019-11-20",
+                "result": 0,
+                "id": "tournament_778_42"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Wang, Jin",
+                "black": "Li, Yangyi",
+                "date": "2019-11-22",
+                "result": 0.5,
+                "id": "tournament_778_43"
+            },
+            {
+                "white": "Bi, Luhui",
+                "black": "Li, Qiaoyun",
+                "date": "2019-11-22",
+                "result": 1,
+                "id": "tournament_778_44"
+            },
+            {
+                "white": "Hu, Biwei",
+                "black": "Cai, Wanxia",
+                "date": "2019-11-22",
+                "result": 1,
+                "id": "tournament_778_45"
+            },
+            {
+                "white": "Wang, Jiu",
+                "black": "Chen, Kang",
+                "date": "2019-11-22",
+                "result": 0.5,
+                "id": "tournament_778_46"
+            },
+            {
+                "white": "Wang, Jianmei",
+                "black": "Xu, Yueling",
+                "date": "2019-11-22",
+                "result": 0,
+                "id": "tournament_778_47"
+            },
+            {
+                "white": "Dong, Yubo",
+                "black": "Bai, Zhuoqiong",
+                "date": "2019-11-22",
+                "result": 1,
+                "id": "tournament_778_48"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Li, Qiaoyun",
+                "black": "Wang, Jin",
+                "date": "2019-11-24",
+                "result": 0.5,
+                "id": "tournament_778_49"
+            },
+            {
+                "white": "Li, Yangyi",
+                "black": "Cai, Wanxia",
+                "date": "2019-11-24",
+                "result": 0.5,
+                "id": "tournament_778_50"
+            },
+            {
+                "white": "Bi, Luhui",
+                "black": "Chen, Kang",
+                "date": "2019-11-24",
+                "result": 0.5,
+                "id": "tournament_778_51"
+            },
+            {
+                "white": "Hu, Biwei",
+                "black": "Xu, Yueling",
+                "date": "2019-11-24",
+                "result": 0,
+                "id": "tournament_778_52"
+            },
+            {
+                "white": "Wang, Jiu",
+                "black": "Bai, Zhuoqiong",
+                "date": "2019-11-24",
+                "result": 0.5,
+                "id": "tournament_778_53"
+            },
+            {
+                "white": "Guo, Hongmin",
+                "black": "Dong, Yubo",
+                "date": "2019-11-24",
+                "result": 0.5,
+                "id": "tournament_778_54"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "Wang, Jin",
+                "black": "Cai, Wanxia",
+                "date": "2019-11-26",
+                "result": 0,
+                "id": "tournament_778_55"
+            },
+            {
+                "white": "Li, Qiaoyun",
+                "black": "Chen, Kang",
+                "date": "2019-11-26",
+                "result": 1,
+                "id": "tournament_778_56"
+            },
+            {
+                "white": "Li, Yangyi",
+                "black": "Xu, Yueling",
+                "date": "2019-11-26",
+                "result": 0.5,
+                "id": "tournament_778_57"
+            },
+            {
+                "white": "Bi, Luhui",
+                "black": "Bai, Zhuoqiong",
+                "date": "2019-11-26",
+                "result": 1,
+                "id": "tournament_778_58"
+            },
+            {
+                "white": "Guo, Hongmin",
+                "black": "Wang, Jiu",
+                "date": "2019-11-26",
+                "result": 0,
+                "id": "tournament_778_59"
+            },
+            {
+                "white": "Dong, Yubo",
+                "black": "Wang, Jianmei",
+                "date": "2019-11-26",
+                "result": 1,
+                "id": "tournament_778_60"
+            }
+        ],
+        "tour_11": [
+            {
+                "white": "Chen, Kang",
+                "black": "Wang, Jin",
+                "date": "2019-11-28",
+                "result": 0.5,
+                "id": "tournament_778_61"
+            },
+            {
+                "white": "Cai, Wanxia",
+                "black": "Xu, Yueling",
+                "date": "2019-11-28",
+                "result": 0,
+                "id": "tournament_778_62"
+            },
+            {
+                "white": "Li, Qiaoyun",
+                "black": "Bai, Zhuoqiong",
+                "date": "2019-11-28",
+                "result": 0,
+                "id": "tournament_778_63"
+            },
+            {
+                "white": "Guo, Hongmin",
+                "black": "Bi, Luhui",
+                "date": "2019-11-28",
+                "result": 0,
+                "id": "tournament_778_64"
+            },
+            {
+                "white": "Dong, Yubo",
+                "black": "Hu, Biwei",
+                "date": "2019-11-28",
+                "result": 0.5,
+                "id": "tournament_778_65"
+            },
+            {
+                "white": "Wang, Jianmei",
+                "black": "Wang, Jiu",
+                "date": "2019-11-28",
+                "result": 0,
+                "id": "tournament_778_66"
+            }
+        ],
+        "tour_12": [
+            {
+                "white": "Wang, Jin",
+                "black": "Xu, Yueling",
+                "date": "2019-11-30",
+                "result": 0.5,
+                "id": "tournament_778_67"
+            },
+            {
+                "white": "Chen, Kang",
+                "black": "Bai, Zhuoqiong",
+                "date": "2019-11-30",
+                "result": 0.5,
+                "id": "tournament_778_68"
+            },
+            {
+                "white": "Guo, Hongmin",
+                "black": "Li, Qiaoyun",
+                "date": "2019-11-30",
+                "result": 1,
+                "id": "tournament_778_69"
+            },
+            {
+                "white": "Dong, Yubo",
+                "black": "Li, Yangyi",
+                "date": "2019-11-30",
+                "result": 0.5,
+                "id": "tournament_778_70"
+            },
+            {
+                "white": "Wang, Jianmei",
+                "black": "Bi, Luhui",
+                "date": "2019-11-30",
+                "result": 0,
+                "id": "tournament_778_71"
+            },
+            {
+                "white": "Wang, Jiu",
+                "black": "Hu, Biwei",
+                "date": "2019-11-30",
+                "result": 0.5,
+                "id": "tournament_778_72"
+            }
+        ]
+    },
+    "tours": 12,
+    "time_control": "classic"
+}

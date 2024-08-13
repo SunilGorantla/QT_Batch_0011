@@ -1,0 +1,1201 @@
+{
+    "name": "tournament_462",
+    "start_date": "2017-07-14",
+    "end_date": "2017-07-22",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Wang Jianmin",
+                "black": "Yang Jianxia",
+                "date": "2017-07-14",
+                "result": 1,
+                "id": "tournament_462_1"
+            },
+            {
+                "white": "Yang Peicha",
+                "black": "Qin Zhi",
+                "date": "2017-07-14",
+                "result": 1,
+                "id": "tournament_462_2"
+            },
+            {
+                "white": "Qin Yuqin",
+                "black": "Wang Jiangji",
+                "date": "2017-07-14",
+                "result": 1,
+                "id": "tournament_462_3"
+            },
+            {
+                "white": "Yang Jinxiang",
+                "black": "Lai Zhenen",
+                "date": "2017-07-14",
+                "result": 0,
+                "id": "tournament_462_4"
+            },
+            {
+                "white": "Li Shuchu",
+                "black": "Wang Zhenzhi",
+                "date": "2017-07-14",
+                "result": 0.5,
+                "id": "tournament_462_5"
+            },
+            {
+                "white": "Chen Zenghui",
+                "black": "Liu Sukai",
+                "date": "2017-07-14",
+                "result": 1,
+                "id": "tournament_462_6"
+            },
+            {
+                "white": "Jiang Ying",
+                "black": "Chen Xiangke",
+                "date": "2017-07-14",
+                "result": 0.5,
+                "id": "tournament_462_7"
+            },
+            {
+                "white": "Li Linhua",
+                "black": "Xu Rongbing",
+                "date": "2017-07-14",
+                "result": 1,
+                "id": "tournament_462_8"
+            },
+            {
+                "white": "Guo Hechi",
+                "black": "Jia Yeyan",
+                "date": "2017-07-14",
+                "result": 0,
+                "id": "tournament_462_9"
+            },
+            {
+                "white": "Zhang Zhiqiong",
+                "black": "Zhu Wenyan",
+                "date": "2017-07-14",
+                "result": 1,
+                "id": "tournament_462_10"
+            },
+            {
+                "white": "Zhang Yanying",
+                "black": "Xue Guan",
+                "date": "2017-07-14",
+                "result": 0.5,
+                "id": "tournament_462_11"
+            },
+            {
+                "white": "Lu Guijie",
+                "black": "Yu Ping",
+                "date": "2017-07-14",
+                "result": 0.5,
+                "id": "tournament_462_12"
+            },
+            {
+                "white": "Hu Youbiao",
+                "black": "Yan Mei",
+                "date": "2017-07-14",
+                "result": 0.5,
+                "id": "tournament_462_13"
+            },
+            {
+                "white": "Li Songjiang",
+                "black": "Fu Qingfang",
+                "date": "2017-07-14",
+                "result": 0.5,
+                "id": "tournament_462_14"
+            },
+            {
+                "white": "Zhang Guofei",
+                "black": "Lin Haili",
+                "date": "2017-07-14",
+                "result": 0.5,
+                "id": "tournament_462_15"
+            },
+            {
+                "white": "Yuan Liquan",
+                "black": "Gu Lifeng",
+                "date": "2017-07-14",
+                "result": 0.5,
+                "id": "tournament_462_16"
+            },
+            {
+                "white": "Guo Zhouzhe",
+                "black": "Zhao Jingeng",
+                "date": "2017-07-14",
+                "result": 0.5,
+                "id": "tournament_462_17"
+            },
+            {
+                "white": "Tao Guo",
+                "black": "Li Yan",
+                "date": "2017-07-14",
+                "result": 0,
+                "id": "tournament_462_18"
+            },
+            {
+                "white": "Cai Wanxia",
+                "black": "Wu Xiongcang",
+                "date": "2017-07-14",
+                "result": 0,
+                "id": "tournament_462_19"
+            },
+            {
+                "white": "Hu Shoubiao",
+                "black": "Han Changfang",
+                "date": "2017-07-14",
+                "result": 1,
+                "id": "tournament_462_20"
+            },
+            {
+                "white": "Qiao Hongqi",
+                "black": "He Wenrong",
+                "date": "2017-07-14",
+                "result": 0.5,
+                "id": "tournament_462_21"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Lai Zhenen",
+                "black": "Wang Jianmin",
+                "date": "2017-07-15",
+                "result": 1,
+                "id": "tournament_462_22"
+            },
+            {
+                "white": "Jia Yeyan",
+                "black": "Yang Peicha",
+                "date": "2017-07-15",
+                "result": 0,
+                "id": "tournament_462_23"
+            },
+            {
+                "white": "Li Yan",
+                "black": "Qin Yuqin",
+                "date": "2017-07-15",
+                "result": 0.5,
+                "id": "tournament_462_24"
+            },
+            {
+                "white": "Wu Xiongcang",
+                "black": "Chen Zenghui",
+                "date": "2017-07-15",
+                "result": 0,
+                "id": "tournament_462_25"
+            },
+            {
+                "white": "Wang Zhenzhi",
+                "black": "Li Linhua",
+                "date": "2017-07-15",
+                "result": 1,
+                "id": "tournament_462_26"
+            },
+            {
+                "white": "Chen Xiangke",
+                "black": "Zhang Zhiqiong",
+                "date": "2017-07-15",
+                "result": 0.5,
+                "id": "tournament_462_27"
+            },
+            {
+                "white": "Xue Guan",
+                "black": "Hu Shoubiao",
+                "date": "2017-07-15",
+                "result": 0,
+                "id": "tournament_462_28"
+            },
+            {
+                "white": "Yu Ping",
+                "black": "Li Shuchu",
+                "date": "2017-07-15",
+                "result": 0.5,
+                "id": "tournament_462_29"
+            },
+            {
+                "white": "Yan Mei",
+                "black": "Jiang Ying",
+                "date": "2017-07-15",
+                "result": 0,
+                "id": "tournament_462_30"
+            },
+            {
+                "white": "Fu Qingfang",
+                "black": "Zhang Yanying",
+                "date": "2017-07-15",
+                "result": 0.5,
+                "id": "tournament_462_31"
+            },
+            {
+                "white": "Lin Haili",
+                "black": "Lu Guijie",
+                "date": "2017-07-15",
+                "result": 0.5,
+                "id": "tournament_462_32"
+            },
+            {
+                "white": "Gu Lifeng",
+                "black": "Hu Youbiao",
+                "date": "2017-07-15",
+                "result": 0.5,
+                "id": "tournament_462_33"
+            },
+            {
+                "white": "Zhao Jingeng",
+                "black": "Li Songjiang",
+                "date": "2017-07-15",
+                "result": 0.5,
+                "id": "tournament_462_34"
+            },
+            {
+                "white": "He Wenrong",
+                "black": "Zhang Guofei",
+                "date": "2017-07-15",
+                "result": 1,
+                "id": "tournament_462_35"
+            },
+            {
+                "white": "Yang Jianxia",
+                "black": "Yuan Liquan",
+                "date": "2017-07-15",
+                "result": 0.5,
+                "id": "tournament_462_36"
+            },
+            {
+                "white": "Qin Zhi",
+                "black": "Guo Zhouzhe",
+                "date": "2017-07-15",
+                "result": 0,
+                "id": "tournament_462_37"
+            },
+            {
+                "white": "Wang Jiangji",
+                "black": "Qiao Hongqi",
+                "date": "2017-07-15",
+                "result": 0,
+                "id": "tournament_462_38"
+            },
+            {
+                "white": "Liu Sukai",
+                "black": "Yang Jinxiang",
+                "date": "2017-07-15",
+                "result": 0.5,
+                "id": "tournament_462_39"
+            },
+            {
+                "white": "Xu Rongbing",
+                "black": "Guo Hechi",
+                "date": "2017-07-15",
+                "result": 1,
+                "id": "tournament_462_40"
+            },
+            {
+                "white": "Zhu Wenyan",
+                "black": "Tao Guo",
+                "date": "2017-07-15",
+                "result": 0,
+                "id": "tournament_462_41"
+            },
+            {
+                "white": "Han Changfang",
+                "black": "Cai Wanxia",
+                "date": "2017-07-15",
+                "result": 1,
+                "id": "tournament_462_42"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Yang Peicha",
+                "black": "Lai Zhenen",
+                "date": "2017-07-16",
+                "result": 0,
+                "id": "tournament_462_43"
+            },
+            {
+                "white": "Chen Zenghui",
+                "black": "Li Yan",
+                "date": "2017-07-16",
+                "result": 1,
+                "id": "tournament_462_44"
+            },
+            {
+                "white": "Hu Shoubiao",
+                "black": "Wang Zhenzhi",
+                "date": "2017-07-16",
+                "result": 1,
+                "id": "tournament_462_45"
+            },
+            {
+                "white": "Qin Yuqin",
+                "black": "He Wenrong",
+                "date": "2017-07-16",
+                "result": 0,
+                "id": "tournament_462_46"
+            },
+            {
+                "white": "Zhang Zhiqiong",
+                "black": "Jia Yeyan",
+                "date": "2017-07-16",
+                "result": 1,
+                "id": "tournament_462_47"
+            },
+            {
+                "white": "Jiang Ying",
+                "black": "Wu Xiongcang",
+                "date": "2017-07-16",
+                "result": 0.5,
+                "id": "tournament_462_48"
+            },
+            {
+                "white": "Guo Zhouzhe",
+                "black": "Chen Xiangke",
+                "date": "2017-07-16",
+                "result": 0.5,
+                "id": "tournament_462_49"
+            },
+            {
+                "white": "Qiao Hongqi",
+                "black": "Yu Ping",
+                "date": "2017-07-16",
+                "result": 0,
+                "id": "tournament_462_50"
+            },
+            {
+                "white": "Wang Jianmin",
+                "black": "Fu Qingfang",
+                "date": "2017-07-16",
+                "result": 1,
+                "id": "tournament_462_51"
+            },
+            {
+                "white": "Li Linhua",
+                "black": "Lin Haili",
+                "date": "2017-07-16",
+                "result": 1,
+                "id": "tournament_462_52"
+            },
+            {
+                "white": "Li Shuchu",
+                "black": "Gu Lifeng",
+                "date": "2017-07-16",
+                "result": 1,
+                "id": "tournament_462_53"
+            },
+            {
+                "white": "Zhang Yanying",
+                "black": "Zhao Jingeng",
+                "date": "2017-07-16",
+                "result": 0.5,
+                "id": "tournament_462_54"
+            },
+            {
+                "white": "Lu Guijie",
+                "black": "Xu Rongbing",
+                "date": "2017-07-16",
+                "result": 1,
+                "id": "tournament_462_55"
+            },
+            {
+                "white": "Hu Youbiao",
+                "black": "Han Changfang",
+                "date": "2017-07-16",
+                "result": 0.5,
+                "id": "tournament_462_56"
+            },
+            {
+                "white": "Li Songjiang",
+                "black": "Xue Guan",
+                "date": "2017-07-16",
+                "result": 0.5,
+                "id": "tournament_462_57"
+            },
+            {
+                "white": "Yuan Liquan",
+                "black": "Yan Mei",
+                "date": "2017-07-16",
+                "result": 1,
+                "id": "tournament_462_58"
+            },
+            {
+                "white": "Tao Guo",
+                "black": "Yang Jianxia",
+                "date": "2017-07-16",
+                "result": 1,
+                "id": "tournament_462_59"
+            },
+            {
+                "white": "Zhang Guofei",
+                "black": "Liu Sukai",
+                "date": "2017-07-16",
+                "result": 0.5,
+                "id": "tournament_462_60"
+            },
+            {
+                "white": "Yang Jinxiang",
+                "black": "Qin Zhi",
+                "date": "2017-07-16",
+                "result": 1,
+                "id": "tournament_462_61"
+            },
+            {
+                "white": "Guo Hechi",
+                "black": "Wang Jiangji",
+                "date": "2017-07-16",
+                "result": 0,
+                "id": "tournament_462_62"
+            },
+            {
+                "white": "Cai Wanxia",
+                "black": "Zhu Wenyan",
+                "date": "2017-07-16",
+                "result": 0.5,
+                "id": "tournament_462_63"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Lai Zhenen",
+                "black": "Chen Zenghui",
+                "date": "2017-07-17",
+                "result": 0.5,
+                "id": "tournament_462_64"
+            },
+            {
+                "white": "He Wenrong",
+                "black": "Hu Shoubiao",
+                "date": "2017-07-17",
+                "result": 1,
+                "id": "tournament_462_65"
+            },
+            {
+                "white": "Yu Ping",
+                "black": "Zhang Zhiqiong",
+                "date": "2017-07-17",
+                "result": 1,
+                "id": "tournament_462_66"
+            },
+            {
+                "white": "Li Yan",
+                "black": "Yang Peicha",
+                "date": "2017-07-17",
+                "result": 1,
+                "id": "tournament_462_67"
+            },
+            {
+                "white": "Wang Zhenzhi",
+                "black": "Jiang Ying",
+                "date": "2017-07-17",
+                "result": 0.5,
+                "id": "tournament_462_68"
+            },
+            {
+                "white": "Wu Xiongcang",
+                "black": "Guo Zhouzhe",
+                "date": "2017-07-17",
+                "result": 0.5,
+                "id": "tournament_462_69"
+            },
+            {
+                "white": "Chen Xiangke",
+                "black": "Wang Jianmin",
+                "date": "2017-07-17",
+                "result": 0,
+                "id": "tournament_462_70"
+            },
+            {
+                "white": "Zhao Jingeng",
+                "black": "Li Linhua",
+                "date": "2017-07-17",
+                "result": 0,
+                "id": "tournament_462_71"
+            },
+            {
+                "white": "Han Changfang",
+                "black": "Li Shuchu",
+                "date": "2017-07-17",
+                "result": 0,
+                "id": "tournament_462_72"
+            },
+            {
+                "white": "Jia Yeyan",
+                "black": "Lu Guijie",
+                "date": "2017-07-17",
+                "result": 0,
+                "id": "tournament_462_73"
+            },
+            {
+                "white": "Fu Qingfang",
+                "black": "Yuan Liquan",
+                "date": "2017-07-17",
+                "result": 0.5,
+                "id": "tournament_462_74"
+            },
+            {
+                "white": "Lin Haili",
+                "black": "Tao Guo",
+                "date": "2017-07-17",
+                "result": 0.5,
+                "id": "tournament_462_75"
+            },
+            {
+                "white": "Gu Lifeng",
+                "black": "Qin Yuqin",
+                "date": "2017-07-17",
+                "result": 0,
+                "id": "tournament_462_76"
+            },
+            {
+                "white": "Xu Rongbing",
+                "black": "Qiao Hongqi",
+                "date": "2017-07-17",
+                "result": 0.5,
+                "id": "tournament_462_77"
+            },
+            {
+                "white": "Liu Sukai",
+                "black": "Zhang Yanying",
+                "date": "2017-07-17",
+                "result": 0,
+                "id": "tournament_462_78"
+            },
+            {
+                "white": "Xue Guan",
+                "black": "Hu Youbiao",
+                "date": "2017-07-17",
+                "result": 1,
+                "id": "tournament_462_79"
+            },
+            {
+                "white": "Wang Jiangji",
+                "black": "Li Songjiang",
+                "date": "2017-07-17",
+                "result": 0,
+                "id": "tournament_462_80"
+            },
+            {
+                "white": "Yan Mei",
+                "black": "Yang Jinxiang",
+                "date": "2017-07-17",
+                "result": 0,
+                "id": "tournament_462_81"
+            },
+            {
+                "white": "Yang Jianxia",
+                "black": "Zhang Guofei",
+                "date": "2017-07-17",
+                "result": 1,
+                "id": "tournament_462_82"
+            },
+            {
+                "white": "Zhu Wenyan",
+                "black": "Guo Hechi",
+                "date": "2017-07-17",
+                "result": 1,
+                "id": "tournament_462_83"
+            },
+            {
+                "white": "Qin Zhi",
+                "black": "Cai Wanxia",
+                "date": "2017-07-17",
+                "result": 0.5,
+                "id": "tournament_462_84"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Hu Shoubiao",
+                "black": "Lai Zhenen",
+                "date": "2017-07-18",
+                "result": 0.5,
+                "id": "tournament_462_85"
+            },
+            {
+                "white": "Chen Zenghui",
+                "black": "He Wenrong",
+                "date": "2017-07-18",
+                "result": 0.5,
+                "id": "tournament_462_86"
+            },
+            {
+                "white": "Wang Jianmin",
+                "black": "Yu Ping",
+                "date": "2017-07-18",
+                "result": 1,
+                "id": "tournament_462_87"
+            },
+            {
+                "white": "Li Linhua",
+                "black": "Li Yan",
+                "date": "2017-07-18",
+                "result": 0,
+                "id": "tournament_462_88"
+            },
+            {
+                "white": "Li Shuchu",
+                "black": "Wu Xiongcang",
+                "date": "2017-07-18",
+                "result": 1,
+                "id": "tournament_462_89"
+            },
+            {
+                "white": "Lu Guijie",
+                "black": "Wang Zhenzhi",
+                "date": "2017-07-18",
+                "result": 0,
+                "id": "tournament_462_90"
+            },
+            {
+                "white": "Zhang Zhiqiong",
+                "black": "Xue Guan",
+                "date": "2017-07-18",
+                "result": 0.5,
+                "id": "tournament_462_91"
+            },
+            {
+                "white": "Jiang Ying",
+                "black": "Zhao Jingeng",
+                "date": "2017-07-18",
+                "result": 1,
+                "id": "tournament_462_92"
+            },
+            {
+                "white": "Guo Zhouzhe",
+                "black": "Han Changfang",
+                "date": "2017-07-18",
+                "result": 0.5,
+                "id": "tournament_462_93"
+            },
+            {
+                "white": "Yuan Liquan",
+                "black": "Chen Xiangke",
+                "date": "2017-07-18",
+                "result": 0.5,
+                "id": "tournament_462_94"
+            },
+            {
+                "white": "Tao Guo",
+                "black": "Fu Qingfang",
+                "date": "2017-07-18",
+                "result": 1,
+                "id": "tournament_462_95"
+            },
+            {
+                "white": "Qin Yuqin",
+                "black": "Lin Haili",
+                "date": "2017-07-18",
+                "result": 0.5,
+                "id": "tournament_462_96"
+            },
+            {
+                "white": "Zhang Yanying",
+                "black": "Xu Rongbing",
+                "date": "2017-07-18",
+                "result": 0,
+                "id": "tournament_462_97"
+            },
+            {
+                "white": "Li Songjiang",
+                "black": "Yang Jianxia",
+                "date": "2017-07-18",
+                "result": 0.5,
+                "id": "tournament_462_98"
+            },
+            {
+                "white": "Yang Jinxiang",
+                "black": "Zhu Wenyan",
+                "date": "2017-07-18",
+                "result": 1,
+                "id": "tournament_462_99"
+            },
+            {
+                "white": "Yang Peicha",
+                "black": "Gu Lifeng",
+                "date": "2017-07-18",
+                "result": 1,
+                "id": "tournament_462_100"
+            },
+            {
+                "white": "Qiao Hongqi",
+                "black": "Jia Yeyan",
+                "date": "2017-07-18",
+                "result": 1,
+                "id": "tournament_462_101"
+            },
+            {
+                "white": "Hu Youbiao",
+                "black": "Liu Sukai",
+                "date": "2017-07-18",
+                "result": 1,
+                "id": "tournament_462_102"
+            },
+            {
+                "white": "Zhang Guofei",
+                "black": "Wang Jiangji",
+                "date": "2017-07-18",
+                "result": 0.5,
+                "id": "tournament_462_103"
+            },
+            {
+                "white": "Cai Wanxia",
+                "black": "Yan Mei",
+                "date": "2017-07-18",
+                "result": 0.5,
+                "id": "tournament_462_104"
+            },
+            {
+                "white": "Guo Hechi",
+                "black": "Qin Zhi",
+                "date": "2017-07-18",
+                "result": 0,
+                "id": "tournament_462_105"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Lai Zhenen",
+                "black": "Li Shuchu",
+                "date": "2017-07-19",
+                "result": 0.5,
+                "id": "tournament_462_106"
+            },
+            {
+                "white": "Yu Ping",
+                "black": "Chen Zenghui",
+                "date": "2017-07-19",
+                "result": 1,
+                "id": "tournament_462_107"
+            },
+            {
+                "white": "He Wenrong",
+                "black": "Wang Jianmin",
+                "date": "2017-07-19",
+                "result": 0,
+                "id": "tournament_462_108"
+            },
+            {
+                "white": "Li Yan",
+                "black": "Hu Shoubiao",
+                "date": "2017-07-19",
+                "result": 0.5,
+                "id": "tournament_462_109"
+            },
+            {
+                "white": "Xue Guan",
+                "black": "Jiang Ying",
+                "date": "2017-07-19",
+                "result": 0,
+                "id": "tournament_462_110"
+            },
+            {
+                "white": "Wang Zhenzhi",
+                "black": "Tao Guo",
+                "date": "2017-07-19",
+                "result": 0.5,
+                "id": "tournament_462_111"
+            },
+            {
+                "white": "Xu Rongbing",
+                "black": "Yang Jinxiang",
+                "date": "2017-07-19",
+                "result": 1,
+                "id": "tournament_462_112"
+            },
+            {
+                "white": "Wu Xiongcang",
+                "black": "Li Linhua",
+                "date": "2017-07-19",
+                "result": 0.5,
+                "id": "tournament_462_113"
+            },
+            {
+                "white": "Chen Xiangke",
+                "black": "Lu Guijie",
+                "date": "2017-07-19",
+                "result": 0.5,
+                "id": "tournament_462_114"
+            },
+            {
+                "white": "Han Changfang",
+                "black": "Zhang Zhiqiong",
+                "date": "2017-07-19",
+                "result": 0,
+                "id": "tournament_462_115"
+            },
+            {
+                "white": "Lin Haili",
+                "black": "Guo Zhouzhe",
+                "date": "2017-07-19",
+                "result": 0.5,
+                "id": "tournament_462_116"
+            },
+            {
+                "white": "Zhao Jingeng",
+                "black": "Yuan Liquan",
+                "date": "2017-07-19",
+                "result": 0.5,
+                "id": "tournament_462_117"
+            },
+            {
+                "white": "Yang Jianxia",
+                "black": "Qin Yuqin",
+                "date": "2017-07-19",
+                "result": 1,
+                "id": "tournament_462_118"
+            },
+            {
+                "white": "Zhu Wenyan",
+                "black": "Li Songjiang",
+                "date": "2017-07-19",
+                "result": 0,
+                "id": "tournament_462_119"
+            },
+            {
+                "white": "Fu Qingfang",
+                "black": "Yang Peicha",
+                "date": "2017-07-19",
+                "result": 1,
+                "id": "tournament_462_120"
+            },
+            {
+                "white": "Qin Zhi",
+                "black": "Qiao Hongqi",
+                "date": "2017-07-19",
+                "result": 0.5,
+                "id": "tournament_462_121"
+            },
+            {
+                "white": "Wang Jiangji",
+                "black": "Zhang Yanying",
+                "date": "2017-07-19",
+                "result": 0,
+                "id": "tournament_462_122"
+            },
+            {
+                "white": "Jia Yeyan",
+                "black": "Hu Youbiao",
+                "date": "2017-07-19",
+                "result": 0,
+                "id": "tournament_462_123"
+            },
+            {
+                "white": "Gu Lifeng",
+                "black": "Zhang Guofei",
+                "date": "2017-07-19",
+                "result": 0,
+                "id": "tournament_462_124"
+            },
+            {
+                "white": "Liu Sukai",
+                "black": "Cai Wanxia",
+                "date": "2017-07-19",
+                "result": 0.5,
+                "id": "tournament_462_125"
+            },
+            {
+                "white": "Yan Mei",
+                "black": "Guo Hechi",
+                "date": "2017-07-19",
+                "result": 1,
+                "id": "tournament_462_126"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Wang Jianmin",
+                "black": "Li Yan",
+                "date": "2017-07-20",
+                "result": 0.5,
+                "id": "tournament_462_127"
+            },
+            {
+                "white": "Jiang Ying",
+                "black": "Lai Zhenen",
+                "date": "2017-07-20",
+                "result": 0.5,
+                "id": "tournament_462_128"
+            },
+            {
+                "white": "Li Shuchu",
+                "black": "He Wenrong",
+                "date": "2017-07-20",
+                "result": 1,
+                "id": "tournament_462_129"
+            },
+            {
+                "white": "Chen Zenghui",
+                "black": "Wang Zhenzhi",
+                "date": "2017-07-20",
+                "result": 0.5,
+                "id": "tournament_462_130"
+            },
+            {
+                "white": "Hu Shoubiao",
+                "black": "Yu Ping",
+                "date": "2017-07-20",
+                "result": 0,
+                "id": "tournament_462_131"
+            },
+            {
+                "white": "Tao Guo",
+                "black": "Xu Rongbing",
+                "date": "2017-07-20",
+                "result": 0.5,
+                "id": "tournament_462_132"
+            },
+            {
+                "white": "Zhang Zhiqiong",
+                "black": "Yang Jianxia",
+                "date": "2017-07-20",
+                "result": 1,
+                "id": "tournament_462_133"
+            },
+            {
+                "white": "Li Songjiang",
+                "black": "Wu Xiongcang",
+                "date": "2017-07-20",
+                "result": 0.5,
+                "id": "tournament_462_134"
+            },
+            {
+                "white": "Yang Jinxiang",
+                "black": "Xue Guan",
+                "date": "2017-07-20",
+                "result": 1,
+                "id": "tournament_462_135"
+            },
+            {
+                "white": "Li Linhua",
+                "black": "Chen Xiangke",
+                "date": "2017-07-20",
+                "result": 1,
+                "id": "tournament_462_136"
+            },
+            {
+                "white": "Lu Guijie",
+                "black": "Fu Qingfang",
+                "date": "2017-07-20",
+                "result": 1,
+                "id": "tournament_462_137"
+            },
+            {
+                "white": "Guo Zhouzhe",
+                "black": "Yan Mei",
+                "date": "2017-07-20",
+                "result": 0.5,
+                "id": "tournament_462_138"
+            },
+            {
+                "white": "Yuan Liquan",
+                "black": "Lin Haili",
+                "date": "2017-07-20",
+                "result": 0.5,
+                "id": "tournament_462_139"
+            },
+            {
+                "white": "Qiao Hongqi",
+                "black": "Han Changfang",
+                "date": "2017-07-20",
+                "result": 1,
+                "id": "tournament_462_140"
+            },
+            {
+                "white": "Zhang Yanying",
+                "black": "Qin Zhi",
+                "date": "2017-07-20",
+                "result": 0.5,
+                "id": "tournament_462_141"
+            },
+            {
+                "white": "Hu Youbiao",
+                "black": "Zhao Jingeng",
+                "date": "2017-07-20",
+                "result": 0.5,
+                "id": "tournament_462_142"
+            },
+            {
+                "white": "Qin Yuqin",
+                "black": "Zhu Wenyan",
+                "date": "2017-07-20",
+                "result": 1,
+                "id": "tournament_462_143"
+            },
+            {
+                "white": "Yang Peicha",
+                "black": "Wang Jiangji",
+                "date": "2017-07-20",
+                "result": 0.5,
+                "id": "tournament_462_144"
+            },
+            {
+                "white": "Zhang Guofei",
+                "black": "Jia Yeyan",
+                "date": "2017-07-20",
+                "result": 1,
+                "id": "tournament_462_145"
+            },
+            {
+                "white": "Guo Hechi",
+                "black": "Liu Sukai",
+                "date": "2017-07-20",
+                "result": 0,
+                "id": "tournament_462_146"
+            },
+            {
+                "white": "Cai Wanxia",
+                "black": "Gu Lifeng",
+                "date": "2017-07-20",
+                "result": 0,
+                "id": "tournament_462_147"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Wang Zhenzhi",
+                "black": "Wang Jianmin",
+                "date": "2017-07-21",
+                "result": 1,
+                "id": "tournament_462_148"
+            },
+            {
+                "white": "Li Yan",
+                "black": "Li Shuchu",
+                "date": "2017-07-21",
+                "result": 0.5,
+                "id": "tournament_462_149"
+            },
+            {
+                "white": "Lai Zhenen",
+                "black": "Zhang Zhiqiong",
+                "date": "2017-07-21",
+                "result": 1,
+                "id": "tournament_462_150"
+            },
+            {
+                "white": "Yu Ping",
+                "black": "Jiang Ying",
+                "date": "2017-07-21",
+                "result": 1,
+                "id": "tournament_462_151"
+            },
+            {
+                "white": "Xu Rongbing",
+                "black": "Chen Zenghui",
+                "date": "2017-07-21",
+                "result": 0,
+                "id": "tournament_462_152"
+            },
+            {
+                "white": "He Wenrong",
+                "black": "Tao Guo",
+                "date": "2017-07-21",
+                "result": 0.5,
+                "id": "tournament_462_153"
+            },
+            {
+                "white": "Lin Haili",
+                "black": "Li Songjiang",
+                "date": "2017-07-21",
+                "result": 1,
+                "id": "tournament_462_154"
+            },
+            {
+                "white": "Yang Jianxia",
+                "black": "Yang Jinxiang",
+                "date": "2017-07-21",
+                "result": 0.5,
+                "id": "tournament_462_155"
+            },
+            {
+                "white": "Xue Guan",
+                "black": "Li Linhua",
+                "date": "2017-07-21",
+                "result": 0,
+                "id": "tournament_462_156"
+            },
+            {
+                "white": "Wu Xiongcang",
+                "black": "Lu Guijie",
+                "date": "2017-07-21",
+                "result": 0,
+                "id": "tournament_462_157"
+            },
+            {
+                "white": "Chen Xiangke",
+                "black": "Qiao Hongqi",
+                "date": "2017-07-21",
+                "result": 1,
+                "id": "tournament_462_158"
+            },
+            {
+                "white": "Fu Qingfang",
+                "black": "Hu Shoubiao",
+                "date": "2017-07-21",
+                "result": 0.5,
+                "id": "tournament_462_159"
+            },
+            {
+                "white": "Liu Sukai",
+                "black": "Guo Zhouzhe",
+                "date": "2017-07-21",
+                "result": 0.5,
+                "id": "tournament_462_160"
+            },
+            {
+                "white": "Qin Zhi",
+                "black": "Yuan Liquan",
+                "date": "2017-07-21",
+                "result": 0,
+                "id": "tournament_462_161"
+            },
+            {
+                "white": "Yan Mei",
+                "black": "Zhang Yanying",
+                "date": "2017-07-21",
+                "result": 0,
+                "id": "tournament_462_162"
+            },
+            {
+                "white": "Wang Jiangji",
+                "black": "Hu Youbiao",
+                "date": "2017-07-21",
+                "result": 0,
+                "id": "tournament_462_163"
+            },
+            {
+                "white": "Zhao Jingeng",
+                "black": "Qin Yuqin",
+                "date": "2017-07-21",
+                "result": 0.5,
+                "id": "tournament_462_164"
+            },
+            {
+                "white": "Han Changfang",
+                "black": "Yang Peicha",
+                "date": "2017-07-21",
+                "result": 0.5,
+                "id": "tournament_462_165"
+            },
+            {
+                "white": "Zhu Wenyan",
+                "black": "Zhang Guofei",
+                "date": "2017-07-21",
+                "result": 0.5,
+                "id": "tournament_462_166"
+            },
+            {
+                "white": "Gu Lifeng",
+                "black": "Guo Hechi",
+                "date": "2017-07-21",
+                "result": 0.5,
+                "id": "tournament_462_167"
+            },
+            {
+                "white": "Jia Yeyan",
+                "black": "Cai Wanxia",
+                "date": "2017-07-21",
+                "result": 0,
+                "id": "tournament_462_168"
+            }
+        ]
+    },
+    "tours": 8,
+    "time_control": "rapid"
+}

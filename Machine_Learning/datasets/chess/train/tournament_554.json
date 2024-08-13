@@ -1,0 +1,474 @@
+{
+    "name": "tournament_554",
+    "start_date": "2018-03-08",
+    "end_date": "2018-03-18",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Peng Jiehui",
+                "black": "Kang Zihui",
+                "date": "2018-03-08",
+                "result": 1,
+                "id": "tournament_554_1"
+            },
+            {
+                "white": "Kang Zihui",
+                "black": "Peng Jiehui",
+                "date": "2018-03-09",
+                "result": 0,
+                "id": "tournament_554_2"
+            },
+            {
+                "white": "Li Chenzhi",
+                "black": "Pang Ronggang",
+                "date": "2018-03-08",
+                "result": 0.5,
+                "id": "tournament_554_3"
+            },
+            {
+                "white": "Pang Ronggang",
+                "black": "Li Chenzhi",
+                "date": "2018-03-09",
+                "result": 0.5,
+                "id": "tournament_554_4"
+            },
+            {
+                "white": "Li Chenzhi",
+                "black": "Pang Ronggang",
+                "date": "2018-03-09",
+                "result": 1,
+                "id": "tournament_554_5"
+            },
+            {
+                "white": "Xiao Cuibing",
+                "black": "Wang Jianmin",
+                "date": "2018-03-08",
+                "result": 0.5,
+                "id": "tournament_554_6"
+            },
+            {
+                "white": "Wang Jianmin",
+                "black": "Xiao Cuibing",
+                "date": "2018-03-09",
+                "result": 0.5,
+                "id": "tournament_554_7"
+            },
+            {
+                "white": "Xiao Cuibing",
+                "black": "Wang Jianmin",
+                "date": "2018-03-09",
+                "result": 0.5,
+                "id": "tournament_554_8"
+            },
+            {
+                "white": "Huang Yunhu",
+                "black": "Liu Chiyu",
+                "date": "2018-03-08",
+                "result": 0.5,
+                "id": "tournament_554_9"
+            },
+            {
+                "white": "Liu Chiyu",
+                "black": "Huang Yunhu",
+                "date": "2018-03-09",
+                "result": 1,
+                "id": "tournament_554_10"
+            },
+            {
+                "white": "Lu Xingmiao",
+                "black": "Tian Xiong",
+                "date": "2018-03-08",
+                "result": 1,
+                "id": "tournament_554_11"
+            },
+            {
+                "white": "Tian Xiong",
+                "black": "Lu Xingmiao",
+                "date": "2018-03-09",
+                "result": 0,
+                "id": "tournament_554_12"
+            },
+            {
+                "white": "Hu Jianping",
+                "black": "Xu Chunyao",
+                "date": "2018-03-08",
+                "result": 0.5,
+                "id": "tournament_554_13"
+            },
+            {
+                "white": "Xu Chunyao",
+                "black": "Hu Jianping",
+                "date": "2018-03-09",
+                "result": 0,
+                "id": "tournament_554_14"
+            },
+            {
+                "white": "Dong Yingying",
+                "black": "Li Songjiang",
+                "date": "2018-03-08",
+                "result": 0,
+                "id": "tournament_554_15"
+            },
+            {
+                "white": "Li Songjiang",
+                "black": "Dong Yingying",
+                "date": "2018-03-09",
+                "result": 1,
+                "id": "tournament_554_16"
+            },
+            {
+                "white": "Tang Yangwen",
+                "black": "Wei Sifeng",
+                "date": "2018-03-08",
+                "result": 1,
+                "id": "tournament_554_17"
+            },
+            {
+                "white": "Wei Sifeng",
+                "black": "Tang Yangwen",
+                "date": "2018-03-09",
+                "result": 0,
+                "id": "tournament_554_18"
+            },
+            {
+                "white": "Huang Feirui",
+                "black": "Zhu Erzhou",
+                "date": "2018-03-08",
+                "result": 1,
+                "id": "tournament_554_19"
+            },
+            {
+                "white": "Zhu Erzhou",
+                "black": "Huang Feirui",
+                "date": "2018-03-09",
+                "result": 0,
+                "id": "tournament_554_20"
+            },
+            {
+                "white": "Hu Qihong",
+                "black": "Wang Yuna",
+                "date": "2018-03-08",
+                "result": 1,
+                "id": "tournament_554_21"
+            },
+            {
+                "white": "Wang Yuna",
+                "black": "Hu Qihong",
+                "date": "2018-03-09",
+                "result": 0,
+                "id": "tournament_554_22"
+            },
+            {
+                "white": "Luo Xingshi",
+                "black": "Zhang Youqiang",
+                "date": "2018-03-08",
+                "result": 0,
+                "id": "tournament_554_23"
+            },
+            {
+                "white": "Zhang Youqiang",
+                "black": "Luo Xingshi",
+                "date": "2018-03-09",
+                "result": 1,
+                "id": "tournament_554_24"
+            },
+            {
+                "white": "Lu Jiaoli",
+                "black": "Li Wenzi",
+                "date": "2018-03-08",
+                "result": 0.5,
+                "id": "tournament_554_25"
+            },
+            {
+                "white": "Li Wenzi",
+                "black": "Lu Jiaoli",
+                "date": "2018-03-09",
+                "result": 0.5,
+                "id": "tournament_554_26"
+            },
+            {
+                "white": "Lu Jiaoli",
+                "black": "Li Wenzi",
+                "date": "2018-03-09",
+                "result": 1,
+                "id": "tournament_554_27"
+            },
+            {
+                "white": "Han Changfang",
+                "black": "Wang Jun",
+                "date": "2018-03-08",
+                "result": 1,
+                "id": "tournament_554_28"
+            },
+            {
+                "white": "Wang Jun",
+                "black": "Han Changfang",
+                "date": "2018-03-09",
+                "result": 0,
+                "id": "tournament_554_29"
+            },
+            {
+                "white": "Zhou Yingji",
+                "black": "Li Bei",
+                "date": "2018-03-08",
+                "result": 0.5,
+                "id": "tournament_554_30"
+            },
+            {
+                "white": "Li Bei",
+                "black": "Zhou Yingji",
+                "date": "2018-03-09",
+                "result": 1,
+                "id": "tournament_554_31"
+            },
+            {
+                "white": "Yu Dongchun",
+                "black": "Zhou Zebin",
+                "date": "2018-03-08",
+                "result": 0.5,
+                "id": "tournament_554_32"
+            },
+            {
+                "white": "Zhou Zebin",
+                "black": "Yu Dongchun",
+                "date": "2018-03-09",
+                "result": 0,
+                "id": "tournament_554_33"
+            },
+            {
+                "white": "Liu Kunhan",
+                "black": "Zhang Jia",
+                "date": "2018-03-08",
+                "result": 1,
+                "id": "tournament_554_34"
+            },
+            {
+                "white": "Zhang Jia",
+                "black": "Liu Kunhan",
+                "date": "2018-03-09",
+                "result": 0,
+                "id": "tournament_554_35"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Peng Jiehui",
+                "black": "Li Chenzhi",
+                "date": "2018-03-10",
+                "result": 1,
+                "id": "tournament_554_36"
+            },
+            {
+                "white": "Li Chenzhi",
+                "black": "Peng Jiehui",
+                "date": "2018-03-11",
+                "result": 0,
+                "id": "tournament_554_37"
+            },
+            {
+                "white": "Wang Jianmin",
+                "black": "Liu Chiyu",
+                "date": "2018-03-10",
+                "result": 1,
+                "id": "tournament_554_38"
+            },
+            {
+                "white": "Liu Chiyu",
+                "black": "Wang Jianmin",
+                "date": "2018-03-11",
+                "result": 0,
+                "id": "tournament_554_39"
+            },
+            {
+                "white": "Lu Xingmiao",
+                "black": "Hu Jianping",
+                "date": "2018-03-10",
+                "result": 0.5,
+                "id": "tournament_554_40"
+            },
+            {
+                "white": "Hu Jianping",
+                "black": "Lu Xingmiao",
+                "date": "2018-03-11",
+                "result": 1,
+                "id": "tournament_554_41"
+            },
+            {
+                "white": "Li Songjiang",
+                "black": "Tang Yangwen",
+                "date": "2018-03-10",
+                "result": 0.5,
+                "id": "tournament_554_42"
+            },
+            {
+                "white": "Tang Yangwen",
+                "black": "Li Songjiang",
+                "date": "2018-03-11",
+                "result": 1,
+                "id": "tournament_554_43"
+            },
+            {
+                "white": "Huang Feirui",
+                "black": "Hu Qihong",
+                "date": "2018-03-10",
+                "result": 0.5,
+                "id": "tournament_554_44"
+            },
+            {
+                "white": "Hu Qihong",
+                "black": "Huang Feirui",
+                "date": "2018-03-11",
+                "result": 1,
+                "id": "tournament_554_45"
+            },
+            {
+                "white": "Zhang Youqiang",
+                "black": "Lu Jiaoli",
+                "date": "2018-03-10",
+                "result": 0.5,
+                "id": "tournament_554_46"
+            },
+            {
+                "white": "Lu Jiaoli",
+                "black": "Zhang Youqiang",
+                "date": "2018-03-11",
+                "result": 0,
+                "id": "tournament_554_47"
+            },
+            {
+                "white": "Han Changfang",
+                "black": "Li Bei",
+                "date": "2018-03-10",
+                "result": 1,
+                "id": "tournament_554_48"
+            },
+            {
+                "white": "Li Bei",
+                "black": "Han Changfang",
+                "date": "2018-03-11",
+                "result": 0,
+                "id": "tournament_554_49"
+            },
+            {
+                "white": "Yu Dongchun",
+                "black": "Liu Kunhan",
+                "date": "2018-03-10",
+                "result": 1,
+                "id": "tournament_554_50"
+            },
+            {
+                "white": "Liu Kunhan",
+                "black": "Yu Dongchun",
+                "date": "2018-03-11",
+                "result": 0.5,
+                "id": "tournament_554_51"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Peng Jiehui",
+                "black": "Wang Jianmin",
+                "date": "2018-03-12",
+                "result": 0,
+                "id": "tournament_554_52"
+            },
+            {
+                "white": "Wang Jianmin",
+                "black": "Peng Jiehui",
+                "date": "2018-03-13",
+                "result": 1,
+                "id": "tournament_554_53"
+            },
+            {
+                "white": "Hu Jianping",
+                "black": "Tang Yangwen",
+                "date": "2018-03-12",
+                "result": 0,
+                "id": "tournament_554_54"
+            },
+            {
+                "white": "Tang Yangwen",
+                "black": "Hu Jianping",
+                "date": "2018-03-13",
+                "result": 1,
+                "id": "tournament_554_55"
+            },
+            {
+                "white": "Hu Qihong",
+                "black": "Zhang Youqiang",
+                "date": "2018-03-12",
+                "result": 0,
+                "id": "tournament_554_56"
+            },
+            {
+                "white": "Zhang Youqiang",
+                "black": "Hu Qihong",
+                "date": "2018-03-13",
+                "result": 1,
+                "id": "tournament_554_57"
+            },
+            {
+                "white": "Han Changfang",
+                "black": "Yu Dongchun",
+                "date": "2018-03-12",
+                "result": 0.5,
+                "id": "tournament_554_58"
+            },
+            {
+                "white": "Yu Dongchun",
+                "black": "Han Changfang",
+                "date": "2018-03-13",
+                "result": 1,
+                "id": "tournament_554_59"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Wang Jianmin",
+                "black": "Tang Yangwen",
+                "date": "2018-03-14",
+                "result": 0,
+                "id": "tournament_554_60"
+            },
+            {
+                "white": "Tang Yangwen",
+                "black": "Wang Jianmin",
+                "date": "2018-03-15",
+                "result": 1,
+                "id": "tournament_554_61"
+            },
+            {
+                "white": "Zhang Youqiang",
+                "black": "Yu Dongchun",
+                "date": "2018-03-14",
+                "result": 0.5,
+                "id": "tournament_554_62"
+            },
+            {
+                "white": "Yu Dongchun",
+                "black": "Zhang Youqiang",
+                "date": "2018-03-15",
+                "result": 1,
+                "id": "tournament_554_63"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Tang Yangwen",
+                "black": "Yu Dongchun",
+                "date": "2018-03-16",
+                "result": 0.5,
+                "id": "tournament_554_64"
+            },
+            {
+                "white": "Yu Dongchun",
+                "black": "Tang Yangwen",
+                "date": "2018-03-17",
+                "result": 0,
+                "id": "tournament_554_65"
+            }
+        ]
+    },
+    "tours": 5,
+    "time_control": "classic"
+}

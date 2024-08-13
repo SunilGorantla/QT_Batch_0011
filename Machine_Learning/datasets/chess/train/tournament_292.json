@@ -1,0 +1,219 @@
+{
+    "name": "tournament_292",
+    "start_date": "2016-03-22",
+    "end_date": "2016-04-05",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Yuan Zhenshan",
+                "black": "Deng Guo",
+                "date": "2016-03-22",
+                "result": 0.5,
+                "id": "tournament_292_1"
+            },
+            {
+                "white": "Yang Xiangchao",
+                "black": "Tan Yao",
+                "date": "2016-03-22",
+                "result": 0.5,
+                "id": "tournament_292_2"
+            },
+            {
+                "white": "Wang Jin",
+                "black": "Cao Yiping",
+                "date": "2016-03-22",
+                "result": 1,
+                "id": "tournament_292_3"
+            },
+            {
+                "white": "Zhang Xinmin",
+                "black": "Yang Yinxiang",
+                "date": "2016-03-22",
+                "result": 0.5,
+                "id": "tournament_292_4"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Deng Guo",
+                "black": "Yang Xiangchao",
+                "date": "2016-03-24",
+                "result": 0.5,
+                "id": "tournament_292_5"
+            },
+            {
+                "white": "Yuan Zhenshan",
+                "black": "Wang Jin",
+                "date": "2016-03-24",
+                "result": 0.5,
+                "id": "tournament_292_6"
+            },
+            {
+                "white": "Zhang Xinmin",
+                "black": "Tan Yao",
+                "date": "2016-03-24",
+                "result": 0.5,
+                "id": "tournament_292_7"
+            },
+            {
+                "white": "Yang Yinxiang",
+                "black": "Cao Yiping",
+                "date": "2016-03-24",
+                "result": 1,
+                "id": "tournament_292_8"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Wang Jin",
+                "black": "Deng Guo",
+                "date": "2016-03-26",
+                "result": 1,
+                "id": "tournament_292_9"
+            },
+            {
+                "white": "Yang Xiangchao",
+                "black": "Zhang Xinmin",
+                "date": "2016-03-26",
+                "result": 0.5,
+                "id": "tournament_292_10"
+            },
+            {
+                "white": "Yuan Zhenshan",
+                "black": "Yang Yinxiang",
+                "date": "2016-03-26",
+                "result": 1,
+                "id": "tournament_292_11"
+            },
+            {
+                "white": "Cao Yiping",
+                "black": "Tan Yao",
+                "date": "2016-03-26",
+                "result": 0.5,
+                "id": "tournament_292_12"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Deng Guo",
+                "black": "Zhang Xinmin",
+                "date": "2016-03-28",
+                "result": 1,
+                "id": "tournament_292_13"
+            },
+            {
+                "white": "Wang Jin",
+                "black": "Yang Yinxiang",
+                "date": "2016-03-28",
+                "result": 1,
+                "id": "tournament_292_14"
+            },
+            {
+                "white": "Yang Xiangchao",
+                "black": "Cao Yiping",
+                "date": "2016-03-28",
+                "result": 0.5,
+                "id": "tournament_292_15"
+            },
+            {
+                "white": "Yuan Zhenshan",
+                "black": "Tan Yao",
+                "date": "2016-03-28",
+                "result": 0.5,
+                "id": "tournament_292_16"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Yang Yinxiang",
+                "black": "Deng Guo",
+                "date": "2016-03-30",
+                "result": 0.5,
+                "id": "tournament_292_17"
+            },
+            {
+                "white": "Zhang Xinmin",
+                "black": "Cao Yiping",
+                "date": "2016-03-30",
+                "result": 1,
+                "id": "tournament_292_18"
+            },
+            {
+                "white": "Wang Jin",
+                "black": "Tan Yao",
+                "date": "2016-03-30",
+                "result": 0.5,
+                "id": "tournament_292_19"
+            },
+            {
+                "white": "Yuan Zhenshan",
+                "black": "Yang Xiangchao",
+                "date": "2016-03-30",
+                "result": 1,
+                "id": "tournament_292_20"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Deng Guo",
+                "black": "Cao Yiping",
+                "date": "2016-04-01",
+                "result": 1,
+                "id": "tournament_292_21"
+            },
+            {
+                "white": "Yang Yinxiang",
+                "black": "Tan Yao",
+                "date": "2016-04-01",
+                "result": 0.5,
+                "id": "tournament_292_22"
+            },
+            {
+                "white": "Yuan Zhenshan",
+                "black": "Zhang Xinmin",
+                "date": "2016-04-01",
+                "result": 0.5,
+                "id": "tournament_292_23"
+            },
+            {
+                "white": "Yang Xiangchao",
+                "black": "Wang Jin",
+                "date": "2016-04-01",
+                "result": 1,
+                "id": "tournament_292_24"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Tan Yao",
+                "black": "Deng Guo",
+                "date": "2016-04-03",
+                "result": 0.5,
+                "id": "tournament_292_25"
+            },
+            {
+                "white": "Yuan Zhenshan",
+                "black": "Cao Yiping",
+                "date": "2016-04-03",
+                "result": 1,
+                "id": "tournament_292_26"
+            },
+            {
+                "white": "Yang Xiangchao",
+                "black": "Yang Yinxiang",
+                "date": "2016-04-03",
+                "result": 0.5,
+                "id": "tournament_292_27"
+            },
+            {
+                "white": "Wang Jin",
+                "black": "Zhang Xinmin",
+                "date": "2016-04-03",
+                "result": 1,
+                "id": "tournament_292_28"
+            }
+        ]
+    },
+    "tours": 7,
+    "time_control": "classic"
+}

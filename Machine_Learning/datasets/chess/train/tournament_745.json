@@ -1,0 +1,379 @@
+{
+    "name": "tournament_745",
+    "start_date": "2019-08-07",
+    "end_date": "2019-08-17",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Bi Lu Hui",
+                "black": "Hong Li Li",
+                "date": "2019-08-07",
+                "result": 0.5,
+                "id": "tournament_745_1"
+            },
+            {
+                "white": "Wang Xiao Ying",
+                "black": "Zhang An Tian",
+                "date": "2019-08-07",
+                "result": 0.5,
+                "id": "tournament_745_2"
+            },
+            {
+                "white": "Huang Fang Wei",
+                "black": "Tian Zhuo Bo",
+                "date": "2019-08-07",
+                "result": 0,
+                "id": "tournament_745_3"
+            },
+            {
+                "white": "Li Su Jin",
+                "black": "Qian Bo Jue",
+                "date": "2019-08-07",
+                "result": 0,
+                "id": "tournament_745_4"
+            },
+            {
+                "white": "Pang Jing ",
+                "black": "Shen Min Fu",
+                "date": "2019-08-07",
+                "result": 1,
+                "id": "tournament_745_5"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Xu Chen Liang",
+                "black": "Bi Lu Hui",
+                "date": "2019-08-08",
+                "result": 1,
+                "id": "tournament_745_6"
+            },
+            {
+                "white": "Huang Fang Wei",
+                "black": "Hong Li Li",
+                "date": "2019-08-08",
+                "result": 0.5,
+                "id": "tournament_745_7"
+            },
+            {
+                "white": "Li Su Jin",
+                "black": "Zhang An Tian",
+                "date": "2019-08-08",
+                "result": 0,
+                "id": "tournament_745_8"
+            },
+            {
+                "white": "Pang Jing ",
+                "black": "Tian Zhuo Bo",
+                "date": "2019-08-08",
+                "result": 1,
+                "id": "tournament_745_9"
+            },
+            {
+                "white": "Shen Min Fu",
+                "black": "Qian Bo Jue",
+                "date": "2019-08-08",
+                "result": 0,
+                "id": "tournament_745_10"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Wang Xiao Ying",
+                "black": "Xu Chen Liang",
+                "date": "2019-08-09",
+                "result": 0.5,
+                "id": "tournament_745_11"
+            },
+            {
+                "white": "Bi Lu Hui",
+                "black": "Huang Fang Wei",
+                "date": "2019-08-09",
+                "result": 1,
+                "id": "tournament_745_12"
+            },
+            {
+                "white": "Pang Jing ",
+                "black": "Hong Li Li",
+                "date": "2019-08-09",
+                "result": 0.5,
+                "id": "tournament_745_13"
+            },
+            {
+                "white": "Shen Min Fu",
+                "black": "Zhang An Tian",
+                "date": "2019-08-09",
+                "result": 0,
+                "id": "tournament_745_14"
+            },
+            {
+                "white": "Qian Bo Jue",
+                "black": "Tian Zhuo Bo",
+                "date": "2019-08-09",
+                "result": 1,
+                "id": "tournament_745_15"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Xu Chen Liang",
+                "black": "Huang Fang Wei",
+                "date": "2019-08-10",
+                "result": 1,
+                "id": "tournament_745_16"
+            },
+            {
+                "white": "Wang Xiao Ying",
+                "black": "Li Su Jin",
+                "date": "2019-08-10",
+                "result": 0.5,
+                "id": "tournament_745_17"
+            },
+            {
+                "white": "Bi Lu Hui",
+                "black": "Pang Jing ",
+                "date": "2019-08-10",
+                "result": 1,
+                "id": "tournament_745_18"
+            },
+            {
+                "white": "Qian Bo Jue",
+                "black": "Hong Li Li",
+                "date": "2019-08-10",
+                "result": 1,
+                "id": "tournament_745_19"
+            },
+            {
+                "white": "Tian Zhuo Bo",
+                "black": "Zhang An Tian",
+                "date": "2019-08-10",
+                "result": 0,
+                "id": "tournament_745_20"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Li Su Jin",
+                "black": "Xu Chen Liang",
+                "date": "2019-08-11",
+                "result": 0.5,
+                "id": "tournament_745_21"
+            },
+            {
+                "white": "Huang Fang Wei",
+                "black": "Pang Jing ",
+                "date": "2019-08-11",
+                "result": 0,
+                "id": "tournament_745_22"
+            },
+            {
+                "white": "Wang Xiao Ying",
+                "black": "Shen Min Fu",
+                "date": "2019-08-11",
+                "result": 1,
+                "id": "tournament_745_23"
+            },
+            {
+                "white": "Bi Lu Hui",
+                "black": "Qian Bo Jue",
+                "date": "2019-08-11",
+                "result": 0,
+                "id": "tournament_745_24"
+            },
+            {
+                "white": "Zhang An Tian",
+                "black": "Hong Li Li",
+                "date": "2019-08-11",
+                "result": 1,
+                "id": "tournament_745_25"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Xu Chen Liang",
+                "black": "Pang Jing ",
+                "date": "2019-08-12",
+                "result": 0.5,
+                "id": "tournament_745_26"
+            },
+            {
+                "white": "Li Su Jin",
+                "black": "Shen Min Fu",
+                "date": "2019-08-12",
+                "result": 0.5,
+                "id": "tournament_745_27"
+            },
+            {
+                "white": "Huang Fang Wei",
+                "black": "Qian Bo Jue",
+                "date": "2019-08-12",
+                "result": 0,
+                "id": "tournament_745_28"
+            },
+            {
+                "white": "Wang Xiao Ying",
+                "black": "Tian Zhuo Bo",
+                "date": "2019-08-12",
+                "result": 1,
+                "id": "tournament_745_29"
+            },
+            {
+                "white": "Bi Lu Hui",
+                "black": "Zhang An Tian",
+                "date": "2019-08-12",
+                "result": 0,
+                "id": "tournament_745_30"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Shen Min Fu",
+                "black": "Xu Chen Liang",
+                "date": "2019-08-13",
+                "result": 0.5,
+                "id": "tournament_745_31"
+            },
+            {
+                "white": "Pang Jing ",
+                "black": "Qian Bo Jue",
+                "date": "2019-08-13",
+                "result": 0,
+                "id": "tournament_745_32"
+            },
+            {
+                "white": "Li Su Jin",
+                "black": "Tian Zhuo Bo",
+                "date": "2019-08-13",
+                "result": 0.5,
+                "id": "tournament_745_33"
+            },
+            {
+                "white": "Huang Fang Wei",
+                "black": "Zhang An Tian",
+                "date": "2019-08-13",
+                "result": 0,
+                "id": "tournament_745_34"
+            },
+            {
+                "white": "Wang Xiao Ying",
+                "black": "Hong Li Li",
+                "date": "2019-08-13",
+                "result": 1,
+                "id": "tournament_745_35"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Xu Chen Liang",
+                "black": "Qian Bo Jue",
+                "date": "2019-08-14",
+                "result": 0,
+                "id": "tournament_745_36"
+            },
+            {
+                "white": "Shen Min Fu",
+                "black": "Tian Zhuo Bo",
+                "date": "2019-08-14",
+                "result": 0,
+                "id": "tournament_745_37"
+            },
+            {
+                "white": "Pang Jing ",
+                "black": "Zhang An Tian",
+                "date": "2019-08-14",
+                "result": 0,
+                "id": "tournament_745_38"
+            },
+            {
+                "white": "Li Su Jin",
+                "black": "Hong Li Li",
+                "date": "2019-08-14",
+                "result": 0.5,
+                "id": "tournament_745_39"
+            },
+            {
+                "white": "Bi Lu Hui",
+                "black": "Wang Xiao Ying",
+                "date": "2019-08-14",
+                "result": 0,
+                "id": "tournament_745_40"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Tian Zhuo Bo",
+                "black": "Xu Chen Liang",
+                "date": "2019-08-15",
+                "result": 0,
+                "id": "tournament_745_41"
+            },
+            {
+                "white": "Qian Bo Jue",
+                "black": "Zhang An Tian",
+                "date": "2019-08-15",
+                "result": 1,
+                "id": "tournament_745_42"
+            },
+            {
+                "white": "Shen Min Fu",
+                "black": "Hong Li Li",
+                "date": "2019-08-15",
+                "result": 0,
+                "id": "tournament_745_43"
+            },
+            {
+                "white": "Bi Lu Hui",
+                "black": "Li Su Jin",
+                "date": "2019-08-15",
+                "result": 0.5,
+                "id": "tournament_745_44"
+            },
+            {
+                "white": "Wang Xiao Ying",
+                "black": "Huang Fang Wei",
+                "date": "2019-08-15",
+                "result": 1,
+                "id": "tournament_745_45"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "Xu Chen Liang",
+                "black": "Zhang An Tian",
+                "date": "2019-08-16",
+                "result": 0.5,
+                "id": "tournament_745_46"
+            },
+            {
+                "white": "Tian Zhuo Bo",
+                "black": "Hong Li Li",
+                "date": "2019-08-16",
+                "result": 0.5,
+                "id": "tournament_745_47"
+            },
+            {
+                "white": "Bi Lu Hui",
+                "black": "Shen Min Fu",
+                "date": "2019-08-16",
+                "result": 1,
+                "id": "tournament_745_48"
+            },
+            {
+                "white": "Wang Xiao Ying",
+                "black": "Pang Jing ",
+                "date": "2019-08-16",
+                "result": 1,
+                "id": "tournament_745_49"
+            },
+            {
+                "white": "Huang Fang Wei",
+                "black": "Li Su Jin",
+                "date": "2019-08-16",
+                "result": 0,
+                "id": "tournament_745_50"
+            }
+        ]
+    },
+    "tours": 10,
+    "time_control": "rapid"
+}

@@ -1,0 +1,219 @@
+{
+    "name": "tournament_107",
+    "start_date": "2014-09-22",
+    "end_date": "2014-09-29",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Chen Ping Xing",
+                "black": "Yin Yuan Dong",
+                "date": "2014-09-22",
+                "result": 0.5,
+                "id": "tournament_107_1"
+            },
+            {
+                "white": "Li Fu Jie",
+                "black": "Liu Fang Liang",
+                "date": "2014-09-22",
+                "result": 0,
+                "id": "tournament_107_2"
+            },
+            {
+                "white": "Kang Zi Hui",
+                "black": "Lai Zhen En",
+                "date": "2014-09-22",
+                "result": 0,
+                "id": "tournament_107_3"
+            },
+            {
+                "white": "Lv Ya Guang",
+                "black": "Cao Shao Yong",
+                "date": "2014-09-22",
+                "result": 0.5,
+                "id": "tournament_107_4"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Yin Yuan Dong",
+                "black": "Li Fu Jie",
+                "date": "2014-09-23",
+                "result": 1,
+                "id": "tournament_107_5"
+            },
+            {
+                "white": "Chen Ping Xing",
+                "black": "Kang Zi Hui",
+                "date": "2014-09-23",
+                "result": 0.5,
+                "id": "tournament_107_6"
+            },
+            {
+                "white": "Lv Ya Guang",
+                "black": "Liu Fang Liang",
+                "date": "2014-09-23",
+                "result": 0.5,
+                "id": "tournament_107_7"
+            },
+            {
+                "white": "Cao Shao Yong",
+                "black": "Lai Zhen En",
+                "date": "2014-09-23",
+                "result": 0.5,
+                "id": "tournament_107_8"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Kang Zi Hui",
+                "black": "Yin Yuan Dong",
+                "date": "2014-09-24",
+                "result": 0.5,
+                "id": "tournament_107_9"
+            },
+            {
+                "white": "Li Fu Jie",
+                "black": "Lv Ya Guang",
+                "date": "2014-09-24",
+                "result": 0,
+                "id": "tournament_107_10"
+            },
+            {
+                "white": "Chen Ping Xing",
+                "black": "Cao Shao Yong",
+                "date": "2014-09-24",
+                "result": 0,
+                "id": "tournament_107_11"
+            },
+            {
+                "white": "Lai Zhen En",
+                "black": "Liu Fang Liang",
+                "date": "2014-09-24",
+                "result": 0,
+                "id": "tournament_107_12"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Yin Yuan Dong",
+                "black": "Lv Ya Guang",
+                "date": "2014-09-25",
+                "result": 0.5,
+                "id": "tournament_107_13"
+            },
+            {
+                "white": "Kang Zi Hui",
+                "black": "Cao Shao Yong",
+                "date": "2014-09-25",
+                "result": 0,
+                "id": "tournament_107_14"
+            },
+            {
+                "white": "Li Fu Jie",
+                "black": "Lai Zhen En",
+                "date": "2014-09-25",
+                "result": 0.5,
+                "id": "tournament_107_15"
+            },
+            {
+                "white": "Chen Ping Xing",
+                "black": "Liu Fang Liang",
+                "date": "2014-09-25",
+                "result": 0,
+                "id": "tournament_107_16"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Cao Shao Yong",
+                "black": "Yin Yuan Dong",
+                "date": "2014-09-26",
+                "result": 0.5,
+                "id": "tournament_107_17"
+            },
+            {
+                "white": "Lv Ya Guang",
+                "black": "Lai Zhen En",
+                "date": "2014-09-26",
+                "result": 1,
+                "id": "tournament_107_18"
+            },
+            {
+                "white": "Kang Zi Hui",
+                "black": "Liu Fang Liang",
+                "date": "2014-09-26",
+                "result": 1,
+                "id": "tournament_107_19"
+            },
+            {
+                "white": "Chen Ping Xing",
+                "black": "Li Fu Jie",
+                "date": "2014-09-26",
+                "result": 1,
+                "id": "tournament_107_20"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Yin Yuan Dong",
+                "black": "Lai Zhen En",
+                "date": "2014-09-27",
+                "result": 0,
+                "id": "tournament_107_21"
+            },
+            {
+                "white": "Cao Shao Yong",
+                "black": "Liu Fang Liang",
+                "date": "2014-09-27",
+                "result": 1,
+                "id": "tournament_107_22"
+            },
+            {
+                "white": "Chen Ping Xing",
+                "black": "Lv Ya Guang",
+                "date": "2014-09-27",
+                "result": 0,
+                "id": "tournament_107_23"
+            },
+            {
+                "white": "Li Fu Jie",
+                "black": "Kang Zi Hui",
+                "date": "2014-09-27",
+                "result": 0.5,
+                "id": "tournament_107_24"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Liu Fang Liang",
+                "black": "Yin Yuan Dong",
+                "date": "2014-09-28",
+                "result": 1,
+                "id": "tournament_107_25"
+            },
+            {
+                "white": "Chen Ping Xing",
+                "black": "Lai Zhen En",
+                "date": "2014-09-28",
+                "result": 0,
+                "id": "tournament_107_26"
+            },
+            {
+                "white": "Li Fu Jie",
+                "black": "Cao Shao Yong",
+                "date": "2014-09-28",
+                "result": 0,
+                "id": "tournament_107_27"
+            },
+            {
+                "white": "Kang Zi Hui",
+                "black": "Lv Ya Guang",
+                "date": "2014-09-28",
+                "result": 0,
+                "id": "tournament_107_28"
+            }
+        ]
+    },
+    "tours": 7,
+    "time_control": "classic"
+}

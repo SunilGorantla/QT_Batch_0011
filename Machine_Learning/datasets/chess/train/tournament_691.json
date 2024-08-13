@@ -1,0 +1,241 @@
+{
+    "name": "tournament_691",
+    "start_date": "2019-02-26",
+    "end_date": "2019-03-06",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Wang Yin Bin",
+                "black": "Hu Jing Xin",
+                "date": "2019-02-26",
+                "result": 1,
+                "id": "tournament_691_1"
+            },
+            {
+                "white": "Hu Jing Xin",
+                "black": "Wang Yin Bin",
+                "date": "2019-02-27",
+                "result": 0,
+                "id": "tournament_691_2"
+            },
+            {
+                "white": "Zhong Hong Cun",
+                "black": "Zheng Yan Feng",
+                "date": "2019-02-26",
+                "result": 0,
+                "id": "tournament_691_3"
+            },
+            {
+                "white": "Zheng Yan Feng",
+                "black": "Zhong Hong Cun",
+                "date": "2019-02-27",
+                "result": 0.5,
+                "id": "tournament_691_4"
+            },
+            {
+                "white": "Lin Li Gu",
+                "black": "Chen Qi Liang",
+                "date": "2019-02-26",
+                "result": 0.5,
+                "id": "tournament_691_5"
+            },
+            {
+                "white": "Chen Qi Liang",
+                "black": "Lin Li Gu",
+                "date": "2019-02-27",
+                "result": 0.5,
+                "id": "tournament_691_6"
+            },
+            {
+                "white": "Lin Li Gu",
+                "black": "Chen Qi Liang",
+                "date": "2019-02-27",
+                "result": 1,
+                "id": "tournament_691_7"
+            },
+            {
+                "white": "Xing Xin ",
+                "black": "Huang Guo Hua",
+                "date": "2019-02-26",
+                "result": 0,
+                "id": "tournament_691_8"
+            },
+            {
+                "white": "Huang Guo Hua",
+                "black": "Xing Xin ",
+                "date": "2019-02-27",
+                "result": 1,
+                "id": "tournament_691_9"
+            },
+            {
+                "white": "Yang Jian ",
+                "black": "Huang Run Jun",
+                "date": "2019-02-26",
+                "result": 0.5,
+                "id": "tournament_691_10"
+            },
+            {
+                "white": "Huang Run Jun",
+                "black": "Yang Jian ",
+                "date": "2019-02-27",
+                "result": 1,
+                "id": "tournament_691_11"
+            },
+            {
+                "white": "Luo Xing Shi",
+                "black": "Ceng Ying Lan",
+                "date": "2019-02-26",
+                "result": 0.5,
+                "id": "tournament_691_12"
+            },
+            {
+                "white": "Ceng Ying Lan",
+                "black": "Luo Xing Shi",
+                "date": "2019-02-27",
+                "result": 0,
+                "id": "tournament_691_13"
+            },
+            {
+                "white": "Wang Yu Hong",
+                "black": "Xu Jing ",
+                "date": "2019-02-26",
+                "result": 1,
+                "id": "tournament_691_14"
+            },
+            {
+                "white": "Xu Jing ",
+                "black": "Wang Yu Hong",
+                "date": "2019-02-27",
+                "result": 0.5,
+                "id": "tournament_691_15"
+            },
+            {
+                "white": "Liu Fei ",
+                "black": "Yang Su Ping",
+                "date": "2019-02-26",
+                "result": 0.5,
+                "id": "tournament_691_16"
+            },
+            {
+                "white": "Yang Su Ping",
+                "black": "Liu Fei ",
+                "date": "2019-02-27",
+                "result": 1,
+                "id": "tournament_691_17"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Wang Yin Bin",
+                "black": "Zheng Yan Feng",
+                "date": "2019-02-28",
+                "result": 0,
+                "id": "tournament_691_18"
+            },
+            {
+                "white": "Zheng Yan Feng",
+                "black": "Wang Yin Bin",
+                "date": "2019-03-01",
+                "result": 1,
+                "id": "tournament_691_19"
+            },
+            {
+                "white": "Lin Li Gu",
+                "black": "Huang Guo Hua",
+                "date": "2019-02-28",
+                "result": 0,
+                "id": "tournament_691_20"
+            },
+            {
+                "white": "Huang Guo Hua",
+                "black": "Lin Li Gu",
+                "date": "2019-03-01",
+                "result": 0.5,
+                "id": "tournament_691_21"
+            },
+            {
+                "white": "Huang Run Jun",
+                "black": "Luo Xing Shi",
+                "date": "2019-02-28",
+                "result": 1,
+                "id": "tournament_691_22"
+            },
+            {
+                "white": "Luo Xing Shi",
+                "black": "Huang Run Jun",
+                "date": "2019-03-01",
+                "result": 0.5,
+                "id": "tournament_691_23"
+            },
+            {
+                "white": "Wang Yu Hong",
+                "black": "Yang Su Ping",
+                "date": "2019-02-28",
+                "result": 0.5,
+                "id": "tournament_691_24"
+            },
+            {
+                "white": "Yang Su Ping",
+                "black": "Wang Yu Hong",
+                "date": "2019-03-01",
+                "result": 0.5,
+                "id": "tournament_691_25"
+            },
+            {
+                "white": "Wang Yu Hong",
+                "black": "Yang Su Ping",
+                "date": "2019-03-01",
+                "result": 0,
+                "id": "tournament_691_26"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Zheng Yan Feng",
+                "black": "Huang Guo Hua",
+                "date": "2019-03-02",
+                "result": 0,
+                "id": "tournament_691_27"
+            },
+            {
+                "white": "Huang Guo Hua",
+                "black": "Zheng Yan Feng",
+                "date": "2019-03-03",
+                "result": 1,
+                "id": "tournament_691_28"
+            },
+            {
+                "white": "Huang Run Jun",
+                "black": "Yang Su Ping",
+                "date": "2019-03-02",
+                "result": 0.5,
+                "id": "tournament_691_29"
+            },
+            {
+                "white": "Yang Su Ping",
+                "black": "Huang Run Jun",
+                "date": "2019-03-03",
+                "result": 1,
+                "id": "tournament_691_30"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Huang Guo Hua",
+                "black": "Yang Su Ping",
+                "date": "2019-03-04",
+                "result": 1,
+                "id": "tournament_691_31"
+            },
+            {
+                "white": "Yang Su Ping",
+                "black": "Huang Guo Hua",
+                "date": "2019-03-05",
+                "result": 0.5,
+                "id": "tournament_691_32"
+            }
+        ]
+    },
+    "tours": 4,
+    "time_control": "classic"
+}

@@ -1,0 +1,342 @@
+{
+    "name": "tournament_661",
+    "start_date": "2018-12-05",
+    "end_date": "2018-12-14",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Wei Zhen Tian",
+                "black": "Wei Kai ",
+                "date": "2018-12-05",
+                "result": 0.5,
+                "id": "tournament_661_1"
+            },
+            {
+                "white": "Chen Chun Qian",
+                "black": "Zhao Sui Rong",
+                "date": "2018-12-05",
+                "result": 0.5,
+                "id": "tournament_661_2"
+            },
+            {
+                "white": "Hu Dong Wen",
+                "black": "Chen Si ",
+                "date": "2018-12-05",
+                "result": 0.5,
+                "id": "tournament_661_3"
+            },
+            {
+                "white": "Zhao Wen Mei",
+                "black": "Zhang Da Li",
+                "date": "2018-12-05",
+                "result": 0.5,
+                "id": "tournament_661_4"
+            },
+            {
+                "white": "Sun Sha ",
+                "black": "Pang Jing ",
+                "date": "2018-12-05",
+                "result": 0,
+                "id": "tournament_661_5"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Wei Kai ",
+                "black": "Chen Chun Qian",
+                "date": "2018-12-06",
+                "result": 0.5,
+                "id": "tournament_661_6"
+            },
+            {
+                "white": "Wei Zhen Tian",
+                "black": "Hu Dong Wen",
+                "date": "2018-12-06",
+                "result": 0.5,
+                "id": "tournament_661_7"
+            },
+            {
+                "white": "Zhao Wen Mei",
+                "black": "Zhao Sui Rong",
+                "date": "2018-12-06",
+                "result": 0.5,
+                "id": "tournament_661_8"
+            },
+            {
+                "white": "Sun Sha ",
+                "black": "Chen Si ",
+                "date": "2018-12-06",
+                "result": 1,
+                "id": "tournament_661_9"
+            },
+            {
+                "white": "Pang Jing ",
+                "black": "Zhang Da Li",
+                "date": "2018-12-06",
+                "result": 1,
+                "id": "tournament_661_10"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Hu Dong Wen",
+                "black": "Wei Kai ",
+                "date": "2018-12-07",
+                "result": 0,
+                "id": "tournament_661_11"
+            },
+            {
+                "white": "Chen Chun Qian",
+                "black": "Zhao Wen Mei",
+                "date": "2018-12-07",
+                "result": 0,
+                "id": "tournament_661_12"
+            },
+            {
+                "white": "Wei Zhen Tian",
+                "black": "Sun Sha ",
+                "date": "2018-12-07",
+                "result": 0.5,
+                "id": "tournament_661_13"
+            },
+            {
+                "white": "Pang Jing ",
+                "black": "Zhao Sui Rong",
+                "date": "2018-12-07",
+                "result": 1,
+                "id": "tournament_661_14"
+            },
+            {
+                "white": "Zhang Da Li",
+                "black": "Chen Si ",
+                "date": "2018-12-07",
+                "result": 0,
+                "id": "tournament_661_15"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Wei Kai ",
+                "black": "Zhao Wen Mei",
+                "date": "2018-12-08",
+                "result": 0.5,
+                "id": "tournament_661_16"
+            },
+            {
+                "white": "Hu Dong Wen",
+                "black": "Sun Sha ",
+                "date": "2018-12-08",
+                "result": 0.5,
+                "id": "tournament_661_17"
+            },
+            {
+                "white": "Chen Chun Qian",
+                "black": "Pang Jing ",
+                "date": "2018-12-08",
+                "result": 0.5,
+                "id": "tournament_661_18"
+            },
+            {
+                "white": "Wei Zhen Tian",
+                "black": "Zhang Da Li",
+                "date": "2018-12-08",
+                "result": 0,
+                "id": "tournament_661_19"
+            },
+            {
+                "white": "Chen Si ",
+                "black": "Zhao Sui Rong",
+                "date": "2018-12-08",
+                "result": 0.5,
+                "id": "tournament_661_20"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Sun Sha ",
+                "black": "Wei Kai ",
+                "date": "2018-12-09",
+                "result": 0.5,
+                "id": "tournament_661_21"
+            },
+            {
+                "white": "Zhao Wen Mei",
+                "black": "Pang Jing ",
+                "date": "2018-12-09",
+                "result": 1,
+                "id": "tournament_661_22"
+            },
+            {
+                "white": "Hu Dong Wen",
+                "black": "Zhang Da Li",
+                "date": "2018-12-09",
+                "result": 0,
+                "id": "tournament_661_23"
+            },
+            {
+                "white": "Chen Chun Qian",
+                "black": "Chen Si ",
+                "date": "2018-12-09",
+                "result": 1,
+                "id": "tournament_661_24"
+            },
+            {
+                "white": "Wei Zhen Tian",
+                "black": "Zhao Sui Rong",
+                "date": "2018-12-09",
+                "result": 0.5,
+                "id": "tournament_661_25"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Wei Kai ",
+                "black": "Pang Jing ",
+                "date": "2018-12-10",
+                "result": 0.5,
+                "id": "tournament_661_26"
+            },
+            {
+                "white": "Sun Sha ",
+                "black": "Zhang Da Li",
+                "date": "2018-12-10",
+                "result": 0.5,
+                "id": "tournament_661_27"
+            },
+            {
+                "white": "Zhao Wen Mei",
+                "black": "Chen Si ",
+                "date": "2018-12-10",
+                "result": 1,
+                "id": "tournament_661_28"
+            },
+            {
+                "white": "Hu Dong Wen",
+                "black": "Zhao Sui Rong",
+                "date": "2018-12-10",
+                "result": 0.5,
+                "id": "tournament_661_29"
+            },
+            {
+                "white": "Wei Zhen Tian",
+                "black": "Chen Chun Qian",
+                "date": "2018-12-10",
+                "result": 0.5,
+                "id": "tournament_661_30"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Zhang Da Li",
+                "black": "Wei Kai ",
+                "date": "2018-12-11",
+                "result": 0.5,
+                "id": "tournament_661_31"
+            },
+            {
+                "white": "Pang Jing ",
+                "black": "Chen Si ",
+                "date": "2018-12-11",
+                "result": 1,
+                "id": "tournament_661_32"
+            },
+            {
+                "white": "Sun Sha ",
+                "black": "Zhao Sui Rong",
+                "date": "2018-12-11",
+                "result": 1,
+                "id": "tournament_661_33"
+            },
+            {
+                "white": "Wei Zhen Tian",
+                "black": "Zhao Wen Mei",
+                "date": "2018-12-11",
+                "result": 0.5,
+                "id": "tournament_661_34"
+            },
+            {
+                "white": "Chen Chun Qian",
+                "black": "Hu Dong Wen",
+                "date": "2018-12-11",
+                "result": 0.5,
+                "id": "tournament_661_35"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Wei Kai ",
+                "black": "Chen Si ",
+                "date": "2018-12-12",
+                "result": 0.5,
+                "id": "tournament_661_36"
+            },
+            {
+                "white": "Zhang Da Li",
+                "black": "Zhao Sui Rong",
+                "date": "2018-12-12",
+                "result": 0.5,
+                "id": "tournament_661_37"
+            },
+            {
+                "white": "Wei Zhen Tian",
+                "black": "Pang Jing ",
+                "date": "2018-12-12",
+                "result": 0,
+                "id": "tournament_661_38"
+            },
+            {
+                "white": "Chen Chun Qian",
+                "black": "Sun Sha ",
+                "date": "2018-12-12",
+                "result": 0.5,
+                "id": "tournament_661_39"
+            },
+            {
+                "white": "Hu Dong Wen",
+                "black": "Zhao Wen Mei",
+                "date": "2018-12-12",
+                "result": 0,
+                "id": "tournament_661_40"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Zhao Sui Rong",
+                "black": "Wei Kai ",
+                "date": "2018-12-13",
+                "result": 1,
+                "id": "tournament_661_41"
+            },
+            {
+                "white": "Wei Zhen Tian",
+                "black": "Chen Si ",
+                "date": "2018-12-13",
+                "result": 1,
+                "id": "tournament_661_42"
+            },
+            {
+                "white": "Chen Chun Qian",
+                "black": "Zhang Da Li",
+                "date": "2018-12-13",
+                "result": 0.5,
+                "id": "tournament_661_43"
+            },
+            {
+                "white": "Hu Dong Wen",
+                "black": "Pang Jing ",
+                "date": "2018-12-13",
+                "result": 0.5,
+                "id": "tournament_661_44"
+            },
+            {
+                "white": "Zhao Wen Mei",
+                "black": "Sun Sha ",
+                "date": "2018-12-13",
+                "result": 0.5,
+                "id": "tournament_661_45"
+            }
+        ]
+    },
+    "tours": 9,
+    "time_control": "classic"
+}

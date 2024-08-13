@@ -1,0 +1,1149 @@
+{
+    "name": "tournament_685",
+    "start_date": "2019-02-11",
+    "end_date": "2019-03-03",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Cai Qi",
+                "black": "Xu Nü",
+                "date": "2019-02-11",
+                "result": 0,
+                "id": "tournament_685_1"
+            },
+            {
+                "white": "Liang Jiyue",
+                "black": "Xu Chunyao",
+                "date": "2019-02-11",
+                "result": 0,
+                "id": "tournament_685_2"
+            },
+            {
+                "white": "Li Yuan",
+                "black": "Hong Dong",
+                "date": "2019-02-11",
+                "result": 1,
+                "id": "tournament_685_3"
+            },
+            {
+                "white": "Zhang Muli",
+                "black": "Liang Xiaowei",
+                "date": "2019-02-11",
+                "result": 0.5,
+                "id": "tournament_685_4"
+            },
+            {
+                "white": "Yang Yinxiang",
+                "black": "Liu Chiyu",
+                "date": "2019-02-11",
+                "result": 1,
+                "id": "tournament_685_5"
+            },
+            {
+                "white": "Shu Zhao",
+                "black": "Wang Cai",
+                "date": "2019-02-11",
+                "result": 1,
+                "id": "tournament_685_6"
+            },
+            {
+                "white": "Wu Qiu",
+                "black": "Zhao Shan",
+                "date": "2019-02-11",
+                "result": 0,
+                "id": "tournament_685_7"
+            },
+            {
+                "white": "Song Manshen",
+                "black": "Qin Changming",
+                "date": "2019-02-11",
+                "result": 0.5,
+                "id": "tournament_685_8"
+            },
+            {
+                "white": "Liu Gaichuan",
+                "black": "Gao Xiaochen",
+                "date": "2019-02-11",
+                "result": 0.5,
+                "id": "tournament_685_9"
+            },
+            {
+                "white": "Liu Kaiqing",
+                "black": "Wei Sifeng",
+                "date": "2019-02-11",
+                "result": 0.5,
+                "id": "tournament_685_10"
+            },
+            {
+                "white": "Wen Qingrong",
+                "black": "Shi Zhi",
+                "date": "2019-02-11",
+                "result": 0,
+                "id": "tournament_685_11"
+            },
+            {
+                "white": "Gao Changxia",
+                "black": "Wei Ming",
+                "date": "2019-02-11",
+                "result": 1,
+                "id": "tournament_685_12"
+            },
+            {
+                "white": "Meng Dayun",
+                "black": "Qin Shouyun",
+                "date": "2019-02-11",
+                "result": 0,
+                "id": "tournament_685_13"
+            },
+            {
+                "white": "Yang Junrui",
+                "black": "Huang Xianfeng",
+                "date": "2019-02-11",
+                "result": 1,
+                "id": "tournament_685_14"
+            },
+            {
+                "white": "Zhao Suirong",
+                "black": "Zhao Xiyong",
+                "date": "2019-02-11",
+                "result": 1,
+                "id": "tournament_685_15"
+            },
+            {
+                "white": "Qin Naitao",
+                "black": "Yuan Xiongping",
+                "date": "2019-02-11",
+                "result": 1,
+                "id": "tournament_685_16"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Xu Nü",
+                "black": "Li Yuan",
+                "date": "2019-02-13",
+                "result": 0,
+                "id": "tournament_685_17"
+            },
+            {
+                "white": "Xu Chunyao",
+                "black": "Yang Yinxiang",
+                "date": "2019-02-13",
+                "result": 0.5,
+                "id": "tournament_685_18"
+            },
+            {
+                "white": "Zhao Shan",
+                "black": "Shu Zhao",
+                "date": "2019-02-13",
+                "result": 0.5,
+                "id": "tournament_685_19"
+            },
+            {
+                "white": "Shi Zhi",
+                "black": "Gao Changxia",
+                "date": "2019-02-13",
+                "result": 1,
+                "id": "tournament_685_20"
+            },
+            {
+                "white": "Qin Shouyun",
+                "black": "Yang Junrui",
+                "date": "2019-02-13",
+                "result": 0.5,
+                "id": "tournament_685_21"
+            },
+            {
+                "white": "Liang Xiaowei",
+                "black": "Zhao Suirong",
+                "date": "2019-02-13",
+                "result": 0,
+                "id": "tournament_685_22"
+            },
+            {
+                "white": "Qin Changming",
+                "black": "Qin Naitao",
+                "date": "2019-02-13",
+                "result": 1,
+                "id": "tournament_685_23"
+            },
+            {
+                "white": "Gao Xiaochen",
+                "black": "Zhang Muli",
+                "date": "2019-02-13",
+                "result": 1,
+                "id": "tournament_685_24"
+            },
+            {
+                "white": "Wei Sifeng",
+                "black": "Song Manshen",
+                "date": "2019-02-13",
+                "result": 1,
+                "id": "tournament_685_25"
+            },
+            {
+                "white": "Hong Dong",
+                "black": "Liu Gaichuan",
+                "date": "2019-02-13",
+                "result": 1,
+                "id": "tournament_685_26"
+            },
+            {
+                "white": "Liu Chiyu",
+                "black": "Liu Kaiqing",
+                "date": "2019-02-13",
+                "result": 0.5,
+                "id": "tournament_685_27"
+            },
+            {
+                "white": "Wang Cai",
+                "black": "Cai Qi",
+                "date": "2019-02-13",
+                "result": 1,
+                "id": "tournament_685_28"
+            },
+            {
+                "white": "Wei Ming",
+                "black": "Liang Jiyue",
+                "date": "2019-02-13",
+                "result": 0,
+                "id": "tournament_685_29"
+            },
+            {
+                "white": "Huang Xianfeng",
+                "black": "Wu Qiu",
+                "date": "2019-02-13",
+                "result": 1,
+                "id": "tournament_685_30"
+            },
+            {
+                "white": "Yuan Xiongping",
+                "black": "Meng Dayun",
+                "date": "2019-02-13",
+                "result": 1,
+                "id": "tournament_685_31"
+            },
+            {
+                "white": "Zhao Xiyong",
+                "black": "Wen Qingrong",
+                "date": "2019-02-13",
+                "result": 0.5,
+                "id": "tournament_685_32"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Li Yuan",
+                "black": "Shi Zhi",
+                "date": "2019-02-15",
+                "result": 0.5,
+                "id": "tournament_685_33"
+            },
+            {
+                "white": "Zhao Suirong",
+                "black": "Xu Chunyao",
+                "date": "2019-02-15",
+                "result": 0.5,
+                "id": "tournament_685_34"
+            },
+            {
+                "white": "Yang Yinxiang",
+                "black": "Zhao Shan",
+                "date": "2019-02-15",
+                "result": 1,
+                "id": "tournament_685_35"
+            },
+            {
+                "white": "Shu Zhao",
+                "black": "Qin Shouyun",
+                "date": "2019-02-15",
+                "result": 0,
+                "id": "tournament_685_36"
+            },
+            {
+                "white": "Yang Junrui",
+                "black": "Qin Changming",
+                "date": "2019-02-15",
+                "result": 0.5,
+                "id": "tournament_685_37"
+            },
+            {
+                "white": "Gao Changxia",
+                "black": "Gao Xiaochen",
+                "date": "2019-02-15",
+                "result": 0.5,
+                "id": "tournament_685_38"
+            },
+            {
+                "white": "Qin Naitao",
+                "black": "Wei Sifeng",
+                "date": "2019-02-15",
+                "result": 0,
+                "id": "tournament_685_39"
+            },
+            {
+                "white": "Liu Kaiqing",
+                "black": "Xu Nü",
+                "date": "2019-02-15",
+                "result": 1,
+                "id": "tournament_685_40"
+            },
+            {
+                "white": "Liang Jiyue",
+                "black": "Hong Dong",
+                "date": "2019-02-15",
+                "result": 0,
+                "id": "tournament_685_41"
+            },
+            {
+                "white": "Zhang Muli",
+                "black": "Wang Cai",
+                "date": "2019-02-15",
+                "result": 0,
+                "id": "tournament_685_42"
+            },
+            {
+                "white": "Song Manshen",
+                "black": "Huang Xianfeng",
+                "date": "2019-02-15",
+                "result": 0,
+                "id": "tournament_685_43"
+            },
+            {
+                "white": "Liu Gaichuan",
+                "black": "Yuan Xiongping",
+                "date": "2019-02-15",
+                "result": 0.5,
+                "id": "tournament_685_44"
+            },
+            {
+                "white": "Wen Qingrong",
+                "black": "Liang Xiaowei",
+                "date": "2019-02-15",
+                "result": 1,
+                "id": "tournament_685_45"
+            },
+            {
+                "white": "Cai Qi",
+                "black": "Liu Chiyu",
+                "date": "2019-02-15",
+                "result": 0,
+                "id": "tournament_685_46"
+            },
+            {
+                "white": "Wu Qiu",
+                "black": "Zhao Xiyong",
+                "date": "2019-02-15",
+                "result": 0.5,
+                "id": "tournament_685_47"
+            },
+            {
+                "white": "Meng Dayun",
+                "black": "Wei Ming",
+                "date": "2019-02-15",
+                "result": 0,
+                "id": "tournament_685_48"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Qin Shouyun",
+                "black": "Li Yuan",
+                "date": "2019-02-17",
+                "result": 1,
+                "id": "tournament_685_49"
+            },
+            {
+                "white": "Shi Zhi",
+                "black": "Zhao Suirong",
+                "date": "2019-02-17",
+                "result": 1,
+                "id": "tournament_685_50"
+            },
+            {
+                "white": "Wei Sifeng",
+                "black": "Yang Yinxiang",
+                "date": "2019-02-17",
+                "result": 1,
+                "id": "tournament_685_51"
+            },
+            {
+                "white": "Xu Chunyao",
+                "black": "Yang Junrui",
+                "date": "2019-02-17",
+                "result": 0,
+                "id": "tournament_685_52"
+            },
+            {
+                "white": "Qin Changming",
+                "black": "Liu Kaiqing",
+                "date": "2019-02-17",
+                "result": 0,
+                "id": "tournament_685_53"
+            },
+            {
+                "white": "Gao Xiaochen",
+                "black": "Shu Zhao",
+                "date": "2019-02-17",
+                "result": 0.5,
+                "id": "tournament_685_54"
+            },
+            {
+                "white": "Hong Dong",
+                "black": "Gao Changxia",
+                "date": "2019-02-17",
+                "result": 1,
+                "id": "tournament_685_55"
+            },
+            {
+                "white": "Wang Cai",
+                "black": "Wen Qingrong",
+                "date": "2019-02-17",
+                "result": 0.5,
+                "id": "tournament_685_56"
+            },
+            {
+                "white": "Huang Xianfeng",
+                "black": "Qin Naitao",
+                "date": "2019-02-17",
+                "result": 1,
+                "id": "tournament_685_57"
+            },
+            {
+                "white": "Zhao Shan",
+                "black": "Liang Jiyue",
+                "date": "2019-02-17",
+                "result": 1,
+                "id": "tournament_685_58"
+            },
+            {
+                "white": "Yuan Xiongping",
+                "black": "Zhang Muli",
+                "date": "2019-02-17",
+                "result": 1,
+                "id": "tournament_685_59"
+            },
+            {
+                "white": "Liu Chiyu",
+                "black": "Liu Gaichuan",
+                "date": "2019-02-17",
+                "result": 1,
+                "id": "tournament_685_60"
+            },
+            {
+                "white": "Xu Nü",
+                "black": "Song Manshen",
+                "date": "2019-02-17",
+                "result": 0,
+                "id": "tournament_685_61"
+            },
+            {
+                "white": "Liang Xiaowei",
+                "black": "Cai Qi",
+                "date": "2019-02-17",
+                "result": 1,
+                "id": "tournament_685_62"
+            },
+            {
+                "white": "Wei Ming",
+                "black": "Wu Qiu",
+                "date": "2019-02-17",
+                "result": 0,
+                "id": "tournament_685_63"
+            },
+            {
+                "white": "Zhao Xiyong",
+                "black": "Meng Dayun",
+                "date": "2019-02-17",
+                "result": 1,
+                "id": "tournament_685_64"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Yang Junrui",
+                "black": "Shi Zhi",
+                "date": "2019-02-19",
+                "result": 0.5,
+                "id": "tournament_685_65"
+            },
+            {
+                "white": "Liu Kaiqing",
+                "black": "Qin Shouyun",
+                "date": "2019-02-19",
+                "result": 0.5,
+                "id": "tournament_685_66"
+            },
+            {
+                "white": "Li Yuan",
+                "black": "Wei Sifeng",
+                "date": "2019-02-19",
+                "result": 0.5,
+                "id": "tournament_685_67"
+            },
+            {
+                "white": "Zhao Suirong",
+                "black": "Hong Dong",
+                "date": "2019-02-19",
+                "result": 0.5,
+                "id": "tournament_685_68"
+            },
+            {
+                "white": "Yang Yinxiang",
+                "black": "Huang Xianfeng",
+                "date": "2019-02-19",
+                "result": 0.5,
+                "id": "tournament_685_69"
+            },
+            {
+                "white": "Wen Qingrong",
+                "black": "Gao Xiaochen",
+                "date": "2019-02-19",
+                "result": 0,
+                "id": "tournament_685_70"
+            },
+            {
+                "white": "Gao Changxia",
+                "black": "Wang Cai",
+                "date": "2019-02-19",
+                "result": 0,
+                "id": "tournament_685_71"
+            },
+            {
+                "white": "Song Manshen",
+                "black": "Zhao Shan",
+                "date": "2019-02-19",
+                "result": 0,
+                "id": "tournament_685_72"
+            },
+            {
+                "white": "Shu Zhao",
+                "black": "Yuan Xiongping",
+                "date": "2019-02-19",
+                "result": 1,
+                "id": "tournament_685_73"
+            },
+            {
+                "white": "Wu Qiu",
+                "black": "Liu Chiyu",
+                "date": "2019-02-19",
+                "result": 0.5,
+                "id": "tournament_685_74"
+            },
+            {
+                "white": "Qin Naitao",
+                "black": "Xu Chunyao",
+                "date": "2019-02-19",
+                "result": 0.5,
+                "id": "tournament_685_75"
+            },
+            {
+                "white": "Liang Jiyue",
+                "black": "Qin Changming",
+                "date": "2019-02-19",
+                "result": 0,
+                "id": "tournament_685_76"
+            },
+            {
+                "white": "Liu Gaichuan",
+                "black": "Zhao Xiyong",
+                "date": "2019-02-19",
+                "result": 0.5,
+                "id": "tournament_685_77"
+            },
+            {
+                "white": "Meng Dayun",
+                "black": "Liang Xiaowei",
+                "date": "2019-02-19",
+                "result": 0.5,
+                "id": "tournament_685_78"
+            },
+            {
+                "white": "Zhang Muli",
+                "black": "Xu Nü",
+                "date": "2019-02-19",
+                "result": 0.5,
+                "id": "tournament_685_79"
+            },
+            {
+                "white": "Cai Qi",
+                "black": "Wei Ming",
+                "date": "2019-02-19",
+                "result": 0.5,
+                "id": "tournament_685_80"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Shi Zhi",
+                "black": "Liu Kaiqing",
+                "date": "2019-02-21",
+                "result": 1,
+                "id": "tournament_685_81"
+            },
+            {
+                "white": "Qin Shouyun",
+                "black": "Zhao Suirong",
+                "date": "2019-02-21",
+                "result": 1,
+                "id": "tournament_685_82"
+            },
+            {
+                "white": "Wei Sifeng",
+                "black": "Yang Junrui",
+                "date": "2019-02-21",
+                "result": 1,
+                "id": "tournament_685_83"
+            },
+            {
+                "white": "Hong Dong",
+                "black": "Yang Yinxiang",
+                "date": "2019-02-21",
+                "result": 1,
+                "id": "tournament_685_84"
+            },
+            {
+                "white": "Huang Xianfeng",
+                "black": "Li Yuan",
+                "date": "2019-02-21",
+                "result": 1,
+                "id": "tournament_685_85"
+            },
+            {
+                "white": "Gao Xiaochen",
+                "black": "Wu Qiu",
+                "date": "2019-02-21",
+                "result": 1,
+                "id": "tournament_685_86"
+            },
+            {
+                "white": "Wang Cai",
+                "black": "Song Manshen",
+                "date": "2019-02-21",
+                "result": 0.5,
+                "id": "tournament_685_87"
+            },
+            {
+                "white": "Zhao Shan",
+                "black": "Wen Qingrong",
+                "date": "2019-02-21",
+                "result": 1,
+                "id": "tournament_685_88"
+            },
+            {
+                "white": "Liu Chiyu",
+                "black": "Shu Zhao",
+                "date": "2019-02-21",
+                "result": 1,
+                "id": "tournament_685_89"
+            },
+            {
+                "white": "Qin Changming",
+                "black": "Gao Changxia",
+                "date": "2019-02-21",
+                "result": 1,
+                "id": "tournament_685_90"
+            },
+            {
+                "white": "Yuan Xiongping",
+                "black": "Liang Jiyue",
+                "date": "2019-02-21",
+                "result": 1,
+                "id": "tournament_685_91"
+            },
+            {
+                "white": "Xu Chunyao",
+                "black": "Liu Gaichuan",
+                "date": "2019-02-21",
+                "result": 1,
+                "id": "tournament_685_92"
+            },
+            {
+                "white": "Wei Ming",
+                "black": "Zhang Muli",
+                "date": "2019-02-21",
+                "result": 1,
+                "id": "tournament_685_93"
+            },
+            {
+                "white": "Zhao Xiyong",
+                "black": "Cai Qi",
+                "date": "2019-02-21",
+                "result": 1,
+                "id": "tournament_685_94"
+            },
+            {
+                "white": "Xu Nü",
+                "black": "Meng Dayun",
+                "date": "2019-02-21",
+                "result": 1,
+                "id": "tournament_685_95"
+            },
+            {
+                "white": "Liang Xiaowei",
+                "black": "Qin Naitao",
+                "date": "2019-02-21",
+                "result": 0,
+                "id": "tournament_685_96"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Yang Yinxiang",
+                "black": "Shi Zhi",
+                "date": "2019-02-23",
+                "result": 0,
+                "id": "tournament_685_97"
+            },
+            {
+                "white": "Qin Naitao",
+                "black": "Qin Shouyun",
+                "date": "2019-02-23",
+                "result": 0,
+                "id": "tournament_685_98"
+            },
+            {
+                "white": "Zhao Suirong",
+                "black": "Wei Sifeng",
+                "date": "2019-02-23",
+                "result": 0,
+                "id": "tournament_685_99"
+            },
+            {
+                "white": "Yang Junrui",
+                "black": "Hong Dong",
+                "date": "2019-02-23",
+                "result": 0.5,
+                "id": "tournament_685_100"
+            },
+            {
+                "white": "Liu Kaiqing",
+                "black": "Huang Xianfeng",
+                "date": "2019-02-23",
+                "result": 1,
+                "id": "tournament_685_101"
+            },
+            {
+                "white": "Li Yuan",
+                "black": "Gao Xiaochen",
+                "date": "2019-02-23",
+                "result": 0.5,
+                "id": "tournament_685_102"
+            },
+            {
+                "white": "Gao Changxia",
+                "black": "Zhao Shan",
+                "date": "2019-02-23",
+                "result": 0,
+                "id": "tournament_685_103"
+            },
+            {
+                "white": "Wu Qiu",
+                "black": "Wang Cai",
+                "date": "2019-02-23",
+                "result": 0,
+                "id": "tournament_685_104"
+            },
+            {
+                "white": "Wen Qingrong",
+                "black": "Liu Chiyu",
+                "date": "2019-02-23",
+                "result": 0,
+                "id": "tournament_685_105"
+            },
+            {
+                "white": "Shu Zhao",
+                "black": "Qin Changming",
+                "date": "2019-02-23",
+                "result": 0.5,
+                "id": "tournament_685_106"
+            },
+            {
+                "white": "Cai Qi",
+                "black": "Yuan Xiongping",
+                "date": "2019-02-23",
+                "result": 0.5,
+                "id": "tournament_685_107"
+            },
+            {
+                "white": "Liang Jiyue",
+                "black": "Xu Nü",
+                "date": "2019-02-23",
+                "result": 1,
+                "id": "tournament_685_108"
+            },
+            {
+                "white": "Meng Dayun",
+                "black": "Zhang Muli",
+                "date": "2019-02-23",
+                "result": 0.5,
+                "id": "tournament_685_109"
+            },
+            {
+                "white": "Song Manshen",
+                "black": "Zhao Xiyong",
+                "date": "2019-02-23",
+                "result": 1,
+                "id": "tournament_685_110"
+            },
+            {
+                "white": "Liu Gaichuan",
+                "black": "Liang Xiaowei",
+                "date": "2019-02-23",
+                "result": 0.5,
+                "id": "tournament_685_111"
+            },
+            {
+                "white": "Wei Ming",
+                "black": "Xu Chunyao",
+                "date": "2019-02-23",
+                "result": 0,
+                "id": "tournament_685_112"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Shi Zhi",
+                "black": "Shu Zhao",
+                "date": "2019-02-25",
+                "result": 1,
+                "id": "tournament_685_113"
+            },
+            {
+                "white": "Qin Shouyun",
+                "black": "Yang Yinxiang",
+                "date": "2019-02-25",
+                "result": 1,
+                "id": "tournament_685_114"
+            },
+            {
+                "white": "Wei Sifeng",
+                "black": "Wen Qingrong",
+                "date": "2019-02-25",
+                "result": 1,
+                "id": "tournament_685_115"
+            },
+            {
+                "white": "Zhao Shan",
+                "black": "Liu Kaiqing",
+                "date": "2019-02-25",
+                "result": 0,
+                "id": "tournament_685_116"
+            },
+            {
+                "white": "Hong Dong",
+                "black": "Song Manshen",
+                "date": "2019-02-25",
+                "result": 0.5,
+                "id": "tournament_685_117"
+            },
+            {
+                "white": "Gao Xiaochen",
+                "black": "Yang Junrui",
+                "date": "2019-02-25",
+                "result": 1,
+                "id": "tournament_685_118"
+            },
+            {
+                "white": "Wang Cai",
+                "black": "Li Yuan",
+                "date": "2019-02-25",
+                "result": 0,
+                "id": "tournament_685_119"
+            },
+            {
+                "white": "Liu Chiyu",
+                "black": "Zhao Suirong",
+                "date": "2019-02-25",
+                "result": 0,
+                "id": "tournament_685_120"
+            },
+            {
+                "white": "Huang Xianfeng",
+                "black": "Liu Gaichuan",
+                "date": "2019-02-25",
+                "result": 1,
+                "id": "tournament_685_121"
+            },
+            {
+                "white": "Qin Changming",
+                "black": "Wu Qiu",
+                "date": "2019-02-25",
+                "result": 1,
+                "id": "tournament_685_122"
+            },
+            {
+                "white": "Zhao Xiyong",
+                "black": "Liang Jiyue",
+                "date": "2019-02-25",
+                "result": 1,
+                "id": "tournament_685_123"
+            },
+            {
+                "white": "Qin Naitao",
+                "black": "Meng Dayun",
+                "date": "2019-02-25",
+                "result": 1,
+                "id": "tournament_685_124"
+            },
+            {
+                "white": "Xu Chunyao",
+                "black": "Gao Changxia",
+                "date": "2019-02-25",
+                "result": 1,
+                "id": "tournament_685_125"
+            },
+            {
+                "white": "Wei Ming",
+                "black": "Yuan Xiongping",
+                "date": "2019-02-25",
+                "result": 0,
+                "id": "tournament_685_126"
+            },
+            {
+                "white": "Xu Nü",
+                "black": "Liang Xiaowei",
+                "date": "2019-02-25",
+                "result": 0,
+                "id": "tournament_685_127"
+            },
+            {
+                "white": "Zhang Muli",
+                "black": "Cai Qi",
+                "date": "2019-02-25",
+                "result": 1,
+                "id": "tournament_685_128"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Song Manshen",
+                "black": "Shi Zhi",
+                "date": "2019-02-27",
+                "result": 0,
+                "id": "tournament_685_129"
+            },
+            {
+                "white": "Zhang Muli",
+                "black": "Qin Shouyun",
+                "date": "2019-02-27",
+                "result": 0,
+                "id": "tournament_685_130"
+            },
+            {
+                "white": "Shu Zhao",
+                "black": "Wei Sifeng",
+                "date": "2019-02-27",
+                "result": 0.5,
+                "id": "tournament_685_131"
+            },
+            {
+                "white": "Liu Kaiqing",
+                "black": "Gao Xiaochen",
+                "date": "2019-02-27",
+                "result": 0.5,
+                "id": "tournament_685_132"
+            },
+            {
+                "white": "Li Yuan",
+                "black": "Zhao Shan",
+                "date": "2019-02-27",
+                "result": 1,
+                "id": "tournament_685_133"
+            },
+            {
+                "white": "Qin Naitao",
+                "black": "Hong Dong",
+                "date": "2019-02-27",
+                "result": 1,
+                "id": "tournament_685_134"
+            },
+            {
+                "white": "Zhao Suirong",
+                "black": "Huang Xianfeng",
+                "date": "2019-02-27",
+                "result": 0,
+                "id": "tournament_685_135"
+            },
+            {
+                "white": "Yang Yinxiang",
+                "black": "Qin Changming",
+                "date": "2019-02-27",
+                "result": 0.5,
+                "id": "tournament_685_136"
+            },
+            {
+                "white": "Wen Qingrong",
+                "black": "Xu Chunyao",
+                "date": "2019-02-27",
+                "result": 0,
+                "id": "tournament_685_137"
+            },
+            {
+                "white": "Yang Junrui",
+                "black": "Wang Cai",
+                "date": "2019-02-27",
+                "result": 0.5,
+                "id": "tournament_685_138"
+            },
+            {
+                "white": "Meng Dayun",
+                "black": "Liu Gaichuan",
+                "date": "2019-02-27",
+                "result": 0.5,
+                "id": "tournament_685_139"
+            },
+            {
+                "white": "Wu Qiu",
+                "black": "Liang Xiaowei",
+                "date": "2019-02-27",
+                "result": 1,
+                "id": "tournament_685_140"
+            },
+            {
+                "white": "Yuan Xiongping",
+                "black": "Zhao Xiyong",
+                "date": "2019-02-27",
+                "result": 1,
+                "id": "tournament_685_141"
+            },
+            {
+                "white": "Cai Qi",
+                "black": "Liang Jiyue",
+                "date": "2019-02-27",
+                "result": 0.5,
+                "id": "tournament_685_142"
+            },
+            {
+                "white": "Gao Changxia",
+                "black": "Liu Chiyu",
+                "date": "2019-02-27",
+                "result": 0,
+                "id": "tournament_685_143"
+            },
+            {
+                "white": "Xu Nü",
+                "black": "Wei Ming",
+                "date": "2019-02-27",
+                "result": 0.5,
+                "id": "tournament_685_144"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "Shi Zhi",
+                "black": "Qin Naitao",
+                "date": "2019-03-01",
+                "result": 1,
+                "id": "tournament_685_145"
+            },
+            {
+                "white": "Qin Shouyun",
+                "black": "Song Manshen",
+                "date": "2019-03-01",
+                "result": 1,
+                "id": "tournament_685_146"
+            },
+            {
+                "white": "Wei Sifeng",
+                "black": "Wu Qiu",
+                "date": "2019-03-01",
+                "result": 1,
+                "id": "tournament_685_147"
+            },
+            {
+                "white": "Gao Xiaochen",
+                "black": "Zhao Suirong",
+                "date": "2019-03-01",
+                "result": 0.5,
+                "id": "tournament_685_148"
+            },
+            {
+                "white": "Huang Xianfeng",
+                "black": "Shu Zhao",
+                "date": "2019-03-01",
+                "result": 0.5,
+                "id": "tournament_685_149"
+            },
+            {
+                "white": "Xu Chunyao",
+                "black": "Liu Kaiqing",
+                "date": "2019-03-01",
+                "result": 0.5,
+                "id": "tournament_685_150"
+            },
+            {
+                "white": "Qin Changming",
+                "black": "Li Yuan",
+                "date": "2019-03-01",
+                "result": 0.5,
+                "id": "tournament_685_151"
+            },
+            {
+                "white": "Liu Chiyu",
+                "black": "Yang Junrui",
+                "date": "2019-03-01",
+                "result": 0,
+                "id": "tournament_685_152"
+            },
+            {
+                "white": "Yuan Xiongping",
+                "black": "Yang Yinxiang",
+                "date": "2019-03-01",
+                "result": 0.5,
+                "id": "tournament_685_153"
+            },
+            {
+                "white": "Zhao Shan",
+                "black": "Zhang Muli",
+                "date": "2019-03-01",
+                "result": 1,
+                "id": "tournament_685_154"
+            },
+            {
+                "white": "Wang Cai",
+                "black": "Liang Jiyue",
+                "date": "2019-03-01",
+                "result": 1,
+                "id": "tournament_685_155"
+            },
+            {
+                "white": "Liang Xiaowei",
+                "black": "Zhao Xiyong",
+                "date": "2019-03-01",
+                "result": 1,
+                "id": "tournament_685_156"
+            },
+            {
+                "white": "Xu Nü",
+                "black": "Gao Changxia",
+                "date": "2019-03-01",
+                "result": 1,
+                "id": "tournament_685_157"
+            },
+            {
+                "white": "Liu Gaichuan",
+                "black": "Cai Qi",
+                "date": "2019-03-01",
+                "result": 0.5,
+                "id": "tournament_685_158"
+            },
+            {
+                "white": "Wen Qingrong",
+                "black": "Meng Dayun",
+                "date": "2019-03-01",
+                "result": 0.5,
+                "id": "tournament_685_159"
+            },
+            {
+                "white": "Wei Ming",
+                "black": "Hong Dong",
+                "date": "2019-03-01",
+                "result": 0,
+                "id": "tournament_685_160"
+            }
+        ]
+    },
+    "tours": 10,
+    "time_control": "rapid"
+}

@@ -1,0 +1,227 @@
+{
+    "name": "tournament_404",
+    "start_date": "2017-01-21",
+    "end_date": "2017-01-29",
+    "games": {
+        "tour_1": [
+            {
+                "white": "范存妞",
+                "black": "余冬春",
+                "date": "2017-01-21",
+                "result": 1,
+                "id": "tournament_404_1"
+            },
+            {
+                "white": "余冬春",
+                "black": "范存妞",
+                "date": "2017-01-22",
+                "result": 0.5,
+                "id": "tournament_404_2"
+            },
+            {
+                "white": "尹源栋",
+                "black": "徐灵经",
+                "date": "2017-01-21",
+                "result": 1,
+                "id": "tournament_404_3"
+            },
+            {
+                "white": "徐灵经",
+                "black": "尹源栋",
+                "date": "2017-01-22",
+                "result": 0,
+                "id": "tournament_404_4"
+            },
+            {
+                "white": "董健",
+                "black": "殷方",
+                "date": "2017-01-21",
+                "result": 1,
+                "id": "tournament_404_5"
+            },
+            {
+                "white": "殷方",
+                "black": "董健",
+                "date": "2017-01-22",
+                "result": 0,
+                "id": "tournament_404_6"
+            },
+            {
+                "white": "陈雪强",
+                "black": "金志",
+                "date": "2017-01-21",
+                "result": 0,
+                "id": "tournament_404_7"
+            },
+            {
+                "white": "金志",
+                "black": "陈雪强",
+                "date": "2017-01-22",
+                "result": 0.5,
+                "id": "tournament_404_8"
+            },
+            {
+                "white": "马锦雯",
+                "black": "刘奇喜",
+                "date": "2017-01-21",
+                "result": 1,
+                "id": "tournament_404_9"
+            },
+            {
+                "white": "刘奇喜",
+                "black": "马锦雯",
+                "date": "2017-01-22",
+                "result": 0,
+                "id": "tournament_404_10"
+            },
+            {
+                "white": "林肖",
+                "black": "李之征",
+                "date": "2017-01-21",
+                "result": 1,
+                "id": "tournament_404_11"
+            },
+            {
+                "white": "李之征",
+                "black": "林肖",
+                "date": "2017-01-22",
+                "result": 0.5,
+                "id": "tournament_404_12"
+            },
+            {
+                "white": "张半植",
+                "black": "陈其亮",
+                "date": "2017-01-21",
+                "result": 1,
+                "id": "tournament_404_13"
+            },
+            {
+                "white": "陈其亮",
+                "black": "张半植",
+                "date": "2017-01-22",
+                "result": 0,
+                "id": "tournament_404_14"
+            },
+            {
+                "white": "黄凯文",
+                "black": "郑仁丹",
+                "date": "2017-01-21",
+                "result": 1,
+                "id": "tournament_404_15"
+            },
+            {
+                "white": "郑仁丹",
+                "black": "黄凯文",
+                "date": "2017-01-22",
+                "result": 0,
+                "id": "tournament_404_16"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "范存妞",
+                "black": "尹源栋",
+                "date": "2017-01-23",
+                "result": 1,
+                "id": "tournament_404_17"
+            },
+            {
+                "white": "尹源栋",
+                "black": "范存妞",
+                "date": "2017-01-24",
+                "result": 0.5,
+                "id": "tournament_404_18"
+            },
+            {
+                "white": "董健",
+                "black": "金志",
+                "date": "2017-01-23",
+                "result": 1,
+                "id": "tournament_404_19"
+            },
+            {
+                "white": "金志",
+                "black": "董健",
+                "date": "2017-01-24",
+                "result": 0.5,
+                "id": "tournament_404_20"
+            },
+            {
+                "white": "马锦雯",
+                "black": "林肖",
+                "date": "2017-01-23",
+                "result": 0,
+                "id": "tournament_404_21"
+            },
+            {
+                "white": "林肖",
+                "black": "马锦雯",
+                "date": "2017-01-24",
+                "result": 1,
+                "id": "tournament_404_22"
+            },
+            {
+                "white": "张半植",
+                "black": "黄凯文",
+                "date": "2017-01-23",
+                "result": 0.5,
+                "id": "tournament_404_23"
+            },
+            {
+                "white": "黄凯文",
+                "black": "张半植",
+                "date": "2017-01-24",
+                "result": 1,
+                "id": "tournament_404_24"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "范存妞",
+                "black": "董健",
+                "date": "2017-01-25",
+                "result": 1,
+                "id": "tournament_404_25"
+            },
+            {
+                "white": "董健",
+                "black": "范存妞",
+                "date": "2017-01-26",
+                "result": 0,
+                "id": "tournament_404_26"
+            },
+            {
+                "white": "林肖",
+                "black": "黄凯文",
+                "date": "2017-01-25",
+                "result": 0,
+                "id": "tournament_404_27"
+            },
+            {
+                "white": "黄凯文",
+                "black": "林肖",
+                "date": "2017-01-26",
+                "result": 1,
+                "id": "tournament_404_28"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "范存妞",
+                "black": "黄凯文",
+                "date": "2017-01-27",
+                "result": 0.5,
+                "id": "tournament_404_29"
+            },
+            {
+                "white": "黄凯文",
+                "black": "范存妞",
+                "date": "2017-01-28",
+                "result": 1,
+                "id": "tournament_404_30"
+            }
+        ]
+    },
+    "tours": 4,
+    "time_control": "rapid"
+}

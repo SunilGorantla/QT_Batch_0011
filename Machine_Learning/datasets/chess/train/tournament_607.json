@@ -1,0 +1,493 @@
+{
+    "name": "tournament_607",
+    "start_date": "2018-07-20",
+    "end_date": "2018-08-11",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Zhou, Menglong",
+                "black": "Li, Sujin",
+                "date": "2018-07-20",
+                "result": 1,
+                "id": "tournament_607_1"
+            },
+            {
+                "white": "Zhao, Xiyong",
+                "black": "Zhu, Chunqi",
+                "date": "2018-07-20",
+                "result": 0,
+                "id": "tournament_607_2"
+            },
+            {
+                "white": "Yang, Weilin",
+                "black": "Wang, Jian",
+                "date": "2018-07-20",
+                "result": 1,
+                "id": "tournament_607_3"
+            },
+            {
+                "white": "Yuan, Na",
+                "black": "Huang, Jianning",
+                "date": "2018-07-20",
+                "result": 0,
+                "id": "tournament_607_4"
+            },
+            {
+                "white": "Wang, Xuanyan",
+                "black": "Wang, Jizhi",
+                "date": "2018-07-20",
+                "result": 0.5,
+                "id": "tournament_607_5"
+            },
+            {
+                "white": "Hao, Hualin",
+                "black": "Huang, Runjun",
+                "date": "2018-07-20",
+                "result": 1,
+                "id": "tournament_607_6"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Li, Sujin",
+                "black": "Zhao, Xiyong",
+                "date": "2018-07-22",
+                "result": 1,
+                "id": "tournament_607_7"
+            },
+            {
+                "white": "Zhou, Menglong",
+                "black": "Yang, Weilin",
+                "date": "2018-07-22",
+                "result": 0,
+                "id": "tournament_607_8"
+            },
+            {
+                "white": "Yuan, Na",
+                "black": "Zhu, Chunqi",
+                "date": "2018-07-22",
+                "result": 0.5,
+                "id": "tournament_607_9"
+            },
+            {
+                "white": "Wang, Xuanyan",
+                "black": "Wang, Jian",
+                "date": "2018-07-22",
+                "result": 0,
+                "id": "tournament_607_10"
+            },
+            {
+                "white": "Hao, Hualin",
+                "black": "Huang, Jianning",
+                "date": "2018-07-22",
+                "result": 1,
+                "id": "tournament_607_11"
+            },
+            {
+                "white": "Huang, Runjun",
+                "black": "Wang, Jizhi",
+                "date": "2018-07-22",
+                "result": 1,
+                "id": "tournament_607_12"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Yang, Weilin",
+                "black": "Li, Sujin",
+                "date": "2018-07-24",
+                "result": 1,
+                "id": "tournament_607_13"
+            },
+            {
+                "white": "Zhao, Xiyong",
+                "black": "Yuan, Na",
+                "date": "2018-07-24",
+                "result": 0,
+                "id": "tournament_607_14"
+            },
+            {
+                "white": "Zhou, Menglong",
+                "black": "Wang, Xuanyan",
+                "date": "2018-07-24",
+                "result": 1,
+                "id": "tournament_607_15"
+            },
+            {
+                "white": "Hao, Hualin",
+                "black": "Zhu, Chunqi",
+                "date": "2018-07-24",
+                "result": 0.5,
+                "id": "tournament_607_16"
+            },
+            {
+                "white": "Huang, Runjun",
+                "black": "Wang, Jian",
+                "date": "2018-07-24",
+                "result": 0.5,
+                "id": "tournament_607_17"
+            },
+            {
+                "white": "Wang, Jizhi",
+                "black": "Huang, Jianning",
+                "date": "2018-07-24",
+                "result": 0,
+                "id": "tournament_607_18"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Li, Sujin",
+                "black": "Yuan, Na",
+                "date": "2018-07-26",
+                "result": 0.5,
+                "id": "tournament_607_19"
+            },
+            {
+                "white": "Yang, Weilin",
+                "black": "Wang, Xuanyan",
+                "date": "2018-07-26",
+                "result": 1,
+                "id": "tournament_607_20"
+            },
+            {
+                "white": "Zhao, Xiyong",
+                "black": "Hao, Hualin",
+                "date": "2018-07-26",
+                "result": 0,
+                "id": "tournament_607_21"
+            },
+            {
+                "white": "Zhou, Menglong",
+                "black": "Huang, Runjun",
+                "date": "2018-07-26",
+                "result": 0,
+                "id": "tournament_607_22"
+            },
+            {
+                "white": "Wang, Jizhi",
+                "black": "Zhu, Chunqi",
+                "date": "2018-07-26",
+                "result": 1,
+                "id": "tournament_607_23"
+            },
+            {
+                "white": "Huang, Jianning",
+                "black": "Wang, Jian",
+                "date": "2018-07-26",
+                "result": 1,
+                "id": "tournament_607_24"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Wang, Xuanyan",
+                "black": "Li, Sujin",
+                "date": "2018-07-28",
+                "result": 0,
+                "id": "tournament_607_25"
+            },
+            {
+                "white": "Yuan, Na",
+                "black": "Hao, Hualin",
+                "date": "2018-07-28",
+                "result": 0,
+                "id": "tournament_607_26"
+            },
+            {
+                "white": "Yang, Weilin",
+                "black": "Huang, Runjun",
+                "date": "2018-07-28",
+                "result": 1,
+                "id": "tournament_607_27"
+            },
+            {
+                "white": "Zhao, Xiyong",
+                "black": "Wang, Jizhi",
+                "date": "2018-07-28",
+                "result": 0,
+                "id": "tournament_607_28"
+            },
+            {
+                "white": "Zhou, Menglong",
+                "black": "Huang, Jianning",
+                "date": "2018-07-28",
+                "result": 0.5,
+                "id": "tournament_607_29"
+            },
+            {
+                "white": "Wang, Jian",
+                "black": "Zhu, Chunqi",
+                "date": "2018-07-28",
+                "result": 0.5,
+                "id": "tournament_607_30"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Li, Sujin",
+                "black": "Hao, Hualin",
+                "date": "2018-07-30",
+                "result": 0.5,
+                "id": "tournament_607_31"
+            },
+            {
+                "white": "Wang, Xuanyan",
+                "black": "Huang, Runjun",
+                "date": "2018-07-30",
+                "result": 0,
+                "id": "tournament_607_32"
+            },
+            {
+                "white": "Yuan, Na",
+                "black": "Wang, Jizhi",
+                "date": "2018-07-30",
+                "result": 1,
+                "id": "tournament_607_33"
+            },
+            {
+                "white": "Yang, Weilin",
+                "black": "Huang, Jianning",
+                "date": "2018-07-30",
+                "result": 0.5,
+                "id": "tournament_607_34"
+            },
+            {
+                "white": "Zhao, Xiyong",
+                "black": "Wang, Jian",
+                "date": "2018-07-30",
+                "result": 0,
+                "id": "tournament_607_35"
+            },
+            {
+                "white": "Zhou, Menglong",
+                "black": "Zhu, Chunqi",
+                "date": "2018-07-30",
+                "result": 0.5,
+                "id": "tournament_607_36"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Huang, Runjun",
+                "black": "Li, Sujin",
+                "date": "2018-08-01",
+                "result": 0.5,
+                "id": "tournament_607_37"
+            },
+            {
+                "white": "Hao, Hualin",
+                "black": "Wang, Jizhi",
+                "date": "2018-08-01",
+                "result": 1,
+                "id": "tournament_607_38"
+            },
+            {
+                "white": "Wang, Xuanyan",
+                "black": "Huang, Jianning",
+                "date": "2018-08-01",
+                "result": 0,
+                "id": "tournament_607_39"
+            },
+            {
+                "white": "Yuan, Na",
+                "black": "Wang, Jian",
+                "date": "2018-08-01",
+                "result": 0.5,
+                "id": "tournament_607_40"
+            },
+            {
+                "white": "Yang, Weilin",
+                "black": "Zhu, Chunqi",
+                "date": "2018-08-01",
+                "result": 1,
+                "id": "tournament_607_41"
+            },
+            {
+                "white": "Zhou, Menglong",
+                "black": "Zhao, Xiyong",
+                "date": "2018-08-01",
+                "result": 1,
+                "id": "tournament_607_42"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Li, Sujin",
+                "black": "Wang, Jizhi",
+                "date": "2018-08-03",
+                "result": 1,
+                "id": "tournament_607_43"
+            },
+            {
+                "white": "Huang, Runjun",
+                "black": "Huang, Jianning",
+                "date": "2018-08-03",
+                "result": 0.5,
+                "id": "tournament_607_44"
+            },
+            {
+                "white": "Hao, Hualin",
+                "black": "Wang, Jian",
+                "date": "2018-08-03",
+                "result": 1,
+                "id": "tournament_607_45"
+            },
+            {
+                "white": "Wang, Xuanyan",
+                "black": "Zhu, Chunqi",
+                "date": "2018-08-03",
+                "result": 0,
+                "id": "tournament_607_46"
+            },
+            {
+                "white": "Zhou, Menglong",
+                "black": "Yuan, Na",
+                "date": "2018-08-03",
+                "result": 1,
+                "id": "tournament_607_47"
+            },
+            {
+                "white": "Zhao, Xiyong",
+                "black": "Yang, Weilin",
+                "date": "2018-08-03",
+                "result": 0,
+                "id": "tournament_607_48"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Huang, Jianning",
+                "black": "Li, Sujin",
+                "date": "2018-08-05",
+                "result": 1,
+                "id": "tournament_607_49"
+            },
+            {
+                "white": "Wang, Jizhi",
+                "black": "Wang, Jian",
+                "date": "2018-08-05",
+                "result": 0,
+                "id": "tournament_607_50"
+            },
+            {
+                "white": "Huang, Runjun",
+                "black": "Zhu, Chunqi",
+                "date": "2018-08-05",
+                "result": 1,
+                "id": "tournament_607_51"
+            },
+            {
+                "white": "Zhou, Menglong",
+                "black": "Hao, Hualin",
+                "date": "2018-08-05",
+                "result": 0,
+                "id": "tournament_607_52"
+            },
+            {
+                "white": "Zhao, Xiyong",
+                "black": "Wang, Xuanyan",
+                "date": "2018-08-05",
+                "result": 0.5,
+                "id": "tournament_607_53"
+            },
+            {
+                "white": "Yang, Weilin",
+                "black": "Yuan, Na",
+                "date": "2018-08-05",
+                "result": 0.5,
+                "id": "tournament_607_54"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "Li, Sujin",
+                "black": "Wang, Jian",
+                "date": "2018-08-07",
+                "result": 0.5,
+                "id": "tournament_607_55"
+            },
+            {
+                "white": "Huang, Jianning",
+                "black": "Zhu, Chunqi",
+                "date": "2018-08-07",
+                "result": 1,
+                "id": "tournament_607_56"
+            },
+            {
+                "white": "Zhou, Menglong",
+                "black": "Wang, Jizhi",
+                "date": "2018-08-07",
+                "result": 1,
+                "id": "tournament_607_57"
+            },
+            {
+                "white": "Zhao, Xiyong",
+                "black": "Huang, Runjun",
+                "date": "2018-08-07",
+                "result": 0,
+                "id": "tournament_607_58"
+            },
+            {
+                "white": "Yang, Weilin",
+                "black": "Hao, Hualin",
+                "date": "2018-08-07",
+                "result": 0.5,
+                "id": "tournament_607_59"
+            },
+            {
+                "white": "Yuan, Na",
+                "black": "Wang, Xuanyan",
+                "date": "2018-08-07",
+                "result": 1,
+                "id": "tournament_607_60"
+            }
+        ],
+        "tour_11": [
+            {
+                "white": "Zhu, Chunqi",
+                "black": "Li, Sujin",
+                "date": "2018-08-09",
+                "result": 1,
+                "id": "tournament_607_61"
+            },
+            {
+                "white": "Zhou, Menglong",
+                "black": "Wang, Jian",
+                "date": "2018-08-09",
+                "result": 0.5,
+                "id": "tournament_607_62"
+            },
+            {
+                "white": "Zhao, Xiyong",
+                "black": "Huang, Jianning",
+                "date": "2018-08-09",
+                "result": 0,
+                "id": "tournament_607_63"
+            },
+            {
+                "white": "Yang, Weilin",
+                "black": "Wang, Jizhi",
+                "date": "2018-08-09",
+                "result": 1,
+                "id": "tournament_607_64"
+            },
+            {
+                "white": "Yuan, Na",
+                "black": "Huang, Runjun",
+                "date": "2018-08-09",
+                "result": 0.5,
+                "id": "tournament_607_65"
+            },
+            {
+                "white": "Wang, Xuanyan",
+                "black": "Hao, Hualin",
+                "date": "2018-08-09",
+                "result": 0,
+                "id": "tournament_607_66"
+            }
+        ]
+    },
+    "tours": 11,
+    "time_control": "rapid"
+}

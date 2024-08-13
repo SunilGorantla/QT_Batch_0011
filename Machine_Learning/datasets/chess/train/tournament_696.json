@@ -1,0 +1,342 @@
+{
+    "name": "tournament_696",
+    "start_date": "2019-03-11",
+    "end_date": "2019-03-20",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Ding Chentong",
+                "black": "Zhao Mingjun",
+                "date": "2019-03-11",
+                "result": 1,
+                "id": "tournament_696_1"
+            },
+            {
+                "white": "Yang Haoqi",
+                "black": "Xie Huayuan",
+                "date": "2019-03-11",
+                "result": 1,
+                "id": "tournament_696_2"
+            },
+            {
+                "white": "Hu Shoubiao",
+                "black": "Tan Zhuojia",
+                "date": "2019-03-11",
+                "result": 0,
+                "id": "tournament_696_3"
+            },
+            {
+                "white": "Li Min",
+                "black": "Zhang Yanying",
+                "date": "2019-03-11",
+                "result": 0,
+                "id": "tournament_696_4"
+            },
+            {
+                "white": "Zhong Shuling",
+                "black": "Zhu Chenyan",
+                "date": "2019-03-11",
+                "result": 0,
+                "id": "tournament_696_5"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Zhao Mingjun",
+                "black": "Yang Haoqi",
+                "date": "2019-03-12",
+                "result": 0,
+                "id": "tournament_696_6"
+            },
+            {
+                "white": "Ding Chentong",
+                "black": "Hu Shoubiao",
+                "date": "2019-03-12",
+                "result": 1,
+                "id": "tournament_696_7"
+            },
+            {
+                "white": "Li Min",
+                "black": "Xie Huayuan",
+                "date": "2019-03-12",
+                "result": 0,
+                "id": "tournament_696_8"
+            },
+            {
+                "white": "Zhong Shuling",
+                "black": "Tan Zhuojia",
+                "date": "2019-03-12",
+                "result": 0,
+                "id": "tournament_696_9"
+            },
+            {
+                "white": "Zhu Chenyan",
+                "black": "Zhang Yanying",
+                "date": "2019-03-12",
+                "result": 1,
+                "id": "tournament_696_10"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Hu Shoubiao",
+                "black": "Zhao Mingjun",
+                "date": "2019-03-13",
+                "result": 0.5,
+                "id": "tournament_696_11"
+            },
+            {
+                "white": "Yang Haoqi",
+                "black": "Li Min",
+                "date": "2019-03-13",
+                "result": 1,
+                "id": "tournament_696_12"
+            },
+            {
+                "white": "Ding Chentong",
+                "black": "Zhong Shuling",
+                "date": "2019-03-13",
+                "result": 1,
+                "id": "tournament_696_13"
+            },
+            {
+                "white": "Zhu Chenyan",
+                "black": "Xie Huayuan",
+                "date": "2019-03-13",
+                "result": 1,
+                "id": "tournament_696_14"
+            },
+            {
+                "white": "Zhang Yanying",
+                "black": "Tan Zhuojia",
+                "date": "2019-03-13",
+                "result": 0,
+                "id": "tournament_696_15"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Zhao Mingjun",
+                "black": "Li Min",
+                "date": "2019-03-14",
+                "result": 0.5,
+                "id": "tournament_696_16"
+            },
+            {
+                "white": "Hu Shoubiao",
+                "black": "Zhong Shuling",
+                "date": "2019-03-14",
+                "result": 0.5,
+                "id": "tournament_696_17"
+            },
+            {
+                "white": "Yang Haoqi",
+                "black": "Zhu Chenyan",
+                "date": "2019-03-14",
+                "result": 0,
+                "id": "tournament_696_18"
+            },
+            {
+                "white": "Ding Chentong",
+                "black": "Zhang Yanying",
+                "date": "2019-03-14",
+                "result": 0,
+                "id": "tournament_696_19"
+            },
+            {
+                "white": "Tan Zhuojia",
+                "black": "Xie Huayuan",
+                "date": "2019-03-14",
+                "result": 1,
+                "id": "tournament_696_20"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Zhong Shuling",
+                "black": "Zhao Mingjun",
+                "date": "2019-03-15",
+                "result": 0,
+                "id": "tournament_696_21"
+            },
+            {
+                "white": "Li Min",
+                "black": "Zhu Chenyan",
+                "date": "2019-03-15",
+                "result": 0,
+                "id": "tournament_696_22"
+            },
+            {
+                "white": "Hu Shoubiao",
+                "black": "Zhang Yanying",
+                "date": "2019-03-15",
+                "result": 0,
+                "id": "tournament_696_23"
+            },
+            {
+                "white": "Yang Haoqi",
+                "black": "Tan Zhuojia",
+                "date": "2019-03-15",
+                "result": 0.5,
+                "id": "tournament_696_24"
+            },
+            {
+                "white": "Ding Chentong",
+                "black": "Xie Huayuan",
+                "date": "2019-03-15",
+                "result": 1,
+                "id": "tournament_696_25"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Zhao Mingjun",
+                "black": "Zhu Chenyan",
+                "date": "2019-03-16",
+                "result": 0,
+                "id": "tournament_696_26"
+            },
+            {
+                "white": "Zhong Shuling",
+                "black": "Zhang Yanying",
+                "date": "2019-03-16",
+                "result": 0,
+                "id": "tournament_696_27"
+            },
+            {
+                "white": "Li Min",
+                "black": "Tan Zhuojia",
+                "date": "2019-03-16",
+                "result": 0,
+                "id": "tournament_696_28"
+            },
+            {
+                "white": "Hu Shoubiao",
+                "black": "Xie Huayuan",
+                "date": "2019-03-16",
+                "result": 0.5,
+                "id": "tournament_696_29"
+            },
+            {
+                "white": "Ding Chentong",
+                "black": "Yang Haoqi",
+                "date": "2019-03-16",
+                "result": 0,
+                "id": "tournament_696_30"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Zhang Yanying",
+                "black": "Zhao Mingjun",
+                "date": "2019-03-17",
+                "result": 1,
+                "id": "tournament_696_31"
+            },
+            {
+                "white": "Zhu Chenyan",
+                "black": "Tan Zhuojia",
+                "date": "2019-03-17",
+                "result": 1,
+                "id": "tournament_696_32"
+            },
+            {
+                "white": "Zhong Shuling",
+                "black": "Xie Huayuan",
+                "date": "2019-03-17",
+                "result": 0,
+                "id": "tournament_696_33"
+            },
+            {
+                "white": "Ding Chentong",
+                "black": "Li Min",
+                "date": "2019-03-17",
+                "result": 0.5,
+                "id": "tournament_696_34"
+            },
+            {
+                "white": "Yang Haoqi",
+                "black": "Hu Shoubiao",
+                "date": "2019-03-17",
+                "result": 0.5,
+                "id": "tournament_696_35"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Zhao Mingjun",
+                "black": "Tan Zhuojia",
+                "date": "2019-03-18",
+                "result": 0,
+                "id": "tournament_696_36"
+            },
+            {
+                "white": "Zhang Yanying",
+                "black": "Xie Huayuan",
+                "date": "2019-03-18",
+                "result": 1,
+                "id": "tournament_696_37"
+            },
+            {
+                "white": "Ding Chentong",
+                "black": "Zhu Chenyan",
+                "date": "2019-03-18",
+                "result": 0,
+                "id": "tournament_696_38"
+            },
+            {
+                "white": "Yang Haoqi",
+                "black": "Zhong Shuling",
+                "date": "2019-03-18",
+                "result": 0.5,
+                "id": "tournament_696_39"
+            },
+            {
+                "white": "Hu Shoubiao",
+                "black": "Li Min",
+                "date": "2019-03-18",
+                "result": 0.5,
+                "id": "tournament_696_40"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Xie Huayuan",
+                "black": "Zhao Mingjun",
+                "date": "2019-03-19",
+                "result": 0.5,
+                "id": "tournament_696_41"
+            },
+            {
+                "white": "Ding Chentong",
+                "black": "Tan Zhuojia",
+                "date": "2019-03-19",
+                "result": 0,
+                "id": "tournament_696_42"
+            },
+            {
+                "white": "Yang Haoqi",
+                "black": "Zhang Yanying",
+                "date": "2019-03-19",
+                "result": 0.5,
+                "id": "tournament_696_43"
+            },
+            {
+                "white": "Hu Shoubiao",
+                "black": "Zhu Chenyan",
+                "date": "2019-03-19",
+                "result": 0.5,
+                "id": "tournament_696_44"
+            },
+            {
+                "white": "Li Min",
+                "black": "Zhong Shuling",
+                "date": "2019-03-19",
+                "result": 1,
+                "id": "tournament_696_45"
+            }
+        ]
+    },
+    "tours": 9,
+    "time_control": "rapid"
+}

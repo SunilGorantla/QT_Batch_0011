@@ -1,0 +1,493 @@
+{
+    "name": "tournament_174",
+    "start_date": "2015-03-19",
+    "end_date": "2015-03-30",
+    "games": {
+        "tour_1": [
+            {
+                "white": "Zheng, Liuge",
+                "black": "Hu, Shengyuan",
+                "date": "2015-03-19",
+                "result": 0,
+                "id": "tournament_174_1"
+            },
+            {
+                "white": "Hong, Dong",
+                "black": "Zhong, Hongcun",
+                "date": "2015-03-19",
+                "result": 1,
+                "id": "tournament_174_2"
+            },
+            {
+                "white": "Song, Jingxiang",
+                "black": "Chen, Chenyun",
+                "date": "2015-03-19",
+                "result": 1,
+                "id": "tournament_174_3"
+            },
+            {
+                "white": "Bai, Zhuoqiong",
+                "black": "Liu, Jinsong",
+                "date": "2015-03-19",
+                "result": 0,
+                "id": "tournament_174_4"
+            },
+            {
+                "white": "Hong, Xueyou",
+                "black": "Wang, Yuna",
+                "date": "2015-03-19",
+                "result": 0.5,
+                "id": "tournament_174_5"
+            },
+            {
+                "white": "Wang, Yuhong",
+                "black": "Bi, Xiaoyue",
+                "date": "2015-03-19",
+                "result": 0,
+                "id": "tournament_174_6"
+            }
+        ],
+        "tour_2": [
+            {
+                "white": "Hu, Shengyuan",
+                "black": "Hong, Dong",
+                "date": "2015-03-20",
+                "result": 0.5,
+                "id": "tournament_174_7"
+            },
+            {
+                "white": "Zheng, Liuge",
+                "black": "Song, Jingxiang",
+                "date": "2015-03-20",
+                "result": 0,
+                "id": "tournament_174_8"
+            },
+            {
+                "white": "Bai, Zhuoqiong",
+                "black": "Zhong, Hongcun",
+                "date": "2015-03-20",
+                "result": 0,
+                "id": "tournament_174_9"
+            },
+            {
+                "white": "Hong, Xueyou",
+                "black": "Chen, Chenyun",
+                "date": "2015-03-20",
+                "result": 0.5,
+                "id": "tournament_174_10"
+            },
+            {
+                "white": "Wang, Yuhong",
+                "black": "Liu, Jinsong",
+                "date": "2015-03-20",
+                "result": 0.5,
+                "id": "tournament_174_11"
+            },
+            {
+                "white": "Bi, Xiaoyue",
+                "black": "Wang, Yuna",
+                "date": "2015-03-20",
+                "result": 0,
+                "id": "tournament_174_12"
+            }
+        ],
+        "tour_3": [
+            {
+                "white": "Song, Jingxiang",
+                "black": "Hu, Shengyuan",
+                "date": "2015-03-21",
+                "result": 1,
+                "id": "tournament_174_13"
+            },
+            {
+                "white": "Hong, Dong",
+                "black": "Bai, Zhuoqiong",
+                "date": "2015-03-21",
+                "result": 0.5,
+                "id": "tournament_174_14"
+            },
+            {
+                "white": "Zheng, Liuge",
+                "black": "Hong, Xueyou",
+                "date": "2015-03-21",
+                "result": 0.5,
+                "id": "tournament_174_15"
+            },
+            {
+                "white": "Wang, Yuhong",
+                "black": "Zhong, Hongcun",
+                "date": "2015-03-21",
+                "result": 1,
+                "id": "tournament_174_16"
+            },
+            {
+                "white": "Bi, Xiaoyue",
+                "black": "Chen, Chenyun",
+                "date": "2015-03-21",
+                "result": 1,
+                "id": "tournament_174_17"
+            },
+            {
+                "white": "Wang, Yuna",
+                "black": "Liu, Jinsong",
+                "date": "2015-03-21",
+                "result": 1,
+                "id": "tournament_174_18"
+            }
+        ],
+        "tour_4": [
+            {
+                "white": "Hu, Shengyuan",
+                "black": "Bai, Zhuoqiong",
+                "date": "2015-03-22",
+                "result": 1,
+                "id": "tournament_174_19"
+            },
+            {
+                "white": "Song, Jingxiang",
+                "black": "Hong, Xueyou",
+                "date": "2015-03-22",
+                "result": 1,
+                "id": "tournament_174_20"
+            },
+            {
+                "white": "Hong, Dong",
+                "black": "Wang, Yuhong",
+                "date": "2015-03-22",
+                "result": 1,
+                "id": "tournament_174_21"
+            },
+            {
+                "white": "Zheng, Liuge",
+                "black": "Bi, Xiaoyue",
+                "date": "2015-03-22",
+                "result": 0.5,
+                "id": "tournament_174_22"
+            },
+            {
+                "white": "Wang, Yuna",
+                "black": "Zhong, Hongcun",
+                "date": "2015-03-22",
+                "result": 1,
+                "id": "tournament_174_23"
+            },
+            {
+                "white": "Liu, Jinsong",
+                "black": "Chen, Chenyun",
+                "date": "2015-03-22",
+                "result": 0.5,
+                "id": "tournament_174_24"
+            }
+        ],
+        "tour_5": [
+            {
+                "white": "Hong, Xueyou",
+                "black": "Hu, Shengyuan",
+                "date": "2015-03-23",
+                "result": 0,
+                "id": "tournament_174_25"
+            },
+            {
+                "white": "Bai, Zhuoqiong",
+                "black": "Wang, Yuhong",
+                "date": "2015-03-23",
+                "result": 0.5,
+                "id": "tournament_174_26"
+            },
+            {
+                "white": "Song, Jingxiang",
+                "black": "Bi, Xiaoyue",
+                "date": "2015-03-23",
+                "result": 1,
+                "id": "tournament_174_27"
+            },
+            {
+                "white": "Hong, Dong",
+                "black": "Wang, Yuna",
+                "date": "2015-03-23",
+                "result": 1,
+                "id": "tournament_174_28"
+            },
+            {
+                "white": "Zheng, Liuge",
+                "black": "Liu, Jinsong",
+                "date": "2015-03-23",
+                "result": 0,
+                "id": "tournament_174_29"
+            },
+            {
+                "white": "Chen, Chenyun",
+                "black": "Zhong, Hongcun",
+                "date": "2015-03-23",
+                "result": 0.5,
+                "id": "tournament_174_30"
+            }
+        ],
+        "tour_6": [
+            {
+                "white": "Hu, Shengyuan",
+                "black": "Wang, Yuhong",
+                "date": "2015-03-24",
+                "result": 1,
+                "id": "tournament_174_31"
+            },
+            {
+                "white": "Hong, Xueyou",
+                "black": "Bi, Xiaoyue",
+                "date": "2015-03-24",
+                "result": 0.5,
+                "id": "tournament_174_32"
+            },
+            {
+                "white": "Bai, Zhuoqiong",
+                "black": "Wang, Yuna",
+                "date": "2015-03-24",
+                "result": 0,
+                "id": "tournament_174_33"
+            },
+            {
+                "white": "Song, Jingxiang",
+                "black": "Liu, Jinsong",
+                "date": "2015-03-24",
+                "result": 1,
+                "id": "tournament_174_34"
+            },
+            {
+                "white": "Hong, Dong",
+                "black": "Chen, Chenyun",
+                "date": "2015-03-24",
+                "result": 0.5,
+                "id": "tournament_174_35"
+            },
+            {
+                "white": "Zheng, Liuge",
+                "black": "Zhong, Hongcun",
+                "date": "2015-03-24",
+                "result": 1,
+                "id": "tournament_174_36"
+            }
+        ],
+        "tour_7": [
+            {
+                "white": "Bi, Xiaoyue",
+                "black": "Hu, Shengyuan",
+                "date": "2015-03-25",
+                "result": 0,
+                "id": "tournament_174_37"
+            },
+            {
+                "white": "Wang, Yuhong",
+                "black": "Wang, Yuna",
+                "date": "2015-03-25",
+                "result": 0,
+                "id": "tournament_174_38"
+            },
+            {
+                "white": "Hong, Xueyou",
+                "black": "Liu, Jinsong",
+                "date": "2015-03-25",
+                "result": 0.5,
+                "id": "tournament_174_39"
+            },
+            {
+                "white": "Bai, Zhuoqiong",
+                "black": "Chen, Chenyun",
+                "date": "2015-03-25",
+                "result": 0,
+                "id": "tournament_174_40"
+            },
+            {
+                "white": "Song, Jingxiang",
+                "black": "Zhong, Hongcun",
+                "date": "2015-03-25",
+                "result": 1,
+                "id": "tournament_174_41"
+            },
+            {
+                "white": "Zheng, Liuge",
+                "black": "Hong, Dong",
+                "date": "2015-03-25",
+                "result": 0,
+                "id": "tournament_174_42"
+            }
+        ],
+        "tour_8": [
+            {
+                "white": "Hu, Shengyuan",
+                "black": "Wang, Yuna",
+                "date": "2015-03-26",
+                "result": 0.5,
+                "id": "tournament_174_43"
+            },
+            {
+                "white": "Bi, Xiaoyue",
+                "black": "Liu, Jinsong",
+                "date": "2015-03-26",
+                "result": 0.5,
+                "id": "tournament_174_44"
+            },
+            {
+                "white": "Wang, Yuhong",
+                "black": "Chen, Chenyun",
+                "date": "2015-03-26",
+                "result": 1,
+                "id": "tournament_174_45"
+            },
+            {
+                "white": "Hong, Xueyou",
+                "black": "Zhong, Hongcun",
+                "date": "2015-03-26",
+                "result": 1,
+                "id": "tournament_174_46"
+            },
+            {
+                "white": "Zheng, Liuge",
+                "black": "Bai, Zhuoqiong",
+                "date": "2015-03-26",
+                "result": 0.5,
+                "id": "tournament_174_47"
+            },
+            {
+                "white": "Hong, Dong",
+                "black": "Song, Jingxiang",
+                "date": "2015-03-26",
+                "result": 0,
+                "id": "tournament_174_48"
+            }
+        ],
+        "tour_9": [
+            {
+                "white": "Liu, Jinsong",
+                "black": "Hu, Shengyuan",
+                "date": "2015-03-27",
+                "result": 0.5,
+                "id": "tournament_174_49"
+            },
+            {
+                "white": "Wang, Yuna",
+                "black": "Chen, Chenyun",
+                "date": "2015-03-27",
+                "result": 1,
+                "id": "tournament_174_50"
+            },
+            {
+                "white": "Bi, Xiaoyue",
+                "black": "Zhong, Hongcun",
+                "date": "2015-03-27",
+                "result": 1,
+                "id": "tournament_174_51"
+            },
+            {
+                "white": "Zheng, Liuge",
+                "black": "Wang, Yuhong",
+                "date": "2015-03-27",
+                "result": 0.5,
+                "id": "tournament_174_52"
+            },
+            {
+                "white": "Hong, Dong",
+                "black": "Hong, Xueyou",
+                "date": "2015-03-27",
+                "result": 0.5,
+                "id": "tournament_174_53"
+            },
+            {
+                "white": "Song, Jingxiang",
+                "black": "Bai, Zhuoqiong",
+                "date": "2015-03-27",
+                "result": 1,
+                "id": "tournament_174_54"
+            }
+        ],
+        "tour_10": [
+            {
+                "white": "Hu, Shengyuan",
+                "black": "Chen, Chenyun",
+                "date": "2015-03-28",
+                "result": 1,
+                "id": "tournament_174_55"
+            },
+            {
+                "white": "Liu, Jinsong",
+                "black": "Zhong, Hongcun",
+                "date": "2015-03-28",
+                "result": 1,
+                "id": "tournament_174_56"
+            },
+            {
+                "white": "Zheng, Liuge",
+                "black": "Wang, Yuna",
+                "date": "2015-03-28",
+                "result": 0.5,
+                "id": "tournament_174_57"
+            },
+            {
+                "white": "Hong, Dong",
+                "black": "Bi, Xiaoyue",
+                "date": "2015-03-28",
+                "result": 1,
+                "id": "tournament_174_58"
+            },
+            {
+                "white": "Song, Jingxiang",
+                "black": "Wang, Yuhong",
+                "date": "2015-03-28",
+                "result": 1,
+                "id": "tournament_174_59"
+            },
+            {
+                "white": "Bai, Zhuoqiong",
+                "black": "Hong, Xueyou",
+                "date": "2015-03-28",
+                "result": 0,
+                "id": "tournament_174_60"
+            }
+        ],
+        "tour_11": [
+            {
+                "white": "Zhong, Hongcun",
+                "black": "Hu, Shengyuan",
+                "date": "2015-03-29",
+                "result": 0,
+                "id": "tournament_174_61"
+            },
+            {
+                "white": "Zheng, Liuge",
+                "black": "Chen, Chenyun",
+                "date": "2015-03-29",
+                "result": 1,
+                "id": "tournament_174_62"
+            },
+            {
+                "white": "Hong, Dong",
+                "black": "Liu, Jinsong",
+                "date": "2015-03-29",
+                "result": 1,
+                "id": "tournament_174_63"
+            },
+            {
+                "white": "Song, Jingxiang",
+                "black": "Wang, Yuna",
+                "date": "2015-03-29",
+                "result": 1,
+                "id": "tournament_174_64"
+            },
+            {
+                "white": "Bai, Zhuoqiong",
+                "black": "Bi, Xiaoyue",
+                "date": "2015-03-29",
+                "result": 0,
+                "id": "tournament_174_65"
+            },
+            {
+                "white": "Hong, Xueyou",
+                "black": "Wang, Yuhong",
+                "date": "2015-03-29",
+                "result": 0,
+                "id": "tournament_174_66"
+            }
+        ]
+    },
+    "tours": 11,
+    "time_control": "rapid"
+}
